@@ -9,4 +9,5 @@ under `https://sumo9-cloudsites-t2.web.app/<slug>/`.
 - Node workflows update only `public/<slug>/` and never delete another slug.
 - GitHub Actions serialises deploys and publishes the complete `public/` tree.
 - Provider services are retained unless the user explicitly approves deletion.
-
+- Repository owner: `AMSumo9`; T2 node repositories receive only the scoped
+  `AMSUMO_GITHUB_TOKEN` needed to update this aggregator.
