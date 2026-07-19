@@ -1,0 +1,47 @@
+name: Deploy Firebase T2 paths
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: firebase-t2-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build sitemap
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.sax.saxutils import escape
+
+          root = Path("public")
+          urls = ["https://sumo9-cloudsites-t2.web.app/"]
+          for index in sorted(root.glob("*/index.html")):
+              urls.append(f"https://sumo9-cloudsites-t2.web.app/{index.parent.name}/")
+          body = "\n".join(f"  <url><loc>{escape(url)}</loc></url>" for url in urls)
+          (root / "sitemap.xml").write_text(
+              '<?xml version="1.0" encoding="UTF-8"?>\n'
+              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+              f'{body}\n</urlset>\n',
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Deploy
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: |
+          [ -n "$FIREBASE_TOKEN" ] || { echo "::error::FIREBASE_TOKEN missing"; exit 1; }
+          npx -y firebase-tools@15.24.0 deploy --only hosting \
+            --project sites-e470e --token "$FIREBASE_TOKEN" --non-interactive
