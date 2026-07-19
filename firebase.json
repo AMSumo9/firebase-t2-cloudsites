@@ -1,12 +1,16 @@
 {
-  "hosting": {
-    "site": "sumo9-cloudsites-t2",
-    "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
-    "cleanUrls": true
-  }
+  "hosting": [
+    {
+      "site": "sites-e470-1",
+      "public": "public/t1",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "cleanUrls": true
+    },
+    {
+      "site": "sites-e470-2",
+      "public": "public/t2",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "cleanUrls": true
+    }
+  ]
 }

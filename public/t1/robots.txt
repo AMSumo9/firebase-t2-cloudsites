@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sites-e470-1.web.app/sitemap.xml

@@ -1,4 +1,4 @@
-name: Deploy Firebase T2 paths
+name: Deploy Firebase shared paths
 
 on:
   push:
@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: firebase-t2-deploy
+  group: firebase-shared-deploy
   cancel-in-progress: false
 
 jobs:
@@ -19,23 +19,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build sitemap
+      - name: Build sitemaps
         run: |
           python3 - <<'PY'
           from pathlib import Path
           from xml.sax.saxutils import escape
 
-          root = Path("public")
-          urls = ["https://sumo9-cloudsites-t2.web.app/"]
-          for index in sorted(root.glob("*/index.html")):
-              urls.append(f"https://sumo9-cloudsites-t2.web.app/{index.parent.name}/")
-          body = "\n".join(f"  <url><loc>{escape(url)}</loc></url>" for url in urls)
-          (root / "sitemap.xml").write_text(
-              '<?xml version="1.0" encoding="UTF-8"?>\n'
-              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-              f'{body}\n</urlset>\n',
-              encoding="utf-8",
-          )
+          for rail, host in (("t1", "sites-e470-1.web.app"), ("t2", "sites-e470-2.web.app")):
+              root = Path("public") / rail
+              urls = [f"https://{host}/"]
+              for index in sorted(root.glob("*/index.html")):
+                  urls.append(f"https://{host}/{index.parent.name}/")
+              body = "\n".join(f"  <url><loc>{escape(url)}</loc></url>" for url in urls)
+              (root / "sitemap.xml").write_text(
+                  '<?xml version="1.0" encoding="UTF-8"?>\n'
+                  '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                  f'{body}\n</urlset>\n',
+                  encoding="utf-8",
+              )
           PY
 
       - name: Deploy

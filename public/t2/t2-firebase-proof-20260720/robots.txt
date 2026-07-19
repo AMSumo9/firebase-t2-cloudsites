@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sites-e470-2.web.app/sitemap.xml
