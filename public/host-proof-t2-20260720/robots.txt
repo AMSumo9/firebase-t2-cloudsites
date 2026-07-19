@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sumo9-cloudsites-t2.web.app/sitemap.xml
