@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://sites-e470-1.web.app/kitchen-renovation-geelong-k-152/sitemap.xml
+Sitemap: https://sites-e470-2.web.app/kitchenrenovationgeelong-152/sitemap.xml
