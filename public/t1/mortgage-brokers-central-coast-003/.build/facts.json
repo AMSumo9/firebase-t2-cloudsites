@@ -1,0 +1,275 @@
+{
+  "node_id": "financebrokercentralcoast.com-003",
+  "money_domain": "financebrokercentralcoast.com.au",
+  "money_home_url": "https://www.financebrokercentralcoast.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/mortgage-brokers-central-coast-003/",
+  "live_url": "https://sites-e470-1.web.app/mortgage-brokers-central-coast-003/",
+  "subdomain": "mortgage-brokers-central-coast",
+  "gh_repo": null,
+  "primary_kw": "mortgage brokers central coast",
+  "kw_slug": "mortgage-brokers-central-coast",
+  "anchor_kw": "mortgage brokers central coast",
+  "brand": "Finance Broker Central Coast",
+  "target_page_url": "https://www.financebrokercentralcoast.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\financebrokercentralcoast.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "finance broker",
+        "type": "SERVICE",
+        "salience": 0.3
+      },
+      {
+        "name": "Central Coast",
+        "type": "LOCATION",
+        "salience": 0.26
+      },
+      {
+        "name": "mortgage broker",
+        "type": "SERVICE",
+        "salience": 0.22
+      },
+      {
+        "name": "home loan",
+        "type": "SERVICE",
+        "salience": 0.2
+      },
+      {
+        "name": "refinance",
+        "type": "SERVICE",
+        "salience": 0.14
+      },
+      {
+        "name": "first home buyer",
+        "type": "CONCEPT",
+        "salience": 0.12
+      },
+      {
+        "name": "investment loan",
+        "type": "SERVICE",
+        "salience": 0.11
+      },
+      {
+        "name": "Gosford",
+        "type": "LOCATION",
+        "salience": 0.1
+      },
+      {
+        "name": "interest rate",
+        "type": "CONCEPT",
+        "salience": 0.1
+      },
+      {
+        "name": "pre-approval",
+        "type": "CONCEPT",
+        "salience": 0.09
+      },
+      {
+        "name": "Wyong",
+        "type": "LOCATION",
+        "salience": 0.08
+      },
+      {
+        "name": "loan comparison",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "lenders panel",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "Erina",
+        "type": "LOCATION",
+        "salience": 0.07
+      },
+      {
+        "name": "self-employed loan",
+        "type": "SERVICE",
+        "salience": 0.07
+      },
+      {
+        "name": "Tuggerah",
+        "type": "LOCATION",
+        "salience": 0.06
+      },
+      {
+        "name": "Terrigal",
+        "type": "LOCATION",
+        "salience": 0.06
+      },
+      {
+        "name": "low deposit home loan",
+        "type": "SERVICE",
+        "salience": 0.06
+      },
+      {
+        "name": "loan structure",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "stamp duty",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "Lenders Mortgage Insurance",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "NSW",
+        "type": "LOCATION",
+        "salience": 0.06
+      },
+      {
+        "name": "First Home Buyer Assistance Scheme",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "First Home Guarantee",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "The Entrance",
+        "type": "LOCATION",
+        "salience": 0.05
+      },
+      {
+        "name": "Woy Woy",
+        "type": "LOCATION",
+        "salience": 0.05
+      },
+      {
+        "name": "ASIC",
+        "type": "ORGANIZATION",
+        "salience": 0.05
+      },
+      {
+        "name": "MFAA",
+        "type": "ORGANIZATION",
+        "salience": 0.05
+      },
+      {
+        "name": "FBAA",
+        "type": "ORGANIZATION",
+        "salience": 0.05
+      },
+      {
+        "name": "Australian Credit Licence",
+        "type": "CONCEPT",
+        "salience": 0.05
+      }
+    ],
+    "lsi_keywords": [
+      "home loan central coast",
+      "mortgage broker gosford",
+      "refinance home loan central coast",
+      "first home buyer central coast",
+      "investment loan central coast",
+      "self-employed home loan nsw",
+      "low deposit home loan",
+      "home loan pre-approval",
+      "compare home loan rates",
+      "best interest rate home loan",
+      "stamp duty nsw first home buyer",
+      "lenders mortgage insurance",
+      "construction loan nsw",
+      "rentvestor strategy",
+      "first home guarantee scheme"
+    ]
+  },
+  "image": {
+    "file": "mortgage-brokers-central-coast.jpg",
+    "photographer": "Ben George",
+    "source": "Unsplash",
+    "credit": "Photo by Ben George on Unsplash"
+  },
+  "build_date": "2026-07-26",
+  "money_home_text": "Finance Broker Central Coast | Free, No Obligation Finance Broker Central Coast Services Process Why Us FAQ Areas No Cost Quote Services Process Why Us FAQ Areas Contact No Cost Quote Central Coast NSW · Free service Finance Broker Central Coast: Compare 50+ Lenders, Free Service A local finance broker network that compares 50+ lenders for home loans, refinancing and investment finance, then walks you through the options. No cost to you, no obligation. Licensed partners Fully insured 5-star rated Get Your Free Quote Tell us what you need. A vetted Central Coast specialist will be in touch. Name Phone Email Details (optional) Send Enquiry No obligation. We will be in touch shortly. Why a broker Your Finance Broker on the Central Coast, Working for You Not the Bank Looking for a finance broker on the Central Coast? You are weighing dozens of lender options, worried about being sold the wrong loan, and short on time. A home loan broker Central Coast borrowers can actually rely on does the legwork for you, comparing across a panel of lenders rather than pushing one bank&rsquo;s product. Our network of vetted Central Coast finance and mortgage broker partners understands the area, from Gosford professionals catching the early train into Sydney, to working families in Wyong and Tuggerah, to lifestyle buyers in Avoca and Terrigal. They know the local market, the lender quirks, and what actually settles. With interest rates moving and lender appetite changing month to month, the value of comparing across a wide panel rather than walking into a single branch has rarely been higher. Start the Conversation and see your options without commitment. What you get One short conversation, no upfront documents Comparison across 50+ lenders Plain-English explanation of structure and rate Free service, paid by lenders if a loan settles Independent of any single bank What we help with Loan Types We Help Central Coast Borrowers Compare Our network covers the full spread of residential and investment lending. Here is what most Central Coast enquiries look like. Home Loans for Owner Occupiers Finding the right loan structure for your situation, including the fixed and variable mix, offset accounts, and features that suit how you actually use a home loan central coast lenders offer. Refinancing When refinance home loan central coast options stack up, what the switching costs really are, and how to release equity for renovations or to consolidate debt without losing ground. First Home Buyer Loans First home buyer central coast pathways including the NSW First Home Buyer Assistance Scheme stamp duty concession and the federal First Home Guarantee scheme. We help you map what fits. Investment Loans Investment loan central coast structures for owner-occupiers buying their first investment, including the rentvestor approach, plus interest-only versus principal-and-interest decisions. Self-Employed and Low-Doc Loans Self-employed home loan nsw paths through specialist lenders that accept BAS, accountant declarations and business bank statements as alternative income documentation. Low Deposit Home Loans Low deposit home loan options for buyers under a 20 per cent deposit, including Lenders Mortgage Insurance and the federal First Home Guarantee, plus construction loans for new builds. See Your Options How it works How It Works in Three Simple Steps No documents required upfront. No pressure. Just a clearer picture of what is available to you. 01 Tell Us What You Need A short form, two minutes. No documents required upfront. Free service, no obligation. Tell us what you are looking at and we will pass it to the right specialist. 02 The Right Specialist for Your Situation A network finance broker who understands your situation reaches out, walks you through home loan pre-approval, comparison across the lenders panel, and the loan structures that actually fit. 03 You Choose the Loan That Suits You compare home loan rates and features side by side and choose. No pressure, no obligation. Read the ASIC MoneySmart guide to choosing a home loan alongside, the broker conversation complements your own homework. Speak to an Expert Why borrowers choose us Why Central Coast Borrowers Choose Our Network We have done the vetting so you do not have to. Only accredited finance professionals enter our network, and every recommendation is shaped by the standards set by the regulator and the industry bodies that govern the profession. Vetted, Accredited Partners Every broker in our network operates under Australian Credit Licence requirements set by ASIC , with membership of industry body the Mortgage and Finance Association of Australia (MFAA) or the FBAA. Best Interests Duty by Law Since 2021, mortgage brokers must by law put your interests first. That is the mortgage broker Best Interests Duty (ASIC RG 273) , and it is the standard our network is built on. Free for You, Always The service is free to you. Brokers are paid commission by the lender if a loan settles, with full disclosure obligations. You see the recommendation; you choose. Common questions Common Questions From Central Coast Borrowers How much does a finance broker cost on the Central Coast? For most home and investment loans, the service is free to you as the borrower. Brokers are paid commission by the lender if and when a loan settles, with disclosure obligations attached. Some complex commercial deals attract a fee, in which case the broker will tell you upfront before any work begins. What is the difference between a finance broker and a mortgage broker? A mortgage broker focuses on home and investment property loans. A finance broker covers a broader scope including business, equipment and personal finance. In practice many brokers do both, and our network is built so you can be matched to whichever specialty fits your situation. Can a broker really get me a better interest rate than going direct? A broker compares across many lenders rather than one, which often s",
+  "target_page_text": "",
+  "nav_candidates": [
+    "mailto:enquiry@financebrokercentralcoast.com.au"
+  ]
+}
