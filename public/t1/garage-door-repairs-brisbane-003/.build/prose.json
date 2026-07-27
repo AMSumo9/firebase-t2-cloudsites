@@ -1,0 +1,215 @@
+{
+  "kicker": "Brisbane Repair Guide",
+  "h1_tail": "Costs, faults and next steps",
+  "meta_hook": "See common faults, price guides and what to confirm before booking a technician.",
+  "takeaway": "For most Brisbane southside households, the practical benchmark is the published price guide plus the written quote on site. The listed 2026 ranges are $120 to $200 for a standard service call-out, $220 to $450 for torsion spring replacement, $180 to $320 for lifting cable replacement, $160 to $300 for track roller replacement, and $600 to $1,100 for opener or motor replacement. The technician then inspects the door and quotes before work starts.",
+  "lead": "For Brisbane households comparing garage door repairs brisbane options, the useful first step is to line up the fault, the likely repair path and the planning range before anyone attends.",
+  "lead_tail": "so the quote request starts with the actual fault and likely scope.",
+  "stats": [
+    {
+      "value": "$120-$200",
+      "label": "standard service call-out guide"
+    },
+    {
+      "value": "$220-$450",
+      "label": "torsion spring replacement guide"
+    },
+    {
+      "value": "$600-$1,100",
+      "label": "opener or motor replacement guide"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the fault, not the headline price",
+      "html": "<p><a href=\"https://www.southsidegaragedoors.com.au/\">Southside Garage Doors</a> lists the problems it sees most often across Brisbane southside homes: broken springs, faulty openers, jammed roller doors and off-track sectional doors. That is a better starting point than asking for a broad estimate, because each fault points to a different inspection, parts list and repair path.</p><p>Before requesting a visit, note the door type, what changed, and whether the door still opens, closes or secures. The published guide also says more detail on the problem and your suburb helps the callback happen faster. A short, accurate description usually gives you a cleaner first conversation than trying to diagnose the whole job yourself.</p><ul><li>State whether the door is sectional, roller or tilt.</li><li>Name the visible fault, such as a snapped spring, worn cable, remote issue or off-track movement.</li><li>Say whether the door can still shut and lock, or whether access and security are affected.</li></ul>"
+    },
+    {
+      "h2": "Use the published ranges as a planning tool",
+      "html": "<p>The most useful hard numbers are the repair ranges published on the page. A standard service call-out is listed at $120 to $200, lifting cable replacement at $180 to $320, track roller replacement at $160 to $300, torsion spring replacement at $220 to $450, and opener or motor replacement at $600 to $1,100. These figures help you tell the difference between a smaller adjustment and a repair that may need parts.</p><p>The same guide is careful about limits. It says the figures are general guidance only, and that real prices vary by door type and size, spring and hardware condition, opener brand, site access and after-hours surcharges. That means the range is useful for planning, but the written fixed-price quote is the point where scope becomes real.</p><p>There is also a published comparison point for replacement. A new single sectional door supplied and installed is listed at $2,500 to $5,000, which helps frame whether repeated repairs on an ageing setup still stack up.</p>"
+    },
+    {
+      "h2": "Know when the issue needs prompt attention",
+      "html": "<p>Some faults are less about convenience and more about whether the garage can be secured. The page specifically mentions snapped torsion springs, worn lifting cables, openers that have stopped responding, off-track or derailed doors, panel and section replacement, remote and keypad programming, and emergency call-outs for a door that will not secure.</p><p>That list is useful because it changes the questions you ask. If the door is off track, will not close properly, or has stopped responding, ask whether the likely job is an adjustment, a part replacement, or a broader inspection once the technician sees the door. If a panel or section is damaged, ask whether the fix is limited to that component or whether the rest of the door hardware also needs checking.</p><p>For an opener fault, separate the mechanical symptoms from the powered side of the job. A clear description of what the remote, keypad and motor are doing can make the inspection more efficient.</p>"
+    },
+    {
+      "h2": "Check the quote for scope, not just the total",
+      "html": "<p>The page says the attending technician provides a written fixed-price quote before work begins. That matters because two quotes can look similar at first glance while covering different work. One may only cover the obvious failed part, while another may include the related hardware or the adjustment needed to get the door running correctly again.</p><p>A useful quote check is simple. Does it identify the diagnosed fault, the parts to be replaced if any, and whether the issue sits in the door hardware, the opener, or both. If your door has become noisy, rough or uneven, ask whether the quote is for a single failed item or for the broader cause of the problem.</p><p>For powered openers, the page also states that where mains electrical work is needed, that part is carried out by a licensed electrician under Queensland law. If that possibility exists, ask whether it is included in the written scope or whether it depends on what is found on site.</p>"
+    },
+    {
+      "h2": "Who this applies to on Brisbane southside",
+      "html": "<p>This guide is aimed at residential households in the Brisbane southside areas named on the page, including Tarragindi, Camp Hill, Holland Park, Coorparoo, Carindale, Mount Gravatt, Wishart and Sunnybank. The location detail matters because the published service area is not all of Queensland or every commercial door type. It is a local residential repair guide for common call-outs.</p><p>It is most useful when you are deciding between three practical next steps: book a standard repair visit, ask for a clearer diagnosis before approving work, or compare a larger repair with the replacement benchmark. If your issue involves a door that will not secure, a spring or cable failure, or an opener problem that may involve electrical work, the published fault list gives you a grounded checklist for that first call.</p><p>The goal is not to predict the exact invoice from your driveway. It is to go into the quote process with the right fault description, the right planning range and the right questions about scope.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Typical repair planning guide for common faults",
+    "headers": [
+      "Situation",
+      "What to confirm",
+      "Published guide"
+    ],
+    "rows": [
+      [
+        "Standard service visit",
+        "Door type, suburb and preferred visit window",
+        "$120 to $200"
+      ],
+      [
+        "Spring or cable fault",
+        "Whether the spring has snapped or the cable has failed, and whether the door still moves",
+        "$180 to $450"
+      ],
+      [
+        "Opener or motor issue",
+        "Whether the remote or keypad responds, and whether mains electrical work may be involved",
+        "$600 to $1,100"
+      ],
+      [
+        "Replacement comparison",
+        "Whether repeated repairs are pushing the door into replacement territory",
+        "$2,500 to $5,000 for a new single sectional door supplied and installed"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Identify the door type",
+      "text": "State whether the door is sectional, roller or tilt before describing the fault."
+    },
+    {
+      "name": "Describe what changed",
+      "text": "Explain whether the problem is a spring, cable, opener, remote, keypad or off-track movement, and whether the door still secures."
+    },
+    {
+      "name": "Send the key booking details",
+      "text": "Include your suburb and preferred callback or visit window, because the guide says more detail helps the callback happen faster."
+    },
+    {
+      "name": "Read the quote closely",
+      "text": "Before approving work, check that the written fixed-price quote identifies the diagnosed fault and the proposed scope."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much do common repairs usually cost?",
+      "a": "The published guide lists $120 to $200 for a standard service call-out, $220 to $450 for torsion spring replacement, $180 to $320 for lifting cable replacement, $160 to $300 for track roller replacement, and $600 to $1,100 for opener or motor replacement. It also says those figures are general guidance only, with final pricing varying by the door, hardware, access and timing."
+    },
+    {
+      "q": "What details should I have ready before requesting a quote?",
+      "a": "Have the door type, the main fault, whether the door still moves or secures, your suburb and your preferred callback window ready. The published guide says more detail on the problem and your suburb helps the callback happen faster."
+    },
+    {
+      "q": "What if the opener problem may involve electrical work?",
+      "a": "The page states that where a powered opener needs mains electrical work, that part is carried out by a licensed electrician under Queensland law. It also references the Queensland Electrical Safety Act 2002 for that part of the work."
+    }
+  ],
+  "about": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Southside Garage Doors lists broken springs, faulty openers, jammed roller doors and off-track sectional doors among the common faults handled across Brisbane southside.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says more detail on the problem and your suburb helps the callback happen faster.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists a standard service call-out at $120 to $200.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists lifting cable replacement at $180 to $320.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists track roller replacement at $160 to $300.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists torsion spring replacement at $220 to $450.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists opener or motor replacement at $600 to $1,100.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists a new single sectional door supplied and installed at $2,500 to $5,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says real prices vary by door type and size, spring and hardware condition, opener brand, site access and after-hours surcharges.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page mentions snapped torsion springs, worn lifting cables, powered openers that have stopped responding, off-track or derailed doors, panel and section replacement, remote and keypad programming, and emergency call-outs for a door that will not secure.",
+      "source": "money page"
+    },
+    {
+      "claim": "The attending technician provides a written fixed-price quote before work begins.",
+      "source": "money page"
+    },
+    {
+      "claim": "Where a powered opener needs mains electrical work, that part is carried out by a licensed electrician under Queensland law.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page references the Queensland Electrical Safety Act 2002 in relation to powered opener electrical work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed service area includes Tarragindi, Camp Hill, Holland Park, Coorparoo, Carindale, Mount Gravatt, Wishart and Sunnybank.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide describes its focus as Brisbane Southside suburbs where opener, spring, roller and off-track call-outs happen every week.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers residential garage door faults, pricing signals, quote checks and repair versus replacement decisions for Brisbane southside households."
+}
