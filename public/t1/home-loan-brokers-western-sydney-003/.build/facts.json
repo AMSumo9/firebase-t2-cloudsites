@@ -1,0 +1,299 @@
+{
+  "node_id": "westernsydneyhomeloanbroker.com-003",
+  "money_domain": "westernsydneyhomeloanbroker.com.au",
+  "money_home_url": "https://www.westernsydneyhomeloanbroker.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/home-loan-brokers-western-sydney-003/",
+  "live_url": "https://sites-e470-1.web.app/home-loan-brokers-western-sydney-003/",
+  "subdomain": "home-loan-brokers-western-sydney",
+  "gh_repo": null,
+  "primary_kw": "home loan brokers western sydney",
+  "kw_slug": "home-loan-brokers-western-sydney",
+  "anchor_kw": "home loan brokers western sydney",
+  "brand": "Western Sydney Home Loan Broker",
+  "target_page_url": "https://www.westernsydneyhomeloanbroker.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\westernsydneyhomeloanbroker.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Borro™",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Unconditional Finance",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "FirstPoint Mortgage Brokers",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Western Sydney",
+        "type": "LOCATION",
+        "salience": 0.965
+      },
+      {
+        "name": "West Sydney",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Brokers Sydney",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Broker Sydney",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Buyvest",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.935
+      },
+      {
+        "name": "Sydney",
+        "type": "LOCATION",
+        "salience": 0.925
+      },
+      {
+        "name": "Chris Raymond",
+        "type": "PERSON",
+        "salience": 0.92
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Refinancing",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "First Home Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Refinance a Loan",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Renovation Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Investment Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Trust Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Rentvesting",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "SMSF Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Home Equity Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Bridging Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "No Deposit Home Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Debt Recycling",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Equity Release",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Retirement Mortgage",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Green Home Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Holiday Home Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Commercial Property Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Guarantor Home Loan",
+        "type": "SERVICE",
+        "salience": 0.88
+      }
+    ],
+    "lsi_keywords": [
+      "mortgage broker western sydney",
+      "home loan broker Parramatta",
+      "home loan broker Blacktown",
+      "self-employed home loan broker",
+      "refinance home loan Western Sydney",
+      "investment property loan broker",
+      "business loan broker Sydney",
+      "personal loan broker Western Sydney",
+      "best lenders for home loans",
+      "35+ lenders home loans",
+      "asset finance broker Sydney",
+      "mortgage calculator Western Sydney",
+      "first home buyer broker Parramatta",
+      "Cara mortgage broker Western Sydney",
+      "how to choose a mortgage broker"
+    ]
+  },
+  "image": {
+    "file": "home-loan-brokers-western-sydney.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-07-28",
+  "money_home_text": "Western Sydney Home Loan Broker | Compare Loans Skip to content Western Sydney Home Loan Broker Home About Services Locations Tools Contact Loan Review Open menu Home About Services Locations Tools Contact Booking pre-approval reviews this week Western Sydney Home Loan Broker Compare home loans, refinancing and investment finance across Parramatta, Blacktown, Penrith and every Western Sydney suburb. Get clear options without the jargon. Request a Broker Callback Explore Services First home buyer guidance Refinancing review Investor loan structures Tell us what you need help with Share your loan goal and we will help you take the next step. Your name Phone Email Suburb / Postcode Tell us about your loan goal Request a Broker Callback Your details are only used to arrange your enquiry. See our privacy policy . 🧮 Borrowing Calculator Estimate what you could borrow with the APRA buffer built in. 📍 Local Suburbs View suburb notes for Parramatta, Blacktown, Penrith and more. 🤝 How We Help Learn how the service works and what to expect. ❓ Common Questions Quick answers on deposits, brokers, pre-approval and LMI. Western Sydney Home Loan Broker help for every stage Whether you are buying your first home in Western Sydney, refinancing to a sharper rate, building an investment portfolio or sorting finance as a self-employed borrower, we help you compare options from a wide panel of lenders. Our team focuses on home loans, mortgage broking and refinancing across the region, from established suburbs like Parramatta and Auburn to growth corridors near Leppington and Marsden Park. We ask the right questions upfront, explain offset accounts, fixed versus variable rates, lenders mortgage insurance and the NSW First Home Buyers Assistance Scheme in plain English, and arrange a licensed broker review for the next step. First Home Buyer Loans Grant, stamp duty concession and low-deposit guidance for buying your first Western Sydney home. View service Home Loan Refinancing Reviewing your current loan against the market to cut rate, restructure or release equity. View service Investment Property Loans Loan structuring, offsets and serviceability for building a Western Sydney property portfolio. View service Construction &amp; Building Loans Progress-payment finance for house-and-land and knock-down rebuilds across the Western Sydney growth corridors. View service Self-Employed Home Loans Full-doc and alt-doc options for business owners and contractors with variable income. View service Bridging Loans Short-term finance to buy your next Western Sydney home before your current one settles. View service Why Western Sydney borrowers use our help No direct broker fee for most standard loans For most standard home loans, brokers are paid by the lender once the loan settles, not by you. Any fee for complex scenarios must be disclosed in writing up front. Western Sydney focused We cover Parramatta, Blacktown, Penrith, Liverpool, Campbelltown, Bankstown and surrounding suburbs, with local scheme knowledge and suburb context. Regulated credit network Every broker in our network is licensed or operates as a credit representative under an Australian Credit Licence holder regulated by ASIC. Panel comparison We help you compare loans and features from a wide panel of lenders so you can see more than one option before deciding. Not sure where to start? Tell us your loan goal and a Western Sydney home loan specialist will call you back. No obligation, no pressure - just clear next steps. Compare loans across a wide lender panel Understand schemes and grants available in NSW Get help from application through to settlement Tell us what you need help with Share your loan goal and we will help you take the next step. Your name Phone Email Suburb / Postcode Tell us about your loan goal Request a Broker Callback Your details are only used to arrange your enquiry. See our privacy policy . Common home loan questions Four quick answers to get you started. How much can I borrow for a home loan in Western Sydney? Your borrowing power depends on your income, existing debts, living expenses and the lender&#39;s serviceability assessment. Most lenders apply the higher of your declared expenses or the Household Expenditure Measure (HEM), and they test repayments at your actual rate plus the APRA 3% prudential buffer. This website&#39;s borrowing power calculator gives an estimate only; a broker can review your full situation before you commit to anything. Do mortgage brokers charge a fee in Australia? For most standard home loans, mortgage brokers do not charge you a direct fee. They are typically paid a commission by the lender once your loan settles. For complex lending scenarios, such as some commercial or low-doc loans, a fee may apply, and that should be disclosed in writing up front. Ask your broker for a clear statement of how they are remunerated before proceeding. How much deposit do I need to buy a home in Western Sydney? Most lenders require at least 5% of the purchase price as a genuine savings deposit. If you borrow more than 80% of the property value, lenders usually require Lenders Mortgage Insurance (LMI). Government schemes such as the First Home Guarantee may allow eligible buyers to purchase with a 5% deposit and avoid LMI, subject to lender approval and property price caps. What is Lenders Mortgage Insurance (LMI) and when does it apply? Lenders Mortgage Insurance (LMI) is a one-off insurance premium that protects the lender if you default on a loan where you borrow more than 80% of the property value. It is usually capitalised into the loan and is not a personal protection product for the borrower. You may be able to avoid LMI by saving a 20% deposit, using a guarantor, or qualifying for the First Home Guarantee. Talk to a broker Ready to compare home loans in Western Sydney? Request a broker callback and we will help you take the next step. Request a Broker Callback Western Sydney Home Loan Broker Western Sydney home",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.westernsydneyhomeloanbroker.com.au/services/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/",
+    "https://www.westernsydneyhomeloanbroker.com.au/tools/cost-calculator/",
+    "https://www.westernsydneyhomeloanbroker.com.au/faq/",
+    "https://www.westernsydneyhomeloanbroker.com.au/services/first-home-buyer-loans/",
+    "https://www.westernsydneyhomeloanbroker.com.au/services/refinancing/",
+    "https://www.westernsydneyhomeloanbroker.com.au/services/investment-loans/",
+    "https://www.westernsydneyhomeloanbroker.com.au/services/construction-loans/",
+    "https://www.westernsydneyhomeloanbroker.com.au/services/self-employed-loans/",
+    "https://www.westernsydneyhomeloanbroker.com.au/services/bridging-loans/",
+    "https://www.westernsydneyhomeloanbroker.com.au/tools/checklist/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/parramatta/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/blacktown/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/penrith/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/liverpool/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/campbelltown/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/bankstown/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/auburn/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/merrylands/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/fairfield/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/cabramatta/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/westmead/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/st-marys/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/mount-druitt/",
+    "https://www.westernsydneyhomeloanbroker.com.au/locations/castle-hill/"
+  ]
+}

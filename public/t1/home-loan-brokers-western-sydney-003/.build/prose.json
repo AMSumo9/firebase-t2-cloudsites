@@ -1,0 +1,228 @@
+{
+  "kicker": "Western Sydney Loans",
+  "h1_tail": "A practical borrower guide",
+  "meta_hook": "Compare deposits, LMI, refinancing and broker questions before you apply.",
+  "takeaway": "A useful loan comparison starts with the numbers the source page states plainly. Many borrowers need at least a 5% genuine savings deposit, LMI usually applies above 80% of the property value, and repayments are commonly tested at the actual rate plus the APRA 3% buffer. The same source says most standard loans do not involve a direct broker fee to the borrower, while any fee for a complex scenario should be disclosed in writing up front.",
+  "lead": "For borrowers comparing home loan brokers western sydney options, the useful starting point is not the headline rate alone, but how deposit size, loan purpose and serviceability shape what can realistically be approved.",
+  "lead_tail": "so the next conversation is based on your actual borrowing position.",
+  "stats": [
+    {
+      "value": "5%",
+      "label": "genuine savings deposit often required"
+    },
+    {
+      "value": "80%",
+      "label": "property value point where LMI usually applies above"
+    },
+    {
+      "value": "3%",
+      "label": "APRA buffer used in repayment testing"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the loan goal, not the product list",
+      "html": "<p><a href=\"https://www.westernsydneyhomeloanbroker.com.au/\">Western Sydney Home Loan Broker</a> is most useful when read as a guide to borrower situations rather than a list of loan names. The source page points readers towards first home buyer guidance, refinancing, investor loan structures, construction and building loans, self-employed lending and bridging finance. That matters because the right comparison changes as soon as the purpose changes.</p><p>A first home buyer usually needs a plain explanation of deposit position, pre-approval and LMI. A refinancer needs to know whether the aim is a lower rate, a restructure or equity release. An investor needs to test serviceability, offsets and structure before thinking about another purchase. A construction borrower needs to focus on progress payments and timing. If the purpose is fuzzy, the short list of loan options will be fuzzy too.</p><ul><li>State the goal in one sentence before discussing products.</li><li>Ask which documents matter most for that goal.</li><li>Separate essential loan features from nice-to-have extras.</li></ul>"
+    },
+    {
+      "h2": "Deposit, LMI and borrowing power are the early filters",
+      "html": "<p>The source page gives a clear first screen. It says most lenders require at least a 5% genuine savings deposit. It also says Lenders Mortgage Insurance usually applies when you borrow more than 80% of the property value, and that repayments are tested at the actual rate plus the APRA 3% prudential buffer. Those checks narrow the field before a rate comparison means much.</p><p>For a first home buyer, that turns into a practical sequence. Is the deposit strong enough for the property being considered? If not, is the pressure point cash saved, borrowing capacity, or both? If borrowing is above 80% of value, what does that mean for LMI and the final loan size? The source page also mentions the First Home Guarantee and the NSW First Home Buyers Assistance Scheme, so a sensible next question is whether either is relevant to the purchase and whether the current eligibility settings still line up with the lender being considered.</p>"
+    },
+    {
+      "h2": "Where Western Sydney context changes the conversation",
+      "html": "<p>Local context matters when it changes the finance path, not when it is used as decoration. The source page grounds that in established suburbs such as Parramatta and Auburn, and growth corridors near Leppington and Marsden Park. That distinction is useful because an established-home purchase, a house-and-land project and a knock-down rebuild can create different sequencing and document needs even if the same broad lending tests apply.</p><p>Construction and building loans are the clearest example. The source page describes them as progress-payment finance for house-and-land and knock-down rebuilds across Western Sydney growth corridors. Bridging loans are another example, described as short-term finance to buy the next home before the current one settles. In both cases, the practical issue is order. What needs to be signed, valued, approved or sold first, and what evidence will the lender want before the next stage can move?</p>"
+    },
+    {
+      "h2": "How to test a broker review properly",
+      "html": "<p>A useful review explains assumptions, not just a rate. The source page says borrowers can compare loans and features from a wide panel of lenders, and it also refers to a licensed broker review as the next step. That gives you a practical standard to test. If the review cannot show what inputs were used, or why one structure is being preferred over another, it is too thin to guide a real application.</p><p>Ask what income, debts and living expenses were used for the borrowing assessment. Ask how fixed versus variable options, offset accounts, equity release and LMI have been considered for your case. If you are self-employed, ask whether full-doc or alt-doc pathways are relevant, because the source page presents both for business owners and contractors with variable income. If the matter is complex, ask whether any fee applies and have that disclosed in writing up front. For most standard home loans, the same source says the broker is usually paid by the lender once the loan settles.</p>"
+    },
+    {
+      "h2": "Who this guide helps most",
+      "html": "<p>This guide is most useful for borrowers who already know the broad goal but need a cleaner decision path before lodging an application. That includes a first home buyer deciding whether deposit size or borrowing power is the tighter constraint, an owner-occupier reviewing a current loan against the market, an investor checking serviceability before the next purchase, and a self-employed borrower needing a realistic discussion about variable income.</p><p>It also helps borrowers whose situation overlaps more than one category. A refinance linked to equity release is different from a straight rate review. A purchase linked to a pending sale may raise bridging questions. A build in a growth corridor creates a different sequence from an established-home purchase in an older suburb. In each case, the useful outcome from the first meeting is simple, a document list, the main approval pressure points and the next step from application through to settlement.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Borrower situations and the first comparison point",
+    "headers": [
+      "Scenario",
+      "What to compare first",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Deposit position, pre-approval and LMI",
+        "Is deposit size or borrowing power the main constraint?"
+      ],
+      [
+        "Refinancer",
+        "Rate, structure and equity release",
+        "Is the goal lower repayments, a restructure or access to equity?"
+      ],
+      [
+        "Investor",
+        "Serviceability, offsets and structure",
+        "How could this choice affect a later purchase?"
+      ],
+      [
+        "Self-employed borrower",
+        "Income evidence and documentation path",
+        "Which documents are likely to matter most for variable income?"
+      ],
+      [
+        "Construction or bridging borrower",
+        "Timing, sequencing and lender process",
+        "What needs to happen before settlement or the next payment stage?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the purpose",
+      "text": "State whether the loan is for a first purchase, refinance, investment, construction, self-employed application or bridging need."
+    },
+    {
+      "name": "Check the numbers",
+      "text": "Bring deposit details, debts, living expenses and income evidence so serviceability can be tested properly."
+    },
+    {
+      "name": "Compare structures",
+      "text": "Ask to see the trade-offs between fixed and variable options, offset features, LMI impact and any equity release."
+    },
+    {
+      "name": "Confirm disclosure",
+      "text": "Ask how the broker is paid and whether any fee for a complex scenario must be disclosed in writing up front."
+    },
+    {
+      "name": "Map the next step",
+      "text": "Leave with a document list and a clear sequence from application to approval and settlement."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do brokers usually charge a direct fee for a standard home loan?",
+      "a": "The source page says most standard home loans do not involve a direct broker fee to the borrower because the broker is usually paid by the lender once the loan settles. It also says any fee for a complex scenario should be disclosed in writing up front."
+    },
+    {
+      "q": "How much deposit do many borrowers need before applying?",
+      "a": "The source page says most lenders require at least a 5% genuine savings deposit. It also says LMI usually applies when borrowing above 80% of the property value, so deposit size can change both eligibility and overall cost."
+    },
+    {
+      "q": "Why does the first broker conversation need to cover more than rate?",
+      "a": "Because the source page ties different loan purposes to different approval issues. A first purchase, refinance, investment loan, construction loan, self-employed application and bridging need all raise different document, timing and structure questions before rate alone becomes useful."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page points readers towards first home buyer guidance, refinancing, investor loan structures, construction and building loans, self-employed lending and bridging finance.",
+      "source": "money page"
+    },
+    {
+      "claim": "Most lenders require at least a 5% genuine savings deposit.",
+      "source": "money page"
+    },
+    {
+      "claim": "Lenders Mortgage Insurance usually applies when borrowing more than 80% of the property value.",
+      "source": "money page"
+    },
+    {
+      "claim": "Repayments are tested at the actual rate plus the APRA 3% prudential buffer.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page mentions the First Home Guarantee and the NSW First Home Buyers Assistance Scheme.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to established suburbs such as Parramatta and Auburn, and growth corridors near Leppington and Marsden Park.",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction and building loans are described as progress-payment finance for house-and-land and knock-down rebuilds across Western Sydney growth corridors.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bridging loans are described as short-term finance to buy the next home before the current one settles.",
+      "source": "money page"
+    },
+    {
+      "claim": "Borrowers can compare loans and features from a wide panel of lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to a licensed broker review for the next step.",
+      "source": "money page"
+    },
+    {
+      "claim": "Self-employed home loans include full-doc and alt-doc options for business owners and contractors with variable income.",
+      "source": "money page"
+    },
+    {
+      "claim": "For most standard home loans, the broker is usually paid by the lender once the loan settles rather than by the borrower directly.",
+      "source": "money page"
+    },
+    {
+      "claim": "Any fee for a complex scenario should be disclosed in writing up front.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how borrowers in Western Sydney can compare deposit position, serviceability, loan purpose and broker questions before applying."
+}
