@@ -1,0 +1,264 @@
+{
+  "kicker": "Ground And Approval",
+  "h1_tail": "Costs, choices and checks",
+  "meta_hook": "See how site conditions, drainage and approvals change the right wall and the real quote.",
+  "takeaway": "The published guide reduces a retaining job to a few hard checks before anyone argues about finishes: wall face area, ground type, drainage, and whether the wall is low and simple or moving into an engineered approval pathway. Its indicative rates run from about $150 to $300 per square metre for rock and boulder, $250 to $430 for gabion, $300 to $450 for timber, $550 to $700 for concrete sleepers, and $550 to $750 for core filled block, excluding GST, excavation, drainage, imported backfill, engineering and certification.",
+  "lead": "When people compare retaining walls sunshine coast jobs, the useful question is whether the site needs a low terrace, a compact replacement wall, or an engineered structure carrying extra load.",
+  "lead_tail": "once the site constraints are clear",
+  "stats": [
+    {
+      "value": "$150-$750/m²",
+      "label": "published indicative wall face range"
+    },
+    {
+      "value": "1m+",
+      "label": "height noted for engineered pathway triggers"
+    },
+    {
+      "value": "2m+",
+      "label": "height noted for council concurrence approval"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the site, not the finish",
+      "html": "<p>The published guide from <a href=\"https://www.retainingwallsunshinecoast.au/\">Retaining Wall Sunshine Coast</a> is most useful when you treat the wall as a ground problem first. Its own example is a strong one: a wall on the Blackall Range at Maleny and a wall on canal fill at Maroochydore are not variations of the same job. The same material can behave very differently once slope, soil and water movement change.</p><p>That is why the first useful document is not a mood board but a brief. Put down the wall height, the length, the suburb or postcode, and what sits above the wall. A low garden edge has a different burden from a wall holding up a driveway or another loaded area. Those details decide whether you are pricing a simple terrace, a replacement on cut and fill ground, or a job that is already edging into engineering and permit work.</p><p>The local detail worth paying attention to is the ground itself. The guide names Blackall Range basalt clay, Buderim volcanic soil, Landsborough sandstone and coastal dune sand as examples of conditions that call for different solutions. That gives owners a better question to ask in early conversations: why does this wall type suit my block, rather than why is it popular somewhere else?</p>"
+    },
+    {
+      "h2": "A low terrace and a surcharge wall should not be quoted the same way",
+      "html": "<p>A useful contrast from the source material is the difference between a low terrace and a wall carrying more consequence above it. For a modest garden fall, timber can still make sense because the brief is contained and the guide still places timber terraces on low retaining work. If the owner mainly wants a clean step in the yard, the key test is whether the wall remains in that lower duty role or whether hidden site pressures are being ignored.</p><p>Now compare that with a wall supporting a driveway, a tighter cut and fill edge, or a taller section that is likely to move into design and certification. In that setting, the choice is not just about appearance. Concrete sleepers are described as the workhorse option for many replacement walls, while core filled block enters the discussion when the job is taller, engineered or intended for a rendered finish. Rock and boulder walls can also be sensible, but only where there is room to batter back into the slope.</p><p>Gabions are a separate decision again. The guide points to them for scour, surface runoff and erodible ground, and that tells you the real trade off. If free drainage is the main challenge and the site can spare the width, a gabion wall may solve the site problem more directly. If the boundary is tight and every bit of width matters, a broader structure may be harder to justify even if the drainage logic is strong.</p>"
+    },
+    {
+      "h2": "Drainage is part of the structure, not a finishing extra",
+      "html": "<p>The source page is unusually clear on one point owners often leave until too late: drainage sits behind every wall choice. It names ag drain, aggregate and geofabric as part of the drainage build up behind the wall, and treats that detail as structural rather than cosmetic. It also says poor drainage is the leading cause of wall failure.</p><p>That changes how you should read a quote. A cheaper figure is not automatically a better one if the drainage detail is vague, omitted or shifted into an allowance. Even where a wall type is naturally freer draining, such as rock or gabion, the page still frames subsoil drainage as a requirement behind retaining work on this coast. The comparison that matters is not only what the face looks like, but what is happening out of sight.</p><p>If you are assessing a repair, this section matters even more. The guide includes repair and replacement work for failing, bulging and cracked walls, which is a reminder not to assume an old wall only needs a cosmetic fix. Before discussing finishes, ask whether the drainage detail and the existing condition point to repair, partial rebuild or full replacement.</p>"
+    },
+    {
+      "h2": "Use the rate bands to narrow options, then price the exclusions",
+      "html": "<p>The indicative rates are valuable because they create a first filter, not because they deliver a finished budget. The guide prices walls by square metres of wall face, calculated as height multiplied by length. Its own example is simple and useful: a wall 1.2 metres high and 10 metres long equals 12 square metres of face. That one step often changes the conversation because a job that sounds short can still present a sizeable wall area.</p><p>From there, the published bands give a realistic order of magnitude. Rock and boulder sit at about $150 to $300 per square metre, timber at $300 to $450, gabion at $250 to $430, concrete sleepers at $550 to $700, and core filled block at $550 to $750. Those numbers are only indicative, but they are still enough to rule some options in or out before formal quoting starts.</p><p>The caution is in the exclusions. The guide says those bands exclude GST, excavation, drainage, imported backfill, engineering and certification. That means two quotes can look similar on the face rate and still be pricing different jobs. If you want a quick first pass, the <a href=\"https://www.retainingwallsunshinecoast.au/tools/cost-calculator/\">cost calculator</a> is useful, but the real comparison happens when each quote spells out what is inside the scope and what is not.</p>"
+    },
+    {
+      "h2": "Approval checks that change the job",
+      "html": "<p>The approval side deserves its own pass because it can shift the whole scope. The page says Sunshine Coast Council requires a building permit before construction, modification or repair of most retaining walls, and its own concurrence approval for walls over 2 metres. It also says walls over 1 metre, or walls carrying a surcharge, typically move onto an engineered pathway designed to AS 4678 with Form 15 and Form 16 certification.</p><p>For owners, the practical lesson is to sort out the approval path before treating one rate as directly comparable with another. If a wall is taller, loaded from above, or already showing failure, ask whether the quote assumes engineering, permit work, inspection and certification, or whether those items sit outside the price.</p><p>The source also makes a useful correction to a common assumption: QBCC licensing is triggered by the value of the work, not the height of the wall. So a lower wall is not automatically a simple job, and a taller wall is not only a materials decision. The next action is straightforward, get the site facts in writing, test the wall type against the ground and drainage, then verify exactly which approvals and exclusions have been allowed for.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Wall options by site constraint",
+    "headers": [
+      "Site constraint",
+      "Option worth testing",
+      "Question to settle"
+    ],
+    "rows": [
+      [
+        "Low garden fall",
+        "Timber sleeper",
+        "Is this still a low terrace rather than a loaded structural wall?"
+      ],
+      [
+        "Tight residential footprint",
+        "Concrete sleeper",
+        "Does a compact wall solve the site without giving away usable width?"
+      ],
+      [
+        "Tall wall or rendered finish",
+        "Core filled block",
+        "Have design, certification and approval costs been allowed for?"
+      ],
+      [
+        "Room to batter back",
+        "Rock or boulder",
+        "Is there enough space behind the face for the profile to work?"
+      ],
+      [
+        "Runoff or erodible ground",
+        "Gabion",
+        "Is extra width acceptable if drainage is the priority?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the wall",
+      "text": "Write down height, length, suburb or postcode, and anything sitting above the wall before seeking prices."
+    },
+    {
+      "name": "Test the site fit",
+      "text": "Check whether the recommendation is being driven by width, drainage, finish, repair status or extra load above the wall."
+    },
+    {
+      "name": "Measure the face area",
+      "text": "Use height multiplied by length so you can read the published rate bands in the right units."
+    },
+    {
+      "name": "Check approvals and exclusions",
+      "text": "Confirm whether permits, engineering, certification, excavation, drainage and imported backfill are included or excluded."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why can two walls of similar length have very different prices?",
+      "a": "Because the guide prices by square metres of wall face, not by length alone, and because the site conditions can push the job into different materials, drainage details and approval requirements. It also states that excavation, drainage, imported backfill, engineering and certification sit outside the indicative bands."
+    },
+    {
+      "q": "When does a wall stop being a simple garden job?",
+      "a": "The source points to two practical triggers, extra load above the wall and height. It says walls over 1 metre, or walls carrying a surcharge, typically move into an engineered pathway, which is a different exercise from pricing a low terrace."
+    },
+    {
+      "q": "What should I ask if an old wall is bulging or cracked?",
+      "a": "Ask whether the condition points to repair or full replacement, and whether the drainage behind the wall is being assessed as part of that decision. The published guide includes repair and replacement work for failing walls and identifies poor drainage as the leading cause of failure."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A wall on the Blackall Range at Maleny and a wall on canal fill at Maroochydore have almost nothing in common.",
+      "source": "money page"
+    },
+    {
+      "claim": "Height, length, what sits above the wall and the suburb are enough to get a useful answer.",
+      "source": "money page"
+    },
+    {
+      "claim": "Blackall Range basalt clay, Buderim volcanic soil, Landsborough sandstone and coastal dune sand behave differently and affect wall choice.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls still suit gardens, terraces and low boundary retaining.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper walls are described as the workhorse wall for cut and fill blocks and suit most replacement work.",
+      "source": "money page"
+    },
+    {
+      "claim": "Core filled besser block walls handle taller engineered retaining and rendered finishes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rock and boulder walls are battered back into the slope and suit sites with room behind the face.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabion retaining walls are suited to scour and surface runoff on erodible ground and are free draining.",
+      "source": "money page"
+    },
+    {
+      "claim": "Ag drain, aggregate and geofabric drainage behind the wall are part of the structural detail discussed for retaining walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Poor drainage is identified as the leading cause of wall failure.",
+      "source": "money page"
+    },
+    {
+      "claim": "Repair and replacement assessment is relevant for failing, bulging or cracked retaining walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Walls are priced by square metre of wall face, calculated as height multiplied by length.",
+      "source": "money page"
+    },
+    {
+      "claim": "A wall 1.2 metres high and 10 metres long equals 12 square metres of face.",
+      "source": "money page"
+    },
+    {
+      "claim": "Indicative cost bands are about $150 to $300 per square metre for rock and boulder walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Indicative cost bands are about $300 to $450 per square metre for timber sleeper walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Indicative cost bands are about $250 to $430 per square metre for gabion walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Indicative cost bands are about $550 to $700 per square metre for concrete sleeper walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Indicative cost bands are about $550 to $750 per square metre for core filled block walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "The indicative cost bands exclude GST, excavation, drainage, imported backfill, engineering and certification.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sunshine Coast Council requires a building permit before construction, modification or repair of most retaining walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sunshine Coast Council concurrence approval is required for walls over 2 metres.",
+      "source": "money page"
+    },
+    {
+      "claim": "Walls over 1 metre, or walls carrying a surcharge, typically move onto an engineered pathway designed to AS 4678 with Form 15 and Form 16 certification.",
+      "source": "money page"
+    },
+    {
+      "claim": "QBCC licensing is triggered by the value of the work, not the height of the wall.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers wall choice, drainage, approval triggers and quote checks for Sunshine Coast retaining projects."
+}
