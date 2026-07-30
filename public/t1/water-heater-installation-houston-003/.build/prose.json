@@ -1,0 +1,226 @@
+{
+  "kicker": "Houston Quote Guide",
+  "h1_tail": "Costs, Permits and Scope",
+  "meta_hook": "Compare the real price bands and the permit questions before you book.",
+  "takeaway": "For most homeowners, the main price split is job type, not brand. The source page frames standard tank replacement at $600-$3,100, tankless installation at $1,400-$5,600, and professional heat pump installation at $3,200-$4,700. The practical next step is to describe fuel type, location, access and symptom first, then ask for the heater, labour, permit assumption, disposal, and any venting, gas or electrical work to be separated.",
+  "lead": "For Houston homeowners comparing water heater installation houston options, the useful starting point is not the heater alone but whether the job is a same type replacement, a tankless conversion, or a heat pump fit check.",
+  "lead_tail": "before you compare quotes by price alone.",
+  "stats": [
+    {
+      "value": "$600-$3,100",
+      "label": "standard tank replacement"
+    },
+    {
+      "value": "$1,400-$5,600",
+      "label": "tankless installation"
+    },
+    {
+      "value": "$3,200-$4,700",
+      "label": "heat pump installation"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with scope, not the heater",
+      "html": "<p>A useful starting point from <a href=\"https://www.plumberforwaterheaterinstallation.com/\">Plumber for Water Heater Installation</a> is to frame the job before comparing prices. Note whether the current unit is gas, electric, tankless or heat pump, where it sits, and what symptom started the replacement conversation. That keeps the first discussion about scope rather than a vague request for a cheap install.</p><p>The source page is strongest when it breaks the brief into the details that actually move a quote, state and ZIP, heater path, symptoms, timing, and access. If the heater is leaking, hard to reach, or in a tight closet or utility room, say that early. If you already know you want the same broad heater type in the same place, say that too.</p><ul><li>Current heater type and fuel</li><li>Install location and access limits</li><li>The symptom or reason for replacement</li><li>Whether you want repair, replacement or conversion priced</li></ul>"
+    },
+    {
+      "h2": "How the price bands split by job type",
+      "html": "<p>For planning, the source page uses three broad 2026 installed ranges, $600-$3,100 for a standard tank replacement, $1,400-$5,600 for tankless installation, and $3,200-$4,700 for professional heat pump installation. Those figures are useful only after you are clear about which path you are pricing.</p><p>The key split is simple. A same type tank replacement is not the same job as moving to tankless, and neither is the same as checking whether a heat pump suits the home. The page notes that tankless work can include venting, gas or electrical changes, which is why the band is different. Heat pump jobs sit in a separate range again and need a fit check rather than a straight price comparison.</p><p>Use the numbers as a first pass, then ask for the quote to separate heater, labour, disposal, permit assumption and any service changes.</p>"
+    },
+    {
+      "h2": "Permits and inspection are local checks",
+      "html": "<p>The page treats permits as a local check, not a national assumption. Its example is Oregon guidance showing that water heater replacement can be permit required plumbing work, but the practical point is broader, the city or county answer controls, and the inspection question should be asked before install day.</p><p>For a Houston job, ask who confirms the local rule, who books inspection if one is needed, and whether the quote already assumes code related adjustments. A national planning band can help you compare options, but it is not final until the permit and inspection path is clear.</p><ul><li>Is this quote based on a permit being required or not required?</li><li>Who handles inspection scheduling if one applies?</li><li>Are disposal and any code triggered extras itemised or bundled?</li></ul>"
+    },
+    {
+      "h2": "Replacement, repair and conversion are different conversations",
+      "html": "<p>One reason the source page works as a screening guide is that it separates replacement, tankless installation, heat pump fit and the cases where you are not yet sure whether repair or replacement is the real decision. That matters because symptoms and access can change the conversation before brand or model ever does.</p><p>If the existing unit and the proposed unit keep the same broad type, fuel and location, compare it first as a standard replacement. If the project changes heater type or building services, compare it as a conversion and expect more questions. If you are still narrowing the job, a broader <a href=\"https://water-heater-installation-guide.vercel.app/\">water heater installation guide</a> can help you sort the path before you collect local quotes.</p><p>The safest request is the one printed on the source page, ask for the heater, labour, permit assumption, disposal, and any venting, gas, electrical or access work to be separated.</p>"
+    },
+    {
+      "h2": "Who this applies to, and what to ask next",
+      "html": "<p>This guide is most useful for homeowners who already know a replacement conversation has started, but do not yet know whether they are pricing a straightforward tank job or a more involved change. It also suits anyone comparing a heat pump recommendation where the value depends on fit, not on a loose promise about incentives.</p><p>The source page adds one caution that is easy to miss. It says not to assume a 2026 federal heat pump credit, because the IRS material reviewed for the guide documented the credit through 31 December 2025. If a rebate or credit is central to the payback, ask for current proof before it affects the decision.</p><ul><li>Current heater type and age, if known</li><li>Exact location, such as garage, basement, closet or utility room</li><li>Whether the issue is urgent, leaking or access related</li><li>Whether you want same type pricing or a conversion quote</li></ul>"
+    }
+  ],
+  "table": {
+    "caption": "Which installation path are you pricing?",
+    "headers": [
+      "Path",
+      "What changes the scope",
+      "Best question to ask"
+    ],
+    "rows": [
+      [
+        "Standard tank replacement",
+        "Same broad heater path, same fuel and location",
+        "Can you separate the heater, labour, disposal and permit assumption?"
+      ],
+      [
+        "Tankless installation",
+        "May include venting, gas or electrical changes",
+        "What extra trade or code work is included in this price?"
+      ],
+      [
+        "Heat pump installation",
+        "Needs a fit check and current incentive check",
+        "What confirms suitability before I compare payback?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Identify the current setup",
+      "text": "State whether the existing heater is gas, electric, tankless or heat pump, and add the location and age if known."
+    },
+    {
+      "name": "Class the job correctly",
+      "text": "Decide whether you are pricing a same type replacement, a repair question or a conversion before you compare quotes."
+    },
+    {
+      "name": "Ask the permit question early",
+      "text": "Confirm who checks the local rule and who schedules inspection before install day."
+    },
+    {
+      "name": "Request separated pricing",
+      "text": "Ask for the heater, labour, disposal, permit assumption and any venting, gas, electrical or access work as distinct items."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Should I get the permit answer before accepting a quote?",
+      "a": "Yes. The source page says permit answers are local, and its Oregon example is there to show that replacement can be permit required plumbing work. For Houston, confirm who checks the rule and who books inspection before you treat any planning range as final."
+    },
+    {
+      "q": "Is tankless automatically the better option?",
+      "a": "No. The source page treats tankless as a different job, with a higher broad planning band and possible venting, gas or electrical changes. Compare it as a conversion question, not as a simple swap."
+    },
+    {
+      "q": "Can I assume a 2026 heat pump credit?",
+      "a": "No. The source page says the IRS material reviewed for the guide documented the federal credit through 31 December 2025, so any 2026 claim needs current proof before it changes the numbers."
+    },
+    {
+      "q": "What details should go into the first enquiry?",
+      "a": "Keep it practical, state and ZIP, current heater type, install location, symptom, timing and whether you want repair, replacement or conversion priced."
+    }
+  ],
+  "about": [
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The quote brief is framed around state and ZIP, heater type, symptoms and timing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says its goal is a better scoped installer conversation, not an instant price promise.",
+      "source": "money page"
+    },
+    {
+      "claim": "Homeowners are asked to note whether the current heater is gas, electric, tankless or heat pump.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page treats standard tank replacement, tankless installation and heat pump installation as different paths.",
+      "source": "money page"
+    },
+    {
+      "claim": "The broad installed range for a standard tank replacement is $600-$3,100.",
+      "source": "money page"
+    },
+    {
+      "claim": "The broad installed range for tankless installation is $1,400-$5,600.",
+      "source": "money page"
+    },
+    {
+      "claim": "The professional installation range for a heat pump water heater is $3,200-$4,700.",
+      "source": "money page"
+    },
+    {
+      "claim": "Tankless jobs can include venting, gas or electrical changes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Permit answers are local and should be checked before treating a national cost band as local truth.",
+      "source": "money page"
+    },
+    {
+      "claim": "Oregon guidance is cited as showing that water heater replacement can be permit required plumbing work.",
+      "source": "money page"
+    },
+    {
+      "claim": "If the new heater keeps the same broad type, fuel and location, the page says to compare it first against the standard replacement band.",
+      "source": "money page"
+    },
+    {
+      "claim": "If the job changes heater type or building services, the page says to compare it as a conversion.",
+      "source": "money page"
+    },
+    {
+      "claim": "Symptoms and access can show urgency, leaking, hard access or likely extra scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page's quote script asks for the heater, labour, permit assumption, disposal, and any venting, gas, electrical or access work to be separated.",
+      "source": "money page"
+    },
+    {
+      "claim": "The IRS material reviewed for the guide documented the federal heat pump credit through 31 December 2025.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to frame a Houston water heater job, compare the main installation paths and ask better quote questions."
+}
