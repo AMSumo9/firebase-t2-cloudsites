@@ -1,0 +1,222 @@
+{
+  "kicker": "Houston Quote Guide",
+  "h1_tail": "Costs, permits and scope",
+  "meta_hook": "Check scope, permit handling and quote line items before booking the job.",
+  "takeaway": "For a Houston replacement or conversion, sort the job path before you compare totals. The published guide lists $600 to $3,100 for a standard tank replacement, $1,400 to $5,600 for tankless installation, and $3,200 to $4,700 for professional heat pump installation. A usable quote should separate the heater, labour, permit assumption, disposal, and any venting, gas, electrical or access work. If any of those items are missing, ask for a revised scope before treating the price as final.",
+  "lead": "For homeowners comparing water heater installation houston options, the practical task is to pin down whether the job is a like for like replacement, a repair boundary, or a conversion that changes fuel, venting or electrical scope.",
+  "lead_tail": "before the figures are treated as comparable.",
+  "stats": [
+    {
+      "value": "$600 to $3,100",
+      "label": "standard tank replacement range"
+    },
+    {
+      "value": "$1,400 to $5,600",
+      "label": "tankless installation range"
+    },
+    {
+      "value": "$3,200 to $4,700",
+      "label": "heat pump installation range"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Build the job record from the heater already in place",
+      "html": "<p><a href=\"https://www.plumberforwaterheaterinstallation.com/\">Plumber for Water Heater Installation</a> frames the first conversation around the unit you already have, not the model you might buy next. That is the cleanest starting point for a Houston enquiry as well. Note the current heater type, whether it is gas, electric, tankless or heat pump, where it sits, its approximate age if known, and the symptom that started the call.</p><p>Those details sort the job into the right lane before anyone talks price. If the replacement keeps the same broad type, fuel and location, you can judge it against the standard replacement band. If the plan changes heater type or building services, treat it as a conversion from the outset.</p><p>Location details deserve more attention than many homeowners give them. A unit in a garage, basement, closet or utility room may attract different access assumptions. If that information is absent from the first exchange, the quoted labour figure can be little more than a placeholder.</p>"
+    },
+    {
+      "h2": "Send a copyable first enquiry, not a vague price request",
+      "html": "<p>Most quote problems begin with a thin first message. Use a short brief that forces the installer to classify the work and show the moving parts. A copyable version is below.</p><ol><li>I have a [gas, electric, tankless, heat pump] water heater in [garage, basement, closet, utility room].</li><li>The issue is [leaking, no hot water, age, planned upgrade, unsure if repair or replacement].</li><li>Please tell me whether this looks like a like for like replacement, a repair question, or a conversion.</li><li>Please separate the heater, labour, permit assumption, disposal, and any venting, gas, electrical or access work.</li></ol><p>This structure does more than save time. It stops two installers from replying to two different jobs under one headline number. For a broader primer on the main installation paths, this <a href=\"https://water-heater-installation-guide.vercel.app/\">water heater installation guide</a> is a useful companion before you narrow the brief to your own property.</p>"
+    },
+    {
+      "h2": "Treat a silent quote as unfinished, not as a bargain",
+      "html": "<p>If a reply gives one total and skips the line items, do not assume it is the better deal. Ask for the same price to be restated with the permit assumption, disposal, and any venting, gas, electrical or access work shown separately. Until that arrives, you do not know whether the total is lean, incomplete, or simply based on a different job path.</p><p>This is especially important when the conversation mentions a tankless move or a heat pump option. The published guide notes that tankless jobs can include venting, gas or electrical changes, and that heat pump installations need a fit check. A short quote that omits those issues may still be useful as an opening response, but it is not yet a decision document.</p><p>Use the same test for timing. The guide asks for symptoms and timing because urgency changes the conversation. If the job is leaking or the household has no hot water, say so early, then check whether the quote reflects an urgent replacement or a standard booked installation.</p>"
+    },
+    {
+      "h2": "Read the price bands as different jobs, not as one market average",
+      "html": "<p>The three published ranges only help when they stay attached to the correct kind of work. Standard tank replacement is listed at $600 to $3,100. Tankless installation is listed at $1,400 to $5,600. Professional heat pump installation is listed at $3,200 to $4,700.</p><p>Do not blend those numbers into a single expected spend. A like for like tank swap belongs in one band. A tankless project may carry extra venting, gas or electrical scope. A heat pump option sits in its own range and still needs the fit question answered before the figure means much.</p><p>For Houston homeowners, the useful comparison is not which range looks cheapest on paper. It is whether the quoted work actually matches the path your property requires. A lower total tied to the wrong scope is harder to use than a higher total that states the assumptions clearly.</p>"
+    },
+    {
+      "h2": "Use the guide differently for urgent failure and planned upgrades",
+      "html": "<p>When the old unit has failed, the guide is best used to keep the first call organised. Lead with the heater type, location, symptoms and urgency, then ask whether the job looks like replacement, repair or conversion. That narrows the conversation quickly without pretending every urgent call is the same kind of install.</p><p>When the job is a planned upgrade, spend more time on the change itself. If you are moving from a standard tank to tankless or heat pump, ask for the quote to show every service change separately rather than folded into one total. That is where a planned job can drift from a simple replacement into a larger installation scope.</p><p>The permit question belongs in both scenarios. The guide makes the point plainly: permit answers are local, and the city or county rule is what matters. Ask who is checking that requirement and who handles inspection if one is needed before you accept the quote as complete.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Comparing the main installation paths",
+    "headers": [
+      "Job path",
+      "What to confirm first",
+      "Published range"
+    ],
+    "rows": [
+      [
+        "Standard tank replacement",
+        "Whether the job keeps the same broad type, fuel and location",
+        "$600 to $3,100"
+      ],
+      [
+        "Tankless installation",
+        "Whether venting, gas or electrical changes are included",
+        "$1,400 to $5,600"
+      ],
+      [
+        "Heat pump installation",
+        "Whether the property has been checked for fit",
+        "$3,200 to $4,700"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Record the current setup",
+      "text": "State the existing heater type, fuel, location, approximate age if known, and the symptom that triggered the enquiry."
+    },
+    {
+      "name": "Classify the work",
+      "text": "Ask whether the job is a like for like replacement, a repair question, or a conversion."
+    },
+    {
+      "name": "Request separated pricing",
+      "text": "Have the quote break out the heater, labour, permit assumption, disposal, and any venting, gas, electrical or access work."
+    },
+    {
+      "name": "Confirm local handling",
+      "text": "Ask who checks permit requirements and who arranges inspection if one is required."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes two installation quotes hard to compare?",
+      "a": "Usually, one or both quotes leave out assumptions. Ask for the heater, labour, permit assumption, disposal, and any venting, gas, electrical or access work to be listed separately before you compare totals."
+    },
+    {
+      "q": "Are standard tank and tankless jobs in the same price band?",
+      "a": "No. The published guide lists $600 to $3,100 for standard tank replacement and $1,400 to $5,600 for tankless installation. It also notes that tankless work can include venting, gas or electrical changes."
+    },
+    {
+      "q": "Why does heat pump work need to be handled separately?",
+      "a": "Because the guide treats it as a different path and says it needs a fit check. It lists a professional installation range of $3,200 to $4,700, but that figure only helps once the property assumptions have been tested."
+    },
+    {
+      "q": "How should permit questions be raised?",
+      "a": "Ask early who is checking the local requirement and who handles inspection if one is needed. The guide does not present one national rule and states that the city or county answer is the one that matters."
+    }
+  ],
+  "about": [
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published guide frames the first conversation around the unit already in place rather than the model to be bought next.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide asks for the current heater type, whether it is gas, electric, tankless or heat pump, the install location, the approximate age if known, and the symptom that triggered the replacement conversation.",
+      "source": "money page"
+    },
+    {
+      "claim": "If the new heater keeps the same broad type, fuel and location, the guide says to compare it first against the standard replacement band.",
+      "source": "money page"
+    },
+    {
+      "claim": "If the job changes heater type or building services, the guide says to compare it as a conversion.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide refers to install locations such as garage, basement, closet and utility room.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide provides a quote script that asks whether the work is replacement, repair or conversion and asks for the quote to separate the heater, labour, permit assumption, disposal, and any venting, gas, electrical or access work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide lists standard tank replacement at $600 to $3,100.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide lists tankless installation at $1,400 to $5,600.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide lists professional heat pump installation at $3,200 to $4,700.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide states that tankless jobs can include venting, gas or electrical changes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide states that heat pump installations need a fit check.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide asks for symptoms and timing so the plumber can see whether the job is urgent, leaking, hard to access or likely to need extra scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide states that permit answers are local and that the city or county rule is what matters.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide uses Oregon as an example that water heater replacement can be permit required plumbing work.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to frame a Houston replacement or conversion enquiry so the quote reflects real scope, local permit handling and site conditions."
+}
