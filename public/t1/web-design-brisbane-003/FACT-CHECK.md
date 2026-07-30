@@ -1,0 +1,22 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Web Design Brisbane Australia offers custom builds, small business websites, WordPress sites, eCommerce stores, redesigns, landing pages, SEO-friendly builds, and website care and maintenance. | SUPPORTED | The money page lists these services explicitly: `Custom Web Design`, `Small Business Websites`, `WordPress Web Design`, `eCommerce Web Design`, `Website Redesign`, `Landing Page Design`, `SEO-Friendly Web Design`, and `Website Care & Maintenance`. |
+| A small business brochure website in Brisbane commonly runs from about $2,500 to $7,500. | SUPPORTED | FAQ states: `A small business brochure website in Brisbane commonly runs from about $2,500 to $7,500`. |
+| A more polished, lead-focused build sits closer to $7,500 to $15,000. | SUPPORTED | FAQ states: `a more polished, lead-focused build sits closer to $7,500 to $15,000`. |
+| eCommerce and heavily custom work start higher. | SUPPORTED | FAQ states: `eCommerce and heavily custom work start higher`. |
+| The source page points users to a website cost estimator and a staged process. | SUPPORTED | The page says `Transparent pricing and a clear, staged process` and `Use the Website Cost Estimator before you speak to anyone`. |
+| A simple brochure site is commonly around 4 to 10 weeks. | SUPPORTED | FAQ states: `A simple brochure site is commonly around 4 to 10 weeks`. |
+| A WordPress or small business site is commonly around 6 to 10 weeks. | SUPPORTED | FAQ states: `a WordPress or small business site around 6 to 10 weeks`. |
+| An eCommerce or custom build runs from about 12 weeks up to several months. | SUPPORTED | FAQ states: `an eCommerce or custom build from about 12 weeks up to several months`. |
+| Timelines depend most on how quickly content and feedback come back. | SUPPORTED | FAQ states: `Timelines depend most on how quickly content and feedback come back`. |
+| The source page positions redesign work around modernising an ageing or underperforming website without losing existing search rankings. | SUPPORTED | Service text says: `Modernise an ageing or underperforming website without losing the search rankings you already have`. |
+| The source page says it works with Brisbane SMEs and sole traders and offers WordPress builds that clients can update themselves, custom websites, Shopify and WooCommerce stores, redesigns, landing pages and SEO-friendly builds. | SUPPORTED | The page says `websites for Brisbane SMEs and sole traders on a sensible budget`; `WordPress build you can update yourself`; `Shopify and WooCommerce online stores`; plus the listed services for custom design, redesigns, landing pages, and SEO-friendly web design. |
+| The website and domain stay yours. | SUPPORTED | `You own it` section says: `Your website and domain stay yours`. |
+| Editable platforms like WordPress can be set up so clients can change text, images and pages without a developer on call. | SUPPORTED | FAQ says: `We build on editable platforms like WordPress ... so you can change text, images and pages without a developer`; the WordPress service also says clients can manage the site `without a developer on call`. |
+| A care plan can cover updates, backups, security and support after launch. | SUPPORTED | `Website Care & Maintenance` says `Ongoing updates, backups, security and support care plans that keep your website healthy after launch`. |
+| The source page says a Brisbane team understands the local market and is contactable in the client's time zone. | SUPPORTED | FAQ says `A local team understands the Brisbane market` and `is easy to reach`; it also says `contactable in your own time zone`. |
+| The sites are described as mobile-first, fast, well structured and built on solid SEO foundations so they are ready to rank. | SUPPORTED | The page says `Built mobile-first and ready to rank` and `Fast, well-structured, mobile-first websites built on solid SEO foundations so the site is ready to rank`. |
+| The source page says ongoing ranking results depend on competition and content. | SUPPORTED | FAQ states: `Ongoing ranking results also depend on competition and content`. |
+| The source page says no one can honestly guarantee a specific Google position. | SUPPORTED | FAQ says `under Australian Consumer Law no one can honestly guarantee a specific position`; in context this is answering a question about `SEO and Google rankings`. |
+
+FACT-CHECK: PASS
