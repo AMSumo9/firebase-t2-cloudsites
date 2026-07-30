@@ -1,0 +1,183 @@
+{
+  "kicker": "Brisbane Web Guide",
+  "h1_tail": "What To Compare First",
+  "meta_hook": "Compare scope, budget and timelines before you brief a designer.",
+  "takeaway": "For Brisbane businesses comparing providers, the clearest numbers on the published page are budget and timing. It says a small business brochure site commonly runs from about $2,500 to $7,500, a more polished lead-focused build sits closer to $7,500 to $15,000, and eCommerce or heavily custom work starts higher. Timing is commonly around 4 to 10 weeks for a simple brochure site, 6 to 10 weeks for a WordPress or small business build, and from about 12 weeks to several months for eCommerce or custom work.",
+  "lead": "For Brisbane businesses weighing web design services brisbane options, the practical task is matching budget, timeline and editing needs to a site that is mobile-first, search-ready and built to generate enquiries.",
+  "lead_tail": "so the brief matches the work before quotes start shifting.",
+  "stats": [
+    {
+      "value": "$2.5k-$7.5k",
+      "label": "common brochure site range"
+    },
+    {
+      "value": "4-10 weeks",
+      "label": "simple site timeframe"
+    },
+    {
+      "value": "12+ weeks",
+      "label": "custom or eCommerce builds"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Choose the site type before you compare quotes",
+      "html": "<p>On its published guide, <a href=\"https://www.webdesignbrisbaneaustralia.com.au/\">Web Design Brisbane Australia</a> separates the main paths clearly: custom builds, small business websites, WordPress sites, online stores, redesigns, landing pages, and ongoing care. That distinction matters because each path changes the content workload, review cycle and post-launch responsibilities.</p><p>A brochure-style site suits a business that mainly needs clear services, credibility and an enquiry path. A WordPress build makes more sense when your team wants to update text, images and pages without a developer on call. An online store needs product, payment and catalogue decisions early. A redesign needs extra caution if the current site already attracts traffic, because the published guide says the aim can be to modernise an ageing or underperforming website without losing existing rankings.</p>"
+    },
+    {
+      "h2": "Budget and timing follow scope",
+      "html": "<p>The published pricing ranges are useful because they connect cost to the job. It says a small business brochure website in Brisbane commonly runs from about $2,500 to $7,500, while a more polished, lead-focused build sits closer to $7,500 to $15,000. It also says eCommerce and heavily custom work start higher. That gives you a clear test for any proposal: does the quoted scope actually match the features, content and review work being discussed?</p><p>The timing guidance follows the same logic. A simple brochure site is commonly around 4 to 10 weeks, a WordPress or small business site around 6 to 10 weeks, and an eCommerce or custom build from about 12 weeks up to several months. The page also says timelines depend most on how quickly content and feedback come back. If approvals are slow or content is still unclear, the date moves.</p><ul><li>Ask which pages and functions are included at launch.</li><li>Check what content must be supplied before design starts.</li><li>Confirm what falls outside scope and would become a variation.</li></ul>"
+    },
+    {
+      "h2": "Search readiness is different from ranking promises",
+      "html": "<p>The published guide takes a measured position on SEO. It says a well-built site helps through clean markup, fast load times and sensible on-page SEO so the site is ready to rank. It also says ongoing results depend on competition and content, and that no honest provider can guarantee a specific position. That is a stronger comparison point than broad marketing claims.</p><p>For a redesign, ask which existing pages, titles and enquiry paths need to be protected before any visual changes are made. For a campaign page, ask whether the layout is intended for Google Ads, launches or promotions, which are use cases listed on the published page. If you are still comparing broad project shapes, this guide on <a href=\"https://sites-e470-1.web.app/web-design-brisbane-003/\">web design in Brisbane</a> is a useful companion before the brief is finalised.</p>"
+    },
+    {
+      "h2": "Who this guidance fits best",
+      "html": "<p>This guidance is most useful for three Brisbane situations already signalled on the published page. One is a small business or sole trader that needs a practical site focused on enquiries rather than a complex platform. Another is a team that wants an editable site and training so routine updates do not require outside help. The third is a business with an older site that still has search value and cannot afford careless changes during a redesign.</p><p>It also helps owners deciding what happens after launch. The published page says care plans cover updates, backups, security and support. That suits businesses that do not want to manage site changes internally. Editable platforms suit teams that want direct control. The better option is the one your business will actually maintain.</p>"
+    },
+    {
+      "h2": "Questions to settle before the first proposal arrives",
+      "html": "<p>The strongest briefs answer a few practical questions early. Are you commissioning a general business site, a lead-generation landing page, an online store, or a redesign? Which pages are essential at launch, and which can wait? Who writes or approves copy, supplies images, and returns feedback? If internal edits matter, should the site be built on an editable platform, or is an ongoing care plan more realistic?</p><p>The published page also argues that a local Brisbane team can be easier to reach and better aligned with the market you actually sell to across Brisbane and South East Queensland. That matters most when quick feedback, local context and same-time-zone communication affect the project. Those details are more useful than long feature lists when you are trying to compare like with like.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Typical project paths",
+    "headers": [
+      "Project type",
+      "Common budget signal",
+      "Common timeframe signal"
+    ],
+    "rows": [
+      [
+        "Small business brochure site",
+        "About $2,500 to $7,500",
+        "Around 4 to 10 weeks"
+      ],
+      [
+        "Lead-focused business site",
+        "About $7,500 to $15,000",
+        "Often around 6 to 10 weeks"
+      ],
+      [
+        "eCommerce or heavily custom build",
+        "Starts higher",
+        "From about 12 weeks to several months"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the project",
+      "text": "State whether the job is a brochure site, WordPress build, online store, redesign or landing page before requesting estimates."
+    },
+    {
+      "name": "Set launch scope",
+      "text": "List the pages and functions needed for the first release so the quote reflects the real job."
+    },
+    {
+      "name": "Assign content work",
+      "text": "Agree who supplies copy, images and feedback, because the published page says timing depends most on how quickly these come back."
+    },
+    {
+      "name": "Protect existing visibility",
+      "text": "If the current site already performs in search, ask how the redesign will modernise it without losing existing rankings."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a Brisbane business budget for a new website?",
+      "a": "The published page says a small business brochure website commonly runs from about $2,500 to $7,500, while a more polished, lead-focused build sits closer to $7,500 to $15,000. It also says eCommerce and heavily custom work start higher."
+    },
+    {
+      "q": "How long does a new site usually take?",
+      "a": "According to the published page, a simple brochure site is commonly around 4 to 10 weeks, a WordPress or small business site around 6 to 10 weeks, and an eCommerce or custom build from about 12 weeks up to several months. It also says content and feedback speed are the main timing variable."
+    },
+    {
+      "q": "Can a new site help with Google rankings?",
+      "a": "The published page says a well-built site helps through clean markup, fast load times and sensible on-page SEO, but it does not promise a specific ranking position. It also says ongoing results depend on competition and content."
+    },
+    {
+      "q": "Will I be able to update the site myself?",
+      "a": "Yes, if the build uses an editable platform such as WordPress. The published page says training is provided so you can change text, images and pages yourself, while a care plan can handle changes if you prefer not to manage updates internally."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "Web Design Brisbane Australia lists custom builds, small business websites, WordPress sites, eCommerce web design, website redesign, landing page design, SEO-friendly web design, and website care and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says its websites are built mobile-first, responsive and on solid SEO foundations.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says its websites are designed to turn visitors into enquiries.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says a small business brochure website in Brisbane commonly runs from about $2,500 to $7,500.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says a more polished, lead-focused build sits closer to $7,500 to $15,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says eCommerce and heavily custom work start higher.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says a simple brochure site is commonly around 4 to 10 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says a WordPress or small business site is commonly around 6 to 10 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says an eCommerce or custom build can run from about 12 weeks up to several months.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says timelines depend most on how quickly content and feedback come back.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says WordPress websites can be managed without a developer on call.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says it provides training so clients can change text, images and pages themselves.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says care plans cover ongoing updates, backups, security and support.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says a redesign can modernise an ageing or underperforming website without losing existing rankings.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says landing pages are built for Google Ads, launches and promotions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says a well-built site helps with rankings through clean markup, fast load times and sensible on-page SEO, while ongoing results depend on competition and content.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says no honest provider can guarantee a specific Google ranking position under Australian Consumer Law.",
+      "source": "money page"
+    },
+    {
+      "claim": "Web Design Brisbane Australia says it works across Brisbane and South East Queensland and presents local market context and same-time-zone contact as useful for clients.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how Brisbane businesses can compare scope, budget, timing and editing responsibility before briefing a new website project."
+}
