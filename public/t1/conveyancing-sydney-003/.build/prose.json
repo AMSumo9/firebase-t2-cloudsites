@@ -1,0 +1,223 @@
+{
+  "kicker": "Sydney Property Guide",
+  "h1_tail": "What To Check Before Exchange",
+  "meta_hook": "Compare fixed fees, contract checks and settlement steps before you sign.",
+  "takeaway": "A practical Sydney conveyancing brief starts with the quoted professional fee, the extra disbursements, and the transaction type. The source page says routine professional fees are typically a few hundred to around $1,500, with searches, registration and transfer duty listed separately. It also states quotes can be provided within 24 hours, settlement is handled through PEXA, and auction buyers in NSW need the contract reviewed before bidding because there is no cooling-off period at auction.",
+  "lead": "For buyers and sellers comparing conveyancing sydney options, the useful question is not just who will handle the file, but what is included before exchange, what remains extra, and how settlement will be managed.",
+  "lead_tail": "so you can compare scope, timing and written costs before you commit.",
+  "stats": [
+    {
+      "value": "13",
+      "label": "services listed"
+    },
+    {
+      "value": "26",
+      "label": "Sydney suburbs served"
+    },
+    {
+      "value": "24 hours",
+      "label": "quote response target"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a fixed fee should clarify early",
+      "html": "<p>When you review <a href=\"https://www.sydneyconveyancers.net.au/\">Sydney Conveyancers</a>, the most useful signal is the written split between the professional fee and the extra costs that sit outside it. The source page says routine matters are commonly quoted on a fixed-fee basis, while government charges, searches and transfer duty are set out separately before you engage anyone.</p><p>That distinction matters because two quotes can look similar until one includes only the legal work and the other lists expected outlays line by line. Before you sign, ask for the exact scope of contract review, searches, exchange support, settlement attendance through PEXA, and any added work that could move the matter outside a routine file.</p><ul><li>Check whether the quote is for a purchase, sale, transfer, off-the-plan matter or commercial property.</li><li>Confirm that disbursements are itemised in writing rather than rolled into a vague estimate.</li><li>Ask who will handle questions if the contract reveals an issue before exchange.</li></ul>"
+    },
+    {
+      "h2": "Which professional suits the transaction",
+      "html": "<p>The source page makes a clear NSW distinction. A property matter may be handled by a licensed conveyancer, regulated by NSW Fair Trading under the Conveyancers Licensing Act 2003, or by a solicitor. It also notes that a licensed conveyancer specialises in property transfers, while a solicitor can advise on related legal issues.</p><p>For a straightforward purchase or sale, the practical comparison is experience with the exact transaction type. First home buyers may need someone who can explain each step to settlement. A family title transfer needs careful document handling. Commercial matters can involve leases, GST and broader due diligence. Off-the-plan matters raise contract timing and disclosure questions that should be checked well before completion.</p><p>If you are choosing between providers, ask less about titles and more about recent work on the same type of file, who will review the contract, and when complex issues are escalated.</p>"
+    },
+    {
+      "h2": "Decision points that change the risk profile",
+      "html": "<p>Not every property file follows the same timetable. The source page specifically highlights first home buyer, off-the-plan, auction and commercial matters, and each one changes what should happen before you commit.</p><p>For auction purchases, the major issue is timing. The page states there is no cooling-off period at auction in NSW, so the contract needs review before you bid rather than after. For private treaty purchases, the same source says most residential contracts in NSW have a 5 business day cooling-off period from exchange of contracts, ending at 5pm on the fifth business day.</p><p>Off-the-plan buyers should focus on the contract terms and disclosure rules that apply when buying before construction is complete. Sellers should check that the contract for sale and prescribed disclosure documents are prepared correctly before the property is marketed. Commercial buyers and sellers should test whether the adviser is also checking lease terms, GST treatment and settlement requirements, not only transfer paperwork.</p>"
+    },
+    {
+      "h2": "What happens between contract review and settlement",
+      "html": "<p>The page sets out a practical file path: review the contract, run the searches, calculate transfer duty and manage settlement through PEXA. That gives you a simple checklist for comparing services, because each stage affects timing and cost visibility.</p><p>Contract review is where unusual clauses, disclosure gaps or settlement dates are identified early. Searches help confirm what is being transferred and whether further questions are needed. Transfer duty should be calculated before commitment so there is no confusion about funds required. PEXA settlement adds a more transparent digital process for document lodgement and transfer of ownership, which the page describes as faster and clearer.</p><p>If a quote feels thin, ask whether the written scope covers pre-exchange advice, communication with the other side, preparation for settlement day and post-settlement confirmation. Those details often show the difference between a low headline fee and a well-scoped matter.</p>"
+    },
+    {
+      "h2": "Who this guide applies to",
+      "html": "<p>This guide is most useful for Sydney buyers and sellers who want a clear written scope before engaging a conveyancer or solicitor. It also fits readers comparing a first home purchase, an investment property sale, an off-the-plan contract, an auction bid, a family title transfer or a commercial property matter.</p><p>If your file is routine, the immediate goal is a fixed professional fee confirmed in writing with disbursements listed separately. If your file is less standard, the better question is what extra legal work could arise and whether the adviser you choose handles those issues personally.</p><ul><li>Buyers should bring the draft contract, planned signing date and any auction deadline.</li><li>Sellers should ask when the contract for sale and disclosure documents will be ready.</li><li>Families transferring title should ask what documents and identity checks will be needed.</li><li>Commercial parties should ask how leases, GST and due diligence affect the scope.</li></ul><p>The source page also offers a cost calculator and a settlement checklist, which are useful prompts when you want to compare two written quotes on the same assumptions.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common file types and the question to ask first",
+    "headers": [
+      "Transaction",
+      "Main focus",
+      "First question"
+    ],
+    "rows": [
+      [
+        "Private treaty purchase",
+        "Contract review, searches and cooling-off timing",
+        "What is included before exchange, and what costs are listed separately?"
+      ],
+      [
+        "Auction purchase",
+        "Pre-bid contract review",
+        "Can the contract be reviewed before the auction, given there is no cooling-off period at auction in NSW?"
+      ],
+      [
+        "Off-the-plan purchase",
+        "Contract terms and disclosure rules",
+        "Which clauses or disclosure points should be checked before I commit?"
+      ],
+      [
+        "Commercial property",
+        "Leases, GST and due diligence",
+        "Does the scope cover the commercial issues as well as settlement?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Identify the file type",
+      "text": "State whether the matter is a purchase, sale, transfer, auction, off-the-plan or commercial transaction before comparing quotes."
+    },
+    {
+      "name": "Request the written fee split",
+      "text": "Ask for the fixed professional fee and the separate list of disbursements, government charges and transfer duty assumptions in writing."
+    },
+    {
+      "name": "Test the pre-exchange scope",
+      "text": "Confirm who reviews the contract, runs the searches and answers issues before you commit to the transaction."
+    },
+    {
+      "name": "Check settlement method and timing",
+      "text": "Ask how PEXA settlement will be managed and what milestones apply from contract review through to settlement day."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does conveyancing usually cost in Sydney?",
+      "a": "The source page says routine professional fees are typically a few hundred to around $1,500, and that many conveyancers offer a fixed-fee quote. It also states that government charges and disbursements such as title searches and registration are extra and vary by property."
+    },
+    {
+      "q": "Do I need a licensed conveyancer or a solicitor in NSW?",
+      "a": "Either can handle the matter. The source page says a licensed conveyancer is regulated by NSW Fair Trading under the Conveyancers Licensing Act 2003, while a solicitor can also advise on related legal issues."
+    },
+    {
+      "q": "Why is auction buying treated differently?",
+      "a": "Because the source page states there is no cooling-off period at auction in NSW. That is why contract review needs to happen before you bid, not after you are successful."
+    },
+    {
+      "q": "What steps should be included in the service?",
+      "a": "The source page points to contract review, searches, transfer duty calculation and settlement through PEXA. For sellers, it also refers to preparing the contract for sale and attaching the prescribed disclosure documents."
+    }
+  ],
+  "about": [
+    {
+      "name": "Conveyancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Conveyancing"
+    },
+    {
+      "name": "Property law",
+      "sameAs": "https://en.wikipedia.org/wiki/Property_law"
+    },
+    {
+      "name": "Contract of sale",
+      "sameAs": "https://en.wikipedia.org/wiki/Contract_of_sale"
+    },
+    {
+      "name": "Torrens title",
+      "sameAs": "https://en.wikipedia.org/wiki/Torrens_title"
+    },
+    {
+      "name": "Stamp duty",
+      "sameAs": "https://en.wikipedia.org/wiki/Stamp_duty"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Settlement (litigation)",
+      "sameAs": "https://en.wikipedia.org/wiki/Settlement_(litigation)"
+    },
+    {
+      "name": "Real estate",
+      "sameAs": "https://en.wikipedia.org/wiki/Real_estate"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Law Council of Australia",
+      "url": "https://lawcouncil.au"
+    },
+    {
+      "name": "Australian Institute of Conveyancers",
+      "url": "https://www.aicnational.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Sydney buyers and sellers can request fixed-fee conveyancing from licensed conveyancers and solicitors, from contract review to settlement day.",
+      "source": "money page"
+    },
+    {
+      "claim": "Free fixed-fee quotes are offered within 24 hours.",
+      "source": "money page"
+    },
+    {
+      "claim": "PEXA is used for electronic settlement.",
+      "source": "money page"
+    },
+    {
+      "claim": "Fixed-fee quotes are offered with disbursements extra.",
+      "source": "money page"
+    },
+    {
+      "claim": "The site lists 13 conveyancing services.",
+      "source": "money page"
+    },
+    {
+      "claim": "The site lists service areas across 26 Sydney suburbs.",
+      "source": "money page"
+    },
+    {
+      "claim": "Licensed conveyancers and solicitors assist buyers by reviewing the contract, conducting searches and managing settlement.",
+      "source": "money page"
+    },
+    {
+      "claim": "Licensed conveyancers and solicitors assist sellers by preparing the contract for sale, attaching prescribed disclosure documents and handling settlement.",
+      "source": "money page"
+    },
+    {
+      "claim": "First home buyer matters may include guidance through the First Home Buyers Assistance Scheme and the First Home Owner (New Homes) Grant.",
+      "source": "money page"
+    },
+    {
+      "claim": "Off-the-plan matters can involve sunset clauses and disclosure rules when buying before a property is built.",
+      "source": "money page"
+    },
+    {
+      "claim": "Auction purchases in NSW have no cooling-off period, so the contract should be reviewed before bidding.",
+      "source": "money page"
+    },
+    {
+      "claim": "Commercial property matters can involve leases, GST, due diligence and commercial settlement.",
+      "source": "money page"
+    },
+    {
+      "claim": "In NSW a property matter can be handled by a licensed conveyancer, regulated by NSW Fair Trading under the Conveyancers Licensing Act 2003, or by a solicitor.",
+      "source": "money page"
+    },
+    {
+      "claim": "A licensed conveyancer specialises in property transfers, while a solicitor can also advise on related legal issues.",
+      "source": "money page"
+    },
+    {
+      "claim": "Routine professional fees are typically a few hundred to around $1,500, with government charges and disbursements such as title searches and registration additional.",
+      "source": "money page"
+    },
+    {
+      "claim": "Most residential contracts bought by private treaty in NSW have a 5 business day cooling-off period from exchange of contracts, ending at 5pm on the fifth business day.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page provides a cost calculator and a settlement checklist.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to compare scope, cost clarity and transaction fit before appointing a Sydney conveyancing professional."
+}
