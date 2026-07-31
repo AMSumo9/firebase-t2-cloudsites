@@ -1,0 +1,19 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The published guide offers a free 60 minute in home design consult. | SUPPORTED | MONEY_PAGE_TEXT says: “Free 60-minute in-home consult at a time that suits you.” |
+| The published guide says homeowners receive a response within one business day. | SUPPORTED | MONEY_PAGE_TEXT says: “We respond within one business day.” It also says a builder “reaches out to you” within one business day. |
+| The builder emails a fixed price quote within five to ten working days after the in home consult. | SUPPORTED | In “How it works”, step 03 says the builder “emails a fixed-price quote within five to ten working days.” |
+| A budget refresh runs about $12,000 to $30,000. | SUPPORTED | The FAQ says: “a budget refresh runs about $12,000 to $30,000”. |
+| A mid range full renovation runs about $25,000 to $60,000. | SUPPORTED | The FAQ says: “a mid-range full renovation about $25,000 to $60,000”. |
+| Premium or waterfront builds run about $45,000 to $94,000 or more. | SUPPORTED | The FAQ says: “premium or waterfront builds $45,000 to $94,000 or more.” |
+| The published guide identifies cabinetry quantity and finish, benchtop material, layout and plumbing changes, appliance grade, and high rise or canal front access as main cost drivers. | SUPPORTED | The FAQ lists “cabinetry quantity and finish”, “benchtop material”, “whether the layout and plumbing move”, “appliance grade”, and “access on high-rise or canal-front sites” as the main cost drivers. |
+| A standard mid range kitchen renovation usually takes 6 to 12 weeks from contract signing to handover. | SUPPORTED | The FAQ says: “A standard mid-range kitchen renovation usually takes 6 to 12 weeks from contract signing to handover”. |
+| The 6 to 12 week timeframe includes 4 to 6 weeks of cabinetry and stone fabrication lead in, then 2 to 4 weeks of site work plus finishing once cabinetry is on site. | SUPPORTED | The FAQ says: “4 to 6 weeks of cabinetry and stone fabrication lead-in, then 2 to 4 weeks of on-site work plus finishing.” The page also separately says “Site work typically two to four weeks once cabinetry is on site.” |
+| For strata apartment kitchens, the published guide mentions body corporate documentation, plumbing through party walls, acoustic underlay and after hours work windows. | SUPPORTED | In “Strata-approved apartment kitchens”, the page lists “Body-corp documentation, plumbing through party walls, acoustic underlay, after-hours work windows.” |
+| For premium and waterfront kitchens, the published guide mentions bespoke joinery, natural stone, integrated appliances and butler's pantry additions. | SUPPORTED | “Luxury and waterfront kitchens” mentions “bespoke joinery, natural stone and integrated appliances.” The premium-cost FAQ adds “butler's pantry additions.” Combined, all listed items appear in MONEY_PAGE_TEXT. |
+| The published guide says the builder handles the design, fixed price quote, QBCC contract and build end to end. | SUPPORTED | Under “How we help”, the page says: “That renovator handles the design, fixed-price quote, QBCC contract, and the build itself end to end.” |
+| The contract path refers to a fixed price HIA or Master Builders contract and a transparent variations process. | SUPPORTED | Step 04 says: “Fixed-price HIA or Master Builders contract, transparent variations process”. |
+| Most reputable Gold Coast renovators offer 5 to 10 years on workmanship and custom cabinetry. | SUPPORTED | The warranty FAQ says: “Most reputable Gold Coast renovators offer 5 to 10 years on workmanship and custom cabinetry.” |
+| The QBCC scheme provides statutory cover of 6 years 6 months for structural defects and 12 months for non structural defects. | SUPPORTED | The warranty FAQ says: “The QBCC scheme also provides statutory cover of 6 years 6 months for structural and 12 months for non-structural defects.” |
+
+FACT-CHECK: PASS
