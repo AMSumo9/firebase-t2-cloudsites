@@ -1,0 +1,143 @@
+{
+  "kicker": "Queensland Road Trips",
+  "h1_tail": "A Smarter Way to Choose Stops",
+  "meta_hook": "Use the directory, categories and articles to choose stops that suit your route.",
+  "takeaway": "For a Queensland drive, the cleanest approach is to use three entry points from the source guide, state browsing, category browsing and articles, then commit to one anchor stop for the day. Big Thing Bible presents these landmarks as large scale sculptures and structures that have become iconic roadside attractions, so the useful test is fit, not volume. Pick the stop that matches the route, the people in the car and the length of break you actually want.",
+  "lead": "For travellers planning big things queensland into a real road trip, the better question is which landmark earns a stop on your route, rather than how many oversized attractions you can add to one day.",
+  "lead_tail": "so the shortlist suits the drive and the group.",
+  "stats": [
+    {
+      "value": "Australia-wide",
+      "label": "guide scope"
+    },
+    {
+      "value": "By state",
+      "label": "route-first browsing"
+    },
+    {
+      "value": "Articles",
+      "label": "extra planning context"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Use the guide in the order that matches your trip",
+      "html": "<p><a href=\"https://www.bigthingbible.com.au/\">Big Thing Bible</a> describes itself as Australia's complete guide to big things, which gives Queensland travellers a practical place to start. The source page already shows the main planning paths, a directory, state browsing, category browsing and articles. That structure is more useful than collecting random pins because it helps you narrow the list before you spend driving time on detours.</p><p>If the route is already fixed, begin with the state view and keep only the stops that sit naturally on the drive. If the people in the car care more about theme than geography, category browsing is the better first cut. If neither is clear yet, articles are the best entry point because they give enough context to decide what kind of landmark will feel worthwhile once you arrive.</p>"
+    },
+    {
+      "h2": "Judge the stop by identity, not size alone",
+      "html": "<p>The source page defines big things as large scale sculptures and structures that have become iconic roadside attractions. That wording gives you a cleaner standard than simply looking for something large near the highway. A stop earns its place when it has a recognisable identity and feels tied to a local story, product, animal or comic idea, not just an oversized object beside the road.</p><p>The same page says these landmarks celebrate Australia's unique culture and larrikin spirit. In trip planning terms, that means the best stop is usually easy to explain to the group before you get there. If the attraction has a clear joke, symbol or theme, it is more likely to land as a memorable break. If the appeal is only that it is big, it may still suit a quick photo, but not necessarily a longer detour.</p>"
+    },
+    {
+      "h2": "Who this applies to on a Queensland drive",
+      "html": "<p>This planning method suits travellers who want a stop to do a clear job in the day, not simply fill space on a map. Queensland road trips often have long legs between meal breaks, overnight stops and scenic sections, so a landmark works best when you decide its role early.</p><ul><li><strong>First time visitors:</strong> start with route fit, then trim the list hard so only natural stops remain.</li><li><strong>Families:</strong> look for a landmark with an obvious visual theme that children will recognise quickly.</li><li><strong>Repeat road trippers:</strong> use category thinking to avoid choosing the same style of novelty stop every time.</li><li><strong>Travellers who like context:</strong> read the articles first, then move to the directory once you know what style of attraction you want.</li></ul><p>That approach also helps when the landmark is only one part of a broader day out. Some stops work as the headline of a regional outing. Others are better used as a short reset between longer driving sections. Deciding which of those two jobs you want will usually cut the shortlist faster than searching for the most famous example.</p>"
+    },
+    {
+      "h2": "Questions that remove weak options quickly",
+      "html": "<p>Before adding any landmark to the day, ask what you expect from the stop itself. A useful shortlist gets clearer when each option answers a specific need, such as a photo break, a themed stop for visitors, or a reason to spend a little more time in the surrounding town.</p><ul><li><strong>Route fit:</strong> does the attraction sit on the drive, or does it ask too much extra road time for the return?</li><li><strong>Theme fit:</strong> will the people travelling with you care about the subject once they arrive?</li><li><strong>Stop length:</strong> are you planning a quick roadside pause, or do you want a place that can support a longer break nearby?</li><li><strong>Timing:</strong> is the stop better early in the day, as a midpoint reset, or near arrival when attention is fading?</li></ul><p>These questions work well with the source site's layout. State browsing helps when route fit is the main constraint. Categories help when the travellers need a stronger theme. Articles help when the hard part is judging what kind of oversized attraction will feel satisfying instead of thin once the novelty wears off.</p>"
+    },
+    {
+      "h2": "Build around one anchor stop, then leave space",
+      "html": "<p>Most day drives improve when you choose one anchor landmark and let the rest of the plan form around it. That keeps roadside attractions in proportion. You can still add lunch, a scenic section or a second brief stop, but the day is not forced to carry several marginal detours just because they exist on the map.</p><p>The source page uses the Big Banana and the Giant Koala as examples of Australia's well known oversized landmarks. The lesson for a Queensland itinerary is not to imitate another state's icons. It is to use the same selection standard: choose the attraction that is easiest to justify to the group, easiest to fit into the route and most likely to be remembered after the drive.</p><p>If you cannot say why a particular stop belongs in the day, leave it off. A cleaner plan usually produces a better road trip than a long list of attractions competing for the same daylight.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Best starting point for a shortlist",
+    "headers": [
+      "What you know first",
+      "Where to begin",
+      "Why it helps"
+    ],
+    "rows": [
+      [
+        "Your route through Queensland",
+        "Browse by state",
+        "It keeps the shortlist tied to the drive"
+      ],
+      [
+        "Your preferred theme",
+        "Browse by category",
+        "It narrows choices to attractions the group is more likely to enjoy"
+      ],
+      [
+        "You need context before choosing",
+        "Read articles first",
+        "It helps you decide what kind of stop is worth adding"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Set the role",
+      "text": "Decide whether the landmark is the main outing, a short photo break or a pause within a longer driving day."
+    },
+    {
+      "name": "Choose the first filter",
+      "text": "Use state browsing for route fit, category browsing for theme fit, or articles when you need context first."
+    },
+    {
+      "name": "Trim the list",
+      "text": "Remove any stop that asks for extra road time without a clear payoff for the people travelling."
+    },
+    {
+      "name": "Lock the anchor",
+      "text": "Build the rest of the day around one strong landmark and add anything else only if time remains."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Should I start with state browsing or category browsing?",
+      "a": "Start with state browsing when the route is already fixed and category browsing when the travellers care more about a particular theme. If you are still deciding what kind of attraction suits the trip, the articles are the better first read."
+    },
+    {
+      "q": "What counts as a big thing on the source guide?",
+      "a": "The source page describes big things as large scale sculptures and structures that have become iconic roadside attractions. That makes recognisable identity more important than size by itself when you judge whether a stop is worth adding."
+    },
+    {
+      "q": "How many oversized landmark stops should one day include?",
+      "a": "The source material does not set a number, so the safer planning method is to choose one anchor stop first and add another only if it fits the route and the pace of the day. That keeps the itinerary realistic."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "Big Thing Bible describes itself as Australia's complete guide to big things.",
+      "source": "money page"
+    },
+    {
+      "claim": "Big Thing Bible has a directory.",
+      "source": "money page"
+    },
+    {
+      "claim": "Big Thing Bible lets users browse by state.",
+      "source": "money page"
+    },
+    {
+      "claim": "Big Thing Bible lets users browse by category.",
+      "source": "money page"
+    },
+    {
+      "claim": "Big Thing Bible publishes articles.",
+      "source": "money page"
+    },
+    {
+      "claim": "Big Things of Australia are large scale sculptures and structures.",
+      "source": "money page"
+    },
+    {
+      "claim": "Big Things of Australia have become iconic roadside attractions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page gives the Big Banana and the Giant Koala as examples.",
+      "source": "money page"
+    },
+    {
+      "claim": "These landmarks celebrate Australia's unique culture and larrikin spirit.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to shortlist and sequence oversized roadside landmarks for a Queensland drive using the source guide's directory, categories and articles."
+}
