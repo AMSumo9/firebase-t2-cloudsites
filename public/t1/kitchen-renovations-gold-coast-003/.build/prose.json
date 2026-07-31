@@ -1,0 +1,226 @@
+{
+  "kicker": "Coastal Kitchen Guide",
+  "h1_tail": "Costs, Timing and Contracts",
+  "meta_hook": "Compare quotes, timelines and contract detail before you commit to a builder.",
+  "takeaway": "Gold Coast owners can use a few published benchmarks to sort serious quotes from vague ones. Gold Coast Kitchen Renovations says enquiries are answered within one business day, the in home consult runs for 60 minutes, and a fixed price quote is emailed within five to ten working days after the visit. Its guide range is about $12,000 to $30,000 for a refresh, $25,000 to $60,000 for a mid range full renovation, and $45,000 to $94,000 or more for premium or waterfront work.",
+  "lead": "For homeowners comparing kitchen renovations gold coast options, the useful starting point is whether the brief, property type and quote structure line up before finishes and appliance choices take over the discussion.",
+  "lead_tail": "so the first comparison stays focused on scope, timing and contract detail.",
+  "stats": [
+    {
+      "value": "60 mins",
+      "label": "free in home consult"
+    },
+    {
+      "value": "1 business day",
+      "label": "reply target"
+    },
+    {
+      "value": "5 to 10 days",
+      "label": "quote after site visit"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the brief, not the brochure",
+      "html": "<p><a href=\"https://www.goldcoastkitchenreno.com.au/\">Gold Coast Kitchen Renovations</a> publishes a practical sequence for owners who want to compare builders without losing track of scope. The guide says the renovator handles the design, fixed price quote, QBCC contract and the build end to end, so the first review should check whether demolition, cabinetry, benchtops, plumbing, electrical work and installation are clearly described.</p><p>The most useful quote questions come from the cost drivers it lists. Cabinetry quantity and finish, benchtop material, whether the layout and plumbing move, appliance grade, and access on high rise or canal front sites can all change the final figure. Labour is also described as roughly 30 to 40 percent of the total, which makes omissions in the scope more important than a polished presentation.</p><ul><li>Write down whether the job is a refresh or a full rebuild before the consult.</li><li>Ask which items are fixed in the quote and which sit outside it.</li><li>Check whether the contract wording explains how variations are priced and approved.</li></ul>"
+    },
+    {
+      "h2": "Property type changes the questions you need answered",
+      "html": "<p>The published service mix separates full renovations, luxury or waterfront kitchens, and strata approved apartment kitchens. That split is useful because the pressure points are different. A full renovation may involve new cabinetry, stone benchtops, plumbing and electrical updates, splashback work and soft close hardware, while premium waterfront work can move into bespoke joinery, natural stone, integrated appliances and butler's pantry additions.</p><p>Apartment work has its own approval and access layer. The guide specifically mentions body corporate documentation, plumbing through party walls, acoustic underlay and after hours work windows. In a high rise, those issues can affect how the builder sequences deliveries, demolition and trade access, so they belong in the first conversation rather than the final contract check.</p><p>For a canal front or prestige home, it is worth asking which custom items are likely to extend fabrication and how site access is managed once materials arrive. For a standard house, the sharper question is often whether keeping more of the existing layout will protect the budget without cutting out the parts of the job that matter most.</p>"
+    },
+    {
+      "h2": "Use the timing benchmarks to plan the disruption",
+      "html": "<p>The timeline published by the business gives owners a workable baseline. After an enquiry, contact is expected within one business day. The builder then carries out a free 60 minute in home design consult and emails a fixed price quote within five to ten working days. For a standard mid range project, the overall period is stated as 6 to 12 weeks from contract signing to handover.</p><p>That total is broken into 4 to 6 weeks of cabinetry and stone fabrication lead in, followed by 2 to 4 weeks of site work once cabinetry is on site. Those figures help when you are deciding when to order appliances, when to clear the room, and how long temporary cooking arrangements may be needed.</p><ul><li>In an apartment, ask whether booking windows in the building can push demolition or delivery dates.</li><li>In a custom waterfront job, ask which selections must be locked in before fabrication starts.</li><li>If a quote promises a much shorter program, ask which part of the published sequence is different.</li></ul>"
+    },
+    {
+      "h2": "Contracts and warranty detail deserve a line by line read",
+      "html": "<p>The build process described in the guide uses a fixed price HIA or Master Builders contract, a transparent variations process and QBCC home warranty. That makes the contract more than a formality. Owners should be able to point to the exact scope, exclusions, allowances, variation steps and handover items without relying on verbal summaries from the consult.</p><p>The warranty section is also specific enough to check carefully. The FAQ says most reputable Gold Coast renovators offer 5 to 10 years on workmanship and custom cabinetry. It also says the QBCC scheme provides statutory cover of 6 years 6 months for structural defects and 12 months for non structural defects. Those numbers are useful when you ask which part of the work is covered by the builder, which by suppliers, and what paperwork you receive at completion.</p>"
+    },
+    {
+      "h2": "Who this applies to before you request a quote",
+      "html": "<p>This guide is most useful for owners deciding between a lighter refresh and a full rebuild, apartment owners who need body corporate and access issues addressed early, and households planning a premium kitchen where bespoke joinery or integrated appliances are already part of the brief. It is less about design inspiration and more about getting the first decision points in the right order.</p><p>Before requesting a consult, prepare four inputs: your property type, rough budget, whether the layout is moving, and the finish level you expect. Those details line up directly with the published cost and timing guidance, and they give you a cleaner basis for comparing one fixed price proposal against another.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common project paths and what changes",
+    "headers": [
+      "Project path",
+      "Published range",
+      "Decision point"
+    ],
+    "rows": [
+      [
+        "Refresh",
+        "About $12,000 to $30,000",
+        "Whether keeping more of the existing layout protects budget while still improving function"
+      ],
+      [
+        "Mid range full renovation",
+        "About $25,000 to $60,000",
+        "Whether new cabinetry, stone benchtops and service updates belong in the scope"
+      ],
+      [
+        "Premium or waterfront",
+        "About $45,000 to $94,000 or more",
+        "Whether custom joinery, natural stone, integrated appliances and site access will extend cost and lead time"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the scope",
+      "text": "List the property type, rough budget, layout changes and finish level before the first consult."
+    },
+    {
+      "name": "Check the program",
+      "text": "Compare the proposed lead in and on site work against the published 6 to 12 week benchmark."
+    },
+    {
+      "name": "Read the contract",
+      "text": "Confirm the fixed price scope, exclusions, variation process and handover detail before signing."
+    },
+    {
+      "name": "Test fit for the site",
+      "text": "For apartments and waterfront homes, ask how approvals, access and custom items affect sequencing."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should I budget for a kitchen project on the Gold Coast?",
+      "a": "The published guide range is about $12,000 to $30,000 for a budget refresh, about $25,000 to $60,000 for a mid range full renovation, and about $45,000 to $94,000 or more for premium or waterfront work. It also lists cabinetry quantity and finish, benchtop material, layout or plumbing moves, appliance grade and site access as key cost drivers."
+    },
+    {
+      "q": "How long does the process usually take after I enquire?",
+      "a": "The published sequence says contact comes within one business day, the in home consult is booked after that, and a fixed price quote is emailed within five to ten working days of the visit. For a standard mid range project, the overall period is stated as 6 to 12 weeks from contract signing to handover."
+    },
+    {
+      "q": "What should apartment owners check before accepting a quote?",
+      "a": "The guide specifically flags body corporate documentation, plumbing through party walls, acoustic underlay and after hours work windows. Those items should be discussed before you assume the quoted timeline and site access plan will work for your building."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Gold Coast Kitchen Renovations says enquiries are answered within one business day.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gold Coast Kitchen Renovations offers a free 60 minute in home design consult.",
+      "source": "money page"
+    },
+    {
+      "claim": "The renovator handles the design, fixed price quote, QBCC contract and the build end to end.",
+      "source": "money page"
+    },
+    {
+      "claim": "Full kitchen renovations can include new cabinetry, stone benchtops, plumbing and electrical updates, splashback work and soft close hardware.",
+      "source": "money page"
+    },
+    {
+      "claim": "Premium or waterfront work can involve bespoke joinery, natural stone, integrated appliances and butler's pantry additions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Strata kitchen renovations can involve body corporate documentation, plumbing through party walls, acoustic underlay and after hours work windows.",
+      "source": "money page"
+    },
+    {
+      "claim": "A fixed price quote is emailed within five to ten working days after the in home consult.",
+      "source": "money page"
+    },
+    {
+      "claim": "A standard mid range kitchen renovation usually takes 6 to 12 weeks from contract signing to handover.",
+      "source": "money page"
+    },
+    {
+      "claim": "That timing includes 4 to 6 weeks of cabinetry and stone fabrication lead in.",
+      "source": "money page"
+    },
+    {
+      "claim": "Site work typically takes 2 to 4 weeks once cabinetry is on site.",
+      "source": "money page"
+    },
+    {
+      "claim": "Budget refresh work is guided at about $12,000 to $30,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "A mid range full renovation is guided at about $25,000 to $60,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "Premium or waterfront builds are guided at about $45,000 to $94,000 or more.",
+      "source": "money page"
+    },
+    {
+      "claim": "Listed cost drivers include cabinetry quantity and finish, benchtop material, layout or plumbing moves, appliance grade and access on high rise or canal front sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Labour is described as roughly 30 to 40 percent of the total.",
+      "source": "money page"
+    },
+    {
+      "claim": "The build uses a fixed price HIA or Master Builders contract, a transparent variations process and QBCC home warranty.",
+      "source": "money page"
+    },
+    {
+      "claim": "Most reputable Gold Coast renovators offer 5 to 10 years on workmanship and custom cabinetry.",
+      "source": "money page"
+    },
+    {
+      "claim": "The QBCC scheme provides statutory cover of 6 years 6 months for structural defects and 12 months for non structural defects.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers scope, timing, contract checks and property type issues for a Gold Coast kitchen project."
+}
