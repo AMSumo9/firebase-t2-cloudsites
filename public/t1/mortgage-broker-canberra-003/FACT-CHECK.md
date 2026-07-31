@@ -1,0 +1,20 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source page says borrowers should prepare income, expenses, deposit, property type and timing before applying. | SUPPORTED | MONEY_PAGE_TEXT says: “A broker conversation works best when the basic facts are ready: income, expenses, deposit, property type and timing.” |
+| The source page says credit regulated work stays with licensed brokers or authorised representatives. | SUPPORTED | It says “Credit regulated work stays with licensed brokers” and adds that credit assistance must come from “a licensed broker or authorised representative.” |
+| The source page says the first review can account for ACT concessions, apartment lending, public-sector income and cross-border Queanbeyan purchases. | SUPPORTED | MONEY_PAGE_TEXT states this directly under “Canberra lending context upfront.” |
+| The source page says it helps Canberra borrowers organise questions across first-home buying, refinancing, construction and investment lending. | SUPPORTED | It says: “This site helps Canberra borrowers organise those questions across first-home buying, refinancing, construction and investment lending.” |
+| The source page lists first home buyer loans, refinance home loans, investment property loans, construction loans, self-employed home loans and bridging loans as service areas. | SUPPORTED | All six appear as named service headings in the “Finance Services Across Canberra” section. |
+| The source page says first home buyers compare deposit options, duty concessions and lender readiness. | SUPPORTED | The “First Home Buyer Loans” entry says buyers are “comparing deposit options, duty concessions and lender readiness.” |
+| The source page says refinance borrowers can compare their current loan against available refinance options. | SUPPORTED | The “Refinance Home Loans” entry says owners can “compare their current loan against available refinance options.” |
+| The source page says investors may need to weigh rental income, buffers, loan structure and lender policy. | SUPPORTED | The “Investment Property Loans” entry says Canberra investors weigh “rental income, buffers, loan structure and lender policy.” |
+| The source page says construction lending support includes knockdown rebuilds, house-and-land packages and staged building payments. | SUPPORTED | The “Construction Loans” entry says support covers “knockdown rebuilds, house-and-land packages and staged building payments.” |
+| The source page says self-employed home loans involve variable income evidence for sole traders, company directors and contractors. | SUPPORTED | The “Self-Employed Home Loans” entry says this directly. |
+| The source page says bridging loans are short-term guidance for buyers who need to settle before an existing property sale completes. | SUPPORTED | The “Bridging Loans” entry says: “Short-term lending guidance for buyers who need to settle before an existing property sale completes.” |
+| The source page says concession eligibility should be checked with the ACT Revenue Office or a conveyancer. | SUPPORTED | The FAQ says concession eligibility should be checked with “the ACT Revenue Office or your conveyancer.” |
+| The source page says that from 1 July 2026 there is no income threshold for the ACT Home Buyer Concession Scheme. | SUPPORTED | The FAQ says: “from 1 July 2026 there is no income threshold for the Home Buyer Concession Scheme.” |
+| The source page says many buyers compare 5, 10 and 20 percent deposit pathways. | SUPPORTED | The deposit FAQ says: “Many buyers compare 5, 10 and 20 percent pathways.” |
+| The source page says borrowing power, approval and settlement timing depend on the lender's assessment and property details. | SUPPORTED | MONEY_PAGE_TEXT states this directly under “No invented guarantees.” |
+| The source page provides a repayment calculator and an application checklist as tools for borrowers. | SUPPORTED | The page lists “Calculator Estimate repayments before you apply” and “Checklist See the documents brokers usually ask for.” |
+
+FACT-CHECK: PASS

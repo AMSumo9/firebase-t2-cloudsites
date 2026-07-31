@@ -1,0 +1,245 @@
+{
+  "kicker": "ACT Loan Guide",
+  "h1_tail": "What to prepare before you apply",
+  "meta_hook": "Compare documents, loan pathways and Canberra-specific questions before you enquire.",
+  "takeaway": "Canberra borrowers usually get more value from a broker meeting when they arrive with income, expense, deposit, property and timing details already organised. The source page specifically points buyers to 5, 10 and 20 percent deposit pathways, and notes that from 1 July 2026 the ACT Home Buyer Concession Scheme has no income threshold. It also highlights apartment lending, public-sector income, cross-border Queanbeyan purchases, refinancing, construction, investment and self-employed applications as scenarios worth preparing for early.",
+  "lead": "For borrowers comparing mortgage broker canberra options, the useful first step is to organise your documents and identify which parts of the deal, deposit, property type or timing, are likely to drive the lender conversation.",
+  "lead_tail": "so the first enquiry starts with usable facts",
+  "stats": [
+    {
+      "value": "5%",
+      "label": "entry deposit pathway buyers may compare"
+    },
+    {
+      "value": "10%",
+      "label": "mid-range deposit pathway often weighed"
+    },
+    {
+      "value": "20%",
+      "label": "larger deposit pathway often compared"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the facts a broker will test",
+      "html": "<p>A productive first conversation with <a href=\"https://www.financebrokercanberra.com.au/\">Finance Broker Canberra</a> is less about hunting a headline rate and more about getting the basics into a form a lender can assess. The source page is explicit on the inputs that matter first, income, expenses, deposit, property type and timing. If one of those pieces is unclear, the discussion can drift into estimates that may not survive a formal assessment.</p><p>That matters in Canberra because the source page frames local preparation around issues that can change the shape of an application, ACT concessions, apartment lending, public-sector income and cross-border purchases in Queanbeyan. None of those points guarantees a particular outcome, but each can affect which questions need answering before a file is submitted.</p><ul><li>Have recent income evidence ready, especially if your earnings vary.</li><li>List ongoing expenses plainly rather than guessing a round figure.</li><li>Show where the deposit is coming from and how long it has been held.</li><li>Identify the property type early, especially if you are looking at an apartment or a build.</li><li>Set out your timing, purchase, refinance, construction stages or a sale that must line up with settlement.</li></ul>"
+    },
+    {
+      "h2": "Who this applies to in Canberra",
+      "html": "<p>The source page is built around distinct loan goals, not a single borrower profile. First home buyers are directed to compare deposit options, duty concessions and lender readiness. Owners looking at a refinance are pushed toward a structured review of the current loan against available refinance options, which is a different exercise from a purchase application because the existing debt, break costs and property details are already in play.</p><p>Investors need a more policy-focused conversation. The source page flags rental income, buffers and loan structure, which means the useful preparation work is to separate what is certain from what still needs confirmation. Construction borrowers need to think in stages because the page specifically mentions knockdown rebuilds, house-and-land packages and staged building payments. Self-employed borrowers are told to prepare for variable income evidence, while bridging borrowers need to map out how the purchase timing interacts with the sale of the existing property.</p><p>If your scenario falls into more than one group, for example self-employed and buying an investment property, that overlap should be stated up front rather than introduced halfway through the enquiry.</p>"
+    },
+    {
+      "h2": "Local issues that can change the conversation",
+      "html": "<p>Canberra-specific preparation is only useful when it affects a real decision. The source page gives four examples that do. First, ACT buyer assistance may change what documents a broker asks you to gather, but eligibility still needs to be checked with the relevant authority or your conveyancer. Second, apartment lending can require closer attention to the property details before assumptions are made about borrowing power.</p><p>Third, public-sector income is called out separately, which suggests borrowers should present their income structure clearly rather than assuming every allowance or employment arrangement will be read the same way. Fourth, cross-border Queanbeyan purchases add a practical layer because the property may sit outside the ACT even when the borrower works and lives around Canberra.</p><p>The source page also states that, from 1 July 2026, the ACT Home Buyer Concession Scheme has no income threshold. That is useful context for a buyer preparing questions, but it is still sensible to confirm the current position before signing contracts or relying on any concession in your budget.</p>"
+    },
+    {
+      "h2": "Questions worth resolving before an application starts",
+      "html": "<p>The best use of a broker meeting is to resolve policy questions before they become delays. The source page avoids guarantees and says borrowing power, approval and settlement timing depend on the lender's assessment and the property details. That makes the pre-application checklist more important than sales language.</p><ul><li>Which document gaps would stop the file from being assessed properly?</li><li>If the purchase is an apartment, what property details need checking first?</li><li>For a refinance, which features of the current loan should be compared, not just the interest rate?</li><li>For an investor, how will rental income and proposed loan structure be viewed by the lender?</li><li>For construction, what information is needed before staged payments can even be discussed sensibly?</li><li>If the property is in Queanbeyan, what location-specific steps should the borrower and conveyancer verify early?</li></ul><p>Those questions do not create approval, but they do make the discussion specific enough to expose weak assumptions while there is still time to fix them.</p>"
+    },
+    {
+      "h2": "Use the tools before you ask for a callback",
+      "html": "<p>The source page already points borrowers to a calculator and a checklist, and those tools are more than filler if you use them in the right order. Start with the <a href=\"https://www.financebrokercanberra.com.au/tools/cost-calculator/\">repayment calculator</a> to test whether the repayment fits the budget you have documented, not the one you hope will work. Then use the <a href=\"https://www.financebrokercanberra.com.au/tools/checklist/\">application checklist</a> to see whether your evidence of income, expenses, savings and property details is actually ready.</p><p>Only after that should you book a callback. By then, the conversation can focus on the real loan goal, first purchase, refinance, investment, construction, self-employed borrowing or bridging, instead of spending the first ten minutes discovering that key facts are missing. For Canberra borrowers, that order is practical because the local complications named on the source page tend to show up in documents and timing, not in slogans.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common Canberra loan situations",
+    "headers": [
+      "Situation",
+      "What to prepare first",
+      "What usually needs checking"
+    ],
+    "rows": [
+      [
+        "First home purchase",
+        "Deposit source, savings history, target property type",
+        "Whether concessions affect the document list"
+      ],
+      [
+        "Refinance",
+        "Current loan details, property information, timing needs",
+        "How the existing loan compares with refinance options"
+      ],
+      [
+        "Investment purchase",
+        "Rental income assumptions, expenses, preferred structure",
+        "How lender policy treats income and buffers"
+      ],
+      [
+        "Construction or knockdown rebuild",
+        "Building contract stage, land details, payment timing",
+        "Whether staged payments and timing are clearly mapped"
+      ],
+      [
+        "Self-employed or contractor income",
+        "Business and personal income evidence",
+        "How variable income will be presented to the lender"
+      ],
+      [
+        "Bridging scenario",
+        "Sale and purchase timing, existing debt position",
+        "How settlement timing lines up if the sale is not complete"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan goal",
+      "text": "State whether you are buying, refinancing, investing, building, borrowing as self-employed or bridging between sale and purchase."
+    },
+    {
+      "name": "Assemble core documents",
+      "text": "Bring current evidence of income, expenses, deposit, property details and the timing that matters to the transaction."
+    },
+    {
+      "name": "Test the budget",
+      "text": "Use the repayment calculator to check whether the likely repayment fits the figures you have already documented."
+    },
+    {
+      "name": "Check local variables",
+      "text": "Note any ACT concession question, apartment issue, public-sector income detail or Queanbeyan cross-border factor before the call."
+    },
+    {
+      "name": "Ask for the next step",
+      "text": "Use the callback only once the file is organised enough for a broker to identify the real policy questions."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much deposit do Canberra buyers usually need?",
+      "a": "The source page does not give one fixed answer. It says deposit needs depend on property price, lender policy, savings history and whether a guarantee or concession applies, and notes that many buyers compare 5, 10 and 20 percent pathways."
+    },
+    {
+      "q": "Can a broker explain ACT concessions?",
+      "a": "A broker can help you understand what documents a lender may need, according to the source page. It also says concession eligibility should be checked with the ACT Revenue Office or your conveyancer."
+    },
+    {
+      "q": "Does a broker improve approval or settlement timing?",
+      "a": "Not automatically. The source page says borrowing power, approval and settlement timing depend on the lender's assessment and the property details, which is why document quality and scenario clarity matter before the application begins."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page says borrowers should prepare income, expenses, deposit, property type and timing before applying.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says credit regulated work stays with licensed brokers or authorised representatives.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says the first review can account for ACT concessions, apartment lending, public-sector income and cross-border Queanbeyan purchases.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says it helps Canberra borrowers organise questions across first-home buying, refinancing, construction and investment lending.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists first home buyer loans, refinance home loans, investment property loans, construction loans, self-employed home loans and bridging loans as service areas.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says first home buyers compare deposit options, duty concessions and lender readiness.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says refinance borrowers can compare their current loan against available refinance options.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says investors may need to weigh rental income, buffers, loan structure and lender policy.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says construction lending support includes knockdown rebuilds, house-and-land packages and staged building payments.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says self-employed home loans involve variable income evidence for sole traders, company directors and contractors.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says bridging loans are short-term guidance for buyers who need to settle before an existing property sale completes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says concession eligibility should be checked with the ACT Revenue Office or a conveyancer.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says that from 1 July 2026 there is no income threshold for the ACT Home Buyer Concession Scheme.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says many buyers compare 5, 10 and 20 percent deposit pathways.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says borrowing power, approval and settlement timing depend on the lender's assessment and property details.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page provides a repayment calculator and an application checklist as tools for borrowers.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers document prep, borrower scenarios and Canberra-specific loan questions before a broker enquiry."
+}
