@@ -1,0 +1,138 @@
+{
+  "kicker": "Local Search Guide",
+  "h1_tail": "How to Shortlist Faster",
+  "meta_hook": "Use categories, reviews and quote options to narrow local providers with less guesswork.",
+  "takeaway": "A useful local directory here starts with the published facts: 56 categories, verified local businesses, reviews, service and pricing comparison, and free quote options. The homepage also shows location browsing, including Highfields, and featured listings tied to Toowoomba City, Newtown and Rangeville. The best way to use it is to filter by category first, then keep only the listings that explain services clearly enough for a sensible call, email or quote request.",
+  "lead": "For readers comparing a business directory toowoomba page, the practical task is to separate convenient listings from genuinely useful ones before you spend time calling, emailing or requesting a quote.",
+  "lead_tail": "so your shortlist reflects the job you need done.",
+  "stats": [
+    {
+      "value": "56",
+      "label": "categories listed"
+    },
+    {
+      "value": "Free",
+      "label": "quote access for users"
+    },
+    {
+      "value": "3",
+      "label": "steps in the published workflow"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Use the category structure as your first filter",
+      "html": "<p><a href=\"https://www.mytoowoomba.com.au/\">Toowoomba Directory</a> is easiest to use when you begin with the service type rather than a broad search. The homepage says readers can browse 56 categories of verified local businesses, which gives you a cleaner starting point if you already know whether you need a builder, a cleaner, a lawyer or a mortgage broker.</p><p>That first step matters because the page is broad by design. It brings trades, health providers, hospitality and professional services into one place. A broad list is useful only if you narrow it early. If the category feels close but not exact, open the nearest match and check the service wording before you contact anyone.</p><p>When the job is trade specific, it can also help to compare how a narrower guide frames questions. For example, the local guide on <a href=\"https://plumbers-toowoomba-guide.vercel.app/\">plumbers toowoomba</a> is useful when you want to think through trade scope before returning to a wider directory search.</p>"
+    },
+    {
+      "h2": "Check whether a listing gives enough evidence to act",
+      "html": "<p>The homepage lays out a simple path, search, compare, then contact. The comparison step deserves most of your attention. If a listing does not help you judge fit, it has not earned a place on your shortlist.</p><ul><li><strong>Reviews:</strong> use them to see whether there is enough public feedback to read for patterns, not just to note a score.</li><li><strong>Services:</strong> read the wording carefully so you know whether the business appears to handle the exact job, not just a nearby category.</li><li><strong>Pricing:</strong> treat any pricing detail as a prompt for follow up, because the page says you can compare services and pricing before seeking a quote.</li><li><strong>Photos:</strong> where a profile includes them, they can help you decide whether the listing is informative or thin.</li><li><strong>Contact options:</strong> prefer listings that make the next step obvious, because the published process includes calling, emailing or requesting a quote through the form.</li></ul><p>A good listing reduces repeat explanations. A weak one leaves you doing the work the profile should have done for you.</p>"
+    },
+    {
+      "h2": "Use place names only when they affect the job",
+      "html": "<p>The page includes location browsing and gives one clear example, electricians in Highfields. It also shows featured businesses presented with places such as Toowoomba City, Newtown and Rangeville. That location detail is helpful when convenience, repeat visits or travel time could affect who you contact first.</p><p>For some jobs, place is secondary. If the work is simple and the listing explains the service well, category fit and review context may matter more than suburb. For other jobs, place becomes a practical filter because you may want someone presented near where the work will happen or where you are willing to travel.</p><p>The safest approach is to let location break a tie, not carry the whole decision. If two listings look similar, the location view may help you choose which one to contact first. If one listing explains the service properly and the other does not, the clearer profile usually deserves the first enquiry regardless of suburb.</p>"
+    },
+    {
+      "h2": "Featured profiles can save time, but they still need scrutiny",
+      "html": "<p>The homepage highlights featured businesses across very different categories. The examples include marketing, mortgage broking, hair, car detailing, beauty and electrical services. That mix is useful because it shows how the same directory structure works across multiple local needs.</p><p>Featured visibility should not replace checking the profile itself. The source page also says businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking. Readers should understand that visibility features may change how prominent a listing looks, while the real comparison still comes from reviews, service detail and contact clarity.</p><p>This matters most when you are choosing between a prominent profile and a quieter one in the same category. Read both. If the less prominent listing explains its work more clearly, shows stronger review context or gives a better basis for a quote request, it may be the better first call.</p>"
+    },
+    {
+      "h2": "Who this applies to, and the fastest shortlist method",
+      "html": "<p>This guide is most useful for two groups. The first is local readers who know the kind of service they need but do not want to contact five weak options. The second is readers whose job could be solved by more than one category, such as moving from builders to flooring or from removalists to storage facilities, and who need a disciplined way to compare.</p><p>A fast shortlist usually means keeping only two or three options after one pass through the page. Start with the closest category. Remove any listing that does not explain its service well enough to justify contact. Then compare the remaining options on review context, pricing cues, photos and the ease of making an enquiry.</p><ul><li>What exact job am I trying to book or quote?</li><li>Does this listing explain enough to justify a call or email?</li><li>Do the reviews give enough detail to read for patterns?</li><li>Would location change convenience or repeat visits?</li><li>Am I choosing this profile for fit, or only because it is prominent on the page?</li></ul><p>That method keeps the directory useful as a decision tool, not just a long list of business names.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Two practical ways to narrow local listings",
+    "headers": [
+      "Approach",
+      "Best used when",
+      "Main check"
+    ],
+    "rows": [
+      [
+        "Category first",
+        "You already know the service type",
+        "Compare reviews, service wording, pricing cues and contact options"
+      ],
+      [
+        "Location first",
+        "Convenience or repeat visits may matter",
+        "Use place to narrow the field, then apply the same listing checks"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Open the closest category",
+      "text": "Start with the service category that best matches the job so the comparison set is relevant from the first click."
+    },
+    {
+      "name": "Cut weak profiles early",
+      "text": "Remove listings that do not explain services clearly enough to justify a call, email or quote request."
+    },
+    {
+      "name": "Use place as a tie breaker",
+      "text": "Bring in location only when convenience, travel or repeat visits could change which provider you contact first."
+    },
+    {
+      "name": "Keep a short list",
+      "text": "Finish with two or three credible options so your enquiries stay focused and comparable."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What makes this local guide more useful than a plain search result?",
+      "a": "The published homepage says readers can browse 56 categories of verified local businesses, read reviews, compare services and pricing, and get quotes for free. That structure helps you rule out weak options before making contact."
+    },
+    {
+      "q": "Should I contact the first featured profile I see?",
+      "a": "Only if the profile gives enough detail for your job. Featured visibility can save scanning time, but the better test is whether the listing explains services clearly, gives review context and makes the next step easy."
+    },
+    {
+      "q": "When should location influence the choice?",
+      "a": "Use location when convenience, travel or repeat visits could affect the work. The homepage supports location browsing and shows examples tied to Highfields, Toowoomba City, Newtown and Rangeville, so place is most useful when it changes the order of your shortlist."
+    },
+    {
+      "q": "Can a local business be added to the directory?",
+      "a": "Yes. The homepage says a business can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The homepage lists 56 categories of verified local businesses.",
+      "source": "money page"
+    },
+    {
+      "claim": "Readers can read reviews, compare services and pricing, and get quotes for free.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published workflow is search, compare, then contact.",
+      "source": "money page"
+    },
+    {
+      "claim": "Contact options include calling, emailing, or requesting a quote through a form.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page supports location browsing and shows an example for electricians in Highfields.",
+      "source": "money page"
+    },
+    {
+      "claim": "Featured businesses are shown with places including Toowoomba City, Newtown and Rangeville.",
+      "source": "money page"
+    },
+    {
+      "claim": "Featured homepage examples include marketing, mortgage broking, hair, car detailing, beauty and electrical services.",
+      "source": "money page"
+    },
+    {
+      "claim": "Businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to use the directory structure, listing detail and location cues to build a tighter local shortlist."
+}
