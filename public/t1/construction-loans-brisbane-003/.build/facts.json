@@ -1,0 +1,301 @@
+{
+  "node_id": "bottomlinefinance.com-003",
+  "money_domain": "bottomlinefinance.com.au",
+  "money_home_url": "https://www.bottomlinefinance.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/construction-loans-brisbane-003/",
+  "live_url": "https://sites-e470-1.web.app/construction-loans-brisbane-003/",
+  "subdomain": "construction-loans-brisbane",
+  "gh_repo": null,
+  "primary_kw": "construction loans brisbane",
+  "kw_slug": "construction-loans-brisbane",
+  "anchor_kw": "construction loans brisbane",
+  "brand": "Bottom Line Finance",
+  "target_page_url": "https://www.bottomlinefinance.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [
+    "https://www.linkedin.com/in/anthonymoncada"
+  ],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\bottomlinefinance.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Finance Brokers Association of Australasia",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.96
+      },
+      {
+        "name": "Australian finance and mortgage brokers",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Mentoring",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage broker mentors",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Finance and Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "AFG",
+        "type": "ORGANIZATION",
+        "salience": 0.93
+      },
+      {
+        "name": "YourShare",
+        "type": "ORGANIZATION",
+        "salience": 0.925
+      },
+      {
+        "name": "Mortgage broker commission and trailing fees rebate",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "finance broking",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "mortgage broking",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Australian Finance Group",
+        "type": "ORGANIZATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Certificate IV in Finance and Mortgage Broking",
+        "type": "CREDENTIAL",
+        "salience": 0.9
+      },
+      {
+        "name": "FBAA",
+        "type": "ORGANIZATION",
+        "salience": 0.89
+      },
+      {
+        "name": "Aggregator",
+        "type": "ORGANIZATION",
+        "salience": 0.88
+      },
+      {
+        "name": "Colin Rice",
+        "type": "PERSON",
+        "salience": 0.88
+      },
+      {
+        "name": "Mentor",
+        "type": "SERVICE",
+        "salience": 0.87
+      },
+      {
+        "name": "education",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Finance Brokers Association of Australia",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "PropertyInvesting.com",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Investment Property Finance Specialist",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Mentoring/Coaching",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Storm financial services",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "CDR Finance",
+        "type": "ORGANIZATION",
+        "salience": 0.82
+      },
+      {
+        "name": "big 4",
+        "type": "ORGANIZATION",
+        "salience": 0.82
+      },
+      {
+        "name": "CentralChoice",
+        "type": "ORGANIZATION",
+        "salience": 0.82
+      },
+      {
+        "name": "advocacy",
+        "type": "CONCEPT",
+        "salience": 0.8
+      },
+      {
+        "name": "Diploma of Finance and Mortgage Broking Management",
+        "type": "CREDENTIAL",
+        "salience": 0.8
+      }
+    ],
+    "lsi_keywords": [
+      "finance broker australia",
+      "mortgage broker australia",
+      "finance broker near me",
+      "registered finance broker",
+      "finance broker mfaa",
+      "finance broker fbaa",
+      "commercial finance broker",
+      "business loan broker australia",
+      "equipment finance broker",
+      "finance broker mentorship",
+      "finance broker diploma",
+      "finance broker cpd",
+      "finance broker aggregator",
+      "finance broker commission split",
+      "finance broker connective"
+    ]
+  },
+  "image": {
+    "file": "construction-loans-brisbane.jpg",
+    "photographer": "Jonah Benz",
+    "source": "Unsplash",
+    "credit": "Photo by Jonah Benz on Unsplash"
+  },
+  "build_date": "2026-07-31",
+  "money_home_text": "Bottom Line Finance | Private Lending and Development Funding Menu Services Private Lending Construction Loans Residual Stock Loans Bridging Finance Mezzanine Finance Development Finance Caveat Loans Preferred Equity Second Mortgages What We Fund Residential Commercial Industrial Specialised Assets Childcare Farm & Agribusiness Locations Sydney Melbourne Brisbane Perth Adelaide Gold Coast Sunshine Coast NSW Regional QLD Regional VIC Regional WA Regional Resources Why Non-Bank Funding Opportunity Cost of Capital Superficial vs Superior Funding Case Studies About Contact Get Funding Private lending &middot; Development funding Funding strategies designed and delivered. Bottom Line Finance arranges private lending and construction development funding from non-bank lenders, for developers and asset-backed borrowers who do not tick the bank boxes. Strategic capital, structured around your deal. Talk through your deal Why non-bank funding &rarr; Let's talk about your deal Ask about private lending and development funding. Tap to talk now. What we do Capital structured for the bottom line We design funding that protects your equity and lifts your return on equity, not just the cheapest rate on the page. Private Lending Private lending is commercial, business-purpose capital from non-bank and private lenders, secured against property or other as... Learn more &rarr; Construction Loans A construction loan funds a build in progress draws released against the program as work is completed. We arrange commercial co... Learn more &rarr; Residual Stock Loans A residual stock loan refinances unsold, completed dwellings after practical completion. It releases the equity tied up in fini... Learn more &rarr; Bridging Finance Bridging finance is short-term capital that closes a timing gap. Whether you are settling a site before a sale completes, relea... Learn more &rarr; Mezzanine Finance Mezzanine finance is a subordinated layer of debt that sits behind the senior lender and ahead of equity in the capital stack. ... Learn more &rarr; Development Finance Property development finance funds the land, the build and the cost to completion. We arrange development funding through non-b... Learn more &rarr; See all services &rarr; Price is what you pay. Value is what you get. The cheapest rate is rarely the best outcome. We weigh the cost of capital against return on equity, time, risk and the relationships that let you do the next deal. No deal is better than a bad deal. What we fund Asset-backed across the spectrum Residential, commercial, industrial, specialised and rural. If the deal and the security stack up, we will find the capital. Residential We arrange funding for residential development across the spectrum, from townhouse projects and apartment towers to land subdiv... Explore &rarr; Commercial We arrange funding for commercial property development and acquisition, from retail and office through to hotel, short-stay and... Explore &rarr; Industrial Industrial is one of the more sought-after asset classes for structured funding, supported by strong tenant demand in many mark... Explore &rarr; Specialised Assets Specialised assets and social infrastructure need lenders who understand the income, the operator and the long-term value. We a... Explore &rarr; Childcare Childcare is a sector we know well. We arrange funding for childcare development and acquisition, and we arrange capital partne... Explore &rarr; Farm & Agribusiness Farm and agribusiness deals rarely fit a standard bank box. We arrange rural and agribusiness funding through non-bank and priv... Explore &rarr; Talk to us Tell us about the deal Send the project, the numbers and the timeline. We will tell you honestly whether we can fund it and what the right structure looks like. No phone tag, no jargon. Email loans@bottomlinefinance.com.au . Name Email Phone (optional) Tell us about the deal Send enquiry Or email us at loans@bottomlinefinance.com.au . Funding strategies designed and delivered for private lending and development funding. Value over price. Services Private Lending Construction Loans Residual Stock Loans Bridging Finance Mezzanine Finance Development Finance What We Fund Residential Commercial Industrial Specialised Assets Childcare Farm & Agribusiness Company About Resources Locations Contact Commercial and business-purpose funding only. Bottom Line Finance arranges finance through third-party non-bank and private lenders and does not arrange consumer credit or owner-occupied home loans. Information on this site is general only, is not financial, credit or investment advice, and is not an offer of finance. Case studies are illustrative of past transactions; outcomes vary by deal and do not represent current or typical terms. &copy; 2026 Bottom Line Finance loans@bottomlinefinance.com.au &times; Tell us about your deal Project type, location, amount and timeline. We will be honest about whether we can fund it. Name Email Phone (optional) Tell us about the deal Send enquiry Or email us at loans@bottomlinefinance.com.au .",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.bottomlinefinance.com.au/services",
+    "https://www.bottomlinefinance.com.au/private-lending",
+    "https://www.bottomlinefinance.com.au/construction-loans",
+    "https://www.bottomlinefinance.com.au/residual-stock-loans",
+    "https://www.bottomlinefinance.com.au/bridging-finance",
+    "https://www.bottomlinefinance.com.au/mezzanine-finance",
+    "https://www.bottomlinefinance.com.au/property-development-finance",
+    "https://www.bottomlinefinance.com.au/caveat-loans",
+    "https://www.bottomlinefinance.com.au/preferred-equity",
+    "https://www.bottomlinefinance.com.au/second-mortgages",
+    "https://www.bottomlinefinance.com.au/what-we-fund",
+    "https://www.bottomlinefinance.com.au/residential",
+    "https://www.bottomlinefinance.com.au/commercial",
+    "https://www.bottomlinefinance.com.au/industrial",
+    "https://www.bottomlinefinance.com.au/specialised-assets",
+    "https://www.bottomlinefinance.com.au/childcare-development-finance",
+    "https://www.bottomlinefinance.com.au/farm-finance",
+    "https://www.bottomlinefinance.com.au/locations",
+    "https://www.bottomlinefinance.com.au/sydney",
+    "https://www.bottomlinefinance.com.au/melbourne",
+    "https://www.bottomlinefinance.com.au/brisbane",
+    "https://www.bottomlinefinance.com.au/perth",
+    "https://www.bottomlinefinance.com.au/adelaide",
+    "https://www.bottomlinefinance.com.au/gold-coast",
+    "https://www.bottomlinefinance.com.au/sunshine-coast"
+  ]
+}
