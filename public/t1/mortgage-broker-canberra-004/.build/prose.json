@@ -1,0 +1,243 @@
+{
+  "kicker": "ACT Home Loans",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "Check lender comparisons, scheme fit, timelines and refinance trade offs before you apply.",
+  "takeaway": "A useful Canberra baseline is access to 100+ lenders, pre approval often within 24 to 48 hours, full approval commonly in 2 to 3 weeks, and standard residential broker help generally at no direct cost. The source material also points to distinct paths for first home buyers, refinancers, investors and construction borrowers, with named options including the Home Buyer Concession Scheme, a 5% First Home Guarantee pathway and a 2% Help to Buy pathway where eligible.",
+  "lead": "For borrowers comparing mortgage broker canberra options, the practical task is to match lender choice, scheme fit and approval timing to the way you plan to buy, refinance or build.",
+  "lead_tail": "so the application suits the property plan from the start.",
+  "stats": [
+    {
+      "value": "100+",
+      "label": "lenders compared"
+    },
+    {
+      "value": "24-48h",
+      "label": "pre approval benchmark"
+    },
+    {
+      "value": "2-3 weeks",
+      "label": "full approval benchmark"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why comparison matters before you lodge",
+      "html": "<p><a href=\"https://www.canberrahomeloanbroker.com.au/\">Canberra Home Loan Broker</a> frames the main benefit as comparing options across 100+ lenders, with help preparing a stronger application and support through to settlement. That is most useful when the issue is not only rate, but also credit policy, deposit position, available features and how cleanly the file can be documented.</p><p>Moneysmart recommends comparing home loans on fees, features and suitability as well as interest rate. That changes the first conversation. Instead of asking for the cheapest advertised option, ask which lenders fit your scenario, what documents will be needed before pre approval, and whether the proposed loan structure still works if your plans change after purchase.</p><ul><li>Check whether the shortlist is based on real lender fit rather than a broad panel claim.</li><li>Ask what information could cause a lender to reassess the file later.</li><li>Compare rate, offset access, redraw and flexibility together, not one by one.</li></ul>"
+    },
+    {
+      "h2": "Use the borrower path that matches the file",
+      "html": "<p>The source material is clearest when it separates borrower types. First home buyers are directed to ACT support including the Home Buyer Concession Scheme and the First Home Guarantee. Refinancers are pointed to rate reviews, equity access for renovations and debt consolidation, with savings assessed after exit costs. Investors are shown a different set of questions, including interest only options, offset accounts and portfolio growth strategies.</p><p>Construction borrowers need a separate workflow again. The source page describes progressive drawdown loans, where funds are released at each building stage, and says brokers coordinate with builders so payment schedules align with the loan structure. That means the timing, builder paperwork and lender conditions matter earlier than they would on an established property purchase.</p><p>For Canberra and nearby Queanbeyan borrowers, locality is earned through these approval paths. The useful question is not which suburb appears in marketing copy, but which borrowing path fits your deposit, property type and timing.</p>"
+    },
+    {
+      "h2": "Check schemes and deposits without assuming eligibility",
+      "html": "<p>The source page gives several concrete markers. It says the First Home Guarantee can allow a purchase with a 5% deposit without lenders mortgage insurance, and that Help to Buy can allow a 2% deposit. It also states that, from July 2025, eligible buyers pay no stamp duty on properties up to $1,020,000 under the ACT Home Buyer Concession Scheme, with concessional rates up to $1,455,000 and a maximum saving of $35,238.</p><p>Those figures are useful only if the rules match your position. The same source says applicants must not have owned property in Australia in the past 5 years and must live in the property for at least 1 year. If your purchase depends on a scheme, treat eligibility as a decision gate, not an afterthought.</p><ul><li>Confirm ownership history before relying on a first home pathway.</li><li>Check whether the occupancy plan still satisfies the scheme rules.</li><li>Ask how a low deposit option changes loan structure and future flexibility.</li></ul>"
+    },
+    {
+      "h2": "Timelines are useful only when the paperwork is ready",
+      "html": "<p>The source page gives a benchmark of pre approval within 24 to 48 hours and full approval in 2 to 3 weeks. It also says timing depends on documentation, application complexity and lender workload. That makes the benchmark useful for planning, but not something to assume for every file.</p><p>For purchases, the main value in early broker work is finding the delays before they become contract pressure. Missing income evidence, unclear liabilities, inconsistent living expense details or incomplete building documents can all slow a file. For refinances, the same timing questions matter because a sharper rate is not enough if the switch does not stack up after exit costs and settlement time.</p><p>If you are building, ask for the approval sequence in plain language, from the initial document pack to each drawdown stage. That usually gives a better planning tool than another broad rate comparison.</p>"
+    },
+    {
+      "h2": "Questions that improve the first call",
+      "html": "<p>The source page says standard residential broker help is generally at no direct cost because brokers receive commission from the lender when the loan settles. It also says finance professionals should hold their own Australian Credit Licence or act as an authorised credit representative, and that the broker will provide a Credit Guide before giving credit assistance. Those details make the first call easier to structure.</p><ul><li>Which lenders are realistic for my file, and which are poor fits?</li><li>What is the trade off between a lower rate and features such as an offset account?</li><li>How are refinance savings tested after exit costs, not before them?</li><li>If I am buying as an investor, when does an interest only period help and when does it simply delay repayment pressure?</li><li>For a build, what builder and progress payment documents are needed before lodgement?</li></ul><p>Moneysmart's investment guidance is a useful check for investors because it pushes the discussion back to affordability and cash flow, not just tax treatment or growth expectations.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Which borrowing path needs the closest review",
+    "headers": [
+      "Scenario",
+      "What to compare",
+      "Key source detail"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Scheme fit, deposit path, occupancy rules",
+        "ACT concession guidance, 5% First Home Guarantee option, possible 2% Help to Buy path"
+      ],
+      [
+        "Refinancer",
+        "Savings after costs, equity access, timing",
+        "Rate review across 100+ lenders, with true savings checked after exit costs"
+      ],
+      [
+        "Investor",
+        "Structure, features, repayment strategy",
+        "Interest only options, offset accounts and portfolio growth strategies are named"
+      ],
+      [
+        "Construction borrower",
+        "Drawdowns, builder coordination, approval sequence",
+        "Funds released at each building stage under a progressive drawdown structure"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Choose the path",
+      "text": "Decide whether the loan is for a first purchase, refinance, investment or construction project before comparing lenders."
+    },
+    {
+      "name": "Build the file",
+      "text": "Gather income, liability and property documents early so lender fit can be tested without avoidable delays."
+    },
+    {
+      "name": "Verify scheme fit",
+      "text": "If you are relying on an ACT concession or guarantee, confirm the current eligibility rules before making the purchase plan depend on them."
+    },
+    {
+      "name": "Compare the outcome",
+      "text": "Judge the shortlist on approval fit, fees, features and timing, not on rate alone."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are broker services usually free for borrowers in Canberra?",
+      "a": "The source page says standard residential broker help is generally at no direct cost to the borrower because the broker receives commission from the lender when the loan settles. Ask for the Credit Guide so the scope of assistance and remuneration are clear."
+    },
+    {
+      "q": "How long can approval take?",
+      "a": "The source page gives a benchmark of 24 to 48 hours for pre approval and 2 to 3 weeks for full approval. It also says documentation, lender workload and application complexity can change the timing."
+    },
+    {
+      "q": "When is a broker more useful than going straight to one bank?",
+      "a": "A broker is most useful when lender fit is the issue, not only the advertised rate. The source page says options can be compared across 100+ lenders, and Moneysmart says borrowers should compare fees, features and suitability as well as interest rate."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Borrowers can compare options across 100+ lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "Borrowers can get help preparing a stronger application and support through to settlement.",
+      "source": "money page"
+    },
+    {
+      "claim": "Moneysmart advises borrowers to compare fees, features and suitability as well as interest rate.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "The source page identifies first home buyers, refinancers, investors and construction borrowers as supported scenarios.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page points first home buyers to the Home Buyer Concession Scheme and the First Home Guarantee.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says refinancers may review rates, access equity for renovations and consolidate debt, with savings assessed after exit costs.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says investors can explore interest only options, offset accounts and portfolio growth strategies.",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction loans are described as progressive drawdown loans with funds released at each building stage.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says brokers coordinate with builders so payment schedules align with the loan structure.",
+      "source": "money page"
+    },
+    {
+      "claim": "The First Home Guarantee can allow a purchase with a 5% deposit without lenders mortgage insurance.",
+      "source": "money page"
+    },
+    {
+      "claim": "Help to Buy can allow a 2% deposit.",
+      "source": "money page"
+    },
+    {
+      "claim": "From July 2025, eligible buyers pay no stamp duty on properties up to $1,020,000 under the ACT Home Buyer Concession Scheme, with concessional rates up to $1,455,000 and a maximum saving of $35,238.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says applicants must not have owned property in Australia in the past 5 years and must live in the property for at least 1 year.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page gives a benchmark of pre approval within 24 to 48 hours and full approval in 2 to 3 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says approval timing depends on documentation, application complexity and lender workload.",
+      "source": "money page"
+    },
+    {
+      "claim": "Standard residential broker help is generally at no direct cost because the broker receives commission from the lender when the loan settles.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance professionals should hold their own Australian Credit Licence or act as an authorised credit representative.",
+      "source": "money page"
+    },
+    {
+      "claim": "The broker will provide a Credit Guide before giving credit assistance.",
+      "source": "money page"
+    },
+    {
+      "claim": "Moneysmart's property investment guidance focuses on affordability and cash flow when assessing an investment property.",
+      "source": "https://moneysmart.gov.au/property-investment"
+    }
+  ],
+  "scope": "This guide covers how Canberra borrowers can compare lender fit, schemes, approval timing and loan structure before applying."
+}
