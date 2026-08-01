@@ -1,0 +1,291 @@
+{
+  "node_id": "westernsydneykitchenrenovation.com-004",
+  "money_domain": "westernsydneykitchenrenovation.com.au",
+  "money_home_url": "https://www.westernsydneykitchenrenovation.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/kitchen-renovations-western-sydney-004/",
+  "live_url": "https://sites-e470-1.web.app/kitchen-renovations-western-sydney-004/",
+  "subdomain": "kitchen-renovations-western-sydney",
+  "gh_repo": null,
+  "primary_kw": "kitchen renovations western sydney",
+  "kw_slug": "kitchen-renovations-western-sydney",
+  "anchor_kw": "kitchen renovations western sydney",
+  "brand": "Kitchen Renovation Western Sydney",
+  "target_page_url": "https://www.westernsydneykitchenrenovation.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\westernsydneykitchenrenovation.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "kitchen renovation",
+        "type": "SERVICE",
+        "salience": 0.3
+      },
+      {
+        "name": "Western Sydney",
+        "type": "LOCATION",
+        "salience": 0.24
+      },
+      {
+        "name": "Parramatta",
+        "type": "LOCATION",
+        "salience": 0.14
+      },
+      {
+        "name": "custom cabinetry",
+        "type": "SERVICE",
+        "salience": 0.12
+      },
+      {
+        "name": "stone benchtop",
+        "type": "SERVICE",
+        "salience": 0.11
+      },
+      {
+        "name": "licensed builder NSW",
+        "type": "ORGANIZATION",
+        "salience": 0.1
+      },
+      {
+        "name": "HIA",
+        "type": "ORGANIZATION",
+        "salience": 0.1
+      },
+      {
+        "name": "kitchen designers",
+        "type": "SERVICE",
+        "salience": 0.1
+      },
+      {
+        "name": "Penrith",
+        "type": "LOCATION",
+        "salience": 0.08
+      },
+      {
+        "name": "Blacktown",
+        "type": "LOCATION",
+        "salience": 0.08
+      },
+      {
+        "name": "splashbacks",
+        "type": "SERVICE",
+        "salience": 0.08
+      },
+      {
+        "name": "3D kitchen design",
+        "type": "SERVICE",
+        "salience": 0.08
+      },
+      {
+        "name": "council approval NSW",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "Liverpool",
+        "type": "LOCATION",
+        "salience": 0.07
+      },
+      {
+        "name": "Campbelltown",
+        "type": "LOCATION",
+        "salience": 0.07
+      },
+      {
+        "name": "kitchen island",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "Master Builders Association",
+        "type": "ORGANIZATION",
+        "salience": 0.07
+      },
+      {
+        "name": "kitchen installation",
+        "type": "SERVICE",
+        "salience": 0.07
+      },
+      {
+        "name": "transparent pricing tiers",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "Bankstown",
+        "type": "LOCATION",
+        "salience": 0.06
+      },
+      {
+        "name": "Fairfield",
+        "type": "LOCATION",
+        "salience": 0.06
+      },
+      {
+        "name": "Hills District",
+        "type": "LOCATION",
+        "salience": 0.06
+      },
+      {
+        "name": "flat pack kitchens",
+        "type": "SERVICE",
+        "salience": 0.06
+      },
+      {
+        "name": "butler's pantry",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "cabinet makers",
+        "type": "SERVICE",
+        "salience": 0.06
+      },
+      {
+        "name": "federation home kitchen",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "project home kitchen upgrade",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "Auburn",
+        "type": "LOCATION",
+        "salience": 0.05
+      },
+      {
+        "name": "before and after gallery",
+        "type": "CONCEPT",
+        "salience": 0.05
+      }
+    ],
+    "lsi_keywords": [
+      "kitchen renovations western sydney",
+      "affordable kitchen renovations western sydney",
+      "kitchen renovation parramatta",
+      "kitchen renovation penrith",
+      "kitchen renovation blacktown",
+      "small kitchen renovation",
+      "kitchen designers western sydney",
+      "kitchen remodel cost",
+      "kitchen renovation quote",
+      "custom cabinetry sydney",
+      "stone benchtop installation",
+      "licensed kitchen builder NSW",
+      "HIA member kitchen",
+      "3D kitchen design sydney",
+      "butlers pantry design"
+    ]
+  },
+  "image": {
+    "file": "kitchen-renovations-western-sydney.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-01",
+  "money_home_text": "Kitchen Renovation Western Sydney | Matched Renovation Quote Skip to content Kitchen Renovation Western Sydney Home Services Locations Tools Resources FAQ Contact Free Quote Open menu Home Services Locations Tools Resources FAQ Contact Sample reviews Example reviews are not published until verified client feedback is available. Western Sydney Kitchen Renovation Western Sydney find kitchen renovation providers across Parramatta, Penrith, Blacktown and the wider Western Sydney catchment. The site introduces quote discussions. The selected provider supplies licence, insurance and contract details before work starts. Request a quote View suburbs Request a Free, No-Obligation Quote Tell us about your project and we&#39;ll respond within one business day. Your name Phone Email Suburb / Postcode Tell us about your project Request My Free Quote your details are used only to respond to your enquiry. See our privacy policy . Clean Western Sydney input Built from the 0151 Western Sydney row, KGR output and trades knowledge base. Provider credentials at quote stage selected providers must supply licence, insurance, warranty and contract details before signing. Local service-area map Location pages use the 15 Western Sydney suburbs, streets and landmarks from the source row. Form-led lead capture Public phone is suppressed until a renter or provider is attached. Kitchen renovation quote matching The build is governed by the stage-02 keyword map: kitchen renovation Western Sydney, Parramatta, Penrith, Blacktown, strata kitchens, cabinetry and benchtops. Full Kitchen Renovations Whole-project kitchen renovation quote matching for layout, cabinetry, benchtops, licensed trades and handover. Custom Cabinetry and Joinery providering for custom kitchen cabinetry, joinery, pantry storage, door profiles and drawer hardware. Stone Benchtop Installation Quote matching for benchtop replacement, porcelain, sintered stone, natural stone and compliant material alternatives. Strata Kitchen Renovations Apartment and strata kitchen quote matching for Parramatta, Westmead, Liverpool and other high-density suburbs. Kitchen Makeovers Smaller-scope quote matching for cabinet door refreshes, handles, splashbacks, benchtops and targeted upgrades. Older Home Kitchen Renovations Quote matching for post-war brick, fibro, terrace and heritage-stock kitchens across established Western Sydney suburbs. Western Sydney service areas Parramatta NSW 2150 Penrith NSW 2750 Blacktown NSW 2148 Castle Hill NSW 2154 Liverpool NSW 2170 Bankstown NSW 2200 Auburn NSW 2144 Granville NSW 2142 Westmead NSW 2145 Merrylands NSW 2160 Wentworthville NSW 2145 Toongabbie NSW 2146 Seven Hills NSW 2147 Mount Druitt NSW 2770 Rooty Hill NSW 2766 Kitchen Renovation Western Sydney FAQs Common quote-matching questions for Western Sydney kitchen renovation projects. How much does a kitchen renovation cost in Western Sydney? Most Western Sydney kitchen renovations land between $25,000 and $65,000 fully fitted. Budget refresh starts around $18,000 (cabinet doors, benchtop, splashback). Mid-range full reno is typically $35,000-$50,000. Premium with stone, brass and custom joinery can exceed $80,000. How long does a kitchen renovation take in Sydney? Allow 4-8 weeks from contract signing to handover. Site work itself is usually 2-3 weeks once cabinetry is on site. Lead time on cabinets, stone and appliances drives the front half. Do you handle strata approval for unit kitchens? Strata kitchens often need written approval before work starts. Ask your strata manager what documents they require, then confirm those requirements with the renovation provider before signing. Are you NSW-licensed builders? Kitchen renovation work in NSW can require appropriately licensed trades and builders. Check the licence details of the provider you choose before approving work. What warranty do you give? Warranty terms vary by provider, product and contract. Ask for workmanship, cabinetry, benchtop and appliance warranty terms in writing before work starts. Start with a clear quote brief The follow-on workers use this site map, keyword map and URL map for cloud links, social drafts and monitoring. Request a Free, No-Obligation Quote Tell us about your project and we&#39;ll respond within one business day. Your name Phone Email Suburb / Postcode Request My Free Quote your details are used only to respond to your enquiry. See our privacy policy . Kitchen Renovation Western Sydney Serving every suburb across Western Sydney from Parramatta to Penrith. Explore About Services Cost Calculator Renovation Checklist Resources FAQ Contact Kitchen Renovation Western Sydney Locations Parramatta Penrith Blacktown Castle Hill Liverpool Bankstown Auburn Granville Westmead Merrylands Wentworthville Toongabbie Seven Hills Mount Druitt Rooty Hill Legal Privacy Policy Terms of Service Disclaimer &copy; 2026 Kitchen Renovation Western Sydney. All rights reserved. Built in Western Sydney, NSW. All quotes, prices, rates and estimates shown or provided are indicative only and subject to your individual circumstances and revision. They are not a binding offer or professional advice. Get a Free Quote Tell us about your project We&#39;ll get back within one business day. Your name Phone Email Suburb / Postcode Request My Free Quote your details are used only to respond to your enquiry. See our privacy policy .",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.westernsydneykitchenrenovation.com.au/services/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/",
+    "https://www.westernsydneykitchenrenovation.com.au/tools/cost-calculator/",
+    "https://www.westernsydneykitchenrenovation.com.au/resources/",
+    "https://www.westernsydneykitchenrenovation.com.au/faq/",
+    "https://www.westernsydneykitchenrenovation.com.au/services/full-kitchen-renovations/",
+    "https://www.westernsydneykitchenrenovation.com.au/services/custom-cabinetry-and-joinery/",
+    "https://www.westernsydneykitchenrenovation.com.au/services/stone-benchtop-installation/",
+    "https://www.westernsydneykitchenrenovation.com.au/services/strata-kitchen-renovations/",
+    "https://www.westernsydneykitchenrenovation.com.au/services/kitchen-makeovers/",
+    "https://www.westernsydneykitchenrenovation.com.au/services/older-home-kitchen-renovations/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/parramatta/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/penrith/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/blacktown/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/castle-hill/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/liverpool/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/bankstown/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/auburn/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/granville/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/westmead/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/merrylands/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/wentworthville/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/toongabbie/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/seven-hills/",
+    "https://www.westernsydneykitchenrenovation.com.au/locations/mount-druitt/"
+  ],
+  "firebase_path": "kitchen-renovations-western-sydney-004"
+}
