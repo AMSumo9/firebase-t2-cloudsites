@@ -1,0 +1,231 @@
+{
+  "kicker": "Brisbane Repair Guide",
+  "h1_tail": "What To Check First",
+  "meta_hook": "Use fault signs and quote checks to choose the right repair path sooner.",
+  "takeaway": "If a garage door will not open, close or lock, the practical split is between a reversing fault, a lifting fault, or an opener problem. Garage Door Repairs in Brisbane notes that minor adjustments and opener fixes often sit in the low hundreds of dollars, while spring, cable or motor replacement costs more. It also states that you should receive a written, fixed-price quote before work starts, and that mains-voltage opener wiring in Queensland must be handled by a licensed electrician.",
+  "lead": "For households comparing garage door repairs brisbane options, the useful first step is to sort the fault into a stop use issue, a routine mechanical repair, or an opener job that may also involve licensed electrical work.",
+  "lead_tail": "so the first enquiry starts with a clear fault description",
+  "stats": [
+    {
+      "value": "15",
+      "label": "Brisbane suburbs listed"
+    },
+    {
+      "value": "Low hundreds",
+      "label": "where minor adjustments and opener fixes often sit"
+    },
+    {
+      "value": "Fixed-price",
+      "label": "written quote before work starts"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Describe the fault before you ask for a price",
+      "html": "<p>When reviewing <a href=\"https://www.garagedoorrepairsinbrisbane.com.au/\">Garage Door Repairs in Brisbane</a>, the most useful detail is not a broad request for a repair cost. It is the behaviour of the door. The source page points to a short list of common faults, broken springs, frayed cables, off track doors, faulty openers, and doors that will not open, close or lock. That list gives you a cleaner starting point for a booking than asking for a generic service call.</p><p>A door that reverses just before the floor suggests a different inspection from a door that has gone heavy, is hanging crooked, or no longer responds to the remote. If the door is a roller model, this guide to <a href=\"https://cloudsites-hub.pages.dev/sites-01/garagedoorrepairsinbrisbane.com-004/\">roller door repairs in Brisbane</a> is the closer comparison. In the first message or call, note the door type, whether it is manual or powered, and whether it is stuck open, shut, or partly secure.</p>"
+    },
+    {
+      "h2": "Stop use signals worth treating seriously",
+      "html": "<p>The clearest stop use issue in the source material is a broken spring. Because the spring carries most of the door's weight, a failure leaves the door heavy and unbalanced. That changes the job from an inconvenience to a safety problem. If the door suddenly feels much harder to lift, drops faster than usual, or the opener strains instead of raising it smoothly, the spring system belongs at the top of the description you give the technician.</p><p>Security is the other urgent category. A door that will not secure at all is treated as an emergency repair priority on the source page. By contrast, a door that closes part way and then reverses usually points first to the photo eyes near the bottom of the tracks. Check whether that path is dirty, blocked, or visibly out of line. If the fault remains, the same page notes that worn rollers, a bent track, or the opener's force and travel settings can also be involved.</p>"
+    },
+    {
+      "h2": "What changes the quote, and what does not",
+      "html": "<p>The pricing guidance is narrow, but it gives a better framework than a single headline number. Minor adjustments and opener fixes often sit in the low hundreds of dollars. Spring, cable, or motor replacement costs more. That is useful because it tells you the size of the repair follows the failed component, not the suburb name or a vague label such as \"door not working\".</p><p>Access also affects the figure. A door that can be inspected easily and a fault that is already clear can be scoped faster than a jammed door with several possible causes. Visible storm damage to a panel or section matters because it can shift the job from adjustment to replacement. The source page also notes that website figures are indicative only, so the practical checkpoint is the written, fixed-price quote before work begins, not the early range. For a rough starting point, it links to a <a href=\"https://www.garagedoorrepairsinbrisbane.com.au/tools/cost-calculator/\">garage door cost calculator</a>.</p>"
+    },
+    {
+      "h2": "Separate door mechanics from powered opener work",
+      "html": "<p>Powered door faults are easy to lump together, but the source page breaks them into specific signs, straining motors, dead remotes, limit switch faults, and worn drive components. That matters because some issues stay within the opener itself, while others overlap with the door hardware. A remote that stops responding is a different conversation from an opener that runs while the door binds on the track.</p><p>The trade boundary is also clear. Any mains voltage wiring, new power points, or hard wired connections for a powered opener must be carried out by a licensed electrician in Queensland under the Electrical Safety Act 2002. Mechanical work on the door, springs, and tracks does not need an electrician. When booking, ask whether the scope is limited to the door and opener hardware or whether it includes mains electrical work as well. That one question narrows the attendance required and makes the quote more precise.</p>"
+    },
+    {
+      "h2": "Who this guide applies to around Brisbane",
+      "html": "<p>This page is aimed at owners who need to report a fault clearly before a visit is arranged. It is most useful when the door has stopped moving, become hard to lift, started reversing, or shown visible damage to cables, rollers, tracks, panels, or sections. It is less useful as a maintenance article than as a decision guide for the first contact, because the source material is strongest on fault signs, quote handling, and trade scope.</p><p>Brisbane coverage matters only as a service boundary. The source page refers to the northside, inner west, south and bayside, and names places including Chermside, Aspley, Wynnum, Carindale, and Kenmore. After that, the better local questions are practical ones, can the door still lock, is the vehicle trapped, is there clear access to inspect the door, and does the opener issue involve wiring or a hard wired connection. Those details do more to define the repair path than a long list of suburbs.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common fault signs and the next booking detail",
+    "headers": [
+      "Fault sign",
+      "Likely area",
+      "Best detail to give"
+    ],
+    "rows": [
+      [
+        "Door will not close or keeps reversing",
+        "Safety sensors, tracks, opener settings",
+        "Whether the photo eyes are blocked, dirty or misaligned"
+      ],
+      [
+        "Door feels heavy or unbalanced",
+        "Spring system",
+        "Whether the spring appears broken and whether the door can still move"
+      ],
+      [
+        "Motor strains or remotes fail",
+        "Opener components or settings",
+        "Whether the issue is the remote, limit switch behaviour or worn drive parts"
+      ],
+      [
+        "Door is jammed or derailed",
+        "Tracks, rollers or cables",
+        "Whether it is off track, scraping, stuck open, or stuck shut"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the behaviour",
+      "text": "Explain whether the door will not open, will not close, keeps reversing, feels heavy, or shows visible cable, track, panel or section damage."
+    },
+    {
+      "name": "Identify the setup",
+      "text": "State whether the door is sectional, roller or tilt, and whether it is manual or powered."
+    },
+    {
+      "name": "Confirm electrical scope",
+      "text": "Ask whether the job includes mains-voltage wiring, a new power point, or a hard-wired opener connection, because that work must be done by a licensed electrician in Queensland."
+    },
+    {
+      "name": "Request the firm quote",
+      "text": "Use any online range as a guide only, then ask for the written, fixed-price quote before work starts."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why does a garage door close part way and then reverse?",
+      "a": "The source page points first to the safety sensors, with photo eyes near the bottom of the tracks that may be misaligned, dirty, or obstructed. It also lists worn rollers, a bent track, and the opener's force and travel settings as other possible causes, so a fault that persists needs a technician check."
+    },
+    {
+      "q": "Is it safe to keep using the opener if a spring has broken?",
+      "a": "No. The source page explains that the spring carries most of the door's weight, so a broken one leaves the door heavy, unbalanced, and unsafe to operate. It also notes that forcing the opener can bend tracks, strain the motor, or drop the door."
+    },
+    {
+      "q": "Do powered door repairs always need an electrician?",
+      "a": "No. Mechanical work on the door, springs, and tracks does not need an electrician according to the source page. An electrician is required when the work involves mains-voltage wiring, a new power point, or a hard-wired opener connection in Queensland."
+    }
+  ],
+  "about": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Garage Door Repairs in Brisbane lists broken springs, frayed cables, off-track doors, faulty openers, and doors that will not open, close or lock among common faults.",
+      "source": "money page"
+    },
+    {
+      "claim": "Garage Door Repairs in Brisbane provides services for sectional, roller and tilt doors, plus common opener brands.",
+      "source": "money page"
+    },
+    {
+      "claim": "A broken spring makes the door heavy, unbalanced and unsafe to operate because the spring carries most of the door's weight.",
+      "source": "money page"
+    },
+    {
+      "claim": "Forcing the opener when a spring has broken can bend tracks, strain the motor or drop the door.",
+      "source": "money page"
+    },
+    {
+      "claim": "A door that will not secure at all is treated as an emergency garage door repair priority.",
+      "source": "money page"
+    },
+    {
+      "claim": "A door that will not close properly or keeps reversing is usually caused by safety sensors that are misaligned, dirty or obstructed.",
+      "source": "money page"
+    },
+    {
+      "claim": "Worn rollers, a bent track, or the opener's force and travel settings can also cause reversing or closing faults.",
+      "source": "money page"
+    },
+    {
+      "claim": "Minor adjustments and opener fixes often sit in the low hundreds of dollars, while spring, cable or motor replacement costs more.",
+      "source": "money page"
+    },
+    {
+      "claim": "Labour rates and access at the property affect the figure, and website pricing figures are indicative only.",
+      "source": "money page"
+    },
+    {
+      "claim": "A written, fixed-price quote is provided before any work starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Garage Door Repairs in Brisbane provides a garage door cost calculator.",
+      "source": "money page"
+    },
+    {
+      "claim": "Common opener issues listed on the source page include straining motors, dead remotes, limit-switch faults and worn drive components.",
+      "source": "money page"
+    },
+    {
+      "claim": "Any mains-voltage wiring, new power points or hard-wired connections for a powered opener must be carried out by a licensed electrician in Queensland under the Electrical Safety Act 2002.",
+      "source": "money page"
+    },
+    {
+      "claim": "Mechanical work on the door, springs and tracks does not need an electrician.",
+      "source": "money page"
+    },
+    {
+      "claim": "Garage Door Repairs in Brisbane refers to coverage across Brisbane including the northside, inner-west, south and bayside, with examples including Chermside, Aspley, Wynnum, Carindale and Kenmore.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists 15 Brisbane suburbs.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers fault signs, stop use checks, quote inputs, and electrical scope questions for Brisbane garage door enquiries."
+}

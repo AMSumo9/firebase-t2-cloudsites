@@ -1,0 +1,20 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The business lists broken springs, frayed cables, off-track doors, faulty openers, and doors that will not open, close or lock among common faults. | SUPPORTED | MONEY_PAGE_TEXT says: “A door that will not open, close or lock...” and “fix broken springs, frayed cables, off-track doors and faulty openers”. |
+| The business lists roller, sectional and tilt doors. | SUPPORTED | MONEY_PAGE_TEXT says: “Sectional, roller and tilt doors”. |
+| The business says a broken spring makes the door heavy, unbalanced and unsafe to operate because the spring carries most of the door's weight. | SUPPORTED | MONEY_PAGE_TEXT says: “The spring carries most of the door's weight, so a broken one makes the door heavy, unbalanced and unsafe to operate.” |
+| The business says forcing the opener when a spring has broken can bend tracks, strain the motor or drop the door. | SUPPORTED | MONEY_PAGE_TEXT says: “Forcing it with the opener can bend tracks, strain the motor or drop the door.” |
+| The business says a door that will not secure at all is an emergency repair priority. | SUPPORTED | MONEY_PAGE_TEXT says: “When a door will not secure at all, emergency garage door repair is the priority.” |
+| The business says a door that will not close properly or keeps reversing is usually caused by safety sensors that are misaligned, dirty or obstructed. | SUPPORTED | MONEY_PAGE_TEXT says: “A door that will not close or keeps reversing is usually a safety-sensor problem: the photo-eyes... are misaligned, dirty or obstructed.” |
+| The business says worn rollers, a bent track, or the opener's force and travel settings can also cause reversing or closing faults. | SUPPORTED | MONEY_PAGE_TEXT says: “Worn rollers, a bent track or the opener's force and travel settings can also be the cause.” |
+| The business says minor adjustments and opener fixes often sit in the low hundreds of dollars, while spring, cable or motor replacement costs more. | SUPPORTED | MONEY_PAGE_TEXT says: “Minor adjustments and opener fixes often sit in the low hundreds of dollars, while spring, cable or motor replacement costs more.” |
+| The business says labour rates and access at the property affect the figure, and that website pricing figures are indicative only. | SUPPORTED | MONEY_PAGE_TEXT says: “labour rates and access at your property affect the figure” and “the figures on this site are indicative only.” |
+| The business says a written, fixed-price quote is provided before any work starts. | SUPPORTED | MONEY_PAGE_TEXT repeatedly says: “You get a written, fixed-price quote before any work starts.” |
+| The business provides a garage door cost calculator. | SUPPORTED | MONEY_PAGE_TEXT says: “Cost Calculator” and “Get an indicative range in a minute.” |
+| The business lists straining motors, dead remotes, limit-switch faults and worn drive components among common opener issues. | SUPPORTED | MONEY_PAGE_TEXT says: “Garage door opener repair handles a straining motor, dead remotes, limit-switch faults and worn drive components.” |
+| The business says any mains-voltage wiring, new power points or hard-wired connections for a powered opener must be carried out by a licensed electrician in Queensland under the Electrical Safety Act 2002. | SUPPORTED | MONEY_PAGE_TEXT says exactly that in the FAQ. |
+| The business says mechanical work on the door, springs and tracks does not need an electrician. | SUPPORTED | MONEY_PAGE_TEXT says: “Mechanical work on the door, springs and tracks does not need an electrician.” |
+| The business says it works across Brisbane and mentions the northside, inner-west, south and bayside, with examples including Chermside, Aspley, Wynnum, Carindale and Kenmore. | SUPPORTED | MONEY_PAGE_TEXT says: “Brisbane-wide coverage... across the north, inner-west, south and bayside, from Chermside and Aspley to Wynnum, Carindale and Kenmore.” |
+| The business lists 15 Brisbane suburbs. | SUPPORTED | MONEY_PAGE_TEXT says: “See the repairs we cover 15 Brisbane suburbs” and “Locations Local detail for 15 Brisbane suburbs.” |
+
+FACT-CHECK: PASS
