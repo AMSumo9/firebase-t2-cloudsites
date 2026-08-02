@@ -1,0 +1,23 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Bathroom Reno Brisbane describes a full bathroom renovation as a strip-out and rebuild including AS 3740:2021 compliant waterproofing, new tiling, fixtures, vanity, toilet and shower installation, with plumbing and electrical work handled as part of the project. | SUPPORTED | The page says: “Full strip-out and rebuild with AS 3740 compliant waterproofing, new tiling, fixtures, vanity, toilet, and shower installation. Our partners handle plumbing, electrical, and everything in between.” It separately states “AS 3740:2021 compliant waterproofing with certificates.” |
+| The published guidance recommends fixed-price quotes and a 10 to 20% contingency. | SUPPORTED | The page says “Fixed-price quotes” and “Fixed-price quotes - we recommend 10-20% contingency.” |
+| The published guidance refers to AS 3740:2021 compliant waterproofing with certificates. | SUPPORTED | The page states “AS 3740:2021 compliant waterproofing with certificates.” |
+| Cosmetic bathroom updates are listed at $8,000 to $15,000. | SUPPORTED | The FAQ says “Budget renovations start from $8,000-$15,000 for cosmetic updates.” |
+| Standard bathroom renovations are listed at $22,000 to $26,000. | SUPPORTED | The FAQ says “Bathroom renovation costs in Brisbane typically range from $22,000-$26,000 for standard projects.” |
+| Mid-range bathroom renovations are listed at $15,000 to $35,000. | SUPPORTED | The FAQ says “mid-range renovations cost $15,000-$35,000.” |
+| Premium bathrooms are listed at $35,000 to $120,000 or more. | SUPPORTED | The FAQ says “premium/luxury bathroom renovations can reach $35,000-$120,000+.” |
+| Labour accounts for 40 to 50% of the bathroom renovation budget. | SUPPORTED | The FAQ says “Labour accounts for 40-50% of the total budget.” |
+| The Brisbane guidance says humidity may add $500 to $1,000 for extra waterproofing. | SUPPORTED | The FAQ says “Brisbane's humidity may add $500-$1,000 for extra waterproofing.” |
+| The published guidance promotes a 2 to 3 week standard turnaround. | SUPPORTED | The page repeatedly states “2-3 Week Standard Turnaround” / “2-3 Weeks Standard” / “Most standard renovations complete in 2-3 weeks.” |
+| The FAQ lists 1 to 2 weeks for cosmetic updates, 3 to 6 weeks for standard renovations, 4 to 6 weeks for full works with plumbing and electrical changes, and 8 weeks or more for structural changes. | SUPPORTED | The FAQ says “cosmetic updates take 1-2 weeks, standard renovations take 3-6 weeks ... and full renovations with plumbing/electrical take 4-6 weeks. Structural changes can extend to 8+ weeks.” |
+| The published guidance says waterproofing alone requires 2 days including drying time. | SUPPORTED | The FAQ says “Waterproofing alone requires 2 days including drying time.” |
+| The published guidance says HIA reports 13 to 25 days for installation. | SUPPORTED | The FAQ says “HIA reports 13-25 days for installation.” |
+| The Brisbane material identifies outdated bathrooms, cracked tiles, poor waterproofing, lack of storage and inefficient layouts as common renovation triggers. | SUPPORTED | The page says “Whether you're dealing with an outdated bathroom, cracked tiles, poor waterproofing, lack of storage, or an inefficient layout...” |
+| The Brisbane material highlights wall hung vanities, large format tiles, frameless shower screens and added storage for compact rooms. | SUPPORTED | The page says “Maximise space in compact bathrooms with wall hung vanities, large format tiles ... frameless shower screens, and clever storage solutions.” |
+| The Brisbane material says a walk-in shower can create more usable space and improve accessibility. | SUPPORTED | The page says “Improves accessibility and creates more usable space.” |
+| The Brisbane material lists grab rails, no-hob walk-in showers, non-slip flooring, raised toilets, handheld shower heads and lever tapware for accessible bathroom modifications. | SUPPORTED | The page lists “grab rails, walk-in showers with no hob, non-slip flooring, raised toilets, handheld shower heads, and lever tapware.” |
+| The Brisbane material lists heated towel rails, underfloor heating, freestanding baths, LED shower niches and premium finishes as higher-finish upgrades. | SUPPORTED | The page lists “Heated towel rails, underfloor heating, freestanding baths, LED shower niches ... and premium finishes.” |
+| The Brisbane material cites 60 to 70% typical ROI for mid-range bathroom renovations. | SUPPORTED | The page says “mid-range renovations typically deliver 60-70% ROI” and also shows “60-70% Typical ROI.” |
+
+FACT-CHECK: PASS
