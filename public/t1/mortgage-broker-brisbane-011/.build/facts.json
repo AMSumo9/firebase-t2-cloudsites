@@ -1,0 +1,282 @@
+{
+  "node_id": "homeloanbrokerbrisbane-011",
+  "money_domain": "homeloanbrokerbrisbane.com.au",
+  "money_home_url": "https://www.homeloanbrokerbrisbane.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/mortgage-broker-brisbane-011/",
+  "live_url": "https://sites-e470-1.web.app/mortgage-broker-brisbane-011/",
+  "subdomain": "mortgage-broker-brisbane",
+  "gh_repo": null,
+  "primary_kw": "mortgage broker brisbane",
+  "kw_slug": "mortgage-broker-brisbane",
+  "anchor_kw": "mortgage broker brisbane",
+  "brand": "Home Loan Brokers Brisbane",
+  "target_page_url": "https://www.homeloanbrokerbrisbane.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "homeloanbrokerbrisbane-001",
+    "url": "https://cloudsites-hub.pages.dev/sites-01/homeloanbrokerbrisbane-001/",
+    "primary_kw": "home loans brisbane"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\homeloanbrokerbrisbane.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Hunter Galloway",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "MC Mortgage Solutions",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Aussie",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Madd Loans",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Brisbane Home Loans",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.962
+      },
+      {
+        "name": "Aussie Home Loans",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Brisbane",
+        "type": "LOCATION",
+        "salience": 0.938
+      },
+      {
+        "name": "first-home buyers",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "North Brisbane",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Home Loan",
+        "type": "SERVICE",
+        "salience": 0.867
+      },
+      {
+        "name": "Level 10, 179 North Quay, Brisbane",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "300 Queen Street, Brisbane",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Home Guarantee Scheme",
+        "type": "REGULATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Financial Brokers Association of Australia",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Credit and Investments Ombudsman",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "FBAA",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "CIO",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Manly",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Lendi Group",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Property Listings",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Buyer's Agent",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Sydney",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "New South Wales",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Investment Property",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Home Loan Broker",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "refinancing",
+        "type": "SERVICE",
+        "salience": 0.825
+      },
+      {
+        "name": "Car Loan",
+        "type": "SERVICE",
+        "salience": 0.8
+      }
+    ],
+    "lsi_keywords": []
+  },
+  "image": {
+    "file": "mortgage-broker-brisbane.jpg",
+    "photographer": "Wang Felix",
+    "source": "Unsplash",
+    "credit": "Photo by Wang Felix on Unsplash"
+  },
+  "build_date": "2026-08-03",
+  "money_home_text": "Find a Mortgage Broker Brisbane | Compare Home Loans Find Your Perfect Brisbane Home Loan (07) 2000 5626 loans@homeloanbrokerbrisbane.com.au Home Loan Brokers Brisbane Home Services First Home Buyer Loans Refinancing Investment Property Loans Construction Loans Commercial Loans Debt Consolidation Locations Blog About Contact Get Free Assessment 4.9 Rating from 247 Reviews Find the Right Brisbane Mortgage Broker For You Compare home loans from 40+ lenders and get connected with qualified Brisbane mortgage brokers. First home buyers, refinancing, investment loans - we help you find the right fit. Free Comparison Service Compare 40+ Lenders Connect with Local Experts Get Free Assessment (07) 2000 5626 Get Your Free Home Loan Assessment Find out how much you could borrow in just 2 minutes What are you looking for? First Home Buyer Refinancing Investment Property Construction Loan Other Get Free Assessment Your information is secure and confidential Helping Brisbane families find the right loan 40+ Lenders Compared 100% Free Service Fast Easy Process Local Brisbane Based Compare Home Loans for Every Situation Whether you're buying your first home, refinancing, or investing - we help you compare options and find the right Brisbane broker for your needs. First Home Buyer Loans Brisbane Compare first home buyer loans in Brisbane. We help you understand grants, schemes &amp; connect with qu... Learn More Refinancing Home Loans Brisbane Compare refinancing options for your Brisbane home loan. We help you find better rates from 40+ lend... Learn More Investment Property Loans Brisbane Compare investment property loans in Brisbane. We help investors understand options from 40+ lenders... Learn More Construction Loans Brisbane Compare construction loan options in Brisbane. We help you understand building loans, land &amp; constru... Learn More Commercial Loans Brisbane Compare commercial finance options in Brisbane. We help you explore commercial property loans, busin... Learn More Debt Consolidation Loans Brisbane Struggling with multiple debts? Compare debt consolidation options through refinancing. We help Bris... Learn More View All Services Why Use Our Free Comparison Service? Finding the right mortgage broker and home loan can be overwhelming. We simplify the process by helping you compare options from 40+ lenders and connecting you with qualified Brisbane brokers who understand your local market. 100% Free Service Our comparison service costs you nothing. We're here to help you find the right broker and loan. Compare 40+ Lenders See options from major banks like Commonwealth Bank, ANZ, NAB, Westpac plus specialist lenders. Local Brisbane Focus Compare brokers who know Brisbane suburbs - from property values to local market trends. Save Time Skip the research - we help you quickly find brokers and loan options suited to your situation. Find Mortgage Brokers Across Brisbane Connect with qualified brokers servicing Brisbane and surrounding areas. Aspley Brisbane CBD Bulimba Carina Carindale Chapel Hill Chermside Coorparoo View All Locations What Our Users Say Reviews from Brisbane residents who used our service \"As first home buyers, we were completely overwhelmed by the process. Home Loan Brokers Brisbane made everything so easy. They explained the First Home Owner Grant, found us a great rate, and guided us through every step. We couldn&#39;t have done it without them!\" Sarah &amp; Michael T. Chermside \"I&#39;d been with the same bank for 10 years and didn&#39;t realise how much I was overpaying. The team helped me refinance and I&#39;m now saving over $200 per month. The whole process took less than a month and they handled everything.\" David L. Sunnybank \"We&#39;ve now purchased three investment properties with their help. They understand investor needs, structure loans properly for tax, and always find competitive rates. Professional service from start to finish every time.\" Jennifer &amp; Mark W. Indooroopilly Compare Home Loans from 40+ Lenders See options from Australia's leading banks and specialist lenders Commonwealth Bank ANZ Westpac NAB Macquarie Bank Suncorp Bank of Queensland St.George ING AMP Virgin Money Plus over 30 additional specialist lenders for unique situations Ready to Find Your Best Home Loan? Get a free comparison and connect with qualified Brisbane mortgage brokers. No obligation. Get Free Comparison Call (07) 2000 5626 Home Loan Brokers Brisbane Find Your Perfect Brisbane Home Loan. We help Brisbane residents find the right home loan from over 40 lenders. Compare 40+ Lenders Free Service No Obligation Local Brisbane Team Our Services First Home Buyer Loans Refinancing Investment Property Loans Construction Loans Commercial Loans Debt Consolidation Service Areas Brisbane CBD South Brisbane Chermside Carindale Indooroopilly View All Locations Contact Us (07) 2000 5626 loans@homeloanbrokerbrisbane.com.au Brisbane, QLD Mon-Fri: 8:30am - 5:30pm Compare loans from Australia's leading lenders: Commonwealth Bank ANZ Westpac NAB Macquarie Bank Suncorp Bank of Queensland St.George + 30 more Brisbane homebuyers can compare trusted mortgage brokers who provide personalised advice for their situation. The information on this site is general in nature - your broker will guide you through options suited to your specific financial goals. &copy; 2026 Home Loan Brokers Brisbane. All rights reserved. Privacy Policy Terms of Service",
+  "target_page_text": "",
+  "nav_candidates": [
+    "mailto:loans@homeloanbrokerbrisbane.com.au",
+    "https://www.homeloanbrokerbrisbane.com.au/services",
+    "https://www.homeloanbrokerbrisbane.com.au/services/first-home-buyer-loans",
+    "https://www.homeloanbrokerbrisbane.com.au/services/refinancing",
+    "https://www.homeloanbrokerbrisbane.com.au/services/investment-property-loans",
+    "https://www.homeloanbrokerbrisbane.com.au/services/construction-loans",
+    "https://www.homeloanbrokerbrisbane.com.au/services/commercial-loans",
+    "https://www.homeloanbrokerbrisbane.com.au/services/debt-consolidation",
+    "https://www.homeloanbrokerbrisbane.com.au/locations",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/aspley",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/brisbane-cbd",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/bulimba",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/carina",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/carindale",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/chapel-hill",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/chermside",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/coorparoo",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/south-brisbane",
+    "https://www.homeloanbrokerbrisbane.com.au/locations/indooroopilly"
+  ],
+  "firebase_path": "mortgage-broker-brisbane-011"
+}
