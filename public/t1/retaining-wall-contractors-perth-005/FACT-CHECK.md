@@ -1,0 +1,20 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The provider frames limestone block and post and panel as two common retaining wall systems in Perth. | SUPPORTED | Money page says “Limestone block and post and panel walls are what Perth actually builds with” and refers to “The two materials Perth actually builds with.” |
+| A building permit is generally needed once a wall retains more than 0.5 metres of ground. | SUPPORTED | Money page FAQ states a permit is generally needed once a wall retains more than 0.5 metres. |
+| A wall of any height can need a permit if it is tied to other building work, affects or protects adjoining land, or affects a boundary wall or dividing fence. | SUPPORTED | Money page states a wall of any height can need one in those circumstances. |
+| Some councils, including Wanneroo and Melville, may count the combined height of tiered walls toward the 0.5 metre figure. | SUPPORTED | Money page names Wanneroo and Melville and says they count combined tiered-wall height toward the 0.5 metre figure. |
+| Engineered retaining walls are described as being designed to AS 4678 by a WA registered building engineering practitioner. | SUPPORTED | Money page describes walls over 0.5m/boundary/surcharge as designed to AS 4678 by a WA-registered building engineering practitioner. |
+| Limestone block is described as suited to Perth's sandy Swan Coastal Plain blocks and local streetscape. | SUPPORTED | Money page says limestone block is the material of choice on Perth’s sandy Swan Coastal Plain blocks and fits the local streetscape. |
+| Post and panel walls use galvanised or concrete posts with precast concrete panels slotted between them. | SUPPORTED | Money page gives that construction description directly. |
+| Post and panel walls are described as fast, consistent finish systems widely used across Perth for boundary and driveway retaining. | SUPPORTED | Money page says post and panel is a fast, consistent-finish system widely used across Perth for boundary and driveway retaining. |
+| Timber sleeper walls are described for gardens, terraces and low boundary retaining. | SUPPORTED | Money page describes H4-treated hardwood and pine sleeper walls for gardens, terraces and low boundary retaining. |
+| Rock and boulder walls are described as suiting Perth hills blocks and granite outcropped sites. | SUPPORTED | Money page says rock and boulder walls suit Perth hills blocks and granite-outcropped sites. |
+| Besser block retaining walls are described as core filled, steel reinforced concrete block walls for taller retaining and rendered finishes. | SUPPORTED | Money page describes besser block as core-filled, steel-reinforced concrete block walls for taller retaining and rendered finishes. |
+| The provider names ag drain, gravel and geofabric drainage behind every wall. | SUPPORTED | Money page names “Ag-drain, gravel and geofabric drainage behind every wall.” |
+| The provider says drainage helps stop failures in Perth's winter saturated sandy ground. | SUPPORTED | Money page says that drainage detail “stops failures in Perth’s winter-saturated sandy ground.” |
+| Repair cost depends on the failure mode, and assessment of drainage, footing condition and material state is the starting point for an accurate repair quote. | SUPPORTED | Money page FAQ says repair cost depends on failure mode and assessment of drainage, footing condition and material state is the starting point. |
+| The supplied material does not state fixed prices, warranties or build timeframes. | SUPPORTED | Money page provides cost guidance language and a cost calculator reference, but no fixed prices, warranty terms or build timeframes are present in the supplied text. |
+| Built page says the sourced numbers are the 0.5 metre permit trigger, AS 4678 and “2 main systems” highlighted by the provider. | SUPPORTED | Money page supports the 0.5 metre threshold, AS 4678, and frames limestone block plus post and panel as the two highlighted Perth systems. |
+
+FACT-CHECK: PASS
