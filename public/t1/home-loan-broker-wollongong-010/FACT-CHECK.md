@@ -1,0 +1,18 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The published service says it compares options across bank and non-bank lenders. | SUPPORTED | Money page: “compare your options across bank and non-bank lenders”; also “Your situation is compared across bank and non-bank lenders.” |
+| The published service refers to first home, refinance, investment, construction, self-employed and bridging loan scenarios. | SUPPORTED | Money page lists “First Home Buyer Loans,” “Refinancing,” “Investment Property Loans,” “Construction Loans,” “Self-Employed Home Loans,” and “Bridging Loans.” |
+| The published service mentions debt consolidation under refinancing. | SUPPORTED | Money page refinancing section: “Rate reviews, debt consolidation and equity release.” |
+| The published service says there is no cost and no obligation to enquire. | SUPPORTED | Money page: “No cost, no obligation” and “There is no cost to enquire and no obligation to proceed.” |
+| The published service says it aims to respond the same day. | SUPPORTED | Money page: “Aims to respond the same day.” |
+| The published guide says the right loan rarely comes down to the headline rate and depends on lender serviceability policy, income shape, deposit and plans. | SUPPORTED | Money page: “The right loan rarely comes down to the headline rate” and “which lender’s serviceability policy fits your income shape, your deposit and your plans.” |
+| The published page mentions Wollongong, Shellharbour, Kiama and the wider Illawarra as local areas. | SUPPORTED | Money page mentions “Wollongong,” “Shellharbour,” “Kiama,” and repeatedly references “Illawarra.” |
+| The published guide gives local examples involving Thirroul, Warilla, Horsley and the West Dapto corridor. | SUPPORTED | Money page: “Thirroul,” “Warilla,” “Horsley,” and “West Dapto corridor.” |
+| The published page says first home buyer loans include deposit options, the First Home Guarantee and NSW concessions. | SUPPORTED | Money page: “Deposit options, the First Home Guarantee and NSW concessions.” |
+| The published FAQ says Australian mortgage brokers are required to act in the borrower’s best interests and explain why a recommended loan is suitable. | SUPPORTED | Money page FAQ: “brokers are required to act in your best interests and explain why a recommended loan is suitable.” |
+| The published FAQ says a bank will only offer its own loans while a broker can compare multiple lenders. | SUPPORTED | Money page FAQ: “A mortgage broker can compare loans from multiple lenders… while a bank will only offer its own loans.” |
+| ASIC Moneysmart provides consumer information about home loan costs, features and repayment obligations. | SUPPORTED | Moneysmart home loans page says it helps consumers compare home loans, notes interest rates, costs and repayments, and links to loan features such as offset accounts and interest-only loans. |
+| The published FAQ says most Australian mortgage brokers are paid commission by the lender and do not charge a direct fee to standard home loan customers, while some may charge for complex lending or specialised advice. | SUPPORTED | Money page FAQ: “Most Australian mortgage brokers are paid commission by the lender and do not charge a direct fee…” and “some brokers may charge a fee for complex lending or specialised advice.” |
+| Built page visible text retained unsupported material. | SUPPORTED | The supplied visible text shows title, styling, last-updated/byline-type material, image note, and truncated reader advice. No extra material unsupported assertion is visible in the provided excerpt. |
+
+FACT-CHECK: PASS

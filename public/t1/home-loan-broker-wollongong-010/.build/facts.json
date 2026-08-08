@@ -1,0 +1,304 @@
+{
+  "node_id": "homeloanbrokerwollongong-010",
+  "money_domain": "homeloanbrokerwollongong.com.au",
+  "money_home_url": "https://www.homeloanbrokerwollongong.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/home-loan-broker-wollongong-010/",
+  "live_url": "https://sites-e470-1.web.app/home-loan-broker-wollongong-010/",
+  "subdomain": "home-loan-broker-wollongong",
+  "gh_repo": null,
+  "primary_kw": "home loan broker wollongong",
+  "kw_slug": "home-loan-broker-wollongong",
+  "anchor_kw": "home loan broker wollongong",
+  "brand": "Home Loan Broker Wollongong",
+  "target_page_url": "https://www.homeloanbrokerwollongong.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "homeloanbrokerwollongong-001",
+    "url": "https://home-loan-broker-wollongong-guide.vercel.app/",
+    "primary_kw": "home loan broker wollongong"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\homeloanbrokerwollongong.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Illawarra Mortgage Brokers",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Mortgage Success",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Mortgage Broker Group",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Wollongong",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Shellharbour",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Home Loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Refinance Home Loans",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Debt Consolidation Home Loans",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Guarantor Home Loans",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Loren Marsh",
+        "type": "PERSON",
+        "salience": 0.9
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Self-Employed Home Loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "First Home Buyers",
+        "type": "CONCEPT",
+        "salience": 0.85
+      },
+      {
+        "name": "Buying a Home",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "First Home Buyer",
+        "type": "CONCEPT",
+        "salience": 0.85
+      },
+      {
+        "name": "Buying Off the Plan",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Building a new home",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Refinancing Your Home Loan",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Investing in Property",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Illawarra Region",
+        "type": "LOCATION",
+        "salience": 0.8
+      },
+      {
+        "name": "PAYG Earners",
+        "type": "CONCEPT",
+        "salience": 0.8
+      },
+      {
+        "name": "SMSF Borrowers",
+        "type": "CONCEPT",
+        "salience": 0.8
+      },
+      {
+        "name": "Fixed Rate Home Loans",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Residential Construction Loans",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Low Doc Home Loans",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Business Loans",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Ledgersmith",
+        "type": "ORGANIZATION",
+        "salience": 0.8
+      },
+      {
+        "name": "Property Investors",
+        "type": "SERVICE",
+        "salience": 0.775
+      },
+      {
+        "name": "Loan Structuring",
+        "type": "CONCEPT",
+        "salience": 0.75
+      }
+    ],
+    "lsi_keywords": [
+      "mortgage broker wollongong",
+      "home loan wollongong",
+      "illawarra mortgage broker",
+      "first home buyer loans wollongong",
+      "refinance home loan wollongong",
+      "property investment loans wollongong",
+      "guarantor home loans wollongong",
+      "self employed home loan wollongong",
+      "debt consolidation home loan wollongong",
+      "commercial loan broker wollongong",
+      "mortgage broker shellharbour",
+      "permanent building loan wollongong",
+      "buying off the plan wollongong",
+      "free mortgage consultation wollongong",
+      "local mortgage broker wollongong"
+    ]
+  },
+  "image": {
+    "file": "home-loan-broker-wollongong.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-08",
+  "money_home_text": "Home Loan Broker Wollongong | Compare Home Loans Skip to content Home Loan Broker Wollongong Home Services Locations Tools About FAQ Contact Loan Review Get started Open menu Home Services Locations Tools About FAQ Contact Home Loan Broker Wollongong Comparing home loans in Wollongong shouldn't take your weekends Buying your first place, refinancing, or weighing up an investment across the Illawarra? We ask the right questions upfront and compare your options across bank and non-bank lenders, so you can move on the right loan with confidence. Guidance from first homes to construction lending Grounded in how the Illawarra actually buys Brokers who must act in your best interests Aims to respond the same day Request a broker callback Tell us your loan goal and we will help you take the next step. No cost, no obligation. Your name Phone Email Suburb / Postcode Tell us about your loan goal Request a Broker Callback Your details are only used to arrange your enquiry. See our privacy policy . Home loan services First home, refinance, investment, construction and more. Explore services -&gt; Where we help Wollongong, the northern beaches, the growth south-west and the Kiama coast. See locations -&gt; Borrowing power calculator Estimate what you may be able to borrow, with the method shown. Try the calculator -&gt; Common questions Fees, deposits, pre-approval timing and how brokers get paid. Read the FAQ -&gt; A home loan broker Wollongong buyers can lean on The right loan rarely comes down to the headline rate. It comes down to which lender's serviceability policy fits your income shape, your deposit and your plans. Whether you are a first home buyer weighing the First Home Guarantee, a homeowner ready to refinance, an investor comparing interest-only against principal and interest, a family financing a build in the West Dapto corridor, or self-employed and tired of being treated as too hard, we focus on home loans across Wollongong and the Illawarra and help you find the fit. First Home Buyer Loans Deposit options, the First Home Guarantee and NSW concessions, explained for the Illawarra market. Learn more -&gt; Refinancing Rate reviews, debt consolidation and equity release for existing Illawarra homeowners. Learn more -&gt; Investment Property Loans Interest-only versus P&amp;I, serviceability caps and portfolio structure for local and out-of-area investors. Learn more -&gt; Construction Loans Progress-payment lending for new builds and house-and-land packages across the West Dapto corridor. Learn more -&gt; Self-Employed Home Loans Alt-doc and full-doc pathways for ABN holders, contractors and the Illawarra&#39;s trades workforce. Learn more -&gt; Bridging Loans Buy-before-you-sell finance for a tight coastal market where the right house rarely waits. Learn more -&gt; Why borrowers across the Illawarra start here A home loan is likely the biggest financial decision you will make. Here is what stays consistent when you enquire with us. Best-interests duty Mortgage brokers in Australia are legally required to act in your best interests under the National Consumer Credit Protection Act - not the lender&#39;s. Accredited broker network Enquiries are handled by MFAA / FBAA accredited brokers operating under an Australian Credit Licence, with credentials disclosed in writing before you commit. Whole-of-market comparison Your situation is compared across bank and non-bank lenders - serviceability policies differ, and the right fit depends on your income shape and goals. Wollongong and Illawarra focus From first homes in Warilla to construction lending in the West Dapto corridor - guidance grounded in how this region actually buys. Local home loan help right across the Illawarra Lending patterns shift suburb to suburb here. A commuter upgrader in Thirroul faces a different conversation to a first home buyer in Warilla or a house-and-land build in Horsley. Pick your suburb for local context, or send the form and we will help you take the next step. Wollongong North Wollongong Fairy Meadow Corrimal Woonona Bulli Thirroul Figtree Unanderra Dapto Horsley Albion Park Shellharbour Warilla Kiama See all locations -&gt; How we help you take the next step 01 Tell us your goal Share where you are up to - buying, refinancing, investing or building. The more we understand upfront, the sharper the guidance. 02 Compare your options Your situation is compared across bank and non-bank lenders, with the reasoning explained in plain language so you can see why a loan suits you. 03 Move with confidence From pre-approval through to settlement, you have someone coordinating with the lender and keeping you across timing and next steps. Ready to talk to a Wollongong broker? Send your details and a broker in our network will help you weigh up your options. There is no cost to enquire and no obligation to proceed. Questions before you enquire Is it better to use a mortgage broker or go directly to a bank for a home loan? A mortgage broker can compare loans from multiple lenders and help you find a product that suits your situation, while a bank will only offer its own loans. In Australia, brokers are required to act in your best interests and explain why a recommended loan is suitable. Many Illawarra borrowers use brokers to save time and improve their chances of approval. It usually comes down to whether you want broader choice and guidance versus dealing directly with one lender. Do mortgage brokers in Wollongong charge fees or are they paid by the bank? Most Australian mortgage brokers are paid commission by the lender and do not charge a direct fee to standard home loan customers. However, some brokers may charge a fee for complex lending or specialised advice, and should disclose this clearly up front. It&#39;s reasonable to ask a Wollongong broker exactly how they are paid and whether any fees apply to you. This helps you understand potential conflicts of interest and overall costs. How much deposit do I need to buy",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.homeloanbrokerwollongong.com.au/services/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/",
+    "https://www.homeloanbrokerwollongong.com.au/tools/cost-calculator/",
+    "https://www.homeloanbrokerwollongong.com.au/faq/",
+    "https://www.homeloanbrokerwollongong.com.au/services/first-home-buyer-loans/",
+    "https://www.homeloanbrokerwollongong.com.au/services/refinancing/",
+    "https://www.homeloanbrokerwollongong.com.au/services/investment-property-loans/",
+    "https://www.homeloanbrokerwollongong.com.au/services/construction-loans/",
+    "https://www.homeloanbrokerwollongong.com.au/services/self-employed-home-loans/",
+    "https://www.homeloanbrokerwollongong.com.au/services/bridging-loans/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/wollongong/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/north-wollongong/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/fairy-meadow/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/corrimal/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/woonona/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/bulli/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/thirroul/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/figtree/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/unanderra/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/dapto/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/horsley/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/albion-park/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/shellharbour/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/warilla/",
+    "https://www.homeloanbrokerwollongong.com.au/locations/kiama/"
+  ],
+  "firebase_path": "home-loan-broker-wollongong-010"
+}

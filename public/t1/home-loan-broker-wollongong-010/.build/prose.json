@@ -1,0 +1,232 @@
+{
+  "kicker": "Illawarra Lending",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare loan pathways, broker questions and Illawarra borrower scenarios",
+  "takeaway": "Wollongong borrowers can prepare for a broker conversation by defining the loan purpose, deposit position, income evidence, timing and property plan before asking for lender options. The published service states that enquiry costs $0, carries no obligation, and has a same day response aim. It also says options are compared across bank and non-bank lenders, with first home, refinance, investment, construction, self-employed and bridging scenarios addressed.",
+  "lead": "For Illawarra borrowers comparing home loan broker wollongong options, the useful starting point is the loan goal, the property plan and the documents a lender will actually test.",
+  "lead_tail": "with loan structure, timing and evidence checked before an application is chosen",
+  "stats": [
+    {
+      "value": "$0",
+      "label": "cost to enquire"
+    },
+    {
+      "value": "Same day",
+      "label": "response aim"
+    },
+    {
+      "value": "Bank and non-bank",
+      "label": "lender types compared"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the loan purpose",
+      "html": "<p><a href=\"https://www.homeloanbrokerwollongong.com.au/\">Home Loan Broker Wollongong</a> presents its service as help for people buying, refinancing, investing or building across Wollongong and the Illawarra. A useful first conversation should sort the borrower file before anyone narrows the choice to one lender or product.</p><p>The published guide says the right loan rarely turns on the headline rate alone. Lender serviceability settings, income shape, deposit position and future plans can all affect which option is suitable. Before asking which rate is lowest, ask which lender is likely to assess the file cleanly and what evidence will be needed.</p><ul><li><strong>First home buyer:</strong> ask how deposit options, the First Home Guarantee and NSW concessions should be checked for the purchase.</li><li><strong>Refinancer:</strong> state whether the goal is a rate review, debt consolidation, equity release or a simpler loan setup.</li><li><strong>Investor:</strong> ask how interest-only and principal and interest choices affect cash flow and borrowing plans.</li><li><strong>Builder:</strong> ask how progress payments are handled for a new build or house and land package.</li></ul>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for borrowers who want a structured conversation before submitting a home loan application. It is most relevant to people in Wollongong, Shellharbour, Kiama and the wider Illawarra who are weighing more than one path, such as buying, refinancing, building, investing or selling one property while arranging the next loan.</p><p>The local examples in the published guide point to different lending conversations rather than a long suburb roll call. A commuter upgrader in Thirroul, a first home buyer in Warilla and a house and land borrower in Horsley may need different evidence, timing questions and lender policy checks. The useful inputs are income type, property type, deposit position, settlement timing and whether the application needs extra explanation.</p><p>Borrowers wanting another overview can compare this page with the related <a href=\"https://home-loan-broker-wollongong-guide.vercel.app/\">Wollongong home loan broker guide</a>, then use the checklist here to prepare the enquiry.</p>"
+    },
+    {
+      "h2": "Questions that change the recommendation",
+      "html": "<p>A broker discussion should produce reasons that a borrower can repeat in plain English. The published FAQ says Australian mortgage brokers are required to act in the borrower's best interests and explain why a recommended loan is suitable. Ask what was compared, what was ruled out and what would change the recommendation.</p><p>For a refinance, ask whether the comparison includes total cost, loan features, discharge or setup costs and the reason for any debt consolidation. For an investment loan, ask how the structure fits the portfolio, whether interest-only repayments are being considered and how the lender will assess the file.</p><p>For a self-employed borrower, ask whether full doc, alt doc or low doc pathways match the evidence available. Construction borrowers should ask about progress payments, valuation timing, builder documents and how the lender treats house and land packages. Bridging borrowers should ask what the plan is if the existing property sells later than expected.</p>"
+    },
+    {
+      "h2": "Broker comparison versus going direct",
+      "html": "<p>Going directly to a bank can be straightforward when the borrower already wants that bank's products and appears to fit that bank's criteria. The trade off is narrower choice. The published FAQ says a bank will only offer its own loans, while a broker can compare multiple lenders and explain suitability.</p><p>ASIC Moneysmart's home loan information is useful background because it helps borrowers think through loan costs, features and repayment obligations before committing. A broker conversation should leave the borrower clear on repayment type, fees, conditions, loan purpose and the reason one option was preferred.</p><p>This distinction is sharper where the file involves variable income, construction lending, investment structure, debt consolidation or a property to sell. In those cases, the policy conversation can be as important as the advertised rate.</p>"
+    },
+    {
+      "h2": "Preparation checklist",
+      "html": "<p>Before requesting a callback, write down the loan purpose, the property plan, preferred timing and main constraint. The constraint might be deposit size, income evidence, existing debts, a property to sell, a build contract, or uncertainty about fixed, variable, interest-only or principal and interest repayments.</p><ol><li>List the goal: first purchase, refinance, investment, construction, self-employed lending, bridging or debt consolidation.</li><li>Summarise income: PAYG, contractor, ABN holder, business income or mixed household income.</li><li>Prepare the property context: established home, off the plan purchase, new build, house and land package or existing property being refinanced.</li><li>Ask how the broker is paid, whether any fee applies and when that is disclosed in writing.</li><li>Ask what would make the application stronger before it is sent to a lender.</li></ol><p>The published page says there is no cost and no obligation to enquire. Treat the first enquiry as fact finding, not a commitment to a product.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common borrower paths compared",
+    "headers": [
+      "Borrower situation",
+      "Main lending question",
+      "What to prepare"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "How deposit options, First Home Guarantee and NSW concessions may be checked",
+        "Savings position, purchase target and eligibility questions"
+      ],
+      [
+        "Refinancer",
+        "Whether a rate review, debt consolidation or equity release is the goal",
+        "Current loan details, debts and reason for switching"
+      ],
+      [
+        "Investor",
+        "Whether interest-only or principal and interest suits the structure",
+        "Rental plan, existing loans and portfolio goals"
+      ],
+      [
+        "Construction borrower",
+        "How progress-payment lending will work",
+        "Build contract, land details and timing questions"
+      ],
+      [
+        "Self-employed borrower",
+        "Which documentation pathway is realistic",
+        "Income evidence, ABN details and accountant material"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan goal",
+      "text": "State whether the enquiry is for buying, refinancing, investing, building, bridging, debt consolidation or self-employed lending."
+    },
+    {
+      "name": "Map the evidence",
+      "text": "List income type, deposit position, current debts, property plan and any timing issue before comparing lenders."
+    },
+    {
+      "name": "Ask for the rationale",
+      "text": "Request a plain English explanation of why each recommended option suits the borrower's situation."
+    },
+    {
+      "name": "Check costs and payment",
+      "text": "Ask whether any broker fee applies and how lender commission or other payment is disclosed."
+    },
+    {
+      "name": "Confirm next steps",
+      "text": "Clarify what documents are needed, what must happen before pre-approval and who coordinates with the lender."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does a broker compare more than one lender?",
+      "a": "The published FAQ says a broker can compare multiple lenders. It also says a bank will only offer its own loans."
+    },
+    {
+      "q": "Is there a fee to enquire?",
+      "a": "The published enquiry wording says there is no cost and no obligation to proceed. Borrowers should still ask whether any fee applies for complex or specialised lending."
+    },
+    {
+      "q": "What should a first home buyer ask about?",
+      "a": "Ask how deposit options, the First Home Guarantee and NSW concessions should be checked for the specific purchase. Eligibility should be assessed against the borrower's own file."
+    },
+    {
+      "q": "Can self-employed borrowers use this kind of service?",
+      "a": "Yes. The published page names self-employed home loans, including alt doc and full doc pathways for ABN holders, contractors and trades workers."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published service says it compares options across bank and non-bank lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service refers to first home, refinance, investment, construction, self-employed and bridging loan scenarios.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service mentions debt consolidation under refinancing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service says there is no cost and no obligation to enquire.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service says it aims to respond the same day.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says the right loan rarely comes down to the headline rate and depends on lender serviceability policy, income shape, deposit and plans.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page mentions Wollongong, Shellharbour, Kiama and the wider Illawarra as local areas.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide gives local examples involving Thirroul, Warilla, Horsley and the West Dapto corridor.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page says first home buyer loans include deposit options, the First Home Guarantee and NSW concessions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published FAQ says Australian mortgage brokers are required to act in the borrower's best interests and explain why a recommended loan is suitable.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published FAQ says a bank will only offer its own loans while a broker can compare multiple lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart provides consumer information about home loan costs, features and repayment obligations.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "The published FAQ says most Australian mortgage brokers are paid commission by the lender and do not charge a direct fee to standard home loan customers, while some may charge for complex lending or specialised advice.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical loan comparison questions for Wollongong and Illawarra borrowers using a broker."
+}
