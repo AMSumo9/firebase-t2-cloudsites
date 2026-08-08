@@ -1,0 +1,209 @@
+{
+  "kicker": "Toowoomba Fencing",
+  "h1_tail": "A Practical Planning Guide",
+  "meta_hook": "compare materials, quotes, neighbour steps and approval triggers before booking",
+  "takeaway": "For a Toowoomba fence project, the core checks are material, boundary status, neighbour agreement, pool barrier rules, height and quote detail. The source page says paid Queensland fencing work valued at $3,300 or more needs a QBCC-licensed contractor, some owner-built fences are exempt, fences up to 2 m above natural ground level are generally accepted development, and dividing fence notices allow one month for agreement before QCAT timing starts.",
+  "lead": "For homeowners comparing fencing contractors toowoomba options, the practical decision is less about a quick price and more about material fit, boundary duties, access and a written scope.",
+  "lead_tail": "with the next step being a measured quote and neighbour-ready scope",
+  "stats": [
+    {
+      "value": "9",
+      "label": "service types listed"
+    },
+    {
+      "value": "$3,300+",
+      "label": "QBCC licence trigger stated"
+    },
+    {
+      "value": "2 m",
+      "label": "general accepted height noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a useful quote should settle",
+      "html": "<p><a href=\"https://www.fencingtoowoomba.net.au/\">Fencing Toowoomba</a> frames the early problem plainly: many jobs stall because nobody has measured the line, or because the neighbour conversation has not happened. A useful quote therefore needs to do more than name a fence material. It should describe the run length, removal of the old fence, access constraints and the material being priced so an owner can compare options without guessing what is included.</p><p>The same page says there is no obligation and no deposit at the enquiry stage. That matters because a fence line often needs a site measure before the owner can separate a simple replacement from a job involving slope, retaining walls, a corner block, a pool barrier or gate hardware.</p><ul><li>Ask whether the quote separates removal, supply, installation and access.</li><li>Check whether each owner can be invoiced for their share when it is a dividing fence.</li><li>Confirm whether the job is a repair, partial replacement or full new run.</li></ul>"
+    },
+    {
+      "h2": "Material choice by property need",
+      "html": "<p>The source page presents Colorbond as the common boundary workhorse for Toowoomba blocks because it is fast to erect, does not need painting and has a colour range that sits quietly against brick and render. Timber paling still suits character streets, while lapped and capped timber is described as the step up when gaps are the issue.</p><p>Other materials solve different problems. PVC removes painting from the maintenance list. Aluminium slat fencing reads as a modern frontage rather than a full privacy screen. Glass pool fencing is treated first as a compliance job, not only as a style choice. Chain wire and tubular steel are positioned for business premises, schools, yards and compounds, while gates and automation need to be built around the fence line they hang from.</p><p>That makes the first question functional: privacy, frontage, pool barrier, commercial boundary, rural run, repair or driveway access. The material follows that job, not the other way around.</p>"
+    },
+    {
+      "h2": "Dividing fence questions before work starts",
+      "html": "<p>If the fence sits on the boundary, the source page says it is a dividing fence and Queensland has a process for sharing cost. Under the Neighbourhood Disputes (Dividing Fences and Trees) Act 2011, adjoining owners generally contribute equally to a sufficient dividing fence. For residential land, the page describes that as roughly 0.5 m to 1.8 m high and substantially made from prescribed materials such as palings, chain wire, metal panels or brick.</p><p>The important upgrade question is who pays for anything beyond a sufficient fence. The page says that if one owner wants more than that, the difference is on that owner. A taller or more premium Colorbond run should therefore be discussed before a notice is served, not after installation has begun.</p><p>Where agreement is not reached, the page identifies a notice to contribute as the formal step. It must name the land, fence line, work and estimated cost, with at least one written quotation attached. If there is no agreement within one month, either owner can apply to QCAT within two months of the notice.</p>"
+    },
+    {
+      "h2": "Height, corners and pool barriers",
+      "html": "<p>The height check is not only the visible fence panel. The source page says fences up to 2 m above natural ground level are generally accepted development in Queensland. Above 2 m, it becomes building work and needs approval from a certifier. Where a fence sits on a retaining wall, the combined height is measured, so a modest wall plus a standard fence can cross the line.</p><p>Corner blocks need a different question. The page says corner blocks have sight-line truncations at the intersection, so front fencing is kept low enough for drivers to see across. That is not a material preference. It is a design constraint that can affect height, openness and where solid screening is appropriate.</p><p>Pool fencing is its own category. The source page says pool fencing is built to the Queensland pool safety standard, with glass and aluminium barriers listed as service options. For pool areas, the quote should identify that the barrier is being treated as a compliance job before colour, style or privacy decisions are finalised.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to Toowoomba homeowners, property owners and site managers who are deciding whether to repair, replace or install a fence and need enough structure to brief local fence contractors properly. It is especially relevant where the project touches a boundary line, a pool area, a retaining wall, a street frontage, a driveway gate or a commercial yard.</p><p>It is less useful for owners who already have a signed specification, neighbour agreement and confirmed approval position. At that point the decision is mostly contractor availability, contract terms and final material selection.</p><ol><li>Use the site measure to define the real run and access issues.</li><li>Use the written quote to discuss cost sharing before work begins.</li><li>Use approval questions to separate ordinary fencing from certifier or pool barrier work.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Common fencing choices and planning questions",
+    "headers": [
+      "Option",
+      "Best fit from the source page",
+      "Question to ask before quoting"
+    ],
+    "rows": [
+      [
+        "Colorbond",
+        "Boundary fencing for Toowoomba blocks with low maintenance",
+        "Is the owner choosing a sufficient fence or a premium upgrade?"
+      ],
+      [
+        "Timber",
+        "Character homes, paling fences, lapped and capped privacy",
+        "Are gaps, appearance or maintenance the main concern?"
+      ],
+      [
+        "Pool fencing",
+        "Glass or aluminium barriers built to the Queensland pool safety standard",
+        "Is the quote treating compliance as the first requirement?"
+      ],
+      [
+        "Chain wire or tubular steel",
+        "Business premises, schools, compounds and yards",
+        "Does the scope include gates, access and commercial-grade hardware?"
+      ],
+      [
+        "Fence repairs",
+        "Leaning posts, broken rails and storm-damaged runs",
+        "Is repair still economical compared with replacement?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the fence line",
+      "text": "Record the suburb or postcode, run length, access points, old fence condition and whether the line is shared with a neighbour."
+    },
+    {
+      "name": "Choose the job type",
+      "text": "Separate privacy, pool barrier, street frontage, commercial security, rural fencing, gate automation and repair needs before asking for a price."
+    },
+    {
+      "name": "Get a written quote",
+      "text": "Ask for material, removal, run length and access to be shown clearly so the quote can be compared or shared with the adjoining owner."
+    },
+    {
+      "name": "Check formal triggers",
+      "text": "Ask whether the job touches the $3,300 QBCC threshold, the 2 m height point, a retaining wall, a corner sight line or a pool barrier."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do both neighbours always pay half for a better fence?",
+      "a": "No. The source page says adjoining owners generally contribute equally to a sufficient dividing fence, but if one owner wants more than that, the difference is on that owner."
+    },
+    {
+      "q": "When does a Toowoomba fence need approval?",
+      "a": "The source page says fences up to 2 m above natural ground level are generally accepted development in Queensland. Above 2 m, the work needs approval from a certifier."
+    },
+    {
+      "q": "What should be in a fencing quote?",
+      "a": "The source page says the written quote should spell out material, run length, removal of the old fence and access so it can be compared properly and shown to a neighbour."
+    },
+    {
+      "q": "Is pool fencing just another style choice?",
+      "a": "No. The source page treats pool fencing as a compliance job first and says it is built to the Queensland pool safety standard."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The source page lists nine fencing service types.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says paid fencing work valued at $3,300 or more needs a QBCC-licensed contractor, with some owner-built fences exempt.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says pool fencing is built to the Queensland pool safety standard.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says there is no obligation and no deposit at the enquiry stage.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a written quote spells out material, run length, removal of the old fence and access.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says Colorbond fencing is fast to erect, needs no painting and has a wide colour range.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says timber paling fences suit character streets and lapped and capped fences are the step up when no gaps are wanted.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says PVC fencing removes painting altogether.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says aluminium slat fencing reads as a modern street frontage rather than full privacy screening.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says chain wire and tubular steel are used for business premises, schools and compounds.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says gates and gate automation are built to suit the fence line they hang off.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says repairs are worth pricing before committing to a whole new run.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a fence on the boundary is a dividing fence and Queensland has a process for sharing cost.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says adjoining owners generally contribute equally to a sufficient dividing fence under the Neighbourhood Disputes (Dividing Fences and Trees) Act 2011.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a sufficient residential dividing fence is roughly 0.5 m to 1.8 m high and substantially made from prescribed materials such as palings, chain wire, metal panels or brick.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says if one owner wants more than a sufficient fence, the difference is on that owner.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a notice to contribute must name the land, fence line, work and estimated cost, with at least one written quotation attached.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says if there is no agreement within one month, either owner can apply to QCAT within two months of the notice.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says fences up to 2 m above natural ground level are generally accepted development in Queensland.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a fence above 2 m becomes building work and needs approval from a certifier.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a fence on a retaining wall is measured as the combined height.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says corner blocks have sight-line truncations at intersections, so front fencing is kept low enough for drivers to see across.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers quote scope, material choice, dividing fence steps, height checks and pool barrier questions for Toowoomba fencing projects."
+}
