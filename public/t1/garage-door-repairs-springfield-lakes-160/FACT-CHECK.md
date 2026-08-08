@@ -1,0 +1,24 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Springfield Lakes Garage Doors describes repair-first assessment for broken springs, opener faults, noisy roller doors and full door replacements across Greater Springfield and the Ipswich corridor. | SUPPORTED | Money page says it handles broken springs, opener faults, noisy roller doors and full door replacements across Greater Springfield and the Ipswich corridor, and separately describes a repair-first assessment. |
+| The published process asks for suburb and fault details first, then checks the service area and organises the next step before work is quoted. | SUPPORTED | Money page says: “Tell us your suburb and what the door is doing,” then the team “checks the service area and organises the next step” before written quoting. |
+| The provider lists roller door repairs involving curtains, drums, springs and guides. | SUPPORTED | Roller Door Repairs section lists repairs to curtains, drums, springs and guides. |
+| The provider lists sectional door repairs involving panels, rollers and tracks. | SUPPORTED | Sectional Door Repairs section lists panel, roller and track repairs. |
+| The provider lists opener and motor diagnosis involving automatic openers, motors, remotes and safety sensors. | SUPPORTED | Opener and Motor Repairs section lists diagnosis and repair of automatic openers, motors, remotes and safety sensors. |
+| The fault is checked and quoted in writing before repair work begins. | SUPPORTED | Money page says faults are checked and quoted in writing before repair work begins. |
+| The provider confirms the door type and fault on site, then provides a written, fixed-price quote before parts or replacement work begins. | SUPPORTED | Money page says the team confirms door type and fault on site, then provides a written fixed-price quote before parts or replacement work begins. |
+| Most minor garage door repairs across the Springfield and Ipswich area fall in the low-to-mid hundreds, depending on the fault and parts needed. | SUPPORTED | FAQ states most minor repairs across the Springfield and Ipswich area fall in the low-to-mid hundreds depending on fault and parts. |
+| A roller or track adjustment costs far less than a spring or motor replacement. | SUPPORTED | FAQ states a roller or track adjustment costs far less than a spring or motor replacement. |
+| Common brands across the corridor include B&D, Steel-Line, Merlin, Centurion, Gliderol and ATA. | SUPPORTED | Money page lists those brands in the brand FAQ. |
+| The provider names garage door spring replacement, opener and motor repairs, roller door repairs, sectional door repairs, new garage door installation, servicing and maintenance. | SUPPORTED | Services section names each of these service categories. |
+| The provider services Greater Springfield and the Ipswich corridor, including Springfield Lakes, Brookwater, Augustine Heights, Goodna, Redbank Plains, Ripley and Forest Lake. | SUPPORTED | Coverage section and footer list those areas. |
+| Same-day callouts are often available, subject to availability. | SUPPORTED | Money page says same-day attendance/callouts are often available, subject to availability. |
+| Replacement is only suggested when repair is not the sensible answer. | SUPPORTED | Repair-first assessment section states replacement is only suggested when repair is not sensible. |
+| Scheduled tune-ups are described as keeping doors quiet, safe and reliable and preventing breakdowns. | SUPPORTED | Servicing and Maintenance section says scheduled tune-ups keep doors quiet, safe and reliable and prevent breakdowns. |
+| The team responds within one business day about the suburb and repair. | SUPPORTED | Contact/CTA text says the team responds within one business day about suburb and repair. |
+| The enquiry form asks for suburb or postcode, what is happening and the best time to call. | SUPPORTED | Form fields include “Suburb / Postcode,” “Tell us what is happening,” and “Best time to call.” |
+| Built page visible text: “For Springfield Lakes homeowners, the published repair path is enquiry first, response within one business day, on-site fault checking, then a written fixed-price quote before work begins.” | SUPPORTED | Money page supports enquiry-first process, one-business-day response, on-site door/fault confirmation, and written fixed-price quote before work begins. |
+| Built page visible text: “Same-day attendance is often available, subject to availability.” | SUPPORTED | Money page states same-day attendance is often available, subject to availability. |
+| Built page visible text: “The source page says most minor repairs in the Springfield and Ipswich area sit in the low-to-mid hundreds, while roller or track adjustment costs far less than spring or motor replacement.” | SUPPORTED | Money page FAQ states both the low-to-mid hundreds repair-cost claim and the comparative roller/track adjustment claim. |
+
+FACT-CHECK: PASS
