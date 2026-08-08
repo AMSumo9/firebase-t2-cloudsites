@@ -1,0 +1,300 @@
+{
+  "node_id": "garagedoorsrepairbrisbane-010",
+  "money_domain": "garagedoorsrepairbrisbane.com.au",
+  "money_home_url": "https://www.garagedoorsrepairbrisbane.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/garage-door-repairs-brisbane-010/",
+  "live_url": "https://sites-e470-1.web.app/garage-door-repairs-brisbane-010/",
+  "subdomain": "garage-door-repairs-brisbane",
+  "gh_repo": null,
+  "primary_kw": "garage door repairs brisbane",
+  "kw_slug": "garage-door-repairs-brisbane",
+  "anchor_kw": "garage door repairs brisbane",
+  "brand": "Garage Door Repairs Brisbane",
+  "target_page_url": "https://www.garagedoorsrepairbrisbane.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "garagedoorsrepairbrisbane-001",
+    "url": "https://garage-door-repairs-brisbane-guide.vercel.app/",
+    "primary_kw": "garage door repairs brisbane"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\garagedoorsrepairbrisbane.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Elite Garage Repairs",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "River City Doors",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Doors Direct",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Supreme Garage Doors",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Best Doors Brisbane",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Garage Doors",
+        "type": "SERVICE",
+        "salience": 0.99
+      },
+      {
+        "name": "Bayside Garage Doors",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Installation",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Rob",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Brisbane & Bayside Garage Doors",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "T3 Garage Doors",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Best Doors",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Garage Door Repairs",
+        "type": "SERVICE",
+        "salience": 0.945
+      },
+      {
+        "name": "Garage Door Supply and Installation",
+        "type": "SERVICE",
+        "salience": 0.94
+      },
+      {
+        "name": "Brisbane",
+        "type": "LOCATION",
+        "salience": 0.926
+      },
+      {
+        "name": "Steel-Line Garage Doors Brisbane",
+        "type": "ORGANIZATION",
+        "salience": 0.92
+      },
+      {
+        "name": "Garage Door Servicing",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "B&D Australia",
+        "type": "ORGANIZATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Automatic Garage Door Repairs",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "South East Queensland",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "SE QLD",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Garage Door Spring Repair",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Brisbane Southside",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "garage door replacement",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Supreme Garage Door Services",
+        "type": "ORGANIZATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Garage Doors Installation",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Brisbane Northside",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Garage Doors Brisbane",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Queensland",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Garage Door Installers",
+        "type": "SERVICE",
+        "salience": 0.9
+      }
+    ],
+    "lsi_keywords": [
+      "garage door repair brisbane",
+      "Bournega door servicing brisbane",
+      "roller door repair brisbane",
+      "sectional door repair brisbane",
+      "garage door maintenance brisbane",
+      "24/7 emergency garage door repair brisbane",
+      "garage door installation brisbane",
+      "merlin garage door opener repair brisbane",
+      "steel-line garage door repair brisbane",
+      "garage door repair ipswich",
+      "garage door repair darra",
+      "garagedoor opener repair brisbane",
+      "residential garage door repair brisbane",
+      "commercial garage door repair brisbane",
+      "garage door repair south east queensland"
+    ]
+  },
+  "image": {
+    "file": "garage-door-repairs-brisbane.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-08",
+  "money_home_text": "Garage Door Repairs Brisbane | Fast Local Specialists Skip to content Garage Door Repairs Brisbane Home About Services Service Areas Tools Contact CALL NOW SEND MESSAGE Open menu Home About Services Service Areas Tools Contact CALL NOW Fast garage door repairs across Brisbane Garage Door Repairs Brisbane Get it fixed fast by a Brisbane garage door specialist. Qualified local technicians sort broken springs, faulty openers, jammed roller doors and off-track sectional doors right across the metro catchment. Qualified local technicians Fast, prompt response Guide pricing upfront Written fixed-price quote Servicing Chermside, Carindale, Wynnum, Indooroopilly, Mount Gravatt and suburbs across north, south, east and west Brisbane. Request a free quote Send the form and a Brisbane local garage door specialist will call you back, usually fast. Your name Phone Email Suburb / Postcode Tell us what is happening SEND MESSAGE Your details stay with local garage door technicians. See our privacy policy . Qualified local technicians Qualified local garage door technicians works across the Brisbane metro catchment. Prompt response Fast response across the Brisbane garage door catchment for stuck, jammed or broken doors. Guide pricing upfront Guide price ranges are shown upfront; the attending technician provides a written fixed-price quote before any work begins. Licensed electricians for powered openers Electrical work on powered openers is carried out by a licensed electrician under the QLD Electrical Safety Act 2002. Garage door repairs across Brisbane: springs, openers and roller door repairs From a snapped torsion spring or a worn lifting cable to a powered opener that has stopped responding, the local technicians handle the full range of residential garage door work. That covers sectional, roller and tilt doors, off-track and derailed doors, panel and section replacement, remote and keypad programming, and prompt emergency call-outs for a door that will not secure. Where a job involves electrical work on a powered opener, it is carried out by a licensed electrician under the Queensland Electrical Safety Act 2002. Tell us what is happening with your door and local garage door technicians will arrange a qualified Brisbane technician who provides a written fixed-price quote first. Garage Door Spring Repair Garage Door Opener Repair Off-Track Door Repair Panel and Section Replacement Roller Door Repair Cable and Roller Replacement Remote and Keypad Programming New Garage Door Installation Emergency Garage Door Repair See all garage door services Guide Brisbane pricing Typical 2026 ranges for common repairs. Repair Guide range Service call-out / standard service $120 - $200 Torsion spring replacement $220 - $450 Lifting cable replacement $180 - $320 Track roller replacement $160 - $300 Opener / motor replacement $600 - $1,100 New sectional door (single, supplied and installed) $2,500 - $5,000 These figures are a guide only and are not a final price. They do not bind any technician or supplier. Real prices vary by door type and size, spring and hardware condition, opener brand, site access and after-hours surcharges. Always obtain a written fixed-price quote from a qualified garage door technician before committing to any repair. Garage door technicians across Brisbane Servicing garage door repairs across Brisbane, from the northern suburbs of Chermside, Aspley and Stafford through the southside at Mount Gravatt, Sunnybank and Carindale, the bayside at Wynnum and Manly, and the western suburbs of Indooroopilly, Kenmore and The Gap. Chermside Aspley Stafford Wavell Heights Carindale Mount Gravatt Wishart Sunnybank Wynnum Manly Cannon Hill Carina Indooroopilly Kenmore The Gap Mitchelton View all service areas How our repair process works Three steps from enquiry to a written fixed-price quote. 1 Tell us about the door Send through the door type and the fault using the quote form. The more detail on the problem and your suburb, the faster the right technician can respond. 2 Get a local fault check A qualified local garage door technician will contact you to discuss the fault and arrange a suitable visit time. 3 Approve a fixed-price quote The attending technician inspects the door, explains the fix and provides a written fixed-price quote before any work begins. You deal with them directly. Sample repair feedback Sample repair feedback. These are sample testimonials representative of the work local technicians carry out across Brisbane, not named customer reviews. B Sample repair feedback: the technician replaced a broken torsion spring quickly and re-balanced the door. Tidy work and a clear written quote first. Brisbane homeowner - Chermside B Sample repair feedback: our bayside roller door had seized from salt corrosion. The technician serviced the curtain and hardware and it runs quietly again. Brisbane homeowner - Wynnum B Sample repair feedback: the opener on our ageing sectional door had stopped responding. A technician diagnosed and replaced the motor unit promptly. Brisbane homeowner - Carindale Common garage door repair questions How much do garage door repairs cost in Brisbane? + Garage door repairs in Brisbane typically range from a little over $100 for minor adjustments through to several hundred dollars when parts such as springs or motors need replacing. As a guide, a service call-out is around $120 to $200, a torsion spring replacement around $220 to $450, and an opener or motor replacement around $600 to $1,100. The final cost depends on the door type, the extent of the fault and whether new components are required. The attending technician provides a written fixed-price quote before any work begins. Can you fix a garage door the same day? + Many standard repairs, such as a broken spring, a faulty opener or a door that is off its track, are completed in one to two hours once the technician is on site. Emergency jobs are often prioritised to get the door secure and usable as quickly as possi",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.garagedoorsrepairbrisbane.com.au/services/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/",
+    "https://www.garagedoorsrepairbrisbane.com.au/tools/cost-calculator/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/garage-door-spring-repair/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/garage-door-opener-repair/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/off-track-door-repair/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/panel-and-section-replacement/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/roller-door-repair/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/cable-and-roller-replacement/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/remote-and-keypad-programming/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/new-garage-door-installation/",
+    "https://www.garagedoorsrepairbrisbane.com.au/services/emergency-garage-door-repair/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/chermside/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/aspley/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/stafford/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/wavell-heights/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/carindale/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/mount-gravatt/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/wishart/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/sunnybank/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/wynnum/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/manly/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/cannon-hill/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/carina/",
+    "https://www.garagedoorsrepairbrisbane.com.au/locations/indooroopilly/"
+  ],
+  "firebase_path": "garage-door-repairs-brisbane-010"
+}

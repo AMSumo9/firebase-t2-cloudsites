@@ -1,0 +1,218 @@
+{
+  "kicker": "Brisbane Door Repairs",
+  "h1_tail": "A Practical Homeowner Guide",
+  "meta_hook": "compare repair types, quote inputs and Brisbane cost signals",
+  "takeaway": "For a Brisbane homeowner, the published guide prices start at $120 to $200 for a service call-out, $220 to $450 for torsion spring replacement, $180 to $320 for lifting cable replacement, and $600 to $1,100 for opener or motor replacement. The source page says the attending technician provides a written fixed-price quote before work begins, and electrical work on powered openers is handled by a licensed electrician.",
+  "lead": "For homeowners comparing garage door repairs brisbane options, the useful starting point is the door type, the fault, the likely parts involved and whether a written fixed-price quote is provided first.",
+  "lead_tail": "with the main repair choices set out in plain language",
+  "stats": [
+    {
+      "value": "$120-$200",
+      "label": "guide service call-out"
+    },
+    {
+      "value": "$220-$450",
+      "label": "guide torsion spring replacement"
+    },
+    {
+      "value": "$600-$1,100",
+      "label": "guide opener or motor replacement"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Fault, Not The Brand Of Door",
+      "html": "<p><a href=\"https://www.garagedoorsrepairbrisbane.com.au/\">Garage Door Repairs Brisbane</a> publishes a useful fault list for local homeowners: broken springs, faulty openers, jammed roller doors, off-track sectional doors, worn lifting cables, damaged panels, remote programming and keypad programming. That list is a better first filter than guessing the final repair, because the same symptom can come from different parts.</p><p>Before booking a visit, describe whether the door is roller, sectional or tilt, whether it is stuck open, stuck closed, noisy, uneven, off track or not responding to the remote. Add the suburb or postcode, because the source page says response is arranged across the Brisbane metro catchment. For another crawlable summary of the same topic, see this <a href=\"https://garage-door-repairs-brisbane-guide.vercel.app/\">Brisbane garage door repair guide</a>.</p>"
+    },
+    {
+      "h2": "What A Quote Should Separate",
+      "html": "<p>The source page is clear that its listed figures are guide ranges only, not final prices. A useful quote separates the service call-out, parts, labour, opener or motor replacement where relevant, and any after-hours surcharge. It should also name the door type and the fault found on inspection.</p><p>Ask whether the repair is an adjustment, a part replacement, or a new installation conversation. The published ranges put a standard service call-out at $120 to $200, lifting cable replacement at $180 to $320, track roller replacement at $160 to $300, and a single supplied and installed new sectional door at $2,500 to $5,000. Real pricing varies by door type, size, spring and hardware condition, opener brand, site access and timing.</p>"
+    },
+    {
+      "h2": "Powered Openers Need A Different Check",
+      "html": "<p>A door that moves manually but will not respond to a handset, wall button or keypad may be an opener, remote or programming issue. The source page lists opener repair, motor replacement, remote programming and keypad programming as repair categories, so the booking note should say exactly what still works and what has stopped.</p><p>Do not bundle every opener problem into a motor replacement assumption. Ask the technician to explain whether the fault is the remote, keypad, opener unit, door balance or another component. Where electrical work on a powered opener is required, the source page says it is carried out by a licensed electrician under the Queensland Electrical Safety Act 2002.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Brisbane homeowners dealing with residential garage doors, including roller, sectional and tilt doors. It also suits people comparing a standard service, a broken spring repair, a cable or roller replacement, an opener fault, a panel replacement, or a new single sectional door quote.</p><ul><li><strong>Homeowners with a stuck door:</strong> note whether the door can be secured, whether it is off track, and whether the opener still responds.</li><li><strong>Owners with an older opener:</strong> ask whether programming, repair or motor replacement is being quoted.</li><li><strong>People comparing repair and replacement:</strong> ask for the repair cost, the expected parts involved and the new door option in writing.</li></ul>"
+    },
+    {
+      "h2": "Local Booking Details That Actually Help",
+      "html": "<p>The source page names service areas across north, south, east, bayside and western Brisbane, including Chermside, Carindale, Wynnum, Indooroopilly, Mount Gravatt and nearby suburbs. Locality matters most when it helps the technician judge travel, access and likely response timing, not when it is used as decoration.</p><p>Send practical details: suburb or postcode, door type, approximate size if known, whether a vehicle is trapped, whether the door is secure, and whether the issue began after an impact or after normal use. The source page says many standard repairs, including broken spring, faulty opener and off-track door work, are completed in one to two hours once the technician is on site.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Repair or replacement comparison",
+    "headers": [
+      "Situation",
+      "Repair path",
+      "Replacement path"
+    ],
+    "rows": [
+      [
+        "Spring, cable or roller fault",
+        "Ask for the affected part, labour and written fixed-price repair quote.",
+        "Usually only relevant if broader door condition makes repair poor value."
+      ],
+      [
+        "Opener or motor fault",
+        "Check remote, keypad, opener unit and door balance before approving parts.",
+        "Compare against the published $600 to $1,100 guide range for opener or motor replacement."
+      ],
+      [
+        "Damaged sectional door",
+        "Ask whether panel or section replacement is available.",
+        "A new single sectional door is listed at $2,500 to $5,000 supplied and installed."
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Identify the door type",
+      "text": "Record whether it is a roller, sectional or tilt door before requesting a quote."
+    },
+    {
+      "name": "Describe the symptom",
+      "text": "Say whether the door is jammed, off track, noisy, uneven, not securing or not responding."
+    },
+    {
+      "name": "Ask for the quote basis",
+      "text": "Request the service call-out, parts, labour and any timing surcharge before approval."
+    },
+    {
+      "name": "Confirm powered opener handling",
+      "text": "Where electrical work is involved, ask how a licensed electrician will be used."
+    },
+    {
+      "name": "Keep the written quote",
+      "text": "Use the fixed-price quote to compare repair, opener replacement or new door options."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a Brisbane garage door repair cost?",
+      "a": "The source page lists guide pricing of $120 to $200 for a service call-out, $220 to $450 for torsion spring replacement, $180 to $320 for lifting cable replacement, and $600 to $1,100 for opener or motor replacement. Final pricing depends on the inspected fault."
+    },
+    {
+      "q": "Can a stuck door be fixed the same day?",
+      "a": "The source page says many standard repairs, including broken spring, faulty opener and off-track door jobs, are completed in one to two hours once the technician is on site. Booking timing still depends on availability, location and parts."
+    },
+    {
+      "q": "What should I ask before approving work?",
+      "a": "Ask for the fault found, parts required, labour, call-out charge, any after-hours surcharge and a written fixed-price quote. The published process says the attending technician provides that quote before work begins."
+    },
+    {
+      "q": "Are powered opener repairs treated differently?",
+      "a": "Yes, where electrical work on a powered opener is required, the source page says it is carried out by a licensed electrician under the Queensland Electrical Safety Act 2002. Ask whether the issue is programming, the opener unit, motor replacement or door balance."
+    }
+  ],
+  "about": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published guide prices include $120 to $200 for a service call-out or standard service.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide prices include $220 to $450 for torsion spring replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide prices include $180 to $320 for lifting cable replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide prices include $160 to $300 for track roller replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide prices include $600 to $1,100 for opener or motor replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide prices include $2,500 to $5,000 for a new single sectional door supplied and installed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says the attending technician provides a written fixed-price quote before work begins.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists broken springs, faulty openers, jammed roller doors, off-track sectional doors, lifting cable replacement, panel and section replacement, remote programming and keypad programming as repair categories.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says electrical work on powered openers is carried out by a licensed electrician under the Queensland Electrical Safety Act 2002.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says service is arranged across the Brisbane metro catchment, including Chermside, Carindale, Wynnum, Indooroopilly and Mount Gravatt.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says many standard repairs, including broken spring, faulty opener and off-track door work, are completed in one to two hours once the technician is on site.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says real prices vary by door type and size, spring and hardware condition, opener brand, site access and after-hours surcharges.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers residential garage door fault checks, quote inputs and repair comparisons for Brisbane homeowners."
+}
