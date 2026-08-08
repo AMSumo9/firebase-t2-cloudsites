@@ -1,0 +1,244 @@
+{
+  "kicker": "Gold Coast Walls",
+  "h1_tail": "Site Checks Before You Quote",
+  "meta_hook": "compare drainage, approvals, access and wall systems before asking for quotes",
+  "takeaway": "For a Gold Coast retaining project, the source guidance gives no fixed price or build timeframe. The direct answer is to scope the wall before choosing a finish: compare five named systems, confirm drainage discharge, check access for machinery and materials, and do not rely on a one metre shortcut for approval. Height, surcharge, nearby structures, services, pool barriers, easements, setbacks and wall separation can all change who needs to be involved.",
+  "lead": "For homeowners comparing retaining walls gold coast options, the useful starting point is not the face material, but the soil, water, access and approval questions sitting behind it.",
+  "lead_tail": "with each site detail tested before a quote is treated as final",
+  "stats": [
+    {
+      "value": "5",
+      "label": "wall systems compared"
+    },
+    {
+      "value": "1 m",
+      "label": "not a complete approval test"
+    },
+    {
+      "value": "7",
+      "label": "approval factors named"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the site, not the surface",
+      "html": "<p><a href=\"https://www.goldcoastretainingwall.au/\">Gold Coast Retaining Wall</a> frames the job as a site-first decision because a wall has to manage soil, water, loads and access before it becomes a finish choice. That order is useful for owners because the visible face can hide the questions that change scope, approvals and cost.</p><p>The first inspection should record the wall's highest point, the fall of the land, low points where water gathers, and the route an excavator, materials and spoil would need to take. A narrow gate, steep driveway or tight boundary can rule out components that need mechanical lifting, even when that system looks suitable in a brochure.</p><ul><li>Measure the highest retained point, not only the average height.</li><li>Photograph where roofwater, surface runoff and neighbouring levels meet the wall line.</li><li>Note nearby buildings, boundaries, pool barriers, services and easements before asking for a quote.</li><li>Ask whether the contractor, designer, certifier or surveyor needs to answer a specific part of the scope.</li></ul>"
+    },
+    {
+      "h2": "Drainage changes the real design question",
+      "html": "<p>Water is treated by the source page as part of the structure, not an afterthought. Free-draining aggregate, geofabric and subsoil drainage only help when collected water has a lawful destination. For Gold Coast sites facing wet weather, that makes the drainage outlet as important as the wall face.</p><p>The practical question is where water comes from and where it can go. Surface runoff, roofwater, neighbouring levels and low points should be mapped before excavation. If those details are left until after the wall is closed, the owner may have a finished wall with unresolved water movement behind or around it.</p><p>Drainage also affects system choice. A boulder or gabion finish may suit some landscape and drainage situations, while a boundary replacement wall may point toward a different system. The better quote explains the drainage assumption, not just the product name.</p>"
+    },
+    {
+      "h2": "Approval questions need a complete test",
+      "html": "<p>The published guidance is clear that a one metre rule is not a complete approval test. City of Gold Coast criteria can also consider separation between walls, surcharge, nearby buildings, pool fencing, easements, services and boundary setbacks. That is why an approval-aware scope should separate facts from assumptions early.</p><p>Surcharge is a useful example because it is not a finish choice. Extra load near a wall can change the engineering question even when the visible height seems modest. Nearby structures, services and pool barriers can have the same effect because they bring other obligations into the same strip of land.</p><p>Owners do not need to solve every technical question before speaking with a contractor. They do need to bring enough information for the right person to identify which questions belong with a structural engineer, private building certifier, surveyor or contractor.</p>"
+    },
+    {
+      "h2": "Choosing between wall systems",
+      "html": "<p>The source page compares concrete sleepers, segmental blocks, natural stone and boulder walls, timber sleepers and gabions without presenting one as universally best. That material-neutral stance is sensible because each system solves a different mix of access, drainage, finish, service life and site geometry.</p><p>Concrete sleepers and steel posts are positioned for residential boundaries, terraces and replacement walls where low maintenance and a clean finish are priorities. Segmental blocks suit landscaped terraces and engineered walls where geometry, ground conditions and finish need to line up. Natural stone and boulder walls suit larger landscapes and sloping sites where drainage, batter and machine access can be designed together.</p><p>Timber sleepers are described for suitable low garden and landscape applications, with drainage and expected service life made clear before construction. Gabions are presented as rock-filled cage systems for selected landscape, erosion and retaining applications where a textured, free-draining finish suits the site.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to owners planning a new wall, replacing a leaning or poorly drained wall, or comparing systems for a coastal yard, suburban boundary, compact estate or hinterland slope. It is especially relevant where access is constrained, water movement is unclear, or approval triggers may sit beyond wall height alone.</p><p>It also applies when a quote seems to focus only on surface finish. A useful quote should show what has been assumed about excavation access, spoil handling, drainage outlet, wall height, surcharge, nearby structures and any approval pathway. Where those inputs are unknown, the next step is a measured site review rather than a final selection.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Retaining wall system decisions by site condition",
+    "headers": [
+      "Option",
+      "Best fit from the source guidance",
+      "Question to ask before choosing"
+    ],
+    "rows": [
+      [
+        "Concrete sleeper",
+        "Residential boundaries, terraces and replacement walls needing low maintenance and a clean finish",
+        "Can materials and posts be brought in safely with the available access?"
+      ],
+      [
+        "Segmental block",
+        "Landscaped terraces and engineered walls matched to geometry and ground conditions",
+        "Does the block system suit the wall shape and retained ground?"
+      ],
+      [
+        "Boulder or natural stone",
+        "Larger landscapes and slopes where drainage, batter and machine access are designed together",
+        "Is there enough access for placement and spoil movement?"
+      ],
+      [
+        "Timber sleeper",
+        "Suitable low garden and landscape applications",
+        "What drainage and service life assumptions are being made?"
+      ],
+      [
+        "Gabion",
+        "Selected landscape, erosion and retaining uses with a textured, free-draining finish",
+        "Where will collected water lawfully discharge?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the wall line",
+      "text": "Record the highest retained point, nearby boundaries, structures, services, pool barriers and any obvious easements."
+    },
+    {
+      "name": "Map water movement",
+      "text": "Identify roofwater, surface runoff, low points and the intended lawful drainage outlet before excavation."
+    },
+    {
+      "name": "Check access",
+      "text": "Confirm how machinery, materials and spoil can move through the site without assuming open access."
+    },
+    {
+      "name": "Test approval triggers",
+      "text": "Ask whether height, surcharge, separation, setbacks or nearby structures require a designer, certifier or surveyor."
+    },
+    {
+      "name": "Compare systems",
+      "text": "Choose the wall system after soil, drainage, access and approval assumptions are visible."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need approval for a retaining wall on the Gold Coast?",
+      "a": "The source page says approval is required unless every exemption criterion on the City of Gold Coast retaining-wall page is satisfied. It also says a one metre rule is not a complete test because separation, surcharge, nearby buildings, pool fencing, easements, services and setbacks can matter."
+    },
+    {
+      "q": "Which retaining wall material is best?",
+      "a": "There is no single best material in the supplied guidance. Concrete sleepers, segmental blocks, boulders, timber and gabions are compared against the site, including drainage, access, geometry and finish."
+    },
+    {
+      "q": "Why is drainage discussed before the wall face?",
+      "a": "The source page treats drainage as part of the wall system. Free-draining aggregate, geofabric and subsoil drainage only work when water has a lawful destination."
+    },
+    {
+      "q": "What should I prepare before asking for a quote?",
+      "a": "Prepare the wall location, highest point, access route, nearby structures, services, drainage clues and intended outcome. Those details help turn a broad enquiry into a clearer project review."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source guidance gives no fixed price or build timeframe for a Gold Coast retaining project.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source compares five retaining wall systems: concrete sleepers, segmental blocks, natural stone and boulder walls, timber sleepers and gabions.",
+      "source": "money page"
+    },
+    {
+      "claim": "A one metre rule is not a complete approval test for Gold Coast retaining wall approval questions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval considerations named by the source include separation between walls, surcharge, nearby buildings, pool fencing, easements, services and boundary setbacks.",
+      "source": "money page"
+    },
+    {
+      "claim": "A retaining wall has to manage soil, water, loads and access before it becomes a finish choice.",
+      "source": "money page"
+    },
+    {
+      "claim": "The first inspection should record the wall's highest point and the route an excavator, materials and spoil would need to take.",
+      "source": "money page"
+    },
+    {
+      "claim": "A narrow gate can rule out components that need mechanical lifting.",
+      "source": "money page"
+    },
+    {
+      "claim": "Free-draining aggregate, geofabric and subsoil drainage only work when water has a lawful destination.",
+      "source": "money page"
+    },
+    {
+      "claim": "Surface runoff, roofwater, neighbouring levels and low points should be mapped before excavation.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleepers and steel posts are positioned for residential boundaries, terraces and replacement walls where low maintenance and a clean finish are priorities.",
+      "source": "money page"
+    },
+    {
+      "claim": "Segmental block systems are positioned for landscaped terraces and engineered walls selected to suit wall geometry, ground conditions and finish.",
+      "source": "money page"
+    },
+    {
+      "claim": "Natural stone and boulder walls are positioned for larger landscapes and sloping sites where drainage, batter and machine access can be designed together.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls are positioned for suitable low garden and landscape applications, with drainage and expected service life made clear before construction.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabion walls are positioned for selected landscape, erosion and retaining applications where a textured, free-draining finish suits the site.",
+      "source": "money page"
+    },
+    {
+      "claim": "Assessment-led options are presented for leaning, bulging, cracked, rotted or poorly drained walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source identifies designer, certifier, surveyor and contractor as roles that may need to answer different retaining wall scope questions.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers site-first retaining wall planning on the Gold Coast, including drainage, access, approval triggers and system choice."
+}

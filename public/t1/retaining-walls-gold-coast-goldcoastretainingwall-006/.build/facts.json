@@ -1,0 +1,220 @@
+{
+  "node_id": "goldcoastretainingwall-006",
+  "money_domain": "goldcoastretainingwall.au",
+  "money_home_url": "https://www.goldcoastretainingwall.au/",
+  "money_host": "vercel",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/retaining-walls-gold-coast-goldcoastretainingwall-006/",
+  "live_url": "https://sites-e470-1.web.app/retaining-walls-gold-coast-goldcoastretainingwall-006/",
+  "subdomain": "retaining-walls-gold-coast",
+  "gh_repo": null,
+  "primary_kw": "retaining walls gold coast",
+  "kw_slug": "retaining-walls-gold-coast",
+  "anchor_kw": "retaining walls gold coast",
+  "brand": "Gold Coast Retaining Wall",
+  "target_page_url": "https://www.goldcoastretainingwall.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\goldcoastretainingwall.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "City of Gold Coast",
+        "type": "LocalGovernment",
+        "salience": 0
+      },
+      {
+        "name": "Queensland Building and Construction Commission",
+        "type": "Regulator",
+        "salience": 0
+      },
+      {
+        "name": "retaining wall",
+        "type": "Service",
+        "salience": 0
+      },
+      {
+        "name": "building approval",
+        "type": "ComplianceTopic",
+        "salience": 0
+      },
+      {
+        "name": "structural engineer",
+        "type": "ProfessionalRole",
+        "salience": 0
+      },
+      {
+        "name": "private building certifier",
+        "type": "ProfessionalRole",
+        "salience": 0
+      },
+      {
+        "name": "concrete sleeper",
+        "type": "MaterialSystem",
+        "salience": 0
+      },
+      {
+        "name": "segmental block",
+        "type": "MaterialSystem",
+        "salience": 0
+      },
+      {
+        "name": "timber sleeper",
+        "type": "MaterialSystem",
+        "salience": 0
+      },
+      {
+        "name": "boulder wall",
+        "type": "MaterialSystem",
+        "salience": 0
+      },
+      {
+        "name": "gabion",
+        "type": "MaterialSystem",
+        "salience": 0
+      },
+      {
+        "name": "subsoil drainage",
+        "type": "ConstructionDetail",
+        "salience": 0
+      },
+      {
+        "name": "stormwater system",
+        "type": "Infrastructure",
+        "salience": 0
+      },
+      {
+        "name": "surcharge load",
+        "type": "EngineeringConcept",
+        "salience": 0
+      },
+      {
+        "name": "easement",
+        "type": "PropertyConstraint",
+        "salience": 0
+      },
+      {
+        "name": "pool fence",
+        "type": "SafetyConstraint",
+        "salience": 0
+      },
+      {
+        "name": "Gold Coast hinterland",
+        "type": "Place",
+        "salience": 0
+      },
+      {
+        "name": "wet season",
+        "type": "ClimateContext",
+        "salience": 0
+      }
+    ],
+    "lsi_keywords": []
+  },
+  "image": {
+    "file": "retaining-walls-gold-coast.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-08",
+  "money_home_text": "Gold Coast Retaining Wall Options | Site-First Guidance Skip to content Gold Coast Retaining Wall Home Services Locations About Tools Contact Request Your Quote Open menu Home Services Locations About Tools Contact Site-first retaining guidance Gold Coast retaining wall decisions start below the surface A wall has to manage soil, water, loads and access before it becomes a finish choice. Compare practical systems for coastal estates, suburban boundaries and hinterland slopes. Request Your Quote Compare wall systems Tell us about your wall Share the wall, location and access details for a practical project review. Your name Phone Email Suburb / Postcode Tell us about your project Optional - it helps us point your enquiry the right way. Send My Project Details Your details are only used to arrange your enquiry. See our privacy policy . Example reviews Site-first scoping Start with the wall&#39;s highest point and the route an excavator, materials and spoil would need to take. Approval-aware guidance Gold Coast approval criteria are treated as a complete test, not a one-metre shortcut. Material-neutral options Concrete, block, timber, stone and gabion choices are compared against the site. Written next step Project details are gathered for a clearer review and provider scope. Compare the system, not just the surface Gold Coast retaining wall options for different sites Concrete sleepers, segmental blocks, boulders, timber and gabions solve different problems. Groundwater, for example, can make the drainage outlet more important than the face material, while a narrow gate can rule out components that need mechanical lifting. Concrete Sleeper Retaining Walls Reinforced concrete sleepers and steel posts for residential boundaries, terraces and replacement walls where low maintenance and a clean finish are priorities. Explore this option → Segmental Block Retaining Walls Modular block systems for landscaped terraces and engineered walls, selected to suit wall geometry, ground conditions and the desired finish. Explore this option → Natural Stone &amp; Boulder Walls Boulder and natural-stone retaining for larger landscapes and sloping sites where drainage, batter and machine access can be designed together. Explore this option → Timber Sleeper Retaining Walls Treated timber sleeper walls for suitable low garden and landscape applications, with drainage and expected service life made clear before construction. Explore this option → Gabion Retaining Walls Rock-filled cage systems for selected landscape, erosion and retaining applications where a textured, free-draining finish suits the site. Explore this option → Retaining Wall Drainage &amp; Erosion Control Subsoil drainage, filter layers, lawful discharge planning and surface-water measures considered as part of the wall system rather than an afterthought. Explore this option → Engineered &amp; Approval-Ready Retaining Walls Coordinated wall scope for projects affected by height, surcharge, nearby structures, services, pool barriers or building-approval requirements. Explore this option → Retaining Wall Repairs &amp; Replacement Assessment-led options for leaning, bulging, cracked, rotted or poorly drained walls, from targeted work to complete replacement where justified. Explore this option → Water is part of the structure Retaining wall drainage Gold Coast sites need in wet weather Free-draining aggregate, geofabric and subsoil drainage only work when water has a lawful destination. Surface runoff, roofwater, neighbouring levels and low points should be mapped before excavation, not discovered after the wall is closed. Understand drainage and erosion control Approvals and engineering Engineered retaining walls Gold Coast approval criteria can affect A one-metre rule is not a complete approval test. The City of Gold Coast criteria also consider separation between walls, surcharge, nearby buildings, pool fencing, easements, services and boundary setbacks. A measured scope helps identify which questions belong with a designer, certifier, surveyor or contractor. Project checklist Gather the site facts that change scope and price. Cost calculator Build an early planning range, with assumptions visible. Put the site details in one place Share the wall, location, access and outcome. Your enquiry can then be reviewed against the likely scope. Your name Phone Email Suburb / Postcode Tell us about your project Optional - it helps us point your enquiry the right way. Send My Project Details Your details are only used to arrange your enquiry. See our privacy policy . Local retaining wall notes across the Gold Coast Coastal yards, compact northern estates and hinterland slopes present different access, water and retaining questions. Open the relevant area for a practical starting list. Retaining walls in Burleigh Waters 4220 · Lake Heron Retaining walls in Reedy Creek 4227 · The Observatory Retaining walls in Robina 4226 · Robina Town Centre Retaining walls in Mudgeeraba 4213 · Mudgeeraba Village Retaining walls in Nerang 4211 · Bischof Pioneer Park Retaining walls in Gilston 4211 · Gilston State School Retaining walls in Worongary 4213 · Worongary Town Centre Retaining walls in Tallai 4213 · The Panorama Retaining walls in Bonogin 4213 · Bonogin Creek Retaining walls in Tallebudgera Valley 4228 · Tallebudgera Creek Retaining walls in Currumbin Valley 4223 · Currumbin Rock Pools Retaining walls in Helensvale 4212 · Westfield Helensvale Retaining walls in Pacific Pines 4211 · Pacific Pines Town Centre Retaining walls in Oxenford 4210 · Warner Bros. Movie World Retaining walls in Coomera 4209 · Westfield Coomera Gold Coast retaining wall questions before quoting Approval, drainage and responsibility questions are easier to resolve when the site facts are separated from assumptions. Do I need building approval for a retaining wall on the Gold Coast? Building approval is required unless every exemption criterion on the City of Gold Coast retaining-wall page is",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.goldcoastretainingwall.au/services/",
+    "https://www.goldcoastretainingwall.au/locations/",
+    "https://www.goldcoastretainingwall.au/tools/cost-calculator/",
+    "https://www.goldcoastretainingwall.au/services/concrete-sleeper-retaining-walls/",
+    "https://www.goldcoastretainingwall.au/services/segmental-block-retaining-walls/",
+    "https://www.goldcoastretainingwall.au/services/natural-stone-boulder-walls/",
+    "https://www.goldcoastretainingwall.au/services/timber-sleeper-retaining-walls/",
+    "https://www.goldcoastretainingwall.au/services/gabion-retaining-walls/",
+    "https://www.goldcoastretainingwall.au/services/drainage-erosion-control/",
+    "https://www.goldcoastretainingwall.au/services/engineered-retaining-walls/",
+    "https://www.goldcoastretainingwall.au/services/retaining-wall-repairs-replacement/",
+    "https://www.goldcoastretainingwall.au/tools/checklist/",
+    "https://www.goldcoastretainingwall.au/locations/burleigh-waters/",
+    "https://www.goldcoastretainingwall.au/locations/reedy-creek/",
+    "https://www.goldcoastretainingwall.au/locations/robina/",
+    "https://www.goldcoastretainingwall.au/locations/mudgeeraba/",
+    "https://www.goldcoastretainingwall.au/locations/nerang/",
+    "https://www.goldcoastretainingwall.au/locations/gilston/",
+    "https://www.goldcoastretainingwall.au/locations/worongary/",
+    "https://www.goldcoastretainingwall.au/locations/tallai/",
+    "https://www.goldcoastretainingwall.au/locations/bonogin/",
+    "https://www.goldcoastretainingwall.au/locations/tallebudgera-valley/",
+    "https://www.goldcoastretainingwall.au/locations/currumbin-valley/",
+    "https://www.goldcoastretainingwall.au/locations/helensvale/",
+    "https://www.goldcoastretainingwall.au/locations/pacific-pines/"
+  ],
+  "firebase_path": "retaining-walls-gold-coast-goldcoastretainingwall-006"
+}
