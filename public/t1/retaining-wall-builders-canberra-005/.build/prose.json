@@ -1,0 +1,242 @@
+{
+  "kicker": "ACT Wall Scope",
+  "h1_tail": "A Site Scope Guide",
+  "meta_hook": "Compare wall systems, drainage questions and ACT approval checks before quoting.",
+  "takeaway": "A useful Canberra retaining wall brief starts with three facts: what the wall must retain, where water can lawfully go, and what sits close to or above the wall. The source guide identifies eight project pathways, including concrete sleeper, timber sleeper, reinforced block, stone or boulder, gabion, drainage, engineered approval-ready work, and repair or replacement. Approval is not decided by height alone, because location, design, easements and nearby structures can change the scope.",
+  "lead": "For homeowners comparing retaining wall builders canberra options, the practical question is how the site, water path and ACT approval checks shape the job before a wall system is chosen.",
+  "lead_tail": "with the site conditions recorded before a quote is requested",
+  "stats": [
+    {
+      "value": "3",
+      "label": "site questions before wall choice"
+    },
+    {
+      "value": "8",
+      "label": "retaining wall project pathways"
+    },
+    {
+      "value": "ACT",
+      "label": "approval and easement checks"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Site, Not The Finish",
+      "html": "<p><a href=\"https://www.retainingwallscanberra.au/\">Retaining Walls Canberra</a> frames the first decision around site conditions rather than a stock wall face. The useful brief asks what the wall must retain, where water can safely discharge, and what loads or structures sit close to the retained area.</p><p>Those questions change the conversation before materials are compared. A low garden terrace, a boundary level change, a wall below a driveway, and a failing wall with another bank behind it can each require different attention to footing, post design, drainage, engineering and access. A wall face that looks tidy from the front may still be wrong if water has nowhere lawful to go.</p><p>For a first enquiry, record the approximate retained height, length, visible movement, access constraints and drainage symptoms. The source guide also asks for suburb or postcode and photos, because a contractor can only discuss the next step properly when the first review is tied to the actual site.</p>"
+    },
+    {
+      "h2": "Wall Systems Are A Scope Decision",
+      "html": "<p>The source page groups wall options by the kind of work they suit. Steel-reinforced concrete sleeper systems are presented for durable garden, boundary and level-change work. Treated timber is described as suitable for lower garden terraces, stepped beds and straightforward landscape briefs where the conditions fit.</p><p>Reinforced block walls are positioned for engineered loads, crisp finishes and integrated landscape structures. Stone and boulder systems suit landscape-led projects where mass, drainage and access fit the method. Gabion walls are described as rock-filled basket systems for textured and free-draining applications when foundations and filter separation are correctly detailed.</p><p>The separate drainage pathway is important. Aggregate, filter separation and a subsoil drain are only useful when the site has a lawful and practical discharge route. That makes drainage part of the brief, not an add-on chosen after the wall finish.</p>"
+    },
+    {
+      "h2": "Repair, Replacement And Warning Signs",
+      "html": "<p>A leaning or cracked wall does not automatically point to a simple surface repair. The source guide links movement with possible water pressure, decayed timber, corroded posts, insufficient embedment, changed loads or ground movement. The visible symptom is only the start of the assessment.</p><p>Useful notes include what changed, what happens after rain, whether water marks appear, and what sits above the wall. Photographs from both ends, where safe, can show lean, bulging, cracking, rot, corrosion and drainage marks without disturbing the ground beside the wall.</p><p>The guide specifically says not to excavate beside an unstable wall to investigate it yourself. The safer editorial takeaway is to document the condition and ask whether the scope should be repair, replacement, drainage correction, engineering input or approval review.</p>"
+    },
+    {
+      "h2": "ACT Approval Questions To Ask Early",
+      "html": "<p>Canberra retaining wall approvals are presented as separate checks rather than one yes or no test. The source page distinguishes building approval, development approval and stormwater easement questions. It also says the actual geometry decides which checks apply.</p><p>Height alone is not enough. The source FAQ says wall height, location and design can affect building approval, while fill, cut-in and combination walls have different development approval exemption considerations, including boundary-related limits. It also notes that height may be measured from the top of the wall to the lowest adjacent ground level for building approval guidance, with datum ground level relevant to some development approval tests.</p><p>Ask these questions before accepting a wall type:</p><ul><li>Is the wall near a boundary, easement, driveway, building, fence, steep bank or second wall?</li><li>Does the proposal involve fill, cut-in work, or a combination of both?</li><li>Where will stormwater go, and can that route be shown on the site plan?</li><li>Does the job need designer, certifier or engineering input before construction details are settled?</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to owners, buyers and property managers planning a new wall, replacing a failing wall, or comparing options after visible movement. It also helps when a landscape idea depends on changing levels, because retaining, drainage and approval questions can alter the design before finish choices matter.</p><p>It is less useful for choosing colours or decorative finishes in isolation. The wall face should follow the retained load, access, water path and approval setting. For a broader companion overview of <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-canberra/\">retaining walls in Canberra</a>, the sibling guide can help place these quote inputs in a wider planning context.</p><p>Before requesting a quote, prepare a short brief with dimensions, photos, the site access route, nearby structures, observed water behaviour and any known easement concern. That gives the builder enough context to talk about the right pathway rather than guessing from a single photo.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Repair or replacement quote signals",
+    "headers": [
+      "Question",
+      "Repair pathway",
+      "Replacement pathway"
+    ],
+    "rows": [
+      [
+        "Visible condition",
+        "Local cracking, marks or isolated defects need assessment before assuming the structure is sound.",
+        "Lean, bulging, rot, corrosion or repeated water symptoms may point to a broader replacement scope."
+      ],
+      [
+        "Drainage brief",
+        "Ask whether existing drainage can be corrected without rebuilding the whole wall.",
+        "Ask how aggregate, filter separation, subsoil drainage and discharge will be detailed behind the new wall."
+      ],
+      [
+        "Approvals",
+        "Confirm whether the proposed repair changes height, load, location or drainage.",
+        "Confirm building approval, development approval and stormwater easement questions before finalising design."
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Record the wall",
+      "text": "Measure approximate height and length, note what sits above it, and photograph both ends where safe."
+    },
+    {
+      "name": "Describe the water path",
+      "text": "Write down where water appears after rain and where any proposed subsoil drain could lawfully discharge."
+    },
+    {
+      "name": "Flag ACT checks",
+      "text": "Ask whether building approval, development approval or a stormwater easement question applies to the actual geometry."
+    },
+    {
+      "name": "Compare systems by fit",
+      "text": "Match concrete sleeper, timber, block, stone, boulder or gabion options to load, access, drainage and finish needs."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does wall height alone decide approval in Canberra?",
+      "a": "No. The source guide says height, location, design, easements and nearby structures can change the answer. It also separates building approval, development approval and stormwater-easement questions."
+    },
+    {
+      "q": "What should I send before asking for a retaining wall quote?",
+      "a": "Send the suburb or postcode, approximate dimensions, access notes, photos, drainage symptoms and any known structures above or close to the wall. The source page says those details make the first review more useful."
+    },
+    {
+      "q": "Which wall type is best for a Canberra property?",
+      "a": "The right option depends on what the wall retains, where water can go, access, required finish and approval inputs. The source guide lists concrete sleeper, timber sleeper, reinforced block, stone or boulder, gabion, drainage, engineered and repair pathways."
+    },
+    {
+      "q": "Can drainage be considered after the wall is chosen?",
+      "a": "It should be part of the early brief. The source guide says aggregate, filter separation and a subsoil drain only work when the site has a lawful, practical discharge route."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source guide asks three initial retaining wall questions: what the wall must retain, where water can safely go, and what sits close to or above the wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide identifies eight project pathways: concrete sleeper, timber sleeper, reinforced block, stone or boulder, gabion, drainage, engineered approval-ready work, and repair or replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approximate retained height and length matter, as do driveways, buildings, fences, steep banks and a second wall behind the first.",
+      "source": "money page"
+    },
+    {
+      "claim": "Aggregate, filter separation and a subsoil drain only work when the site has a lawful, practical discharge route.",
+      "source": "money page"
+    },
+    {
+      "claim": "Building approval, development approval and stormwater-easement questions are separate retaining wall checks in the ACT.",
+      "source": "money page"
+    },
+    {
+      "claim": "The actual retaining wall geometry decides which approval checks apply.",
+      "source": "money page"
+    },
+    {
+      "claim": "Steel-reinforced concrete sleeper systems are presented for durable garden, boundary and level-change work across Canberra.",
+      "source": "money page"
+    },
+    {
+      "claim": "Treated timber wall options are presented for suitable lower garden terraces, stepped beds and straightforward landscape briefs.",
+      "source": "money page"
+    },
+    {
+      "claim": "Core-filled, steel-reinforced masonry walls are presented for engineered loads, crisp finishes and integrated landscape structures.",
+      "source": "money page"
+    },
+    {
+      "claim": "Stone and boulder retaining is presented for landscape-led projects where mass, drainage and site access suit the system.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabion retaining walls are described as rock-filled basket systems for textured and free-draining applications with correct foundations and filter separation.",
+      "source": "money page"
+    },
+    {
+      "claim": "Movement can follow water pressure, decayed timber, corroded posts, insufficient embedment, changed loads or ground movement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide advises photographing the wall from both ends where safe and noting cracking, bulging, rot, corrosion and water marks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide says not to excavate beside an unstable wall to investigate it yourself.",
+      "source": "money page"
+    },
+    {
+      "claim": "ACT building approval can depend on wall height, location and design.",
+      "source": "money page"
+    },
+    {
+      "claim": "Fill, cut-in and combination walls have different ACT development approval exemption considerations, including boundary-related limits.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide says building approval guidance measures from the top of the wall to the lowest adjacent ground level, and development approval guidance also uses datum ground level for some tests.",
+      "source": "money page"
+    },
+    {
+      "claim": "A retaining wall near a stormwater easement may require a site plan and special engineering so footings clear and do not load the stormwater asset.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source enquiry asks for suburb, dimensions, access constraints and photos so the scope starts from the real site.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers site scoping, wall system choice, drainage inputs and ACT approval questions for Canberra retaining wall projects."
+}
