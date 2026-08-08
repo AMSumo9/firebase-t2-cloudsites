@@ -1,0 +1,304 @@
+{
+  "node_id": "newcastlehomeloanbroker-010",
+  "money_domain": "newcastlehomeloanbroker.com.au",
+  "money_home_url": "https://www.newcastlehomeloanbroker.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/home-loan-broker-newcastle-010/",
+  "live_url": "https://sites-e470-1.web.app/home-loan-broker-newcastle-010/",
+  "subdomain": "home-loan-broker-newcastle",
+  "gh_repo": null,
+  "primary_kw": "home loan broker newcastle",
+  "kw_slug": "home-loan-broker-newcastle",
+  "anchor_kw": "home loan broker newcastle",
+  "brand": "Newcastle Home Loan Broker",
+  "target_page_url": "https://www.newcastlehomeloanbroker.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "newcastlehomeloanbroker-001",
+    "url": "https://s3.ap-southeast-2.amazonaws.com/newcastlehomeloanbroker-001/mortgage-broker-newcastle.html",
+    "primary_kw": "mortgage broker newcastle"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\newcastlehomeloanbroker.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Mint Equity",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Newcastle Finance Brokers",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Mortgage Brokers Newcastle",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Wisebuy Home Loans",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "mortgage brokers",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Newy Finance",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Newcastle",
+        "type": "LOCATION",
+        "salience": 0.957
+      },
+      {
+        "name": "John",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Heath Williams",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Wisebuy",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Jon Jones",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.945
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "Loan Broker",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Mortgage Broker Newcastle",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Home Loan",
+        "type": "SERVICE",
+        "salience": 0.887
+      },
+      {
+        "name": "First Home Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Investment Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Hunter Valley",
+        "type": "LOCATION",
+        "salience": 0.88
+      },
+      {
+        "name": "Hunter Region",
+        "type": "LOCATION",
+        "salience": 0.865
+      },
+      {
+        "name": "Residential Loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Newcastle CBD",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Home Loan Refinancing",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "investment property loan",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "first home buyer",
+        "type": "CONCEPT",
+        "salience": 0.85
+      },
+      {
+        "name": "Cooks Hill",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "loan refinancing",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Australian Credit Licence 389087",
+        "type": "CREDENTIAL",
+        "salience": 0.85
+      },
+      {
+        "name": "Debt Consolidation",
+        "type": "SERVICE",
+        "salience": 0.84
+      },
+      {
+        "name": "Lake Macquarie",
+        "type": "LOCATION",
+        "salience": 0.82
+      }
+    ],
+    "lsi_keywords": [
+      "mortgage broker Newcastle NSW",
+      "home loan Newcastle",
+      "first home buyer Newcastle",
+      "refinance home loan Newcastle",
+      "investment property loan Newcastle",
+      "pre-approval home loan Newcastle",
+      "self-employed home loan Newcastle",
+      "business loan Newcastle",
+      "car loan Newcastle",
+      "personal loan Newcastle",
+      "SMSF loan Newcastle",
+      "commercial loan Newcastle",
+      "60+ lenders Newcastle",
+      "Big 4 banks home loan Newcastle",
+      "credit score improvement home loan Newcastle"
+    ]
+  },
+  "image": {
+    "file": "home-loan-broker-newcastle.jpg",
+    "photographer": "Ryan Booth",
+    "source": "Unsplash",
+    "credit": "Photo by Ryan Booth on Unsplash"
+  },
+  "build_date": "2026-08-09",
+  "money_home_text": "Newcastle Home Loan Broker Skip to content Newcastle Home Loan Broker Home About Services Locations Tools Contact Loan Review Open menu Home About Services Locations Tools Contact Newcastle mortgage broker guidance Make Your Newcastle Home Loan Move With Less Guesswork Newcastle borrowers often need clarity before they need paperwork: how much they can borrow, whether a suburb or property type changes lender appetite, and what to do before the finance deadline. We help get those questions into a useful order before a broker reviews the file. Request a Loan Review Use calculator Request a Newcastle loan callback Share the suburb, purchase stage and loan type so the first loan conversation starts with the right facts. Your name Phone Email Suburb / Postcode Request My Broker Callback Your details are only used to arrange your enquiry. See our privacy policy . Start with a Newcastle home loan broker path Services First home, refinance, investment, construction, self-employed and bridging loan paths. Calculator Estimate borrowing power with a plain APRA buffer note and no personal advice. Checklist Prepare documents and questions before a first home buyer broker call. Locations 15 Newcastle and Lake Macquarie suburb pages. Contact Send the details needed for a useful loan review. Service coverage Borrowing power and home loan support across Newcastle buying scenarios Newcastle borrowers rarely fit one pattern. A first buyer in Wallsend may be checking deposit pathways and NSW concessions, while a Merewether upgrader may need bridging timing and valuation sensitivity reviewed. We help surface those practical questions early so the loan review can focus on lender policy, serviceability and documentation instead of starting from scratch. First Home Buyer Loans Broker guidance for deposits, grants, concessions and lender choice when buying a first home in Newcastle. Refinance Home Loans Review existing lending, equity position and switching costs before refinancing a Newcastle property. Investment Property Loans Loan structure support for investors comparing rental income, tax settings and lender policy. Construction Loans Progress-payment finance guidance for knockdown-rebuilds, house-and-land and major builds. Self-Employed Home Loans Policy matching for sole traders, contractors and business owners with variable or company income. Bridging Loans Short-term finance guidance when buying before selling or lining up settlement dates. Why Newcastle borrowers talk to a broker early Licensed brokers Licensed brokers provide their own licence and credit-disclosure documents before regulated advice is given. Scheme-aware review First-home buyer checks use current NSW and federal scheme rules, then confirm the property, price and borrower details before an application proceeds. No public phone dead-end The loan review form gives a broker the suburb, loan type and timing pressure needed to respond with useful next questions. Clear next step Borrowing figures and tool outputs help frame better questions before a licensed broker reviews the applicant&#39;s full circumstances. Loan review request Send the details once The form captures the practical context that shapes the first conversation: purchase stage, suburb, loan type and the main timing pressure. Request a broker callback Tell us where you are up to and what is blocking progress, and we will help frame the next conversation. Your name Phone Email Suburb / Postcode Send My Enquiry Your details are only used to arrange your enquiry. See our privacy policy . Newcastle home loan questions How much deposit do I need to buy in Newcastle? A broker can compare deposit size, income, expenses and lender policy before outlining the next practical step. Can a broker help with the NSW first home buyer concession? Yes. The broker can explain NSW and federal scheme settings, then confirm eligibility against the current rules before an application proceeds. What is the First Home Guarantee price cap for Newcastle? Housing Australia price caps depend on the exact property location and scheme. A broker can check Newcastle-specific settings before relying on a figure. Should I refinance before buying an investment property? It can be useful to review the existing loan, equity position and borrowing power before making another purchase or changing lender. Talk to a broker Ready to compare your Newcastle home loan options? Submit the enquiry form and we will help you clarify the loan type, timing and lender-policy questions. Request a Loan Review Newcastle Home Loan Broker Home loan broker guidance for Newcastle, Lake Macquarie and nearby suburbs, with practical guidance for buyers, refinancers and investors. Newcastle, NSW Explore About Services Borrowing Power Calculator First Home Buyer Checklist FAQ Contact Locations Cooks Hill The Junction Merewether Hamilton Broadmeadow Mayfield Waratah Lambton New Lambton Kotara Adamstown Wallsend Jesmond Charlestown Cardiff Legal Privacy Policy Terms of Service Disclaimer &copy; 2026 Newcastle Home Loan Broker. All rights reserved. Built in Newcastle, NSW. Information is general and indicative only. Confirm scope, pricing, rates and terms directly before proceeding. Request a Loan Review Tell us what you need help with Share your loan goal and we will help you take the next step. Your name Phone Email Suburb / Postcode Request a Broker Callback Your details are only used to arrange your enquiry. See our privacy policy .",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.newcastlehomeloanbroker.com.au/services/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/",
+    "https://www.newcastlehomeloanbroker.com.au/tools/borrowing-power-calculator/",
+    "https://www.newcastlehomeloanbroker.com.au/tools/first-home-buyer-checklist/",
+    "https://www.newcastlehomeloanbroker.com.au/services/first-home-buyer-loans/",
+    "https://www.newcastlehomeloanbroker.com.au/services/refinance-home-loans/",
+    "https://www.newcastlehomeloanbroker.com.au/services/investment-property-loans/",
+    "https://www.newcastlehomeloanbroker.com.au/services/construction-loans/",
+    "https://www.newcastlehomeloanbroker.com.au/services/self-employed-home-loans/",
+    "https://www.newcastlehomeloanbroker.com.au/services/bridging-loans/",
+    "https://www.newcastlehomeloanbroker.com.au/faq/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/cooks-hill/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/the-junction/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/merewether/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/hamilton/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/broadmeadow/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/mayfield/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/waratah/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/lambton/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/new-lambton/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/kotara/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/adamstown/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/wallsend/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/jesmond/",
+    "https://www.newcastlehomeloanbroker.com.au/locations/charlestown/"
+  ],
+  "firebase_path": "home-loan-broker-newcastle-010"
+}
