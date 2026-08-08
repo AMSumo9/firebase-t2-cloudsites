@@ -1,0 +1,21 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Sydney Home Loan Broker serves 15 Sydney suburbs. | SUPPORTED | Money page states “Serving 15 Sydney suburbs.” |
+| Sydney Home Loan Broker lists MFAA / FBAA industry memberships. | SUPPORTED | Money page states “Industry memberships include MFAA / FBAA accreditation.” |
+| Sydney Home Loan Broker works under ASIC-regulated credit licences or credit representative authorities. | SUPPORTED | Money page says the brokers “operate under ASIC-regulated credit licences or credit representative authorities”; this does not claim the money site itself holds a licence. |
+| The published page presents help with borrowing power, deposit, repayments, lender fit and documents before product selection. | SUPPORTED | Money page says it helps with “borrowing power, deposit, repayments, lender fit and the documents a broker needs” before the next move/lender comparison. |
+| The published page lists services for home loans, refinance, investment loans, construction loans and renovation loans. | SUPPORTED | Money page lists “Home loans, refinance, investment, construction and more,” plus “Construction & Renovation Loans.” |
+| The published page says one enquiry can be used with brokers who compare loans from a panel of banks, credit unions and specialist lenders. | SUPPORTED | Money page says “One enquiry” starts with brokers who compare loans from “a panel of banks, credit unions, and specialist lenders.” |
+| The published page names first home buyer loans, deposit checks, pre-approval and NSW grant or scheme eligibility. | SUPPORTED | Money page section says “First Home Buyer Loans” with “Deposit checks, pre-approval, and NSW grant or scheme eligibility.” |
+| The published page says refinance may be used to lower repayments, access equity or improve features. | SUPPORTED | Money page says refinance can “lower repayments, access equity, or improve features.” |
+| The published page lists interest-only and portfolio-lending structures for Sydney property investors. | SUPPORTED | Money page states “Interest-only and portfolio-lending structures for Sydney property investors.” |
+| The published page describes progress-payment finance for new builds, knock-down-rebuilds and major renovations across Sydney. | SUPPORTED | Money page states “Progress-payment finance for new builds, knock-down-rebuilds, and major renovations across Sydney.” |
+| The published page gives borrower examples in Parramatta, Castle Hill and Bondi. | SUPPORTED | Money page gives examples of first home buying in Parramatta, refinancing in Castle Hill, and investing near Bondi. |
+| The published page refers to the Eastern Suburbs, Northern Beaches and Western Sydney growth corridors. | SUPPORTED | Money page footer states support across Greater Sydney, “from the Eastern Suburbs and Northern Beaches to the Western Sydney growth corridors.” |
+| The published enquiry form asks borrowers to provide their loan goal, suburb or postcode and first question. | SUPPORTED | Money page asks what the user is trying to do, where the property sits, what question needs answering first, and includes “Suburb / Postcode” and loan-goal fields. |
+| The published page points to a borrowing power calculator and first home buyer checklist. | SUPPORTED | Money page links to “Borrowing Power Calculator” and “First Home Buyer Checklist.” |
+| A mortgage broker acts as a go-between with lenders, compares products, explains loan features and submits the application after the borrower chooses a loan. | SUPPORTED | Money page FAQ states a broker acts as a go-between, compares products, explains features, and submits the application after the borrower chooses a loan. |
+| ASIC Moneysmart provides consumer guidance on home loans, loan features and repayments. | SUPPORTED | Moneysmart’s Home loans page says it covers comparing home loans, keeping repayments on track, loan features, mortgage calculators and repayments. Source: https://moneysmart.gov.au/home-loans |
+| ASIC Moneysmart provides consumer guidance on property investment. | SUPPORTED | Moneysmart’s Property investment page explains how property investing works and links to common property-investment topics. Source: https://moneysmart.gov.au/property-investment |
+
+FACT-CHECK: PASS

@@ -1,0 +1,243 @@
+{
+  "kicker": "Sydney Loan Guide",
+  "h1_tail": "For Borrower Readiness Checks",
+  "meta_hook": "prepare clearer broker questions before choosing a home loan path",
+  "takeaway": "Sydney borrowers can prepare for broker comparison by clarifying borrowing power, deposit, repayments, property type and timing before lender selection. The published Sydney Home Loan Broker page says it serves 15 Sydney suburbs, lists MFAA / FBAA industry memberships, and refers to ASIC-regulated credit licences or credit representative authorities. It also frames one enquiry as the starting point for home loan, refinance, investment, construction and renovation discussions.",
+  "lead": "For borrowers comparing mortgage brokers sydney options, the useful starting point is whether the broker discussion can test borrowing power, deposit, repayments and lender fit before product selection.",
+  "lead_tail": "with the main checks settled before an application begins",
+  "stats": [
+    {
+      "value": "15",
+      "label": "Sydney suburbs served"
+    },
+    {
+      "value": "MFAA / FBAA",
+      "label": "memberships listed"
+    },
+    {
+      "value": "1",
+      "label": "loan enquiry form"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What A Broker Discussion Should Settle First",
+      "html": "<p><a href=\"https://www.sydneyhomeloanbroker.com.au/\">Sydney Home Loan Broker</a> presents broker help as an early planning step for people buying, refinancing, investing or building in Sydney. Its published page puts borrowing power, deposit, repayments, lender fit and documents before product comparison, which is the right order when a borrower is still testing what is realistic.</p><p>The first discussion should separate serviceability, deposit position and timing. Ask what income, debt and expense details are needed before a borrowing estimate is useful. Ask whether the deposit affects lender choice or lender's mortgage insurance. Ask what documents could delay pre-approval, lender assessment or settlement. ASIC Moneysmart also points consumers toward understanding home loan features and repayments, so a broker conversation should explain assumptions as well as options.</p><ul><li><strong>Borrowing power:</strong> check the inputs behind any estimate.</li><li><strong>Deposit:</strong> ask how savings and loan type shape lender choice.</li><li><strong>Repayments:</strong> compare structure, features and flexibility.</li><li><strong>Documents:</strong> identify gaps before an application is lodged.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>The supplied page names first home buyers, refinancers, investors and construction or renovation borrowers. A first home buyer may need deposit checks, pre-approval questions and current NSW grant or scheme eligibility checked rather than assumed. A refinancer may want to compare an existing loan against the market to lower repayments, access equity or improve features. An investor may need to discuss interest-only or portfolio lending structures. A construction borrower may need progress-payment finance for a new build, knock-down-rebuild or major renovation.</p><p>Locality helps when it changes the application question. The page gives borrower examples in Parramatta, Castle Hill and Bondi, and refers to the Eastern Suburbs, Northern Beaches and Western Sydney growth corridors. Use those place details to ask about property type, valuation context, build stage and settlement timing, not as a suburb checklist.</p>"
+    },
+    {
+      "h2": "How To Compare Broker Fit",
+      "html": "<p>Comparing mortgage brokers sydney borrowers may contact should focus on process, authorisation and lender coverage. The published page says one enquiry can start a discussion with brokers who compare loans from a panel of banks, credit unions and specialist lenders. That is useful only when the borrower understands which lender types are being considered and why others are excluded.</p><p>Ask whether the broker is licensed or authorised to provide regulated credit advice, how recommendations are recorded, and which loan features matter for the scenario. The supplied material names the Mortgage and Finance Association of Australia and FBAA accreditation, so membership and authorisation belong in the verification step. For a related borrower checklist, see this <a href=\"https://home-loan-brokers-sydney-guide.netlify.app/\">home loan broker guide for Sydney borrowers</a>.</p><ul><li>Which lender types are on the panel for this application?</li><li>What assumptions sit behind the borrowing capacity estimate?</li><li>What changes if the property, build scope or settlement timing changes?</li><li>What fees, commissions or product limits should be understood?</li></ul>"
+    },
+    {
+      "h2": "Scenario Checks For Common Borrowers",
+      "html": "<p>A first home buyer should leave the discussion knowing which deposit evidence, savings details and pre-approval documents are needed next. If a grant or scheme may be relevant, ask the broker to check current NSW eligibility rules rather than relying on a general statement.</p><p>A refinancer should bring the current loan balance, repayment amount, interest rate, loan features and reason for switching. The supplied page names lower repayments, accessing equity and improving features as refinance goals. Those goals can pull in different directions, so ask how each option changes repayments, features and future flexibility.</p><p>An investor should ask how rental assumptions, existing debts, repayment type and portfolio lending affect lender fit. ASIC Moneysmart has separate consumer material on property investment, so cash flow, tax questions and borrowing capacity should be treated as separate checks before a structure is chosen.</p><p>A construction or renovation borrower should ask how progress payments are assessed, what documents are needed for a new build or knock-down-rebuild, and what happens if the project scope changes. The supplied page names progress-payment finance, but it does not state approval timeframes or lender rules, so confirm those directly.</p>"
+    },
+    {
+      "h2": "Documents And Questions To Prepare",
+      "html": "<p>Preparation makes comparison sharper. The published enquiry form asks for the loan goal, suburb or postcode and the question the borrower needs answered first. The site also points to a borrowing power calculator and first home buyer checklist. Treat those as prompts for a broker conversation, not guarantees of approval.</p><ol><li>Write the loan purpose in one sentence: purchase, refinance, investment, construction or renovation.</li><li>List income, savings, debts, current repayments and deposit details.</li><li>Describe the property type and location enough for lender fit to be tested.</li><li>Ask what documents are required before pre-approval, assessment and settlement.</li><li>Confirm the next action before agreeing to an application or product.</li></ol><p>The strongest output is a clear explanation of options, assumptions and next steps. A borrower should know what has been compared, what still needs checking and what could change the recommendation.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Borrower scenario comparison",
+    "headers": [
+      "Scenario",
+      "Main question",
+      "Evidence to prepare"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Is the deposit, pre-approval path and any scheme question ready for checking?",
+        "Savings, income, debts, property goal and eligibility questions"
+      ],
+      [
+        "Refinancer",
+        "Does switching lower repayments, access equity or improve features?",
+        "Current loan balance, repayments, rate, features and switching goal"
+      ],
+      [
+        "Investor",
+        "Does the structure suit property investment and portfolio lending needs?",
+        "Rental assumptions, existing debts, repayment preference and cash flow questions"
+      ],
+      [
+        "Construction or renovation",
+        "How will progress-payment finance and build documents be assessed?",
+        "Contract, project scope, property details and staged payment questions"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan goal",
+      "text": "State whether the next move is a purchase, refinance, investment loan, construction loan or renovation finance before comparing products."
+    },
+    {
+      "name": "Gather financial inputs",
+      "text": "Prepare income, savings, debts, repayments and deposit information so borrowing estimates use real details."
+    },
+    {
+      "name": "Check authorisation",
+      "text": "Ask whether the broker is licensed or authorised to provide regulated credit advice in Australia."
+    },
+    {
+      "name": "Compare lender fit",
+      "text": "Ask which banks, credit unions or specialist lenders are being considered and why they suit the scenario."
+    },
+    {
+      "name": "Confirm the next step",
+      "text": "Before proceeding, confirm what document, application or lender action comes next and what terms need direct verification."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do Sydney brokers need to be licensed?",
+      "a": "Yes. The supplied page says brokers operate under ASIC-regulated credit licences or credit representative authorities, and its FAQ says Australian brokers must be appropriately licensed or authorised to provide credit advice."
+    },
+    {
+      "q": "What should I prepare before asking how much I can borrow?",
+      "a": "Prepare income, debts, savings, deposit details, repayment goals, property type and timing. The supplied page says these details should be brought into one practical conversation before lender comparison begins."
+    },
+    {
+      "q": "Can a broker help with refinance as well as buying?",
+      "a": "Yes. The supplied page lists refinance and says borrowers may compare an existing loan against the market to lower repayments, access equity or improve features."
+    },
+    {
+      "q": "Are construction and renovation loans included?",
+      "a": "Yes. The supplied page lists construction and renovation loans and describes progress-payment finance for new builds, knock-down-rebuilds and major renovations across Sydney."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Sydney Home Loan Broker serves 15 Sydney suburbs.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sydney Home Loan Broker lists MFAA / FBAA industry memberships.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sydney Home Loan Broker works under ASIC-regulated credit licences or credit representative authorities.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page presents help with borrowing power, deposit, repayments, lender fit and documents before product selection.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page lists services for home loans, refinance, investment loans, construction loans and renovation loans.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page says one enquiry can be used with brokers who compare loans from a panel of banks, credit unions and specialist lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page names first home buyer loans, deposit checks, pre-approval and NSW grant or scheme eligibility.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page says refinance may be used to lower repayments, access equity or improve features.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page lists interest-only and portfolio-lending structures for Sydney property investors.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page describes progress-payment finance for new builds, knock-down-rebuilds and major renovations across Sydney.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page gives borrower examples in Parramatta, Castle Hill and Bondi.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page refers to the Eastern Suburbs, Northern Beaches and Western Sydney growth corridors.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published enquiry form asks borrowers to provide their loan goal, suburb or postcode and first question.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page points to a borrowing power calculator and first home buyer checklist.",
+      "source": "money page"
+    },
+    {
+      "claim": "A mortgage broker acts as a go-between with lenders, compares products, explains loan features and submits the application after the borrower chooses a loan.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart provides consumer guidance on home loans, loan features and repayments.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "ASIC Moneysmart provides consumer guidance on property investment.",
+      "source": "https://moneysmart.gov.au/property-investment"
+    }
+  ],
+  "scope": "This guide covers Sydney borrower checks for broker discussions across purchase, refinance, investment and construction loan scenarios."
+}

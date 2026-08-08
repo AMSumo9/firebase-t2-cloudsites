@@ -1,0 +1,304 @@
+{
+  "node_id": "sydneyhomeloanbroker-010",
+  "money_domain": "sydneyhomeloanbroker.com.au",
+  "money_home_url": "https://www.sydneyhomeloanbroker.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/mortgage-brokers-sydney-010/",
+  "live_url": "https://sites-e470-1.web.app/mortgage-brokers-sydney-010/",
+  "subdomain": "mortgage-brokers-sydney",
+  "gh_repo": null,
+  "primary_kw": "mortgage brokers sydney",
+  "kw_slug": "mortgage-brokers-sydney",
+  "anchor_kw": "mortgage brokers sydney",
+  "brand": "Sydney Home Loan Broker",
+  "target_page_url": "https://www.sydneyhomeloanbroker.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "sydneyhomeloanbroker-001",
+    "url": "https://home-loan-brokers-sydney-guide.netlify.app/",
+    "primary_kw": "home loan brokers sydney"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\sydneyhomeloanbroker.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Lendview Home Loans",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Inovayt",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Eventus Financial",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "mortgage broking",
+        "type": "SERVICE",
+        "salience": 0.98
+      },
+      {
+        "name": "Mortgage & Finance Association of Australia",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "mentoring",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Aussie Home Loans",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Choice",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "New Home Loan",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "First Home Loan",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Needs",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Alex Veljancevski",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Home Loan Broker",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "mortgage broker",
+        "type": "SERVICE",
+        "salience": 0.94
+      },
+      {
+        "name": "Finance Brokers Association of Australia",
+        "type": "ORGANIZATION",
+        "salience": 0.92
+      },
+      {
+        "name": "home loan",
+        "type": "CONCEPT",
+        "salience": 0.917
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Construction Loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Investment Loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Finance Broking Services",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Australian Credit Licence",
+        "type": "CREDENTIAL",
+        "salience": 0.88
+      },
+      {
+        "name": "Refinancing",
+        "type": "SERVICE",
+        "salience": 0.867
+      },
+      {
+        "name": "mentor",
+        "type": "PERSON",
+        "salience": 0.85
+      },
+      {
+        "name": "Finance Partner",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Andrew Zervas",
+        "type": "PERSON",
+        "salience": 0.85
+      },
+      {
+        "name": "Residential Mortgages",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Refinance",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "First Home Buyer",
+        "type": "CONCEPT",
+        "salience": 0.85
+      },
+      {
+        "name": "Investment Property",
+        "type": "SERVICE",
+        "salience": 0.85
+      }
+    ],
+    "lsi_keywords": [
+      "mortgage broker Sydney",
+      "home loan calculator Sydney",
+      "how much can I borrow Sydney",
+      "pre-approval home loans Sydney",
+      "compare best home loans Sydney",
+      "home loan repayments Sydney",
+      "mortgage broker Bondi Junction",
+      "mortgage broker Neutral Bay",
+      "ANZ home loan rates Sydney",
+      "Westpac home loan interest rates Sydney",
+      "refinancing home loans Sydney",
+      "debt consolidation home loans Sydney",
+      "home loan specialists Sydney",
+      "find a mortgage broker Sydney",
+      "asset finance Sydney"
+    ]
+  },
+  "image": {
+    "file": "mortgage-brokers-sydney.jpg",
+    "photographer": "Pip Christie",
+    "source": "Unsplash",
+    "credit": "Photo by Pip Christie on Unsplash"
+  },
+  "build_date": "2026-08-08",
+  "money_home_text": "Sydney Home Loan Broker | Compare Mortgage Brokers Skip to content Sydney Home Loan Broker Home About Services Locations Tools Contact Loan Review Open menu Home About Services Locations Tools Contact Industry memberships include MFAA / FBAA accreditation Licensed brokers handle regulated credit advice Serving 15 Sydney suburbs Booking pre-approval reviews this week Get A Sydney Home Loan Plan Before The Deadline Hits Buying or refinancing in Sydney is stressful when every lender calculator gives a different answer. We help you get clear on borrowing power, deposit, repayments, lender fit and the documents a broker needs before you make the next move. Get a Loan Review Ask a Question Experienced mortgage brokers Sydney-wide local guidance Clear loan enquiry Get your loan review Tell us what you are trying to do, where the property sits and what question you need answered first. Your name Phone Email Suburb / Postcode Request My Loan Review Your details are only used to arrange your enquiry. See our privacy policy . Our Services Home loans, refinance, investment, construction and more. Free Tools Estimate borrowing power and download checklists. Locations Broker guidance across Sydney suburbs and property types. About How Sydney broker guidance works and why it matters. Contact Send an enquiry and a broker will respond. Sydney home loan broker help for every borrower Whether you are buying your first home in Parramatta, refinancing a Castle Hill property, or building an investment portfolio near Bondi, the first job is clarity. We help you bring the deposit, income, property type, repayment goal and timing into one practical conversation before lender comparison begins. Explore Our Services First Home Buyer Loans Deposit checks, pre-approval, and NSW grant or scheme eligibility for Sydney first home buyers. Home Loan Refinance Compare your existing loan against the market to lower repayments, access equity, or improve features. Investment Property Loans Interest-only and portfolio-lending structures for Sydney property investors. Construction &amp; Renovation Loans Progress-payment finance for new builds, knock-down-rebuilds, and major renovations across Sydney. Why Sydney borrowers talk to a broker early Experienced broker guidance The brokers are experienced and operate under ASIC-regulated credit licences or credit representative authorities. Sydney-wide coverage We help home buyers, refinancers, and investors across Sydney and surrounding areas, from the Eastern Suburbs to the Western Sydney growth corridors. Transparent process Get a clear picture of your borrowing capacity, loan options, and next steps before you commit to any lender or product. Multiple lenders on one form One enquiry gives you a clear starting point with brokers who compare loans from a panel of banks, credit unions, and specialist lenders. Ready to compare your loan options? Submit one enquiry and clarify the goal, timing and loan type so your broker conversation starts with the facts that matter. Fast, clear response Compare multiple lenders and features Guidance across Sydney suburbs and property types Request a loan review A Sydney mortgage broker will contact you to discuss your goals. Your name Phone Email Suburb / Postcode Tell us about your loan goal Request My Loan Review Your details are only used to arrange your enquiry. See our privacy policy . Common questions Quick answers about using a mortgage broker in Sydney. What does a mortgage broker actually do? A mortgage broker acts as a go-between with lenders to help arrange a home loan. They compare products, explain loan features, and submit the application on your behalf once you choose a loan. How long does it take to get a home loan through a broker? The broker side can often move quickly once your paperwork is ready, but lender assessment and settlement still determine the overall timeline. If timing matters, ask the broker which lenders are typically faster for your type of application. Do mortgage brokers have to be licensed? Yes, mortgage brokers in Australia must be appropriately licensed or authorised to provide credit advice. Before using one, check that they are properly accredited and can legally arrange home loans. How much deposit do I need for a home loan? Deposit requirements vary by lender and loan type, but a larger deposit often gives you more options and can reduce lender&#39;s mortgage insurance. A broker can help estimate what you may qualify for based on your income, debts, and savings. Speak with a broker Find the right home loans option in Sydney One form gives experienced brokers the details they need to compare loans across the Sydney market. Request a Loan Review Sydney Home Loan Broker Sydney home loan support for buyers, refinancers, and investors across Greater Sydney, from the Eastern Suburbs and Northern Beaches to the Western Sydney growth corridors. Sydney, NSW Explore About Services Borrowing Power Calculator First Home Buyer Checklist FAQ Contact Locations Parramatta Blacktown Liverpool Penrith Castle Hill Chatswood Bondi Hurstville Randwick Manly Hornsby Bankstown Sutherland Campbelltown Ryde Legal Privacy Policy Terms of Service Disclaimer &copy; 2026 Sydney Home Loan Broker. All rights reserved. Built in Sydney, NSW. Information is general and indicative only. Confirm scope, pricing, rates and terms directly before proceeding. Request a Loan Review Tell us what you need help with Share your loan goal and we will help you take the next step. Your name Phone Email Suburb / Postcode Request a Broker Callback Your details are only used to arrange your enquiry. See our privacy policy .",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.sydneyhomeloanbroker.com.au/services/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/",
+    "https://www.sydneyhomeloanbroker.com.au/tools/borrowing-power-calculator/",
+    "https://www.sydneyhomeloanbroker.com.au/services/first-home-buyer/",
+    "https://www.sydneyhomeloanbroker.com.au/services/refinance/",
+    "https://www.sydneyhomeloanbroker.com.au/services/investment-loans/",
+    "https://www.sydneyhomeloanbroker.com.au/services/construction-loans/",
+    "https://www.sydneyhomeloanbroker.com.au/tools/first-home-buyer-checklist/",
+    "https://www.sydneyhomeloanbroker.com.au/faq/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/parramatta/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/blacktown/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/liverpool/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/penrith/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/castle-hill/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/chatswood/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/bondi/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/hurstville/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/randwick/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/manly/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/hornsby/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/bankstown/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/sutherland/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/campbelltown/",
+    "https://www.sydneyhomeloanbroker.com.au/locations/ryde/",
+    "https://www.sydneyhomeloanbroker.com.au/disclaimer/"
+  ],
+  "firebase_path": "mortgage-brokers-sydney-010"
+}
