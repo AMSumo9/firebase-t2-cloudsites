@@ -1,0 +1,159 @@
+{
+  "kicker": "Sydney Dining",
+  "h1_tail": "A Practical Diner Guide",
+  "meta_hook": "compare categories, locations and venue details before booking",
+  "takeaway": "Best Sydney Restaurants presents Sydney dining choices as a browsable directory, with 13 category paths, location pages, reviews, photos, service and pricing comparisons, and direct contact options. The practical use is not to treat one listing as the whole answer. Start with cuisine or occasion, narrow by suburb or dining style, then check the venue profile for menus, reservation details, private dining or function information before contacting the restaurant directly.",
+  "lead": "For diners comparing restaurants sydney options, the useful starting point is a clear shortlist built around cuisine, location, occasion, reviews, booking needs and direct venue information.",
+  "lead_tail": "so the shortlist starts with fit rather than guesswork",
+  "stats": [
+    {
+      "value": "13",
+      "label": "published categories"
+    },
+    {
+      "value": "Free",
+      "label": "to browse and compare"
+    },
+    {
+      "value": "2026",
+      "label": "directory copyright year"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to Use the Directory Without Overreading It",
+      "html": "<p><a href=\"https://www.bestsydneyrestaurants.com.au/\">Best Sydney Restaurants</a> is presented as a Sydney dining directory where users can browse cross-checked business listings, read reviews, compare services and pricing, and get quotes for free. That makes it useful as a screening tool, not as a substitute for checking the venue itself before booking.</p><p>The strongest use case is a staged search. Begin with a broad meal type, such as casual and family dining, fine dining, seafood, steak and grill, Thai, Indian, Italian, Japanese, Chinese, Mediterranean, Modern Australian, or vegetarian and vegan. Then narrow by location only when the suburb changes the practical decision, such as meeting point, parking expectations, event access, or how far guests need to travel.</p><p>Reviews and profile summaries help with shortlisting, but diners should still check the venue's own menu, reservation path and function information where those details are important. The source page itself points readers back to venue websites for menus, trading details and booking availability on some profiles, which is the right final check before committing.</p>"
+    },
+    {
+      "h2": "Choosing by Occasion Before Cuisine",
+      "html": "<p>A Sydney restaurant search often starts with cuisine, but the occasion can remove poor fits faster. A family meal, a late informal catch-up, a business dinner, a vegetarian group booking and a private celebration each place different weight on menu range, noise, booking certainty and service style.</p><p>Use cuisine categories as filters, then test the practical fit:</p><ul><li><strong>Casual meals:</strong> look for profile clues about takeaway, family suitability, simple ordering or quick contact.</li><li><strong>Private gatherings:</strong> prioritise venues that publish function, reservation or private dining information.</li><li><strong>Group dining:</strong> compare menu breadth, dietary fit and whether the venue makes direct contact easy.</li><li><strong>Special meals:</strong> fine dining, seafood, steak and grill, and Modern Australian categories may help narrow the style before availability is checked.</li></ul><p>This order keeps the shortlist useful. A highly reviewed venue can still be the wrong match if the event needs private space, a specific dietary range or a reservation process that is easy to confirm.</p>"
+    },
+    {
+      "h2": "Reading Profiles, Reviews and Contact Details",
+      "html": "<p>The directory format combines category, location, ratings, review counts, summaries and profile links. Those signals should be read together. A rating without context says less than a profile that also explains the venue type, the dining format and whether menus or reservations are available through the venue's own channels.</p><p>For a practical comparison, open several profiles in the same category and ask the same questions of each one. Does the profile describe the venue clearly? Is the location suitable for the group? Are photos available? Is there enough service or pricing information to decide whether to make contact? Does the venue provide a direct path for calling, emailing or requesting a quote?</p><p>The directory's own process is search, compare and contact. That is a sensible sequence for restaurants in Sydney because the final decision often depends on live availability, menus and booking rules that can change after a listing was viewed.</p>"
+    },
+    {
+      "h2": "Location Filters That Actually Help",
+      "html": "<p>Location pages are useful when the suburb affects the meal plan. The source page highlights examples across Newtown, Woolloomooloo, Surry Hills, Pyrmont, Barangaroo, Potts Point, Darlinghurst, The Rocks and Haymarket. Those place names matter most when they change the logistics, such as where guests are staying, whether the meal is near work, or whether the venue sits close to the rest of the night's plans.</p><p>Avoid choosing by suburb alone. A restaurant in the right area can still be a poor fit if the category, menu range or booking pathway does not match the occasion. Likewise, a slightly less convenient area may work better for a group if it gives clearer private dining information or a more suitable cuisine category.</p><p>The cleaner workflow is to choose a practical radius, filter by the dining style, then compare only the venues that satisfy both. That turns location into a decision tool rather than a long list of suburbs.</p>"
+    },
+    {
+      "h2": "For Venue Owners Reviewing Their Listing",
+      "html": "<p>The source page also includes an add your business path and says businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking. For venue owners, the key editorial lesson is that a useful listing should answer the questions diners are already using to compare options.</p><p>Photos, category fit, concise service descriptions and clear contact options matter because the directory is built around browsing, comparison and direct enquiry. A listing that only says the venue exists gives diners little reason to choose it over another profile in the same suburb or cuisine category.</p><p>Before submitting or updating a listing, check whether the description reflects the real dining style, whether the category is specific enough, and whether the contact path supports bookings, quotes or function enquiries where relevant. The better the listing matches the diner decision path, the less work is left for the customer to interpret.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Ways to narrow a Sydney restaurant shortlist",
+    "headers": [
+      "Decision path",
+      "Best when",
+      "What to check next"
+    ],
+    "rows": [
+      [
+        "Start with cuisine",
+        "The group already knows the food style",
+        "Compare category, location, reviews and profile detail"
+      ],
+      [
+        "Start with location",
+        "Guests need a convenient meeting area",
+        "Filter by dining style before contacting venues"
+      ],
+      [
+        "Start with occasion",
+        "The meal has a purpose, such as family dining or a function",
+        "Check reservation, private dining, menu and direct enquiry details"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Choose the dining purpose",
+      "text": "Decide whether the meal is casual, group focused, dietary led, private, or a special occasion before comparing venues."
+    },
+    {
+      "name": "Filter by category",
+      "text": "Use the published category paths to reduce the list to restaurants that match the preferred cuisine or dining style."
+    },
+    {
+      "name": "Check location fit",
+      "text": "Use suburb pages when travel time, meeting point or nearby plans affect the booking decision."
+    },
+    {
+      "name": "Compare profile signals",
+      "text": "Read reviews, photos, service notes and pricing information together rather than relying on a single rating."
+    },
+    {
+      "name": "Contact the venue",
+      "text": "Use the venue's direct contact, reservation or quote path to confirm menus, availability and booking requirements."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the directory free for diners to use?",
+      "a": "Yes. The source page says users can read reviews, compare services and get quotes for free."
+    },
+    {
+      "q": "How many restaurant categories are listed?",
+      "a": "The page presents 13 categories, including casual and family, Chinese, fine dining, Indian, Italian, Japanese, Mediterranean, Modern Australian, seafood, steak and grill, Thai, vegetarian and vegan, plus a general restaurants category."
+    },
+    {
+      "q": "Should I book from a listing alone?",
+      "a": "Use the listing to shortlist venues, then check the venue's own menu, reservation details and availability before committing. Some profiles specifically direct readers to the venue website for those details."
+    },
+    {
+      "q": "Can restaurant owners add a business?",
+      "a": "Yes. The source page includes an add your business path and says businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "Best Sydney Restaurants presents Sydney restaurant listings that users can browse by category and location.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says users can browse cross-checked business listings, read reviews, compare services and pricing, and get quotes for free.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory publishes 13 categories.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published categories include casual and family, Chinese, fine dining, Indian, Italian, Japanese, Mediterranean, Modern Australian, restaurants, seafood, steak and grill, Thai, and vegetarian and vegan.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory's process is search, compare and contact.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says users can get in touch directly by calling, emailing or requesting a quote through a form.",
+      "source": "money page"
+    },
+    {
+      "claim": "Some profiles direct readers to check the venue's official website for menus, trading details and booking availability.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page highlights location examples including Newtown, Woolloomooloo, Surry Hills, Pyrmont, Barangaroo, Potts Point, Darlinghurst, The Rocks and Haymarket.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page includes an add your business path.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory footer shows a 2026 copyright year.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how diners and venue owners can use the published Sydney restaurant directory information responsibly."
+}
