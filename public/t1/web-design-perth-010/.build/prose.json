@@ -1,0 +1,176 @@
+{
+  "kicker": "Perth Website Guide",
+  "h1_tail": "A Practical Buyer Guide",
+  "meta_hook": "compare scope, quotes, ownership and launch support before choosing a designer",
+  "takeaway": "For Perth businesses, the useful brief starts with the job the site must do: enquiries, online sales, campaign traffic, redesign or ongoing care. The published guide says owners should compare 3 to 5 written quotes and check inclusions such as content, images, hosting and maintenance. It also cites a standard website timeframe of 2 to 3 months, depending on project size, content, testing and approvals.",
+  "lead": "For Perth owners comparing web design perth options, the useful starting point is scope, handover, search foundations and how the finished site will create enquiries.",
+  "lead_tail": "with scope, ownership and launch support compared before a quote is accepted",
+  "stats": [
+    {
+      "value": "3 to 5",
+      "label": "written quotes to compare"
+    },
+    {
+      "value": "2 to 3 months",
+      "label": "standard website timeframe cited"
+    },
+    {
+      "value": "8",
+      "label": "service categories listed"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Job The Site Must Do",
+      "html": "<p><a href=\"https://www.webdesignperthaustralia.com.au/\">Web Design Perth Australia</a> presents the website decision as a commercial one: the site should load quickly, read well on a phone and turn Perth visitors into enquiries. That frame helps a business brief the work by outcome, not by taste alone.</p><p>Choose the build type before comparing design styles. A sole trader chasing enquiries may need a lean small business site with clear service pages. A retailer may need Shopify or WooCommerce, product trust and owner managed updates. An established firm may need a redesign that keeps useful search visibility intact.</p><ul><li><strong>Enquiry site:</strong> define the services, the preferred enquiry path and the pages needed at launch.</li><li><strong>Online store:</strong> list products, payment needs, shipping rules and who will maintain the catalogue.</li><li><strong>Redesign:</strong> identify current pages that already attract visits or enquiries before changing structure.</li><li><strong>Campaign page:</strong> decide whether a focused landing page is enough before pricing a full rebuild.</li></ul>"
+    },
+    {
+      "h2": "What To Put In The Brief",
+      "html": "<p>A useful quote brief gives enough detail to size the job. The published enquiry form asks for business details, suburb or postcode and project notes, which points to the practical minimum: who the site serves, where the business operates and what must change.</p><p>Prepare the current website status, main services or products, preferred platform, content responsibilities and update expectations. For WordPress website design services, the owner update question matters because the guide says many modern sites can be built so owners can edit basic text, images and pages themselves.</p><p>For eCommerce work, include whether Shopify or WooCommerce is being considered, what product information is ready and what checkout decisions still need advice. For a redesign, separate content that should be retained from pages that need rewriting. The brief should expose the decisions that affect cost, timing and responsibility.</p>"
+    },
+    {
+      "h2": "Compare Written Quotes By Inclusion",
+      "html": "<p>The guide says WA small business guidance recommends getting 3 to 5 written quotes and checking what is included. Two proposals can look similar while treating content, images, hosting, testing, maintenance and basic search setup differently.</p><p>Ask each provider to separate design, development, content, platform costs, launch support and ongoing care. The same guide says website costs vary widely depending on scope, design complexity, content and whether e-commerce or custom features are needed.</p><ul><li>Which pages, templates and features are included?</li><li>Who supplies copy, product information and images?</li><li>Is basic SEO included or priced separately?</li><li>Are hosting, backups, maintenance and security included after launch?</li><li>What training or handover is provided so routine updates can be managed?</li></ul>"
+    },
+    {
+      "h2": "Ownership, Search Foundations And Handover",
+      "html": "<p>The published guide says the client keeps the domain, content and finished site, and that logins are handed over. Check those points before approval, because ownership affects routine edits, future redesigns and the ability to change provider later.</p><p>Search foundations also belong in the build conversation. The service list includes SEO-friendly website work described as fast, well structured and built on solid technical foundations. That is not a ranking guarantee. It is a prompt to ask how mobile performance, page structure, content organisation and redirects will be handled before launch.</p><p>For lead generation website design in Perth, handover should cover where form enquiries go, who receives them and what happens after launch support ends. For owner managed sites, ask what changes can be made safely in the content management system and which changes still need developer help.</p>"
+    },
+    {
+      "h2": "Who This Applies To Across Perth",
+      "html": "<p>This guide applies to Perth SMEs, sole traders, retailers and established firms deciding what kind of website conversation to start. The published page says the provider works across Perth and the wider metro area, including the CBD, Joondalup, Fremantle, Rockingham and Mandurah.</p><p>Use location only where it changes the project. A business serving a defined metro area may need clearer service coverage and enquiry qualification. A retailer with local pickup or delivery questions may need those rules visible before checkout. A campaign landing page may need tighter messaging than a general service site.</p><p>The next action is to match the project type to the commercial goal, then send the same brief to each provider. That makes custom design, affordable website work, online store builds and ongoing care easier to compare on deliverables.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Website project types compared by decision point",
+    "headers": [
+      "Project type",
+      "Best fit",
+      "Question before quoting"
+    ],
+    "rows": [
+      [
+        "New small business site",
+        "A sole trader or SME that needs service pages and enquiries",
+        "What pages, content and enquiry paths are required at launch?"
+      ],
+      [
+        "Redesign",
+        "An existing business modernising an ageing or underperforming site",
+        "Which current pages and search visibility need to be protected?"
+      ],
+      [
+        "Online store",
+        "A retailer needing Shopify or WooCommerce checkout",
+        "What products, payments and shipping rules must be handled?"
+      ],
+      [
+        "Landing page",
+        "A campaign, launch or promotion needing focused action",
+        "Is one focused page enough, or is a larger site required?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the outcome",
+      "text": "Decide whether the site must generate enquiries, sell online, support a campaign or modernise an existing presence."
+    },
+    {
+      "name": "Prepare the brief",
+      "text": "List pages, content responsibilities, platform needs, product requirements, search expectations and owner update needs."
+    },
+    {
+      "name": "Compare inclusions",
+      "text": "Request 3 to 5 written quotes and check content, images, hosting, maintenance, SEO, testing and handover."
+    },
+    {
+      "name": "Confirm handover",
+      "text": "Check ownership of the domain, content, finished site and logins before approving the build."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a Perth business budget for a website?",
+      "a": "The published guide says costs vary widely by scope, design complexity, content and whether e-commerce or custom features are needed. It recommends comparing 3 to 5 written quotes and checking inclusions."
+    },
+    {
+      "q": "How long does a standard website build take?",
+      "a": "The guide cites one Perth agency saying a standard website usually takes 2 to 3 months, including discovery, design, development, testing and content creation. Timing still depends on site size, approvals and content readiness."
+    },
+    {
+      "q": "Should SEO be included in the build?",
+      "a": "The guide says some Perth agencies include SEO or basic search optimisation, but it is not always part of the standard build. Ask whether it is included or priced separately before signing."
+    },
+    {
+      "q": "Can the owner update the finished website?",
+      "a": "The published page says many modern websites, especially WordPress sites, can be built so owners can edit basic text, images and pages themselves. It also says some agencies offer training or handover support."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The published guide says websites should load quickly, read well on a phone and turn Perth visitors into enquiries.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists custom web design, small business websites, WordPress web design, eCommerce web design, website redesign, landing page design, SEO-friendly web design and website care and maintenance as service categories.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says Shopify and WooCommerce online stores are offered.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says redesigns can modernise an ageing or underperforming Perth website without losing search rankings already earned.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says its enquiry form asks for business details, suburb or postcode and project details.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says many modern websites, especially WordPress sites, can be built so owners can edit basic text, images and pages themselves.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says owners should compare 3 to 5 written quotes and check inclusions such as content, images, hosting and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says website costs vary widely depending on scope, design complexity, content and whether e-commerce or custom features are needed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says the client keeps the domain, content and finished site, and logins are handed over.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide describes SEO-friendly website work as fast, well structured and built on solid technical foundations.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says the provider works across Perth and the wider metro area, including the CBD, Joondalup, Fremantle, Rockingham and Mandurah.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide cites a standard website timeframe of 2 to 3 months, including discovery, design, development, testing and content creation.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says timelines depend on the size of the site and how quickly content and approvals are provided.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says some Perth agencies include SEO or basic search optimisation, but it is not always part of the standard build.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says some agencies offer training or handover support so owners can manage routine updates.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Perth website scoping, quote comparison, ownership, handover and project type selection."
+}
