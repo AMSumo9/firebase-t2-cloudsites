@@ -1,0 +1,263 @@
+{
+  "kicker": "Gold Coast Walls",
+  "h1_tail": "A Site Planning Guide",
+  "meta_hook": "compare drainage, approvals, wall types and quote checks before you build",
+  "takeaway": "A Gold Coast retaining wall brief should start with 5 approval checks: height and geometry, surcharge, separation, services and easements, and fences or pools. The published guide identifies 8 wall pathways, 15 local area guides and a 4-part drainage path from filter fabric to lawful discharge. The practical decision is whether the wall needs repair, replacement, engineered design or approval coordination before any quote is accepted.",
+  "lead": "For homeowners comparing retaining wall builders gold coast options, the useful starting point is not a wall catalogue, but the site conditions that shape structure, drainage, access and approval.",
+  "lead_tail": "with site notes ready before a contractor visit",
+  "stats": [
+    {
+      "value": "8",
+      "label": "wall pathways named"
+    },
+    {
+      "value": "15",
+      "label": "local area guides"
+    },
+    {
+      "value": "5",
+      "label": "approval checks"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Site, Not The Wall Type",
+      "html": "<p><a href=\"https://www.goldcoastretainingwall.net.au/\">Gold Coast Retaining Wall</a> frames a retaining wall as a small civil system, where structure, water, access and approval have to agree. That is a useful editorial lens because a neat sleeper choice can still be wrong if the retained height, nearby loads or drainage route have not been described.</p><p>A stronger quote brief records the suburb or postcode, symptoms, approximate dimensions and what sits above the wall. Nearby driveways, buildings, pools, fill, traffic and steep ground are not background details. They are surcharge load clues that can change the design pathway or push the job toward an engineered wall review.</p><ul><li>Measure retained height along the whole alignment, including steps and nearby terraces.</li><li>Photograph the wall from wide context as well as close damage.</li><li>Note access limits for machinery, spoil removal and material delivery.</li><li>Ask where surface water, seepage, irrigation and roofwater currently travel.</li></ul>"
+    },
+    {
+      "h2": "Approval Questions To Ask Before Assuming Exemption",
+      "html": "<p>The published guide warns that Gold Coast exemption is conditional, so the phrase under one metre is not enough on its own. The 5-part screen asks about height and geometry, surcharge, separation, services and easements, then fences and pools. Separation from buildings and other retaining walls is singled out because 1.5 metres is a key Gold Coast exemption condition.</p><p>For retaining wall council approval Gold Coast questions, the useful conversation is about triggers, not shortcuts. Ask whether combined wall and fence height changes the pathway, whether a pool barrier function is involved, and whether any known services or title constraints affect the alignment. If the exemption does not apply, the published pathway points toward site-specific structural design and approval coordination.</p>"
+    },
+    {
+      "h2": "Drainage Is A Scope Item, Not A Finish",
+      "html": "<p>Retaining wall drainage Gold Coast decisions should be visible in the quote. The published guide describes four parts in order: retained soil behind filter fabric, free-draining aggregate, perforated ag pipe and a lawful point of discharge. The drainage path is only complete when the water has somewhere it is allowed to finish.</p><p>The strongest drainage scope names the aggregate, filter arrangement, pipe, cleanouts and discharge assumption. A buried ag pipe without an outlet is described by the guide as unfinished work, not a system. If no suitable connection is obvious, make investigation a preconstruction task so the builder is not guessing once excavation is open.</p><p>Drainage also changes how repair decisions are read. Staining, soil loss, washed fines and wet areas may show the end of a larger water path. That does not prove a specific cause, but it gives the contractor a better inspection trail than one close-up photograph of the worst sleeper.</p>"
+    },
+    {
+      "h2": "Repair, Replacement Or New Construction",
+      "html": "<p>The repair versus replacement decision should be assessment-led. The published guide separates lean or rotation, bulging or opened joints, staining or soil loss, foundation movement, material decay and drainage distress as symptoms to photograph and explain. It also advises against loading or excavating near a visibly unstable wall.</p><p>Concrete sleeper systems are presented as steel-reinforced sleepers with galvanised posts for replacement walls and stepped residential sites. Timber sleeper systems are framed for lower terraces and boundaries. Besser block walls are described as reinforced, core-filled concrete masonry for structural walls and rendered finishes. Rock and boulder walls need enough footprint, batter and machinery access. Gabion walls suit free-draining retention where the site can accommodate their width.</p><p>Those categories are decision inputs rather than a ranking. Footprint, access, loads, finish, expected life and drainage narrow the field. A written quote should explain why the selected system fits the site constraints, not just list a preferred material.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to Gold Coast owners planning a new boundary wall, replacing a failed residential wall, reviewing visible movement, or preparing a contractor brief before excavation. It also applies where a low wall sits near a building, driveway, pool, fence, easement or another retaining wall.</p><p>Locality is useful when it changes the inspection, not when it becomes a suburb list. The published guide has area guides for Mudgeeraba, Nerang, Robina, Burleigh Heads, Currumbin Waters, Reedy Creek, Worongary, Pacific Pines, Oxenford, Helensvale, Pimpama, Hope Island, Ashmore, Carrara and Southport. Treat those guides as prompts for access, water and site-interface questions, not as substitutes for a soil report or engineering advice.</p><p>Before speaking with retaining wall builders gold coast homeowners can prepare a concise brief: dimensions, photos, symptoms, loads above the wall, drainage observations, access limits and approval concerns. That information helps separate a simple replacement conversation from a job that needs investigation, design or approval coordination.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Retaining wall decision path",
+    "headers": [
+      "Question",
+      "When repair may fit",
+      "When replacement or design review is more likely"
+    ],
+    "rows": [
+      [
+        "Visible movement",
+        "Minor symptoms need assessment before scope is chosen",
+        "Lean, rotation, bulging or opened joints need wider investigation"
+      ],
+      [
+        "Water signs",
+        "A drainage remediation path may be considered after inspection",
+        "Soil loss, staining or unclear discharge can point to deeper scope"
+      ],
+      [
+        "Site loads",
+        "Few nearby loads and clear access simplify quoting",
+        "Driveways, buildings, pools, fill or steep ground add surcharge questions"
+      ],
+      [
+        "Approval path",
+        "Low impact sites may still need the 5 checks documented",
+        "Height, proximity, services, fences or pools can change the pathway"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Map the wall",
+      "text": "Record the suburb or postcode, retained height, wall length, steps, nearby terraces and what sits above the wall."
+    },
+    {
+      "name": "Photograph symptoms",
+      "text": "Take wide and close photos showing lean, rotation, bulging, opened joints, staining, soil loss and water paths after rain."
+    },
+    {
+      "name": "Screen approval triggers",
+      "text": "Ask about height, surcharge, separation, services, easements, combined fence-and-wall height and any pool-barrier role."
+    },
+    {
+      "name": "Define drainage",
+      "text": "Request the filter fabric, aggregate, ag pipe, cleanouts and lawful discharge assumption in writing."
+    },
+    {
+      "name": "Compare wall systems",
+      "text": "Choose between concrete sleeper, timber sleeper, Besser block, rock, boulder or gabion only after access, loads, footprint and finish are clear."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does every low retaining wall avoid approval on the Gold Coast?",
+      "a": "No. The supplied guide says Gold Coast exemption is conditional. A low wall can still need assessment when load, proximity, infrastructure or a safety role changes the pathway."
+    },
+    {
+      "q": "What should be included in a drainage quote?",
+      "a": "Ask for the aggregate, filter arrangement, pipe, cleanouts and discharge assumption. The published guide says drainage should run from the retained soil through to a lawful point of discharge."
+    },
+    {
+      "q": "When is repair more suitable than replacement?",
+      "a": "The source does not give a universal rule. It recommends photographing symptoms and using assessment to distinguish drainage distress, post rotation, foundation movement and material decay before deciding scope."
+    },
+    {
+      "q": "Which wall material is best?",
+      "a": "There is no single best material in the supplied facts. Footprint, access, loads, finish, expected life and drainage narrow the choice between concrete sleeper, timber, Besser block, rock, boulder and gabion systems."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published guide identifies 5 approval checks: height and geometry, surcharge, separation, services and easements, and fences or pools.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide identifies 8 wall pathways.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide identifies 15 local area guides.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide describes a 4-part drainage path from filter fabric to lawful discharge.",
+      "source": "money page"
+    },
+    {
+      "claim": "A retaining wall is framed by the published guide as a small civil system involving structure, water, access and approval.",
+      "source": "money page"
+    },
+    {
+      "claim": "A quote brief should record the suburb or postcode, symptoms, approximate dimensions and what sits above the wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "Driveways, buildings, pools, fill, traffic and steep ground are surcharge clues named by the published guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gold Coast exemption is conditional according to the published guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "Separation from buildings and other retaining walls is part of the approval screen, and 1.5 metres is named as a key Gold Coast exemption condition.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide names combined wall and fence height and pool-barrier function as factors that can change the pathway.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide names site-specific structural design and approval coordination for walls where the Gold Coast exemption does not apply.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says a drainage scope should name aggregate, filter arrangement, pipe, cleanouts and discharge assumption.",
+      "source": "money page"
+    },
+    {
+      "claim": "If no suitable drainage connection is obvious, the published guide recommends making investigation a preconstruction task.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists lean or rotation, bulging or opened joints, staining or soil loss, foundation movement, material decay and drainage distress as symptoms to document or assess.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide advises avoiding loading or excavating near a visibly unstable wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper retaining walls are described as steel-reinforced sleeper and galvanised post systems for replacement walls and stepped residential sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper retaining walls are described for lower terraces and boundaries.",
+      "source": "money page"
+    },
+    {
+      "claim": "Besser block retaining walls are described as reinforced, core-filled concrete masonry for structural walls and rendered finishes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rock and boulder retaining walls are described for suitable sites with enough footprint, batter and machinery access.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabion retaining walls are described as rock-filled baskets for free-draining retention where the site accommodates their width.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says footprint, access, loads, finish, expected life and drainage narrow the wall system choice.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide lists area guides for Mudgeeraba, Nerang, Robina, Burleigh Heads, Currumbin Waters, Reedy Creek, Worongary, Pacific Pines, Oxenford, Helensvale, Pimpama, Hope Island, Ashmore, Carrara and Southport.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Gold Coast retaining wall planning, drainage, approval screening, quote inputs and repair versus replacement decisions."
+}
