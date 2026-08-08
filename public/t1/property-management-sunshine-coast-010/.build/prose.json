@@ -1,0 +1,192 @@
+{
+  "kicker": "Rental Management",
+  "h1_tail": "A Landlord Checklist",
+  "meta_hook": "compare managers, fees, inspections and reporting before you sign",
+  "takeaway": "For Sunshine Coast landlords, the practical comparison starts with four checks: service scope, licence or registration details, written fees and local leasing experience. The published guide identifies 15 Sunshine Coast suburbs, a 4 weeks rent bond cap for general tenancies, bond lodgement within 10 days of receipt, and at least 12 months generally passing between rent increases. Use those facts to question tenant screening, inspection records, maintenance reporting and Queensland tenancy handling.",
+  "lead": "For Sunshine Coast landlords comparing rental management options, the useful starting point is a clear check of service scope, fees, reporting and local rental experience.",
+  "lead_tail": "with the comparison focused on service, compliance and day-to-day control",
+  "stats": [
+    {
+      "value": "15",
+      "label": "Sunshine Coast suburbs referenced"
+    },
+    {
+      "value": "4 weeks",
+      "label": "general tenancy bond cap stated"
+    },
+    {
+      "value": "10 days",
+      "label": "bond lodgement period stated"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a landlord should compare first",
+      "html": "<p><a href=\"https://www.propertymanagersunshinecoast.com.au/\">Property Managers Sunshine Coast</a> frames the comparison around tenant screening, leasing, rental appraisals, routine inspections and landlord reporting. That order follows the life of a tenancy, from pricing the property through to keeping records after the lease is underway.</p><p>The first check is whether the proposed service is end-to-end or limited to a smaller task. The published service list includes advertising vacancies, qualifying tenants, preparing lease agreements, collecting rent, arranging inspections, coordinating repairs and providing regular landlord statements. If a task is excluded, ask how the gap is handled and whether a separate charge applies.</p><p>Credentials should be checked before fee comparisons. The guide tells landlords to ask for Queensland licence or registration details and confirm who supervises the management work. The person selling the service may not be the person handling the tenancy file, inspections or owner statements.</p>"
+    },
+    {
+      "h2": "How local property type changes the brief",
+      "html": "<p>The Sunshine Coast examples in the guide show why one checklist can miss important detail. A beachside unit in Mooloolaba, a family home in Buderim and a hinterland rental in Nambour are described as different management situations. Ask what changes in the appraisal, leasing and inspection process for that property type.</p><p>For a unit, ask how comparable lettings and property condition are weighed in the rental appraisal. For a family home, ask how routine inspections record condition, tenant communication and maintenance follow-up. For a hinterland rental, ask how the manager coordinates repairs and keeps the landlord informed when the owner is not nearby.</p><p>Local experience should be tested with recent leasing work in the same suburb, building type and demand pattern. The guide recommends comparing providers on recent leasing experience, local building types and their approach to seasonal demand. Ask for examples rather than broad claims.</p>"
+    },
+    {
+      "h2": "Fee schedules and reporting should be written down",
+      "html": "<p>Fees vary by agency, property and service scope, so the published guidance is to request a written schedule before signing. The schedule should cover management, letting, renewal, inspection, tribunal and advertising charges. A low headline fee is less useful if common tenancy tasks sit outside the quoted scope.</p><p>Reporting needs the same clarity. The guide tells landlords to confirm how often statements, maintenance updates and year-end documentation are supplied. A clear reporting rhythm helps an owner see rent collection, repair decisions and inspection outcomes without chasing each item separately.</p><ul><li>Ask whether inspection reports include photos, tenant communication and maintenance follow-up.</li><li>Ask how repairs are approved, recorded and reported to the landlord.</li><li>Ask when owner statements and year-end documentation are issued.</li><li>Ask which fees apply at leasing, renewal, inspection and tribunal stages.</li></ul>"
+    },
+    {
+      "h2": "Queensland tenancy points to raise before signing",
+      "html": "<p>The guide identifies several Queensland tenancy points that should be raised directly with any proposed manager. People performing regulated real estate work in Queensland must hold the appropriate licence or registration. Rental bonds for general tenancies are capped at 4 weeks rent and must be lodged with the Residential Tenancies Authority within 10 days of receipt.</p><p>Rent increases also need careful handling. The guide states that at least 12 months must generally pass between rent increases for general tenancies. It also says periodic-tenancy increases require at least two months written notice, while fixed-term increases have additional agreement and notice requirements. Because exemptions can apply, ask how the manager checks the current rule before issuing notice.</p><p>A landlord does not need to become the tenancy specialist, but should know who is responsible for each compliance step. Ask where bond records are kept, how notices are checked and what documentation is retained if a tenancy issue later needs review.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for Sunshine Coast landlords who want to compare managers before handing over an existing rental or preparing a new lease. It is most relevant where the owner wants help with rental appraisal, tenant screening, leasing, inspection scheduling, maintenance coordination and regular reporting.</p><p>It is also useful for owners with more than one property who need consistent statements and year-end documentation. The published guide says the service conversation can suit one investment or a growing portfolio, provided the landlord explains the property, suburb and situation before next steps are discussed.</p><p>If a landlord only wants a single rent estimate, the narrower question is whether a rental appraisal alone is enough. If the owner wants the day-to-day work handled, the comparison should move to full management scope, written fees, credentials and reporting.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Landlord comparison points",
+    "headers": [
+      "Decision point",
+      "What to ask",
+      "Why it matters"
+    ],
+    "rows": [
+      [
+        "Service scope",
+        "Which tasks are included from appraisal to lease renewal?",
+        "It shows whether the manager handles the full tenancy cycle or only selected tasks."
+      ],
+      [
+        "Fees",
+        "Can you provide a written schedule before signing?",
+        "It separates management, letting, renewal, inspection, tribunal and advertising charges."
+      ],
+      [
+        "Credentials",
+        "What Queensland licence or registration applies, and who supervises the work?",
+        "It identifies who is responsible for regulated real estate work."
+      ],
+      [
+        "Reporting",
+        "How often are statements, maintenance updates and year-end documents supplied?",
+        "It sets expectations for owner visibility after the tenancy starts."
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the property",
+      "text": "Note the suburb, property type, condition and whether the rental is already tenanted."
+    },
+    {
+      "name": "Request scope",
+      "text": "Ask each manager which appraisal, leasing, inspection, repair and reporting tasks are included."
+    },
+    {
+      "name": "Check credentials",
+      "text": "Ask for Queensland licence or registration details and who supervises the management work."
+    },
+    {
+      "name": "Compare written fees",
+      "text": "Review management, letting, renewal, inspection, tribunal and advertising charges before signing."
+    },
+    {
+      "name": "Confirm reporting",
+      "text": "Agree how statements, maintenance updates and year-end documentation will be supplied."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I ask before choosing a Sunshine Coast rental manager?",
+      "a": "Ask about rental appraisals, tenant screening, leasing, routine inspections, maintenance coordination, landlord statements, fees and licence or registration details. The guide recommends getting the fee schedule in writing before signing."
+    },
+    {
+      "q": "How is a rental bond handled in Queensland?",
+      "a": "The guide states that rental bonds for general tenancies are capped at 4 weeks rent and must be lodged with the Residential Tenancies Authority within 10 days of receipt."
+    },
+    {
+      "q": "How often can rent be increased?",
+      "a": "The guide states that at least 12 months must generally pass between rent increases for general tenancies. It also notes extra notice and agreement requirements depending on whether the tenancy is periodic or fixed term."
+    },
+    {
+      "q": "Does local experience matter for rental management?",
+      "a": "Yes. The guide recommends comparing providers on recent leasing experience in the suburb, local building types and their approach to seasonal demand."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The comparison should include tenant screening, leasing, rental appraisals, routine inspections and landlord reporting.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service list includes advertising vacancies, qualifying tenants, preparing lease agreements, collecting rent, arranging inspections, coordinating repairs and providing regular landlord statements.",
+      "source": "money page"
+    },
+    {
+      "claim": "Landlords should ask for Queensland licence or registration details and confirm who supervises the management work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide contrasts a beachside unit in Mooloolaba, a family home in Buderim and a hinterland rental in Nambour as different management situations.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rental appraisals use local vacancy data, comparable lettings and property condition.",
+      "source": "money page"
+    },
+    {
+      "claim": "Routine inspections include scheduled property condition reports with photos, tenant communication and maintenance follow-up.",
+      "source": "money page"
+    },
+    {
+      "claim": "Landlords should compare recent leasing experience, local building types and approach to seasonal demand.",
+      "source": "money page"
+    },
+    {
+      "claim": "Fees vary by agency, property and service scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "A written fee schedule should cover management, letting, renewal, inspection, tribunal and advertising charges.",
+      "source": "money page"
+    },
+    {
+      "claim": "Landlords should confirm how often statements, maintenance updates and year-end documentation are supplied.",
+      "source": "money page"
+    },
+    {
+      "claim": "People performing regulated real estate work in Queensland must hold the appropriate licence or registration.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rental bonds for general tenancies are capped at 4 weeks rent.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rental bonds must be lodged with the Residential Tenancies Authority within 10 days of receipt.",
+      "source": "money page"
+    },
+    {
+      "claim": "At least 12 months must generally pass between rent increases for general tenancies.",
+      "source": "money page"
+    },
+    {
+      "claim": "Periodic-tenancy increases require at least two months written notice.",
+      "source": "money page"
+    },
+    {
+      "claim": "Fixed-term rent increases have additional agreement and notice requirements.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide refers to 15 Sunshine Coast suburbs.",
+      "source": "money page"
+    },
+    {
+      "claim": "The service conversation can suit one investment or a growing portfolio.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Sunshine Coast rental management comparison points for landlords assessing service scope, fees, credentials, reporting and Queensland tenancy handling."
+}
