@@ -1,0 +1,300 @@
+{
+  "node_id": "springfieldlakesgaragedoors-155",
+  "money_domain": "springfieldlakesgaragedoors.com.au",
+  "money_home_url": "https://www.springfieldlakesgaragedoors.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/garage-door-repairs-springfield-lakes-155/",
+  "live_url": "https://sites-e470-1.web.app/garage-door-repairs-springfield-lakes-155/",
+  "subdomain": "garage-door-repairs-springfield-lakes",
+  "gh_repo": null,
+  "primary_kw": "garage door repairs springfield lakes",
+  "kw_slug": "garage-door-repairs-springfield-lakes",
+  "anchor_kw": "garage door repairs springfield lakes",
+  "brand": "Springfield Lakes Garage Doors",
+  "target_page_url": "https://www.springfieldlakesgaragedoors.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "springfieldlakesgaragedoors-001",
+    "url": "https://garage-door-repairs-springfield-guide.vercel.app/",
+    "primary_kw": "garage door repairs springfield"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\springfieldlakesgaragedoors.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Hi-Tech Doors",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Supreme Garage Doors",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Prestige Doors",
+        "type": "ORGANIZATION",
+        "salience": 0.98
+      },
+      {
+        "name": "Garage Door Repair",
+        "type": "SERVICE",
+        "salience": 0.965
+      },
+      {
+        "name": "Garage Door Repairs",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "WILFIXIT",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Wilpac Capalaba Garage Doors",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Garage Door Service",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Garage Maintenance",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Hoffy's Garage Door Services",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Rob",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Garage Door Installation",
+        "type": "SERVICE",
+        "salience": 0.927
+      },
+      {
+        "name": "Brisbane Southside",
+        "type": "LOCATION",
+        "salience": 0.92
+      },
+      {
+        "name": "Capalaba",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Roller Door Repair",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Tilt Door Repair",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Electric Garage Door Operators",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Commercial Garage Doors",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Industrial Garage Doors",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Residential Garage Doors",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Sunshine Coast",
+        "type": "LOCATION",
+        "salience": 0.88
+      },
+      {
+        "name": "Panel Lift Door Repair",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "B&D Garage Doors",
+        "type": "ORGANIZATION",
+        "salience": 0.88
+      },
+      {
+        "name": "Brisbane to Gold Coast",
+        "type": "LOCATION",
+        "salience": 0.88
+      },
+      {
+        "name": "Garage Door Replacement",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Forest Lake",
+        "type": "LOCATION",
+        "salience": 0.88
+      },
+      {
+        "name": "Springfield Lakes",
+        "type": "LOCATION",
+        "salience": 0.876
+      },
+      {
+        "name": "Brisbane",
+        "type": "LOCATION",
+        "salience": 0.874
+      },
+      {
+        "name": "Garage Door Spring Repair",
+        "type": "SERVICE",
+        "salience": 0.87
+      },
+      {
+        "name": "Ipswich",
+        "type": "LOCATION",
+        "salience": 0.86
+      }
+    ],
+    "lsi_keywords": [
+      "garage door repair Springfield Lakes",
+      "emergency garage door service Springfield Lakes",
+      "garage door installation Springfield Lakes",
+      "garage door spring repair Springfield Lakes",
+      "commercial garage door service Springfield Lakes",
+      "residential garage door repair Springfield Lakes",
+      "garage door maintenance Springfield Lakes",
+      "garage door cable repair Springfield Lakes",
+      "electric garage door service Springfield Lakes",
+      "garage door opener repair Springfield Lakes",
+      "garage door replacement Springfield Lakes",
+      "24/7 garage door repair Springfield Lakes",
+      "local garage door company Springfield Lakes",
+      "garage door motors Springfield Lakes",
+      "best garage door service Springfield Lakes QL"
+    ]
+  },
+  "image": {
+    "file": "garage-door-repairs-springfield-lakes.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-08",
+  "money_home_text": "Springfield Lakes Garage Doors | Repairs and Servicing Skip to content Springfield Lakes Garage Doors Home About Services Locations Tools Contact CALL NOW SEND MESSAGE Open menu Home About Services Locations Tools Contact CALL NOW Greater Springfield and Ipswich corridor Springfield Lakes Garage Doors Same-day garage door repairs across Greater Springfield and the Ipswich corridor. Springfield Lakes Garage Doors handles the first step for broken springs, opener faults, noisy roller doors and full door replacements. Submit the form and our team responds within one business day. CALL NOW View services Same-day attendance often available, subject to availability. Our services Springs, openers, roller and sectional door repairs. Free tools Estimate a garage door repair cost in seconds. Locations Fifteen suburbs across Greater Springfield and Ipswich. About How our team gets your garage door sorted. Contact Send your enquiry and our team gets onto it. Garage door repair services: springs, openers and roller doors Our team covers the full range of garage door work: garage door spring replacement, opener and motor repairs, roller door repairs, sectional door repairs, new garage door installation, and garage door servicing and maintenance. Whether a torsion spring has snapped, an opener keeps reversing, or a roller door has jumped its guides, the fault is checked and quoted in writing before repair work begins. Garage Door Spring Repairs Replacement of broken or fatigued torsion and extension springs to restore safe, balanced door operation. View service -&gt; Garage Door Opener and Motor Repairs Diagnosis and repair of faulty automatic openers, motors, remotes and safety sensors. View service -&gt; Roller Door Repairs Repairs to corrugated roller doors including curtains, drums, springs and guides. View service -&gt; Sectional Door Repairs Panel, roller and track repairs for sectional panel-lift garage doors. View service -&gt; Garage Door Installation Supply and installation of new roller and sectional garage doors and openers. View service -&gt; Garage Door Servicing and Maintenance Scheduled tune-ups to keep doors quiet, safe and reliable and to prevent breakdowns. View service -&gt; Why use Springfield Lakes Garage Doors Greater Springfield and Ipswich coverage Our team covers the whole corridor, from Springfield Lakes, Brookwater and Augustine Heights through to Goodna, Redbank Plains, Ripley and Forest Lake. Qualified local technicians Garage door repairs are handled by technicians suited to the work, with the repair scope and price confirmed in writing before parts or replacement work begins. Repair-first assessment The first step is diagnosis of springs, openers, rollers and tracks, so replacement is only suggested when repair is not the sensible answer. Written, fixed-price quoting Our team confirms the door type and fault on site, then provides a written, fixed-price quote before any parts or replacement work begins. Garage door repair process and quote request Tell us your suburb and what the door is doing. Our team reviews the fault, checks the service area and organises the next step so the work can be quoted in writing before anything begins. Garage door repairs in Springfield Lakes Garage door repairs in Springfield Garage door repairs in Springfield Central Garage door repairs in Brookwater Garage door repairs in Augustine Heights Garage door repairs in Bellbird Park Garage door repairs in Camira Garage door repairs in Spring Mountain Request a free garage door assessment Our team responds within one business day about your suburb and repair. Your name Phone Email Suburb / Postcode Tell us what is happening Best time to call Any time during business hours Morning (7am - 11am) Midday (11am - 2pm) Afternoon (2pm - 5pm) Saturday morning Request My Free Quote Your enquiry is handled securely. See our privacy policy . Garage door repair questions Quick answers to what homeowners across Greater Springfield and Ipswich ask most. How much does a garage door repair cost in Ipswich? Most minor garage door repairs across the Springfield and Ipswich area fall in the low-to-mid hundreds, depending on the fault and the parts needed. A roller or track adjustment costs far less than a spring or motor replacement. Our team gives an upfront written quote before any work starts. Do you offer same-day garage door repairs in Springfield Lakes? Same-day garage door repairs in Springfield Lakes are often available, subject to availability. Submit the form with your suburb and the fault, and our team will respond with the next available repair step. How does Springfield Lakes Garage Doors get my repair done? Tell us your suburb and what the door is doing. The fault is checked before repair work begins, and a written quote confirms the scope and price. Which garage door brands does your team cover? The common brands across the corridor include B&amp;D, Steel-Line, Merlin, Centurion, Gliderol and ATA, so remotes, curtains and parts need to suit your door. Get your garage door sorted Garage door trouble across Greater Springfield? Submit the form and our team responds within one business day about your suburb and repair. Request a free assessment Call 07 4515 3010 Springfield Lakes Garage Doors Servicing Greater Springfield and the eastern Ipswich corridor, from Springfield Lakes, Brookwater and Augustine Heights out to Goodna, Redbank Plains, Ripley and Forest Lake, with same-day garage door callouts often available.. 07 4515 3010 Springfield Lakes, QLD Explore About Services Cost Calculator FAQ Contact Locations Springfield Lakes Springfield Springfield Central Brookwater Augustine Heights Bellbird Park Camira Spring Mountain Redbank Plains Goodna Collingwood Park Gailes Ripley South Ripley Forest Lake Legal Privacy Policy Terms of Service Disclaimer &copy; 2026 Springfield Lakes Garage Doors. All rights reserved. Built in Springfield Lakes, QLD. Prices and estimates shown on this website are planning g",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.springfieldlakesgaragedoors.com.au/services/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/",
+    "https://www.springfieldlakesgaragedoors.com.au/tools/cost-calculator/",
+    "https://www.springfieldlakesgaragedoors.com.au/services/garage-door-spring-repairs/",
+    "https://www.springfieldlakesgaragedoors.com.au/services/garage-door-opener-and-motor-repairs/",
+    "https://www.springfieldlakesgaragedoors.com.au/services/roller-door-repairs/",
+    "https://www.springfieldlakesgaragedoors.com.au/services/sectional-door-repairs/",
+    "https://www.springfieldlakesgaragedoors.com.au/services/garage-door-installation/",
+    "https://www.springfieldlakesgaragedoors.com.au/services/garage-door-servicing-and-maintenance/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/springfield-lakes/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/springfield/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/springfield-central/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/brookwater/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/augustine-heights/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/bellbird-park/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/camira/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/spring-mountain/",
+    "https://www.springfieldlakesgaragedoors.com.au/faq/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/redbank-plains/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/goodna/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/collingwood-park/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/gailes/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/ripley/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/south-ripley/",
+    "https://www.springfieldlakesgaragedoors.com.au/locations/forest-lake/"
+  ],
+  "firebase_path": "garage-door-repairs-springfield-lakes-155"
+}
