@@ -1,0 +1,210 @@
+{
+  "kicker": "Brisbane Finance",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare broker categories, questions and next steps before you enquire",
+  "takeaway": "For Brisbane borrowers, the supplied source lists Queensland as having 3 cities and 70 listings, with Brisbane included among popular locations. It lets users search by location, compare reviews, photos, services and pricing, then contact providers directly or submit a no-obligation request. The listed broker categories are home loans, first home buyers, refinancing, investment loans, and construction or specialist lending.",
+  "lead": "For borrowers comparing home loan brokers brisbane options, the useful starting point is matching your loan purpose to the right broker category before discussing lenders, fees or eligibility.",
+  "lead_tail": "with the main comparison focused on loan purpose and contact steps",
+  "stats": [
+    {
+      "value": "3",
+      "label": "Queensland cities listed"
+    },
+    {
+      "value": "70",
+      "label": "Queensland listings shown"
+    },
+    {
+      "value": "30 sec",
+      "label": "request description estimate"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With Loan Purpose",
+      "html": "<p><a href=\"https://www.homeloanbrokernearme.com.au/\">Home Loan Broker Near Me</a> presents Brisbane as one of its popular home loan broker locations and separates broker browsing into practical categories. That is useful because a first purchase, refinance, investment loan or construction enquiry may require different documents, questions and lender conversations, even before anyone discusses a specific product.</p><p>The source page does not publish Brisbane-specific rates, approval times, deposit rules or lender panel details, so those should be confirmed directly with any broker you contact. ASIC Moneysmart also treats home loan choice as a comparison exercise, where borrowers should look at costs, features and suitability rather than relying on one headline rate.</p><ul><li><strong>Buying a first home:</strong> ask what information the broker needs to compare suitable loan options and what costs you should prepare for.</li><li><strong>Refinancing:</strong> ask how the broker compares the existing loan against alternatives and whether switching costs affect the outcome.</li><li><strong>Investing:</strong> ask how rental income, repayment type and tax advice are handled in the conversation.</li><li><strong>Building or specialist lending:</strong> ask what extra documents are needed before a lender can assess the request.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide applies to borrowers who are using a directory-style source to shortlist Brisbane mortgage brokers, not to people looking for a single lender recommendation. The source page says users can browse provider types or search by location, then compare reviews, photos, services and pricing before getting in touch directly.</p><p>It is most relevant where the borrower already knows the broad purpose of the loan but has not decided which broker to approach. A person upgrading a home, buying for the first time, refinancing an existing mortgage, considering an investment loan or asking about construction finance can use the category structure to avoid a vague enquiry.</p><p>It is less useful for someone who needs urgent, regulated financial advice from a named professional today. The page lets users submit a request at no cost and with no obligation, but it also says details may be shared with suitable professionals and that the user agrees to be contacted about the request.</p>"
+    },
+    {
+      "h2": "Questions To Ask Before Comparing",
+      "html": "<p>A broker comparison should move from fit to evidence. The source includes review counts, service labels, photos and pricing as comparison signals, but the borrower still needs to ask direct questions because the same listing style may sit across several broker categories.</p><p>For a Brisbane enquiry, keep the questions tied to your loan type rather than the suburb alone. Locality matters when it changes the property, contract, timing or lender assessment, but the supplied source does not give local approval rules or suburb-level policy differences. Treat any claim about grants, concessions, deposits or lender timeframes as something to verify with the broker and, where relevant, an official source.</p><ul><li>Which loan purpose do you think best fits this enquiry, and why?</li><li>What documents should I prepare before you compare options?</li><li>How are broker fees, commissions or other costs explained to borrowers?</li><li>Which lender access or accreditation details can you confirm for my circumstances?</li><li>For refinancing, what existing-loan information do you need before suggesting a change?</li></ul>"
+    },
+    {
+      "h2": "Using Directory Signals Carefully",
+      "html": "<p>The source page includes featured providers and popular locations, but it also tells readers to contact businesses directly to confirm current lender access, eligibility, fees and availability. That sentence is important because directory information can help with shortlisting, while the broker conversation determines whether the provider is suitable for the borrower.</p><p>Reviews and ratings can show prior customer sentiment, but they should not replace checking the broker's current scope. Pricing labels are useful only if they explain what is included, what is optional and whether any lender, government or settlement costs sit outside the broker's quoted service.</p><p>For another crawlable comparison point on the same topic, see this <a href=\"https://sitesau.github.io/home-loan-brokers-brisbane-homeloanbrokernearme-001/\">Brisbane home loan broker comparison guide</a>. Use it as a supporting read, then return to the practical checklist: loan purpose, documents, costs, lender access and next contact step.</p>"
+    },
+    {
+      "h2": "Direct Contact Or Request Form",
+      "html": "<p>The source gives two main paths. One is manual comparison, where users search, read listings and contact a provider by call, email or quote request. The other is the request flow, where users describe the job in about 30 seconds and can be contacted by suitable professionals.</p><p>The manual path suits borrowers who want to choose each broker themselves before sharing details. The request path suits borrowers who are comfortable describing the job once and waiting for professionals to make contact. Neither path removes the need to ask about fees, lender access, eligibility and availability.</p><p>Before submitting personal details, write a short summary of the property goal, rough timing, existing loan position if refinancing, and whether the enquiry is for owner-occupied, investment, first-home or construction finance. That keeps the first conversation focused and gives the broker enough context to say whether the enquiry fits their service area.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Broker enquiry paths compared",
+    "headers": [
+      "Path",
+      "Best fit",
+      "Checks to make"
+    ],
+    "rows": [
+      [
+        "Browse listings",
+        "Borrowers who want to compare providers themselves",
+        "Reviews, photos, services, pricing and direct contact details"
+      ],
+      [
+        "Submit a request",
+        "Borrowers who want suitable professionals to respond",
+        "Consent to contact, details shared, no obligation to proceed"
+      ],
+      [
+        "Read guides first",
+        "Borrowers still defining the loan purpose",
+        "Category fit, documents needed and questions to ask"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Choose the loan category",
+      "text": "Start with first home buyer, refinance, investment, home loan, or construction and specialist lending."
+    },
+    {
+      "name": "Prepare a short brief",
+      "text": "Summarise the property goal, timing, current loan position and the type of finance being considered."
+    },
+    {
+      "name": "Compare evidence",
+      "text": "Review services, pricing, photos and available reviews before deciding who to contact."
+    },
+    {
+      "name": "Confirm the details",
+      "text": "Ask the broker directly about lender access, eligibility, fees and availability for your circumstances."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does the source list Brisbane as a location?",
+      "a": "Yes. Brisbane is listed among popular locations, and Queensland is shown with 3 cities and 70 listings."
+    },
+    {
+      "q": "Is submitting a broker request free?",
+      "a": "The source says the request is free to submit and there is no obligation to proceed. It also says submitted details may be shared with suitable professionals."
+    },
+    {
+      "q": "Can I rely on a listing for lender access or fees?",
+      "a": "No. The source itself tells users to contact the business directly to confirm current lender access, eligibility, fees and availability."
+    },
+    {
+      "q": "Which broker category should I start with?",
+      "a": "Use the purpose of the loan. The source separates home loan brokers, first home buyer brokers, refinance brokers, investment loan brokers, and construction or specialist lending."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Queensland is shown with 3 cities and 70 listings.",
+      "source": "money page"
+    },
+    {
+      "claim": "Brisbane is listed among popular locations.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed broker categories are Home Loan Brokers, First Home Buyer Brokers, Refinance Brokers, Investment Loan Brokers, and Construction and Specialist Lending.",
+      "source": "money page"
+    },
+    {
+      "claim": "Users can browse provider types or search by location.",
+      "source": "money page"
+    },
+    {
+      "claim": "Users can compare reviews, view photos, and compare services and pricing.",
+      "source": "money page"
+    },
+    {
+      "claim": "Users can get in touch directly by call, email, or quote request through the form.",
+      "source": "money page"
+    },
+    {
+      "claim": "The request form is free to submit and has no obligation to proceed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The request flow asks users to describe the job in about 30 seconds.",
+      "source": "money page"
+    },
+    {
+      "claim": "By submitting, users agree to be contacted about the request and for their details to be shared with suitable professionals.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source tells users to contact the business directly to confirm current lender access, eligibility, fees and availability.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart treats home loan choice as a comparison exercise involving costs, features and suitability.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    }
+  ],
+  "scope": "This guide covers Brisbane broker shortlisting using the supplied directory categories, comparison signals and contact steps."
+}
