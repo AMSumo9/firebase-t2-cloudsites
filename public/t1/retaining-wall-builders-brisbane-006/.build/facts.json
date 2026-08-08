@@ -1,0 +1,300 @@
+{
+  "node_id": "retainingwallbrisbane-006",
+  "money_domain": "retainingwallbrisbane.au",
+  "money_home_url": "https://www.retainingwallbrisbane.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/retaining-wall-builders-brisbane-006/",
+  "live_url": "https://sites-e470-1.web.app/retaining-wall-builders-brisbane-006/",
+  "subdomain": "retaining-wall-builders-brisbane",
+  "gh_repo": null,
+  "primary_kw": "retaining wall builders brisbane",
+  "kw_slug": "retaining-wall-builders-brisbane",
+  "anchor_kw": "retaining wall builders brisbane",
+  "brand": "Retaining Wall Brisbane",
+  "target_page_url": "https://www.retainingwallbrisbane.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "retainingwallbrisbane-001",
+    "url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-brisbane/",
+    "primary_kw": "retaining wall builders brisbane"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\retainingwallbrisbane.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Brisbane Retaining Builders",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Brisbane City Council",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Elite Walls & Fencing",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Retaining Wall Supplies Brisbane",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "QC Landscaping",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Affordable Retaining Walls Brisbane",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Retaining wall",
+        "type": "SERVICE",
+        "salience": 0.98
+      },
+      {
+        "name": "GEC Landscapes",
+        "type": "ORGANIZATION",
+        "salience": 0.98
+      },
+      {
+        "name": "hipages",
+        "type": "ORGANIZATION",
+        "salience": 0.97
+      },
+      {
+        "name": "Retaining Wall Builders Brisbane",
+        "type": "SERVICE",
+        "salience": 0.97
+      },
+      {
+        "name": "Retaining Walls Brisbane",
+        "type": "SERVICE",
+        "salience": 0.96
+      },
+      {
+        "name": "Queensland Development Code",
+        "type": "REGULATION",
+        "salience": 0.96
+      },
+      {
+        "name": "Brisbane",
+        "type": "LOCATION",
+        "salience": 0.953
+      },
+      {
+        "name": "Development application",
+        "type": "CONCEPT",
+        "salience": 0.95
+      },
+      {
+        "name": "South-East Queensland",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "North Brisbane",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Retaining Wall Steel Posts",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Retaining Wall Supplies",
+        "type": "SERVICE",
+        "salience": 0.94
+      },
+      {
+        "name": "retaining wall builders",
+        "type": "SERVICE",
+        "salience": 0.937
+      },
+      {
+        "name": "QLD",
+        "type": "LOCATION",
+        "salience": 0.935
+      },
+      {
+        "name": "Retaining walls",
+        "type": "SERVICE",
+        "salience": 0.933
+      },
+      {
+        "name": "QBCC licence #15082443",
+        "type": "CREDENTIAL",
+        "salience": 0.93
+      },
+      {
+        "name": "Approvals and requirements",
+        "type": "CONCEPT",
+        "salience": 0.92
+      },
+      {
+        "name": "QBCC Licence # 15082443",
+        "type": "CREDENTIAL",
+        "salience": 0.92
+      },
+      {
+        "name": "retaining wall construction",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Planning approval",
+        "type": "CONCEPT",
+        "salience": 0.9
+      },
+      {
+        "name": "Building approval",
+        "type": "CONCEPT",
+        "salience": 0.9
+      },
+      {
+        "name": "NMP 1.7 Retaining walls and excavation and filling",
+        "type": "REGULATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Australian Standard AS4678",
+        "type": "REGULATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Steve",
+        "type": "PERSON",
+        "salience": 0.9
+      }
+    ],
+    "lsi_keywords": [
+      "QBCC licensed retaining wall builders",
+      "engineered retaining wall design",
+      "concrete sleeper retaining walls",
+      "timber sleeper retaining walls",
+      "retaining wall construction Brisbane",
+      "retaining wall installation",
+      "structural landscaping",
+      "excavation and earthworks",
+      "licensed and insured contractors",
+      "retaining walls for sloped blocks",
+      "South East Queensland service area",
+      "Brisbane and Gold Coast retaining walls",
+      "landscaping and fencing services",
+      "retaining wall compliance and council requirements",
+      "retaining wall repairs and replacements"
+    ]
+  },
+  "image": {
+    "file": "retaining-wall-builders-brisbane.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-08",
+  "money_home_text": "Retaining Wall Brisbane | Costs, Approvals, Materials Skip to content Retaining Wall Brisbane Home Services Locations About Tools Contact Call Now · 07 3608 1511 Get a quote Open menu Home Services Locations About Tools Contact Call 07 3608 1511 Retaining Wall Brisbane Retaining Wall Brisbane Specialists For Sloping Blocks Most Brisbane blocks have a fall in them somewhere, and most of the walls holding those cuts were built decades ago. Whether yours is leaning, or the yard has never been usable, two answers decide almost everything that follows: how high the wall has to be, and whether anything sits on the ground above it. Call Now · 07 3608 1511 Work out an indicative cost Tell us about your wall Start with the height and the length. We will come back on what the wall needs and what it should cost. Your name Phone Email Suburb / Postcode Tell us about your wall Optional - it helps us point your enquiry the right way. Best time to call Any time during business hours Morning (7am - 11am) Midday (11am - 2pm) Afternoon (2pm - 5pm) Saturday morning Get a written quote Your details are only used to arrange your enquiry. See our privacy policy . Start where your question is Wall types Concrete sleeper, timber, block, stone, gabion and drainage, each with what it suits and what it costs. Your suburb Local notes for fifteen Brisbane suburbs, from the Mount Coot-tha foothills to the south-eastern rises. Cost calculator Work out an indicative band from your wall height and length, on the same face-area basis quoters use. Before you quote The questions worth answering before anyone prices your wall, and why each one changes the number. About us Who we are, and how Brisbane terrain and the Queensland rules shape what a wall on your block has to do. Ask a question Send the height, the length and what sits above the wall, and get a written quote back. Retaining Wall Brisbane Options, Material By Material Material is usually the first thing people try to decide and the last thing that should be locked in. Height, surcharge and drainage set the engineering; the material then follows from the site, the access and the budget. Concrete sleeper walls, steel-reinforced planks slotted between galvanised posts, do most of the work on Brisbane cut-and-fill blocks. Timber sleeper walls still suit low garden terraces. Core-filled block carries taller engineered loads and takes a render. Sandstone, boulder and gabion walls sit better on larger, steeper sites and drain freely by nature. Behind every one of them, subsoil drainage is the part that decides whether the wall is still straight in fifteen years. Concrete Sleeper Retaining Walls Steel-reinforced concrete sleepers set between galvanised H-posts - the workhorse wall for Brisbane&#39;s cut-and-fill blocks and the usual replacement when a timber wall gives out. View service -&gt; Timber Sleeper Retaining Walls H4-treated pine and hardwood sleeper walls for garden terraces, low boundary retaining and stepped beds on Brisbane&#39;s inner-west slopes. View service -&gt; Besser Block Retaining Walls Core-filled, steel-reinforced concrete block walls for taller engineered retaining, rendered finishes and walls that carry a surcharge. View service -&gt; Rock &amp; Boulder Retaining Walls Natural sandstone and boulder walls battered back for a rugged, free-draining finish that suits Brisbane&#39;s larger sloping blocks and creek margins. View service -&gt; Gabion Retaining Walls Rock-filled wire baskets forming a strong, free-draining wall well suited to steep and erosion-prone sites around Brisbane&#39;s creek catchments. View service -&gt; Retaining Wall Drainage &amp; Subsoil Systems Agi drain, gravel and geofabric behind every wall, connected to approved stormwater - the structural detail that stops failures in Brisbane&#39;s reactive clay. View service -&gt; Engineered &amp; Council-Approved Retaining Walls Walls over 1 metre, or carrying a surcharge, designed to AS 4678 with RPEQ Form 15 certification and Brisbane City Council building approval. View service -&gt; Retaining Wall Repairs &amp; Replacement Assessment, repair and full replacement of leaning, bulging, cracked or rotted retaining walls across Brisbane. View service -&gt; When a wall needs building approval in Queensland The familiar shorthand, \"over a metre needs council approval\", is only the first of five conditions. Under the Building Regulation 2021 and the Queensland Development Code, a wall avoids building approval only if it clears every one of the following. Brisbane City Council sets the same triggers out on its retaining wall page . 1 Total height over 1.0 metre Measured on the wall plus any retained fill or cut above natural ground level, not just the visible face. 2 Any surcharge load, at any height A driveway, building, pool or second wall sitting in the zone of influence behind the wall counts, even on a low wall. 3 Within 1.5 metres of a structure Close to a house, shed or another retaining wall, the two structures start to interact and approval applies. 4 Part of a pool barrier Where the wall forms part of the pool fence line, it is assessed as part of the barrier. 5 Wall plus fence 2.0 metres or more A modest wall with a fence on top can reach the combined-height trigger without either part looking tall. Approval and licensing are separate questions. Building approval turns on those physical triggers; QBCC licensing turns on the dollar value of the work. A low wall that needs no approval can still need a licensed contractor. Where approval does apply, the wall is generally designed to AS 4678 by an RPEQ engineer and certified on a Form 15. More detail sits on the engineered and council-approved walls page. Why one quote is double the other Retaining walls are priced on the face area of the wall, height times length, not on lineal metres. That is why a 10 metre wall at 600 mm and a 10 metre wall at 1.4 metres are different jobs. As an indicative guide, timber sleeper sits around $3",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.retainingwallbrisbane.au/services/",
+    "https://www.retainingwallbrisbane.au/locations/",
+    "https://www.retainingwallbrisbane.au/tools/cost-calculator/",
+    "https://www.retainingwallbrisbane.au/tools/checklist/",
+    "https://www.retainingwallbrisbane.au/services/concrete-sleeper-retaining-walls/",
+    "https://www.retainingwallbrisbane.au/services/timber-sleeper-retaining-walls/",
+    "https://www.retainingwallbrisbane.au/services/besser-block-retaining-walls/",
+    "https://www.retainingwallbrisbane.au/services/rock-boulder-retaining-walls/",
+    "https://www.retainingwallbrisbane.au/services/gabion-retaining-walls/",
+    "https://www.retainingwallbrisbane.au/services/retaining-wall-drainage/",
+    "https://www.retainingwallbrisbane.au/services/engineered-retaining-walls/",
+    "https://www.retainingwallbrisbane.au/services/retaining-wall-repairs/",
+    "https://www.retainingwallbrisbane.au/locations/the-gap/",
+    "https://www.retainingwallbrisbane.au/locations/bardon/",
+    "https://www.retainingwallbrisbane.au/locations/ashgrove/",
+    "https://www.retainingwallbrisbane.au/locations/paddington/",
+    "https://www.retainingwallbrisbane.au/locations/toowong/",
+    "https://www.retainingwallbrisbane.au/locations/indooroopilly/",
+    "https://www.retainingwallbrisbane.au/locations/kenmore/",
+    "https://www.retainingwallbrisbane.au/locations/chapel-hill/",
+    "https://www.retainingwallbrisbane.au/locations/everton-park/",
+    "https://www.retainingwallbrisbane.au/locations/aspley/",
+    "https://www.retainingwallbrisbane.au/locations/carindale/",
+    "https://www.retainingwallbrisbane.au/locations/camp-hill/",
+    "https://www.retainingwallbrisbane.au/locations/coorparoo/"
+  ],
+  "firebase_path": "retaining-wall-builders-brisbane-006"
+}

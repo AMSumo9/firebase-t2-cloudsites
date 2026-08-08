@@ -1,0 +1,235 @@
+{
+  "kicker": "Brisbane Wall Guide",
+  "h1_tail": "Practical Site And Approval Notes",
+  "meta_hook": "compare wall types, approval triggers and quote questions before you build",
+  "takeaway": "In Brisbane, retaining wall decisions usually turn on measurable triggers: height over 1.0 metre, any surcharge load, proximity within 1.5 metres of a structure, pool barrier involvement, or a wall plus fence reaching 2.0 metres or more. Material choice comes after those checks. The practical starting point is height, length, retained load, drainage route and whether an engineered design or building approval is likely.",
+  "lead": "For homeowners comparing retaining wall builders brisbane options, the practical question is whether the wall is a simple landscape edge or an engineered structure affected by height, load and drainage.",
+  "lead_tail": "with the main checks set out before a quote is requested",
+  "stats": [
+    {
+      "value": "1.0 m",
+      "label": "approval height trigger noted"
+    },
+    {
+      "value": "1.5 m",
+      "label": "structure proximity trigger noted"
+    },
+    {
+      "value": "2.0 m",
+      "label": "combined wall and fence trigger noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the site conditions",
+      "html": "<p><a href=\"https://www.retainingwallbrisbane.au/\">Retaining Wall Brisbane</a> frames the first decision around two inputs: how high the wall needs to be and what sits on the ground above it. That is a useful filter because a low garden terrace, a boundary wall near a building, and a wall supporting a driveway are not the same quoting problem.</p><p>Before speaking with a contractor, record the wall height, length, visible lean or cracking, and whether the area behind it carries a driveway, building, pool, fence or second wall. The source guide also treats drainage as a structural detail, not an accessory, because agi drain, gravel and geofabric behind the wall are part of the stated wall system.</p><ul><li><strong>Measure the face area:</strong> height times length is the pricing basis described in the source guide.</li><li><strong>Identify the load:</strong> surcharge changes the engineering question even when the wall is not tall.</li><li><strong>Check access:</strong> excavation, earthworks and material handling affect the job before finishes are chosen.</li></ul>"
+    },
+    {
+      "h2": "When approval may become part of the job",
+      "html": "<p>The published Brisbane guide lists five building approval triggers under Queensland rules: total height over 1.0 metre, any surcharge load, proximity within 1.5 metres of a structure, a wall forming part of a pool barrier, or a wall and fence together reaching 2.0 metres or more. Those are decision points to confirm before a quote is treated as complete.</p><p>Approval and licensing are separate topics in the source material. Building approval turns on the physical conditions of the wall, while QBCC licensing is described as turning on the dollar value of the work. Where approval applies, the guide says walls are generally designed to AS 4678 by an RPEQ engineer and certified on a Form 15.</p><p>For a second editorial view of the same topic, this <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-brisbane/\">Brisbane retaining wall builder guide</a> sets the discussion around the same local retaining wall search intent without adding extra service claims.</p>"
+    },
+    {
+      "h2": "Material choice follows engineering",
+      "html": "<p>Many owners begin by asking for a material, but the source guide puts the sequence the other way around. Height, surcharge and drainage set the engineering requirement first. The material then follows from the site, access and budget.</p><p>Concrete sleeper walls are described as steel-reinforced planks set between galvanised posts and as the workhorse wall for Brisbane cut-and-fill blocks. Timber sleeper walls are positioned for low garden terraces. Core-filled block is described for taller engineered retaining and rendered finishes. Sandstone, boulder and gabion walls are presented as options that suit larger, steeper sites and drain freely by nature.</p><p>That does not make one material universally better. A replacement for a failed timber wall, a low stepped garden bed and a taller wall carrying a load each point to different questions. Ask the contractor which wall type fits the height, surcharge and drainage path already identified, then ask what would make that choice unsuitable on your block.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to Brisbane property owners trying to scope a retaining wall before they request pricing. It is especially relevant where the block has a fall, the existing wall is leaning, bulging, cracked or rotted, or the yard has never been usable because of a slope.</p><p>It also applies where a wall sits near a house, shed, driveway, pool, fence or another wall. Those details matter because the source guide treats them as approval or engineering triggers rather than minor site notes. A small wall can still be complicated if it interacts with another structure or carries a load above it.</p><p>It is less useful for choosing decorative finishes in isolation. Finish choices only make sense after the retaining function, approval position, structural load and stormwater connection have been checked.</p>"
+    },
+    {
+      "h2": "Questions to ask before accepting a quote",
+      "html": "<p>A useful quote should show more than a lineal metre price. The source guide says retaining walls are priced on face area, height times length, so the same length of wall can become a different job when the height changes. That is why the measurement method should be clear in the quote.</p><p>Ask whether the quoted wall includes excavation and earthworks, drainage, gravel, geofabric, stormwater connection, post type, sleeper or block specification, engineering where needed, and approval handling where the physical triggers apply. If repairs are offered instead of replacement, ask what evidence supports that approach on a leaning, bulging, cracked or rotted wall.</p><p>For retaining wall construction Brisbane owners should also ask what information is still missing. A contractor who needs height, length and what sits above the wall is asking for the same inputs the source guide uses to direct an enquiry.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Retaining wall quote paths",
+    "headers": [
+      "Situation",
+      "Main checks",
+      "Likely discussion"
+    ],
+    "rows": [
+      [
+        "Low garden terrace",
+        "Height, length, drainage and access",
+        "Timber sleeper or other low wall option may be discussed"
+      ],
+      [
+        "Wall carrying load",
+        "Surcharge, nearby structures, approval triggers and engineering",
+        "Engineered design, AS 4678 and approval handling may be discussed"
+      ],
+      [
+        "Failed older wall",
+        "Lean, bulge, cracks, rot and drainage condition",
+        "Repair assessment or full replacement may be discussed"
+      ],
+      [
+        "Steeper or larger site",
+        "Access, drainage behaviour and retained ground",
+        "Rock, boulder, gabion or engineered alternatives may be discussed"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the wall",
+      "text": "Record the proposed or existing height and length so the face area can be understood."
+    },
+    {
+      "name": "Describe what sits above",
+      "text": "Note driveways, buildings, pools, fences, second walls or other loads behind the retaining line."
+    },
+    {
+      "name": "Check approval triggers",
+      "text": "Compare the site against the stated height, surcharge, proximity, pool barrier and combined wall plus fence triggers."
+    },
+    {
+      "name": "Ask about drainage",
+      "text": "Confirm whether agi drain, gravel, geofabric and stormwater connection are included in the scope."
+    },
+    {
+      "name": "Compare scope, not just price",
+      "text": "Review whether excavation, materials, engineering, approvals and replacement of failed elements are included."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does every retaining wall in Brisbane need approval?",
+      "a": "No. The source guide says approval depends on physical triggers, including height over 1.0 metre, surcharge, proximity to structures, pool barrier involvement, or wall plus fence height. A contractor should assess the actual site conditions."
+    },
+    {
+      "q": "Why can two quotes for the same length wall differ?",
+      "a": "The source guide says retaining walls are priced on face area, not just lineal metres. Height, surcharge, drainage, access, material and approval work can all change the quoted scope."
+    },
+    {
+      "q": "Which retaining wall material should I choose?",
+      "a": "Choose after the structural requirements are clear. The source guide links concrete sleeper, timber sleeper, block, rock, boulder and gabion options to different site conditions rather than treating material as the first decision."
+    },
+    {
+      "q": "What information should I prepare before requesting a quote?",
+      "a": "Prepare the height, length, suburb or postcode, visible defects, and what sits above the wall. Those are the details the source guide says help point an enquiry in the right direction."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Retaining wall decisions in the source guide turn on how high the wall has to be and whether anything sits on the ground above it.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide treats agi drain, gravel and geofabric behind the wall as part of the retaining wall drainage system.",
+      "source": "money page"
+    },
+    {
+      "claim": "Retaining walls are priced on the face area of the wall, height times length, according to the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "A wall over 1.0 metre is listed as a building approval trigger in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "Any surcharge load is listed as a building approval trigger in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "A wall within 1.5 metres of a structure is listed as a building approval trigger in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "A wall that forms part of a pool barrier is listed as a building approval trigger in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "A wall plus fence reaching 2.0 metres or more is listed as a building approval trigger in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide says building approval and QBCC licensing are separate questions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Where approval applies, the source guide says the wall is generally designed to AS 4678 by an RPEQ engineer and certified on a Form 15.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper walls are described as steel-reinforced planks set between galvanised posts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls are described as suitable for low garden terraces in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "Core-filled block is described for taller engineered retaining and rendered finishes in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sandstone, boulder and gabion walls are described as suiting larger, steeper sites and draining freely by nature in the source guide.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide includes assessment, repair and full replacement of leaning, bulging, cracked or rotted retaining walls.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Brisbane retaining wall scoping, material choices, approval triggers, drainage questions and quote preparation."
+}
