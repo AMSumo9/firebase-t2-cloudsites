@@ -1,0 +1,247 @@
+{
+  "kicker": "Geelong Wall Scope",
+  "h1_tail": "Site Scope Guide",
+  "meta_hook": "Compare wall systems, drainage, permits and quote inputs before you brief a trade.",
+  "takeaway": "For a Geelong retaining wall project, start with measured height, retained levels, water movement, access and nearby loads before choosing a system. The source guide identifies eight service areas, including site assessment, drainage control and wall failure replacement, and notes 15 local location pages. In Victoria, its cited permit trigger is 1 metre or more, plus walls on or near boundaries where adjoining property could be damaged.",
+  "lead": "For homeowners comparing retaining wall contractors geelong options, the practical question is how clearly the site, wall load, drainage path and approval pathway can be described before quotes are requested.",
+  "lead_tail": "with the site record kept clear before materials are chosen",
+  "stats": [
+    {
+      "value": "8",
+      "label": "service areas named"
+    },
+    {
+      "value": "1 m",
+      "label": "Victorian permit trigger cited"
+    },
+    {
+      "value": "15",
+      "label": "local location pages noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the ground, not the finish",
+      "html": "<p><a href=\"https://www.retainingwallgeelong.au/\">Retaining Wall Geelong</a> frames retaining wall decisions around the site record first: retained levels, water movement, upper-ground loads and construction access. That is useful because a wall is not just a visible face. It is also a foundation, a drainage path, a load case and a boundary condition.</p><p>A practical brief should describe what the wall supports, where water currently travels, how machines or materials can reach the work area, and whether the wall is new, ageing or visibly moving. Photographs should show both ends, the upper and lower ground, nearby fences, driveways, buildings, trees, outlets and the route from the street. For a failed wall, a long view that shows lean or bulging is more useful than a close image of one cracked board.</p><p>The source page also separates wall systems by site fit. Concrete sleepers, treated timber, reinforced masonry, segmental blocks, stone and gabions can all be valid in the right setting, but each changes footprint, maintenance, foundation, delivery and drainage requirements.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for Geelong property owners preparing an early retaining wall brief, especially where the wall touches a boundary, supports a driveway, holds upper garden levels, or replaces an older timber or masonry structure. It also applies when a homeowner wants comparable written quotes rather than a rough material preference.</p><ul><li>Owners replacing a leaning or bulging wall should record whether symptoms have changed, not only the current appearance.</li><li>Owners planning a new boundary wall should ask how access, neighbouring gardens and spoil removal affect the method.</li><li>Owners in compact established lots should treat access width, buried services and protection of existing concrete as scope items.</li><li>Owners near low-lying ground or drainage corridors should make surface falls and lawful discharge part of the first conversation.</li></ul><p>For a shorter companion overview, the sibling <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-geelong/\">retaining wall Geelong guide</a> keeps the same topic in a broader local format.</p>"
+    },
+    {
+      "h2": "Quote inputs that change the conversation",
+      "html": "<p>A useful quote request includes approximate wall height, retained levels, wall length, visible defects, nearby loads, access width, available photographs and any plans. The goal is not to design the wall by email. It is to remove vague assumptions before a contractor decides whether the next step is a site assessment, repair discussion, drainage review or full replacement scope.</p><p>The source guide recommends comparing complete scope, not just the visible wall type. A quote that mentions structure but leaves drainage, approvals, access and exclusions unclear is hard to compare with another quote. Ask each contractor to describe the proposed system, what the foundation depends on, how water is handled, what demolition or spoil handling is included, and which approval checks remain the owner's responsibility.</p><p>Material choice should follow those inputs. Treated timber may suit low garden walls where design life, drainage, soil contact and later maintenance are understood. Reinforced masonry may suit compact structural retention. Segmental systems may need coordination with foundations, drainage and geogrid where specified. Stone and gabion systems need room for footprint, batter, material delivery and drainage behaviour.</p>"
+    },
+    {
+      "h2": "Drainage and approval checks",
+      "html": "<p>Drainage is a design question, not a decorative extra. The supplied site text says proper retaining wall drainage may include filtered aggregate, geofabric, subsoil pipe, surface falls and a lawful outlet. That sequence matters because water movement can influence wall performance and the practicality of a repair.</p><p>Approval checks should be kept separate. The source page says Building and Plumbing Commission guidance requires a building permit at 1 metre or more and for walls on or near boundaries where adjoining property could be damaged. It also says planning approval is separate from a building permit, with planning controls, overlays, easements and title restrictions sitting outside the building-permit pathway.</p><p>The action for owners is straightforward: ask which permit or planning questions are triggered by the actual site, then confirm them with the appropriate property-specific professional, such as a registered building surveyor for the building permit pathway.</p>"
+    },
+    {
+      "h2": "Local conditions worth documenting",
+      "html": "<p>Local detail is most useful when it explains a site constraint. In Geelong West, the source page points to compact established lots, older boundaries and busy access routes, so demolition, spoil handling and neighbouring garden protection can shape the method. In South Geelong, the relationship between older walls, paths, service location and drainage outlets needs early checks.</p><p>Newcomb and Bell Park are described through established homes, later infill, side access limits, underground services and ageing boundary walls. Whittington is noted for low-lying residential ground and drainage corridors where surface falls, lawful discharge and older timber or masonry wall condition can be decisive. Moolap is treated as a mixed residential, rural and former industrial setting where soil conditions, buried services and water movement need property-specific investigation.</p><p>Those examples should not be used as suburb stereotypes. They are prompts for better records: access, drainage, services, nearby loads, wall condition and what the contractor can physically build without guessing.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common retaining wall briefing choices",
+    "headers": [
+      "Choice",
+      "Useful when",
+      "Ask before choosing"
+    ],
+    "rows": [
+      [
+        "Repair discussion",
+        "An existing wall is leaning, bulging or showing visible defects",
+        "What caused the movement and has it changed over time?"
+      ],
+      [
+        "Replacement scope",
+        "The wall system, drainage or foundation is no longer fit for the site",
+        "What demolition, drainage, access and exclusions are included?"
+      ],
+      [
+        "Material comparison",
+        "Several wall systems could suit the setting",
+        "How do height, loads, drainage, footprint and maintenance affect the choice?"
+      ],
+      [
+        "Approval check",
+        "The wall is high, near a boundary, or affected by property controls",
+        "Which building permit, planning, easement or title questions need confirmation?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the wall",
+      "text": "Record approximate height, length, retained levels and what sits above or behind the wall."
+    },
+    {
+      "name": "Trace water",
+      "text": "Note surface falls, visible outlets, wet areas and any existing drainage components."
+    },
+    {
+      "name": "Photograph context",
+      "text": "Capture both ends, upper and lower ground, access route, nearby structures, fences, trees and visible defects."
+    },
+    {
+      "name": "Ask for a complete scope",
+      "text": "Compare quotes across structure, drainage, access, approvals, exclusions and repair assumptions."
+    }
+  ],
+  "faq": [
+    {
+      "q": "When should material choice be made?",
+      "a": "After the site record is clear. The source guide says wall type depends on retained height, loading, drainage, access and the designed foundation."
+    },
+    {
+      "q": "Does a retaining wall always need a permit in Victoria?",
+      "a": "The supplied page cites Building and Plumbing Commission guidance that a permit is required at 1 metre or more and for walls on or near boundaries where adjoining property could be damaged. Site-specific confirmation should come from a registered building surveyor."
+    },
+    {
+      "q": "What should photos show before asking for a quote?",
+      "a": "Show the wall face, both ends, upper and lower ground, outlets, nearby loads, access from the street and any lean or bulging. That gives the contractor context beyond a close-up defect."
+    },
+    {
+      "q": "Is planning approval the same as a building permit?",
+      "a": "No. The source page says planning controls, overlays, easements and title restrictions are separate from the building-permit pathway."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Retaining wall decisions should begin with measured retained levels, water movement, upper-ground loads and construction access.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide identifies eight service areas for retaining wall projects.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide notes 15 local location pages.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleepers, treated timber, reinforced masonry, segmental blocks, stone and gabions have different footprints, finishes and maintenance considerations.",
+      "source": "money page"
+    },
+    {
+      "claim": "Wall system fit depends on retained height, loading, drainage, access and the designed foundation.",
+      "source": "money page"
+    },
+    {
+      "claim": "Useful project records include wall height, retained levels, upper-ground loads, drainage, permit checks and complete written scope comparisons.",
+      "source": "money page"
+    },
+    {
+      "claim": "Useful photographs include both ends, upper and lower ground, visible outlets, driveways, fences, buildings, trees and the path from the street.",
+      "source": "money page"
+    },
+    {
+      "claim": "For an existing wall, a long view showing lean or bulging and whether symptoms have changed is useful.",
+      "source": "money page"
+    },
+    {
+      "claim": "Proper retaining wall drainage may include filtered aggregate, geofabric, subsoil pipe, surface falls and a lawful outlet.",
+      "source": "money page"
+    },
+    {
+      "claim": "Building and Plumbing Commission guidance cited by the source page says a building permit is required at 1 metre or more and for walls on or near boundaries where adjoining property could be damaged.",
+      "source": "money page"
+    },
+    {
+      "claim": "Planning controls, overlays, easements and title restrictions are separate from the building-permit pathway.",
+      "source": "money page"
+    },
+    {
+      "claim": "A registered building surveyor should confirm the building permit pathway for the specific site.",
+      "source": "money page"
+    },
+    {
+      "claim": "Possible causes of a leaning wall include water pressure, inadequate footings or posts, changed loads, decay, corrosion and ground movement.",
+      "source": "money page"
+    },
+    {
+      "claim": "Geelong West has compact established lots, older boundaries and busy access routes where demolition, spoil handling and protection of neighbouring gardens can shape the retaining wall method.",
+      "source": "money page"
+    },
+    {
+      "claim": "South Geelong includes rail, sporting and residential land near the Barwon, where service location, restricted access and drainage outlet relationships need early checks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Newcomb has established homes and later infill projects with varied boundaries, service alignments and side access considerations.",
+      "source": "money page"
+    },
+    {
+      "claim": "Whittington includes low-lying residential ground and drainage corridors where surface falls, lawful discharge and older wall condition can be decisive.",
+      "source": "money page"
+    },
+    {
+      "claim": "Moolap mixes residential edges, rural land and former industrial areas, so site levels, soil conditions, buried services and water movement require property-specific investigation.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bell Park has post-war housing and renewed lots where narrow machine routes, underground services and ageing boundary walls can be practical scope items.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers early retaining wall scoping for Geelong owners comparing site records, wall systems, drainage, approvals and quote detail."
+}
