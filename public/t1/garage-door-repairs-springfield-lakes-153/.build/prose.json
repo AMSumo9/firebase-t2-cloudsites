@@ -1,0 +1,235 @@
+{
+  "kicker": "Garage Door Guide",
+  "h1_tail": "Practical Repair Decisions",
+  "meta_hook": "compare faults, quote questions and repair options before booking a technician",
+  "takeaway": "A practical repair enquiry around Springfield Lakes should start with three details: suburb, door type and fault behaviour. The published process says enquiries receive a response within one business day, same-day attendance is often available subject to availability, and work is checked and quoted in writing before repairs begin. Minor repairs across the Springfield and Ipswich area are described as commonly falling in the low-to-mid hundreds, while spring, motor and replacement jobs depend on parts and diagnosis.",
+  "lead": "For homeowners comparing garage door repairs springfield lakes options, the useful starting point is the fault pattern, the door type, the quoted scope and whether repair remains sensible.",
+  "lead_tail": "with practical checks before a repair visit",
+  "stats": [
+    {
+      "value": "1 business day",
+      "label": "published enquiry response"
+    },
+    {
+      "value": "15",
+      "label": "listed service suburbs"
+    },
+    {
+      "value": "low-to-mid hundreds",
+      "label": "typical minor repair range"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What To Include In The First Enquiry",
+      "html": "<p><a href=\"https://www.springfieldlakesgaragedoors.com.au/\">Springfield Lakes Garage Doors</a> describes a repair process based on suburb, door behaviour and written quoting. The first enquiry is stronger when it explains what the door is doing. State whether it is a roller door, sectional panel-lift door or automatic opener, then describe the symptom around springs, guides, tracks, panels, remotes or safety sensors.</p><p>The published page says the fault is checked and quoted in writing before repair work begins. That gives the homeowner a clear approval point before parts are fitted. A noisy roller door, a jumped guide and a reversing opener are different jobs, so the description should help identify whether adjustment, servicing, opener repair, spring work or replacement is being considered.</p><ul><li>Give the suburb or postcode so the service area can be checked.</li><li>Name the door type if known, especially roller, sectional panel-lift or automatic opener.</li><li>Describe the symptom, such as snapped spring, reversing opener, noisy travel, track issue or remote fault.</li><li>Ask for the repair scope and price in writing before parts or replacement work begins.</li></ul>"
+    },
+    {
+      "h2": "Repair Before Replacement",
+      "html": "<p>The published positioning is repair first. Springs, openers, rollers and tracks are diagnosed before replacement is suggested, and replacement is described as the option when repair is not the sensible answer. That helps separate a serviceable fault from a door or opener that may need a larger scope.</p><p>A repair path may suit faults that can be corrected with parts, adjustment or servicing. Replacement becomes a clearer question when the diagnosis shows that the existing roller or sectional door is no longer the practical option. The page lists new roller and sectional garage door installation, plus opener installation, so replacement can be discussed alongside repair rather than treated as automatic.</p><p>Readers comparing a nearby <a href=\"https://garage-door-repairs-springfield-guide.vercel.app/\">Springfield garage door repair guide</a> can use the same decision filter: identify the faulty component, ask what is being repaired or replaced, and separate attendance timing from parts approval.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to residential owners across Greater Springfield and the eastern Ipswich corridor who need a garage door fault assessed before committing to parts or replacement. The published page names Springfield Lakes, Brookwater, Augustine Heights, Goodna, Redbank Plains, Ripley and Forest Lake as examples of the corridor served, and also lists Springfield, Springfield Central, Bellbird Park, Camira, Spring Mountain, Collingwood Park, Gailes and South Ripley.</p><p>It also suits people comparing residential garage door repair, garage door maintenance, electric opener repair or full door replacement after repeated faults. The listed services include spring replacement, opener and motor repairs, roller door repairs, sectional door repairs, new installation, servicing and maintenance. Commercial and industrial door topics appear in the broader niche research, but the supplied page is mainly framed around household repair enquiries.</p><ul><li>Use it when the fault can be described but the cause is not confirmed.</li><li>Use it when comparing repair with replacement before approving work.</li><li>Use it when a written, fixed-price quote is needed before parts are fitted.</li></ul>"
+    },
+    {
+      "h2": "Quote Questions Before Work Starts",
+      "html": "<p>The service page repeatedly refers to written quoting before repair work begins. A useful quote should identify the door type, the fault found on site, the proposed repair scope and the price before parts or replacement work starts. That avoids treating a spring issue, opener fault and track adjustment as the same job.</p><p>Ask which part is being handled and why. A spring repair is different from a motor or remote diagnosis. Roller door repairs can involve curtains, drums, springs and guides. Sectional work can involve panels, rollers and tracks. Opener and motor repairs can involve automatic openers, remotes and safety sensors. These are published service categories, so they are fair prompts for a quote conversation.</p><p>Costs should stay provisional until the door is assessed. The page says most minor repairs across the Springfield and Ipswich area fall in the low-to-mid hundreds, depending on the fault and parts needed. It also says an upfront written quote is provided before work starts.</p>"
+    },
+    {
+      "h2": "Timing And Availability",
+      "html": "<p>The published response promise is one business day after an enquiry is sent. Same-day attendance is described as often available, subject to availability. That wording separates enquiry response from actual attendance and avoids assuming every repair can be handled immediately.</p><p>When the door affects vehicle access, ask what the next available repair step is and whether the technician first needs to confirm the service area. If the door is still operating, a maintenance or service booking may be enough. If the opener keeps reversing or the door has left its guides, include that detail in the form so the enquiry is triaged against the fault.</p><p>The page also offers a cost calculator described as estimating repair cost in seconds. Treat it as planning information only, because the published process still says the fault is checked and quoted in writing before work begins.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Repair and replacement decision guide",
+    "headers": [
+      "Situation",
+      "Useful question",
+      "Source basis"
+    ],
+    "rows": [
+      [
+        "Noisy roller door, track or guide issue",
+        "Ask whether adjustment, servicing or roller door repair is enough",
+        "Roller door repairs and minor adjustments are listed on the published page"
+      ],
+      [
+        "Snapped or fatigued spring",
+        "Ask for spring type, replacement scope and written price before work starts",
+        "Spring replacement is listed as a core service"
+      ],
+      [
+        "Opener reversing or remote fault",
+        "Ask whether the motor, opener, remote or safety sensor is being diagnosed",
+        "Opener, motor, remote and safety sensor diagnosis is listed"
+      ],
+      [
+        "Repeated faults or unsuitable repair",
+        "Ask whether new roller or sectional installation is the sensible option",
+        "Installation is listed and replacement is suggested when repair is not sensible"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the door",
+      "text": "Note whether it is a roller door, sectional panel-lift door or automatic opener before lodging the enquiry."
+    },
+    {
+      "name": "List the symptom",
+      "text": "Explain what the door is doing, such as reversing, making noise, leaving the guides or failing around the spring."
+    },
+    {
+      "name": "Confirm the quote",
+      "text": "Ask for the fault, repair scope and price to be confirmed in writing before parts or replacement begin."
+    },
+    {
+      "name": "Compare repair with replacement",
+      "text": "If the quote points to major parts, ask why repair is or is not the sensible answer."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is same-day attendance stated as guaranteed?",
+      "a": "No. The published wording says same-day attendance is often available, subject to availability. It also says the team responds to enquiries within one business day."
+    },
+    {
+      "q": "What faults are listed by the provider?",
+      "a": "The page lists broken or fatigued springs, opener and motor faults, remotes, safety sensors, noisy roller doors, jumped guides, sectional panels, rollers and tracks."
+    },
+    {
+      "q": "Is there one published price for every repair?",
+      "a": "No. The page says most minor repairs in the Springfield and Ipswich area fall in the low-to-mid hundreds, but the final price depends on the fault and parts and is quoted in writing before work starts."
+    },
+    {
+      "q": "Which garage door brands are mentioned?",
+      "a": "The page names B&D, Steel-Line, Merlin, Centurion, Gliderol and ATA as common brands across the corridor, with remotes and parts needing to suit the specific door."
+    }
+  ],
+  "about": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Springfield Lakes Garage Doors describes a repair process based on suburb, door behaviour and written quoting.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says enquiries receive a response within one business day.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says same-day attendance is often available, subject to availability.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says the fault is checked and quoted in writing before repair work begins.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says the repair scope and price are confirmed in writing before parts or replacement work begins.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page lists garage door spring replacement, opener and motor repairs, roller door repairs, sectional door repairs, new garage door installation, and servicing and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says springs, openers, rollers and tracks are diagnosed before replacement is suggested.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says replacement is only suggested when repair is not the sensible answer.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says most minor garage door repairs across the Springfield and Ipswich area fall in the low-to-mid hundreds, depending on the fault and parts needed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page names Springfield Lakes, Brookwater, Augustine Heights, Goodna, Redbank Plains, Ripley and Forest Lake as examples of the corridor served.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page lists Springfield, Springfield Central, Bellbird Park, Camira, Spring Mountain, Collingwood Park, Gailes, Ripley, South Ripley and Forest Lake as locations.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says roller door repairs can involve curtains, drums, springs and guides.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says sectional door repairs can involve panels, rollers and tracks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says opener and motor repairs can involve automatic openers, motors, remotes and safety sensors.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page names B&D, Steel-Line, Merlin, Centurion, Gliderol and ATA as common brands across the corridor.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page describes a cost calculator that estimates a garage door repair cost in seconds.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers repair decisions, quote questions and timing for garage door faults around Springfield Lakes and the listed Greater Springfield and Ipswich corridor suburbs."
+}
