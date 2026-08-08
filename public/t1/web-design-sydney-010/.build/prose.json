@@ -1,0 +1,184 @@
+{
+  "kicker": "Sydney Website Planning",
+  "h1_tail": "A Practical Buyer Guide",
+  "meta_hook": "compare scope, timing, platforms and ownership before requesting quotes",
+  "takeaway": "A standard business website is commonly described as a 4 to 12 week project, including discovery, design, development, testing and content creation. The published service range includes custom builds, small business websites, WordPress, Shopify, WooCommerce, redesigns, landing pages, search-ready pages and care plans. A useful brief should define the commercial goal, content readiness, platform fit, ownership position and enquiry path before design style is discussed.",
+  "lead": "For Sydney business owners comparing web design sydney options, the useful question is how clearly a proposed site can explain the offer, earn trust and turn the right visitor into an enquiry.",
+  "lead_tail": "with the brief shaped around scope, platform, content and ownership",
+  "stats": [
+    {
+      "value": "4 to 12",
+      "label": "weeks commonly allowed for a standard business site"
+    },
+    {
+      "value": "8",
+      "label": "published service paths"
+    },
+    {
+      "value": "4",
+      "label": "platform or build options named"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Buyer Decision",
+      "html": "<p><a href=\"https://www.webdesignsydneyaustralia.com.au/\">Web Design Sydney Australia</a> frames website planning around the customer decision before design choices. That is a practical test for web design sydney buyers because the page structure for a professional practice in North Sydney, a cafe in Surry Hills and an online retailer in Chatswood should not be identical. Each needs different proof, page order and calls to action.</p><p>Write the brief around the visitor groups the business already expects: local searchers, referral visitors and returning customers. A search visitor may need fast service clarity and location fit. A referral visitor may need detail that confirms the recommendation. A returning customer may need a direct route to a known service, update or support request.</p><ul><li><strong>Offer clarity:</strong> state what the business sells, where it operates and which customer is a good fit.</li><li><strong>Proof:</strong> decide what evidence belongs early, such as portfolio work, testimonials or plain service explanations.</li><li><strong>Action:</strong> choose whether the next step is an enquiry, quote request, booking, call or store purchase.</li></ul>"
+    },
+    {
+      "h2": "Choose Scope Before Style",
+      "html": "<p>The first scope decision is the type of project. The published service range includes custom web design, small business websites, WordPress web design, eCommerce web design, redesigns, landing pages, search-friendly builds and care plans. Those choices should follow the business problem.</p><p>A small business website suits a straightforward service offer where the main job is to explain the business and generate qualified enquiries. A custom build may suit a more specific audience, content structure or workflow. Shopify and WooCommerce bring product data, checkout trust and store management into the conversation. A campaign landing page should stay narrow, with one clear offer and one clear action.</p><p>Redesigns need extra care because the old site may already have useful pages ranking. Ask which pages stay, which pages are rewritten, what redirects are needed and what the new design must improve.</p>"
+    },
+    {
+      "h2": "Check Platform And Ownership Early",
+      "html": "<p>Platform choice should follow operations. WordPress, Shopify, WooCommerce and custom builds all appear in the published service mix, but the right choice depends on who updates the site, how often pages change, whether products are managed online and what integrations are required.</p><p>Ownership should be settled before the build path is locked. The provider says the domain, content and finished site stay with the business owner, with logins handed over. Buyers should still ask for the detail in writing, including domain control, hosting access, admin access, editable content and the handover process.</p><ul><li>Ask who controls the domain registration.</li><li>Ask which admin logins are supplied at launch.</li><li>Ask which content the team can edit without a developer.</li><li>Ask whether care plans include updates, backups, security and support.</li></ul>"
+    },
+    {
+      "h2": "Price The Work From Real Inputs",
+      "html": "<p>The published page does not give one fixed price. It says costs vary with scope, design complexity, content and whether eCommerce or custom features are needed. It also says buyers should get several written quotes and check exactly what is included, including content, images, hosting and maintenance.</p><p>A useful quote request should include the business type, target locations, services or products, existing site, preferred platform if known and any deadline pressure. For online stores, include product data and store operations. For redesigns, include current pages, content to preserve and redirects to discuss.</p><p>The provider also publishes a <a href=\"https://www.webdesignsydneyaustralia.com.au/tools/cost-calculator/\">website budget estimator</a> for checking what can change price before a brief is sent. Treat it as preparation for a written scope, not as a substitute for one.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide suits Sydney SMEs, sole traders, professional practices, hospitality operators and online retailers preparing to speak with a designer. The published page lists Sydney CBD, Surry Hills, Parramatta, North Sydney, Chatswood, Bondi Junction, Newtown, Manly, Mosman and Balmain under Sydney locations it writes for, but place should only shape the brief when it changes buyer intent, proof or the next action.</p><p>A cafe page may need quick mobile scanning, location clarity and a booking or enquiry path. A professional service firm may need to explain fit, process and likely investment before contact. An online retailer needs product browsing, checkout trust and performance. A local service redesign may need to protect useful existing pages while making the quote path cleaner.</p>"
+    },
+    {
+      "h2": "Brief Questions Worth Asking",
+      "html": "<p>A short project note can start the conversation, but it should still be specific. The strongest brief states whether the site needs more qualified enquiries, a cleaner quote path, a stronger platform or a redesign that protects existing useful pages.</p><ol><li>What should the new site change for the business?</li><li>Which visitors matter most: searchers, referrals or returning customers?</li><li>Which pages, products or service explanations must be ready before design starts?</li><li>Who owns the domain, hosting, content and admin access after launch?</li><li>What ongoing care is needed after launch?</li></ol><p>The provider also states there are no first-page guarantees. A clean build can support search visibility, while growth still depends on content, authority, competition and time.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common website project paths",
+    "headers": [
+      "Project path",
+      "Best fit",
+      "Briefing focus"
+    ],
+    "rows": [
+      [
+        "Small business site",
+        "Straightforward service business or sole trader",
+        "Offer clarity, page count, enquiry path and content readiness"
+      ],
+      [
+        "Custom build",
+        "Business with a specific audience, structure or workflow",
+        "Customer decision path, content model, integrations and ownership"
+      ],
+      [
+        "Online store",
+        "Retailer using Shopify or WooCommerce",
+        "Product data, checkout trust, performance and store management"
+      ],
+      [
+        "Redesign",
+        "Ageing or underperforming existing site",
+        "Pages to keep, redirects, rankings to protect and clearer conversion paths"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the business problem",
+      "text": "Write one sentence explaining whether the site needs more enquiries, a cleaner quote path, a stronger platform or a protected redesign."
+    },
+    {
+      "name": "Map visitor types",
+      "text": "Separate local searchers, referral visitors and returning customers so page order matches how each group decides."
+    },
+    {
+      "name": "Choose a practical platform",
+      "text": "Compare WordPress, Shopify, WooCommerce and custom options against editing needs, product data, integrations and ownership."
+    },
+    {
+      "name": "Prepare quote inputs",
+      "text": "List page count, content readiness, product data, redirects, integrations and care needs before asking for pricing."
+    },
+    {
+      "name": "Confirm handover",
+      "text": "Ask what domain, hosting, admin access, content and login details will be transferred or documented after launch."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long should a standard business website take?",
+      "a": "A standard business website is described as typically taking 4 to 12 weeks to design and build, including discovery, design, development, testing and content creation. Timing depends on site size and how quickly content and approvals are supplied."
+    },
+    {
+      "q": "Which platform should a Sydney business choose?",
+      "a": "The practical choice depends on operations and ownership. WordPress suits editable content, Shopify and WooCommerce suit online stores, and a custom build may suit a more specific structure or workflow."
+    },
+    {
+      "q": "What should be checked before accepting a website quote?",
+      "a": "Check exactly what is included, such as content, images, hosting and maintenance. Also ask about page count, product data, integrations, copy readiness, redirects and care needs."
+    },
+    {
+      "q": "Can a new website guarantee first-page Google rankings?",
+      "a": "No. The published page says the build can provide clean foundations, but ongoing search growth still depends on content, authority, competition and time."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "A standard business website typically takes 4 to 12 weeks to design and build, including discovery, design, development, testing and content creation.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service range includes custom web design, small business websites, WordPress web design, eCommerce web design, website redesign, landing page design, SEO-friendly web design and website care and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider names WordPress, Shopify, WooCommerce and custom builds as platform or build options.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider names Shopify and WooCommerce as eCommerce website options.",
+      "source": "money page"
+    },
+    {
+      "claim": "A professional practice in North Sydney, a cafe in Surry Hills and an online retailer in Chatswood are used as examples of businesses needing different proof, page structure and calls to action.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider separates local searchers, referral visitors and returning customers when mapping website decisions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Website costs vary depending on scope, design complexity, content and whether eCommerce or custom features are needed.",
+      "source": "money page"
+    },
+    {
+      "claim": "It is common advice to get several written quotes and check exactly what is included, such as content, images, hosting and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "Page count, product data, integrations, copy readiness, redirects and care can change project effort.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says the domain, content and finished site stay with the business owner, with logins handed over.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says domains, hosting, admin access and handover are discussed before build choices are locked.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider names ongoing updates, backups, security and support care plans.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page lists Sydney CBD, Surry Hills, Parramatta, North Sydney, Chatswood, Bondi Junction, Newtown, Manly, Mosman and Balmain under Sydney locations it writes for.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says no first-page guarantees are promised.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says ongoing search growth depends on content, authority, competition and time.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical website briefing, platform choice, ownership, quote inputs and redesign checks for Sydney businesses."
+}
