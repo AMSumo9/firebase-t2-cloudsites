@@ -1,0 +1,280 @@
+{
+  "node_id": "retainingwallgoldcoast-006",
+  "money_domain": "retainingwallgoldcoast.com.au",
+  "money_home_url": "https://www.retainingwallgoldcoast.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/retaining-walls-gold-coast-006/",
+  "live_url": "https://sites-e470-1.web.app/retaining-walls-gold-coast-006/",
+  "subdomain": "retaining-walls-gold-coast",
+  "gh_repo": null,
+  "primary_kw": "retaining walls gold coast",
+  "kw_slug": "retaining-walls-gold-coast",
+  "anchor_kw": "retaining walls gold coast",
+  "brand": "Retaining Wall Gold Coast",
+  "target_page_url": "https://www.retainingwallgoldcoast.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\retainingwallgoldcoast.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Gold Coast City Council",
+        "type": "GovernmentOrganization",
+        "salience": 0
+      },
+      {
+        "name": "Queensland Building and Construction Commission (QBCC)",
+        "type": "GovernmentOrganization",
+        "salience": 0
+      },
+      {
+        "name": "Brisbane City Council",
+        "type": "GovernmentOrganization",
+        "salience": 0
+      },
+      {
+        "name": "Gold Coast",
+        "type": "City",
+        "salience": 0
+      },
+      {
+        "name": "Southport",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Surfers Paradise",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Broadbeach",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Burleigh Heads",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Robina",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Varsity Lakes",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Nerang",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Ashmore",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Bundall",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Mudgeeraba",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Tamborine Mountain",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Springbrook",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Coomera",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Helensvale",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Pacific Pines",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "concrete sleeper",
+        "type": "Product",
+        "salience": 0
+      },
+      {
+        "name": "timber sleeper",
+        "type": "Product",
+        "salience": 0
+      },
+      {
+        "name": "besser block",
+        "type": "Product",
+        "salience": 0
+      },
+      {
+        "name": "sandstone block",
+        "type": "Product",
+        "salience": 0
+      },
+      {
+        "name": "gabion basket",
+        "type": "Product",
+        "salience": 0
+      },
+      {
+        "name": "agi pipe",
+        "type": "Product",
+        "salience": 0
+      },
+      {
+        "name": "geofabric",
+        "type": "Product",
+        "salience": 0
+      },
+      {
+        "name": "AS 4678",
+        "type": "Standard",
+        "salience": 0
+      },
+      {
+        "name": "QDC NMP 1.7",
+        "type": "Regulation",
+        "salience": 0
+      },
+      {
+        "name": "Form 15",
+        "type": "ComplianceDocument",
+        "salience": 0
+      },
+      {
+        "name": "Form 16",
+        "type": "ComplianceDocument",
+        "salience": 0
+      }
+    ],
+    "lsi_keywords": []
+  },
+  "image": {
+    "file": "retaining-walls-gold-coast.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-08",
+  "money_home_text": "Retaining Wall Gold Coast | Request a Project Review Skip to content Retaining Wall Gold Coast Home Services Locations About Tools Contact Enquire Open menu Home Services Locations About Tools Contact Gold Coast retaining wall specialists Find the right retaining wall contractor for your Gold Coast block From concrete sleepers and timber garden walls to engineered block systems and drainage, we help homeowners across the Gold Coast get a fixed-price quote from a licensed contractor. QBCC-licensed contractor network Fixed-price written quotes Service from the coast to the hinterland Tell us about your project Share the details and we will help you take the next step with confidence. Your name Phone Email Suburb / Postcode Project details (optional) Send My Enquiry Your details are only used to arrange your enquiry. See our privacy policy . Retaining wall Gold Coast services Choose the sleeper wall, block wall or drainage system that matches your site, budget and compliance needs. Concrete Sleeper Retaining Walls Durable steel-reinforced concrete sleepers set between galvanised posts - a popular engineered choice for Gold Coast coastal and hinterland blocks. Learn more -&gt; Timber Sleeper Retaining Walls H4-treated hardwood and pine sleeper walls for gardens, terraces and low boundary retaining across the Gold Coast. Learn more -&gt; Besser Block Retaining Walls Core-filled, steel-reinforced concrete block walls for taller engineered retaining and rendered finishes on Gold Coast sites. Learn more -&gt; Rock &amp; Boulder Retaining Walls Natural sandstone and boulder walls battered back for a rugged, free-draining finish that suits hinterland and coastal blocks. Learn more -&gt; Gabion Retaining Walls Rock-filled wire baskets that form a strong, free-draining wall well suited to sloping and erosion-prone Gold Coast sites. Learn more -&gt; Retaining Wall Drainage &amp; Subsoil Systems Ag-drain, gravel and geofabric drainage behind every wall - the structural detail that stops failures in sandy, clay and hinterland soils. Learn more -&gt; Engineered &amp; Council-Approved Retaining Walls Walls over 1m or carrying a surcharge, designed to AS 4678 with RPEQ Form 15 design certification and Gold Coast City Council approval. Learn more -&gt; Retaining Wall Repairs &amp; Replacement Assessment, repair and full replacement of failing, bulging or cracked retaining walls across the Gold Coast region. Learn more -&gt; How the project review works Submit your details. Tell us where you are, what the wall needs to do, and any access or drainage issues. Site assessment. The contractor reviews the site and confirms wall height, material and compliance triggers. Written quote. You receive a fixed-price quote with scope, materials, drainage and any engineering or approval costs listed. Request a project review Retaining walls across Gold Coast Get local notes for your suburb or submit the form for a Gold Coast-wide project review. Retaining walls in Southport Southport sits at the northern end of the Gold Coast with a mix of waterfront homes, older low-set houses and… Retaining walls in Surfers Paradise Surfers Paradise is tightly built, with apartment towers, holiday rentals and narrow residential blocks Retaining walls in Broadbeach Broadbeach blends coastal apartments, duplexes and low-rise homes close to the beach and the Nerang River Retaining walls in Burleigh Heads Burleigh Heads sits on a coastal headland with sandy soils, steep driveways and hillside blocks behind James… Retaining walls in Robina Robina is one of the Gold Coast&#39;s larger planned suburbs, with family homes, golf-course estates and… Retaining walls in Varsity Lakes Varsity Lakes is built around a series of artificial lakes and canals, with modern homes, townhouses and… Retaining walls in Nerang Nerang is a practical trade and transport hub where the Gold Coast hinterland begins to rise Retaining walls in Ashmore Ashmore is a central residential and industrial pocket with post-war homes, duplexes and commercial yards on… Retaining walls in Bundall Bundall wraps around the Nerang River and canals, with prestige homes, waterfront properties and the… Retaining walls in Mudgeeraba Mudgeeraba marks the transition to the hinterland, with older Queenslanders, acreage properties and newer… Retaining walls in Tamborine Mountain Tamborine Mountain sits on the northern rim of the Scenic Rim, with red volcanic soils, high rainfall and… Retaining walls in Springbrook Springbrook is a rainforest plateau with high rainfall, basalt soils and deeply sloping bush blocks Retaining walls in Coomera Coomera is a fast-growing northern corridor of the Gold Coast, with new estate homes, duplexes and commercial… Retaining walls in Helensvale Helensvale combines established family homes, golf-course estates and canal-front properties Retaining walls in Pacific Pines Pacific Pines is a hillside suburb of modern family homes built around lakes and bushland reserves See all locations -&gt; Estimate your wall cost Use the cost calculator to get an indicative price based on material, height and length. The calculator also shows how the estimate is built and where council approval may affect the final cost. Open cost calculator Frequently asked questions How much does a retaining wall cost on the Gold Coast? On the Gold Coast, retaining walls typically range from around $250 to $800 per square metre depending on the material, height, site access and whether engineering is required. Timber sleeper walls are usually at the lower end, while concrete, block and stone walls sit higher due to labour and engineering needs. These figures usually include materials and labour but not council approvals or complex excavation. Do I need council approval for a retaining wall in Gold Coast City? Gold Coast City Council generally requires building approval for retaining walls unless they are under 1.0 metre high, more than 1.5 metres from a building or another retaining wall, o",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.retainingwallgoldcoast.com.au/services/",
+    "https://www.retainingwallgoldcoast.com.au/locations/",
+    "https://www.retainingwallgoldcoast.com.au/tools/cost-calculator/",
+    "https://www.retainingwallgoldcoast.com.au/services/concrete-sleeper-retaining-walls/",
+    "https://www.retainingwallgoldcoast.com.au/services/timber-sleeper-retaining-walls/",
+    "https://www.retainingwallgoldcoast.com.au/services/besser-block-retaining-walls/",
+    "https://www.retainingwallgoldcoast.com.au/services/rock-boulder-retaining-walls/",
+    "https://www.retainingwallgoldcoast.com.au/services/gabion-retaining-walls/",
+    "https://www.retainingwallgoldcoast.com.au/services/retaining-wall-drainage/",
+    "https://www.retainingwallgoldcoast.com.au/services/engineered-retaining-walls/",
+    "https://www.retainingwallgoldcoast.com.au/services/retaining-wall-repairs/",
+    "https://www.retainingwallgoldcoast.com.au/locations/southport/",
+    "https://www.retainingwallgoldcoast.com.au/locations/surfers-paradise/",
+    "https://www.retainingwallgoldcoast.com.au/locations/broadbeach/",
+    "https://www.retainingwallgoldcoast.com.au/locations/burleigh-heads/",
+    "https://www.retainingwallgoldcoast.com.au/locations/robina/",
+    "https://www.retainingwallgoldcoast.com.au/locations/varsity-lakes/",
+    "https://www.retainingwallgoldcoast.com.au/locations/nerang/",
+    "https://www.retainingwallgoldcoast.com.au/locations/ashmore/",
+    "https://www.retainingwallgoldcoast.com.au/locations/bundall/",
+    "https://www.retainingwallgoldcoast.com.au/locations/mudgeeraba/",
+    "https://www.retainingwallgoldcoast.com.au/locations/tamborine-mountain/",
+    "https://www.retainingwallgoldcoast.com.au/locations/springbrook/",
+    "https://www.retainingwallgoldcoast.com.au/locations/coomera/",
+    "https://www.retainingwallgoldcoast.com.au/locations/helensvale/"
+  ],
+  "firebase_path": "retaining-walls-gold-coast-006"
+}
