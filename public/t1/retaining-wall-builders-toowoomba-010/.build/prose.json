@@ -1,0 +1,235 @@
+{
+  "kicker": "Toowoomba Wall Guide",
+  "h1_tail": "Practical Site Checks for 2026",
+  "meta_hook": "Check soil, drainage, approvals and wall materials before requesting quotes",
+  "takeaway": "In Toowoomba, retaining wall quotes should be checked against four source facts: reactive black soil, slope, drainage and approval. The published service page says walls over 1.0 metre, or walls carrying a driveway or building, need AS 4678 engineering, RPEQ certification and Toowoomba Regional Council approval before work starts. It also names QBCC licensing, ag-drain, gravel, geofabric and legal stormwater connection as details to confirm.",
+  "lead": "For homeowners comparing retaining wall builders toowoomba options, the useful starting point is whether the proposed design suits slope, reactive clay, drainage and approval needs.",
+  "lead_tail": "before quote comparison starts",
+  "stats": [
+    {
+      "value": "1.0m",
+      "label": "approval trigger noted"
+    },
+    {
+      "value": "AS 4678",
+      "label": "engineering standard cited"
+    },
+    {
+      "value": "Form 15/16",
+      "label": "certification named"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with ground conditions",
+      "html": "<p><a href=\"https://www.toowoombaretainingwalls.com.au/\">Toowoomba Retaining Walls</a> frames the local problem as steep range blocks and reactive black soil. That makes the first quote discussion about retained height, slope, load, excavation access and where water will discharge after rain.</p><p>The published services include concrete sleeper, timber sleeper, Besser block, rock, boulder and gabion walls. Treat those as site responses, not just finishes. A low garden terrace, a boundary wall and a wall supporting a driveway need different footing, drainage and approval checks.</p><p>For another local reference on the same topic, this <a href=\"https://retaining-walls-toowoomba-guide.netlify.app/\">Toowoomba retaining walls guide</a> gives a companion overview.</p>"
+    },
+    {
+      "h2": "Quote checks that reveal scope",
+      "html": "<p>A useful written quote should make the hidden work visible. The source page links wall durability to footings, subsoil drainage and approval, so the quote should not stop at length, height and face material.</p><ul><li><strong>Site conditions:</strong> slope, retained height, access, boundary position and nearby structures.</li><li><strong>Wall type:</strong> sleepers, blocks, rock, boulder or gabion, matched to the job.</li><li><strong>Drainage:</strong> ag-drain, gravel, geofabric and a lawful stormwater outlet inside the boundary.</li><li><strong>Approvals:</strong> whether height or surcharge brings engineering, certification and council approval into scope.</li><li><strong>Finish:</strong> backfill, capping, clean-up and how the finished level meets paths, fences or garden beds.</li></ul><p>If two quotes differ sharply, compare inclusions before comparing price. One may include design, excavation, drainage and paperwork, while another may leave those items to be resolved later.</p>"
+    },
+    {
+      "h2": "Engineering and approval triggers",
+      "html": "<p>The published page gives a clear boundary: walls over 1.0 metre, or walls carrying a driveway or building, are designed to AS 4678 with RPEQ Form 15 and Form 16 certification and Toowoomba Regional Council approval arranged before work starts.</p><p>The load question can matter even where the visible wall looks modest. A wall near a driveway, structure, boundary or cut and fill change should prompt a direct question about who identifies the load case, who engages engineering, and who manages approval documents.</p><p>For repairs, ask for assessment before accepting a replacement price. A leaning, bulging or cracked wall may reflect missing drainage, inadequate footings or a wall type that did not suit the site.</p>"
+    },
+    {
+      "h2": "Choosing the wall type",
+      "html": "<p>The service page describes concrete sleepers as steel-reinforced sleepers set between galvanised posts, a practical option for local blocks. Timber sleepers are positioned for gardens, terraces and low boundary retaining. Core-filled Besser block walls are described for taller engineered retaining and rendered finishes.</p><p>Rock, boulder and gabion walls are tied to sloping or free-draining situations. On a steep block, ask how the chosen system affects footprint, backfill, drainage and access for machinery. On a tight boundary, ask how posts, footings or baskets will fit without leaving unresolved water behind the wall.</p><p>No listed material removes the drainage question. The source page names ag-drain in free-draining gravel, geofabric to keep clay out of the drain, and connection to a legal stormwater point inside the boundary.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for Toowoomba and Darling Downs homeowners dealing with level changes, steep range blocks, reactive black soil, failing walls or a proposed wall that may need approval. It is aimed at structural retaining decisions rather than decorative edging.</p><p>Rangeville, Mount Lofty and East Toowoomba are named in the source page because east-facing range blocks can add slope, seepage and erosion to the local soil issue. That does not make every property in those suburbs the same. It means sloping sites need careful drainage, excavation and engineering questions before the wall type is locked in.</p><p>Before requesting a quote, gather photos, approximate height and length, access notes, the reason for the wall and any visible leaning, cracking or wet ground. That brief helps a licensed specialist separate a simple landscape wall from a structural retaining job.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common retaining wall quote scenarios",
+    "headers": [
+      "Scenario",
+      "Main question",
+      "What to confirm"
+    ],
+    "rows": [
+      [
+        "Low garden or terrace wall",
+        "Is it mainly landscape shaping?",
+        "Material, drainage allowance, backfill and finish."
+      ],
+      [
+        "Wall over 1.0 metre",
+        "Does engineering and approval apply?",
+        "AS 4678 design, RPEQ certification and council approval responsibility."
+      ],
+      [
+        "Wall supporting driveway or building",
+        "What load is being retained?",
+        "Engineer input, footing design, drainage and certificate pathway."
+      ],
+      [
+        "Failing or cracked wall",
+        "Why did the wall move?",
+        "Assessment of drainage, footings, clay movement and replacement scope."
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the site",
+      "text": "Share wall height, length, slope, access, nearby structures and any wet or cracked areas."
+    },
+    {
+      "name": "Ask about approval",
+      "text": "Confirm whether height or retained load requires AS 4678 engineering, RPEQ certification and council approval."
+    },
+    {
+      "name": "Check drainage detail",
+      "text": "Ask where the ag-drain, gravel, geofabric and stormwater connection will sit in the finished build."
+    },
+    {
+      "name": "Compare written scope",
+      "text": "Judge quotes by included design, excavation, footings, drainage, backfill, capping and clean-up, not only price."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do all retaining walls in Toowoomba need engineering?",
+      "a": "The source page states that walls over 1.0 metre, or walls carrying a driveway or building, are designed to AS 4678 with RPEQ certification and council approval. For smaller walls, ask the builder to explain the site basis for that decision."
+    },
+    {
+      "q": "Why is drainage treated as structural?",
+      "a": "The published page says Darling Downs reactive black clay swells when wet and shrinks when dry, which can push, rotate and crack walls not built for it. It names ag-drain, gravel, geofabric and legal stormwater connection as core details."
+    },
+    {
+      "q": "Which wall material suits a sloping block?",
+      "a": "There is no single answer. The source page lists concrete sleeper, timber sleeper, Besser block, rock, boulder and gabion options, with selection depending on height, slope, soil, load and finish."
+    },
+    {
+      "q": "What should I prepare before asking for a quote?",
+      "a": "Prepare photos, approximate wall height and length, access notes, the wall purpose and any signs of leaning, cracking, seepage or previous failure. Those details help the quote address drainage, footing and approval scope."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Steep range blocks and reactive black soil are identified as local retaining wall challenges in Toowoomba and the Darling Downs.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says every wall is built by local QBCC-licensed specialists across the Toowoomba region.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper, timber sleeper, Besser block, rock, boulder and gabion retaining walls are listed service options.",
+      "source": "money page"
+    },
+    {
+      "claim": "Walls over 1.0 metre, or walls carrying a driveway or building, are described as requiring AS 4678 design, RPEQ certification and Toowoomba Regional Council approval.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names Form 15 and Form 16 certificates as part of the engineered approval process.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says footings and subsoil drainage are designed for Toowoomba reactive black soil and steep range blocks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says ag-drain, free-draining gravel and geofabric are used behind every wall, connected to a legal stormwater point inside the boundary.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says Darling Downs reactive black clay swells when wet and shrinks when dry.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page identifies Rangeville, Mount Lofty and East Toowoomba range blocks as adding slope, seepage and erosion to the retaining wall problem.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists assessment, repair and replacement of failing, bulging or cracked retaining walls as services.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes concrete sleeper retaining walls as steel-reinforced concrete sleepers set between galvanised posts.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes timber sleeper walls for gardens, terraces and low boundary retaining.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes core-filled Besser block walls for taller engineered retaining and rendered finishes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes rock and boulder retaining walls as suited to a rugged, free-draining finish that suits range blocks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes gabion retaining walls as well suited to sloping and erosion-prone sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says written quotes are free and no-obligation.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical quote, drainage, material and approval checks for retaining wall projects in Toowoomba."
+}
