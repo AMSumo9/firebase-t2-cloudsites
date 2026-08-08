@@ -1,0 +1,240 @@
+{
+  "kicker": "Geelong Wall Planning",
+  "h1_tail": "Practical Site Planning Guide",
+  "meta_hook": "Compare site checks, permits, drainage and quote details before work starts",
+  "takeaway": "Core answer: in Victoria, a retaining wall 1 metre or more high requires a building permit, and lower walls can still need review when other building work or adjoining property protection is involved. A useful contractor conversation should start with retained height, length, access, drainage, nearby loads, boundary position, easements, photos and plans. Material choice comes after those facts, because concrete sleepers, timber, masonry, segmental blocks, rock and gabions solve different site problems.",
+  "lead": "For homeowners comparing retaining wall contractors geelong options, the practical question is whether the wall, access, drainage and approval path are clear enough for a useful written scope.",
+  "lead_tail": "with the site facts set out before materials are chosen",
+  "stats": [
+    {
+      "value": "1 m",
+      "label": "Victorian building permit trigger named on the source page"
+    },
+    {
+      "value": "6",
+      "label": "wall system and drainage service categories described"
+    },
+    {
+      "value": "2026",
+      "label": "published build year shown by the provider"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Site, Not The Face Material",
+      "html": "<p><a href=\"https://www.retainingwallgeelong.com.au/\">Retaining Wall Geelong</a> frames the first conversation around the slope, wall condition, access and water path. That order is useful because a retaining wall is not just a visible face. It is a structure, drainage path, excavation task and boundary decision rolled into one project.</p><p>The source page asks owners to describe the suburb, approximate height and length, access, drainage, visible movement, photos and plans. Those details are not decoration. They help separate a low garden edge from a wall that may need engineering, a building surveyor, authority consent or a more detailed demolition and reconstruction allowance.</p><p>For a Geelong property owner, the first written brief should cover:</p><ul><li>the exposed height and approximate retained height of the wall</li><li>the total length, returns, corners and stepped sections</li><li>whether the wall is existing, leaning, cracked, proposed or partly failed</li><li>nearby fences, driveways, buildings, surcharge loads or adjoining land</li><li>access width for excavation, posts, sleepers, blockwork, rock or machinery</li><li>where surface water and subsoil drainage can lawfully discharge</li></ul>"
+    },
+    {
+      "h2": "When Approval Questions Should Move Up The List",
+      "html": "<p>The published guidance is direct on permits: a retaining wall in Victoria requires a building permit when it is 1 metre or more high. It also notes that a lower wall may still need a permit when it is associated with other building work or protects adjoining property. A registered building surveyor should assess the site.</p><p>Planning questions are separate. Overlays, zoning, easements and title restrictions can affect whether the selected alignment or wall type is acceptable before construction starts. A wall near a boundary deserves early review because excavation or retention can affect adjoining property even when the wall is below the 1 metre permit trigger.</p><p>Do not treat an easement as a small note at the end of a quote. The source page says an easement can restrict construction and access to services, so the title and any required authority or council consent should be checked before the alignment is fixed.</p>"
+    },
+    {
+      "h2": "How Material Choice Changes The Scope",
+      "html": "<p>Concrete sleepers, timber sleepers, masonry block, segmental block, rock and gabion systems are all named by the provider, but the best choice depends on retained height, loads, drainage, access and maintenance expectations. A neat face is only useful if the system behind it can be built on the site.</p><p>Concrete sleepers are described as steel reinforced units between galvanised posts, often relevant for durable replacement walls, boundaries and stepped house pads. Timber systems are presented for low terraces and garden boundaries where design life, drainage and future replacement are understood. Masonry block walls suit engineered retention and compact footprints on suitable sites. Segmental blocks can work where foundations, drainage and geogrid are designed as one system. Rock and gabions need enough footprint, batter and construction access.</p><p>For a shorter overview of the related local topic, this <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-geelong/\">retaining wall Geelong planning guide</a> is a useful companion reference.</p>"
+    },
+    {
+      "h2": "Drainage Belongs In The Quote, Not The Exclusions",
+      "html": "<p>The source page gives drainage its own service category, which is a strong signal for quote quality. A wall quote should explain aggregate, filter fabric, subsoil pipe, surface grading and the lawful discharge point. If those items are hidden in exclusions, the owner cannot compare two proposals honestly.</p><p>Drainage also affects material selection. Segmental reinforced soil walls, core filled masonry, sleeper walls and gabion systems manage water differently. The practical question for the contractor is not just whether drainage is included, but where the water goes and whether the outlet path is lawful for the property.</p><p>A written scope should separate demolition, structure, drainage, approvals and exclusions. That makes it easier to see whether a quote is pricing the whole wall system or only the visible wall face.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to owners, buyers and renovators around Greater Geelong who are trying to brief a retaining wall project before asking for a site review. The source page names service coverage from Lara and Corio through central Geelong, Belmont, Highton and Newtown to Armstrong Creek, with selected Bellarine and Surf Coast locations including Leopold, Ocean Grove and Torquay.</p><p>The advice also applies when a buyer is checking an existing wall before purchase, when a homeowner is replacing a boundary wall, or when a renovator is trying to understand whether a proposed terrace, driveway edge or house pad wall needs approval input before quotes are compared.</p><p>Ask each contractor the same questions: what wall system is assumed, what access is needed, what drainage is included, what approvals are excluded, what boundary checks are required, and what would change the price after inspection.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Site facts that change a retaining wall scope",
+    "headers": [
+      "Question",
+      "Why it matters",
+      "What to ask"
+    ],
+    "rows": [
+      [
+        "Existing wall or new wall",
+        "Existing movement, demolition and water paths can affect the method",
+        "Is demolition, disposal and temporary access included?"
+      ],
+      [
+        "Below or above 1 metre",
+        "The source page names 1 metre as the Victorian building permit trigger",
+        "Should a registered building surveyor review this site?"
+      ],
+      [
+        "Near boundary or easement",
+        "Adjoining property and service access can change approvals",
+        "What title, council or authority checks are needed?"
+      ],
+      [
+        "Open access or tight access",
+        "Material handling and machinery options may change",
+        "What access width is assumed in the quote?"
+      ],
+      [
+        "Drainage clear or unclear",
+        "Drainage is part of the wall system, not a cosmetic item",
+        "Where will subsoil and surface water discharge?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the wall",
+      "text": "Record approximate length, exposed height, retained height, returns and stepped sections before requesting a review."
+    },
+    {
+      "name": "Photograph the site",
+      "text": "Include the wall face, top area, toe area, water paths, access route, nearby fences, driveways and any visible movement."
+    },
+    {
+      "name": "Check constraints",
+      "text": "Look for boundaries, easements, adjoining property issues and other building work that could affect permit questions."
+    },
+    {
+      "name": "Compare written scopes",
+      "text": "Separate demolition, structure, drainage, approvals, exclusions and access assumptions before comparing prices."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does every retaining wall in Victoria need a building permit?",
+      "a": "No. The source page says a permit is required when the wall is 1 metre or more high. A lower wall may still need one when connected with other building work or adjoining property protection, so a registered building surveyor should assess the site."
+    },
+    {
+      "q": "Which retaining wall material is best for a Geelong property?",
+      "a": "There is no single best material. The provider describes concrete sleepers, timber, masonry, segmental blocks, rock and gabions as options that depend on retained height, loads, drainage, access, footprint and maintenance expectations."
+    },
+    {
+      "q": "What should be included in a retaining wall quote?",
+      "a": "A useful quote should separate demolition, structure, drainage, approvals and exclusions. The source page specifically says drainage detail should explain aggregate, filter fabric, subsoil pipe and the lawful discharge point."
+    },
+    {
+      "q": "Can a retaining wall be built over an easement?",
+      "a": "The source page says an easement can restrict construction and service access. Check the title and obtain any required authority or council consent before fixing the wall alignment."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A retaining wall in Victoria requires a building permit when it is 1 metre or more high.",
+      "source": "money page"
+    },
+    {
+      "claim": "A lower retaining wall may still require a permit when associated with other building work or where it protects adjoining property.",
+      "source": "money page"
+    },
+    {
+      "claim": "A registered building surveyor should assess the site for permit requirements.",
+      "source": "money page"
+    },
+    {
+      "claim": "Planning overlays, zoning, easements and title restrictions are separate from the building permit question.",
+      "source": "money page"
+    },
+    {
+      "claim": "An easement can restrict construction and access to services.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page asks owners to provide suburb, approximate height and length, access, drainage, visible movement, photos and plans.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleepers, timber sleepers, masonry block, segmental block, rock and gabion systems are named retaining wall options on the source page.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper retaining walls are described as steel reinforced concrete sleepers between galvanised posts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper retaining walls are described for low terraces and garden boundaries where design life, drainage and future replacement are understood.",
+      "source": "money page"
+    },
+    {
+      "claim": "Masonry block retaining walls are described for engineered retention, compact footprints and rendered finishes on suitable Geelong sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Segmental block retaining walls are described for landscaped terraces and engineered reinforced soil walls where foundations, drainage and geogrid are designed as one system.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rock and gabion retaining walls require the site to accommodate footprint, batter and construction access.",
+      "source": "money page"
+    },
+    {
+      "claim": "Retaining wall drainage on the source page includes subsoil pipe, filter fabric, aggregate, surface grading and lawful stormwater disposal.",
+      "source": "money page"
+    },
+    {
+      "claim": "A useful quote should separate demolition, structure, drainage, approvals and exclusions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider names service coverage from Lara and Corio through central Geelong, Belmont, Highton and Newtown to Armstrong Creek, with selected Bellarine and Surf Coast locations including Leopold, Ocean Grove and Torquay.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider page shows a 2026 copyright year.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers site facts, permit prompts, drainage scope and quote comparison for Geelong retaining wall planning."
+}
