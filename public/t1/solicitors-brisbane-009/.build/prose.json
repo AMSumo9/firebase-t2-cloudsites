@@ -1,0 +1,185 @@
+{
+  "kicker": "Legal Search Guide",
+  "h1_tail": "A Practical Comparison Guide",
+  "meta_hook": "compare categories, profile signals and contact questions before choosing",
+  "takeaway": "The published listing page shows Queensland with 167 listings, groups legal help into 9 categories, and says a request is free to submit with no obligation to proceed. The practical use is to identify the closest matter type, prepare a short summary, compare profile details, then confirm scope, fees, availability and suitability directly with any legal practice before deciding whether to proceed.",
+  "lead": "When a search for solicitors brisbane brings up a national legal listing page, the useful starting point is a clear matter category and a focused comparison process.",
+  "lead_tail": "before choosing which legal practice to contact",
+  "stats": [
+    {
+      "value": "167",
+      "label": "Queensland listings shown"
+    },
+    {
+      "value": "9",
+      "label": "legal categories listed"
+    },
+    {
+      "value": "30 sec",
+      "label": "job description prompt"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Matter Type",
+      "html": "<p><a href=\"https://www.solicitorsaustralia.com.au/\">Solicitors Australia</a> presents legal search by service need and location. The service choices shown are family, criminal, property and conveyancing, wills and estates, employment, personal injury, commercial, migration and general legal services. That structure is useful when the problem is known but the right practitioner type is not yet clear.</p><p>Treat the category as a first filter, not a final answer. A property purchase may begin under property and conveyancing, while a disagreement about a signed agreement may need a different discussion. A will update is not the same task as probate. A workplace concern is not a migration issue. The better first contact asks whether the practice handles the exact matter.</p><ul><li>Write the issue in one or two plain sentences.</li><li>Separate deadlines from background detail.</li><li>Ask whether the solicitor regularly handles that matter type.</li><li>Clarify whether you need advice, document review, representation or conveyancing work.</li></ul>"
+    },
+    {
+      "h2": "What To Compare On A Profile",
+      "html": "<p>The published process tells users to search, compare reviews, view photos, compare services and pricing, then contact businesses directly by phone, email or quote request. Those signals help with shortlisting, but they do not replace a direct scope discussion with the legal practice.</p><p>Reviews can show public feedback, while photos may help identify a practice presence. Service descriptions carry more weight than broad labels, especially where a profile appears under general legal services. Pricing references should be checked with the business because provider text tells readers to confirm current scope, fees, availability and whether practitioners can assist.</p><p>For property and conveyancing matters, ask whether the first discussion can cover contract review, settlement steps and title questions. For family, employment, criminal or commercial matters, ask what documents are needed, who will work on the file and what decision point comes next.</p>"
+    },
+    {
+      "h2": "Browse First Or Make A Request",
+      "html": "<p>The page gives readers two practical ways to begin. Browsing categories and locations suits someone still working out which area of law fits. Making a request suits someone who can already describe the matter and wants suitable legal professionals to make contact.</p><p>The request text says the job can be described in about 30 seconds, with no account and no obligation. Before using that path, read the consent wording. It says that by submitting, users agree to be contacted about the request and for their details to be shared with suitable professionals.</p><p>Use browsing when you need language for the problem. Use the request path when you can explain the issue, relevant documents and timing clearly enough for a solicitor to decide whether the matter is within scope.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide applies to people using a Queensland legal listing to narrow a search before contacting a solicitor. It is relevant to buyers, sellers, families, employees, business owners and individuals who want to move from a broad legal problem to a more precise category.</p><p>A buyer or seller may begin with property and conveyancing because that category is separated from general legal services. A person preparing estate documents should look at wills and estates before relying on a broader label. A business owner with an agreement, debt or dispute may need commercial assistance. A person facing a court matter should confirm relevant criminal or litigation experience before relying on a profile.</p><p>Sensitive matters such as family, employment, migration and personal injury usually depend on documents, deadlines and personal circumstances. The first contact should establish whether the practitioner can assist, what information is needed and whether any urgent step should be discussed promptly.</p>"
+    },
+    {
+      "h2": "Questions Before Choosing",
+      "html": "<p>A listing can shorten the search, but the engagement still needs a careful first conversation. Ask questions that test fit without expecting detailed legal advice before documents are reviewed.</p><ul><li><strong>Scope:</strong> What parts of the matter can the solicitor handle, and what is outside the quote or first consultation?</li><li><strong>Fees:</strong> How are fees structured, what extra costs may arise, and when is payment required?</li><li><strong>Availability:</strong> Who will work on the file, and does the timing suit any deadline?</li><li><strong>Documents:</strong> What should be sent before the first discussion?</li><li><strong>Next step:</strong> What decision should the client be ready to make after the initial call?</li></ul><p>Keep notes on answers from each practice. Comparing the same questions makes the choice less dependent on profile wording alone.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Two ways to begin a legal search",
+    "headers": [
+      "Path",
+      "Best For",
+      "Checks Before Acting"
+    ],
+    "rows": [
+      [
+        "Browse categories and locations",
+        "Readers still deciding which legal service category fits",
+        "Compare service descriptions, reviews, pricing references and profile detail"
+      ],
+      [
+        "Make a request",
+        "Readers ready to describe the matter and receive contact",
+        "Confirm consent, scope, fees, availability and whether the practitioner can assist"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Choose the category",
+      "text": "Select the legal category that most closely matches the problem before comparing individual profiles."
+    },
+    {
+      "name": "Prepare a short summary",
+      "text": "Describe the matter, documents and deadlines in plain language so the first contact is focused."
+    },
+    {
+      "name": "Compare profile signals",
+      "text": "Look at services, reviews, photos and pricing references, then check the details directly."
+    },
+    {
+      "name": "Confirm the engagement",
+      "text": "Ask about scope, fees, availability and next steps before deciding which solicitor to instruct."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the listed business a law firm?",
+      "a": "No. The published page presents a way to find solicitors and law firms across Australia, with categories, locations and provider profiles. Contact any business directly to confirm scope, fees and availability."
+    },
+    {
+      "q": "Does making a request create an obligation to proceed?",
+      "a": "The page says requests are free to submit and there is no obligation to proceed. It also says submitted details may be shared with suitable professionals so they can contact the user about the request."
+    },
+    {
+      "q": "Which category should a property buyer start with?",
+      "a": "A property buyer would usually start with property and conveyancing because the listing separates that category from general legal services. The buyer should still ask whether the solicitor handles the specific contract, title and settlement questions involved."
+    },
+    {
+      "q": "Can reviews decide which solicitor to use?",
+      "a": "Reviews are one comparison signal only. The published process also points readers to services, photos and pricing, and tells users to contact businesses directly to confirm whether practitioners can assist."
+    }
+  ],
+  "about": [
+    {
+      "name": "Conveyancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Conveyancing"
+    },
+    {
+      "name": "Property law",
+      "sameAs": "https://en.wikipedia.org/wiki/Property_law"
+    },
+    {
+      "name": "Contract of sale",
+      "sameAs": "https://en.wikipedia.org/wiki/Contract_of_sale"
+    },
+    {
+      "name": "Torrens title",
+      "sameAs": "https://en.wikipedia.org/wiki/Torrens_title"
+    },
+    {
+      "name": "Stamp duty",
+      "sameAs": "https://en.wikipedia.org/wiki/Stamp_duty"
+    },
+    {
+      "name": "Real estate",
+      "sameAs": "https://en.wikipedia.org/wiki/Real_estate"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Settlement (litigation)",
+      "sameAs": "https://en.wikipedia.org/wiki/Settlement_(litigation)"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Law Council of Australia",
+      "url": "https://lawcouncil.au"
+    },
+    {
+      "name": "Australian Institute of Conveyancers",
+      "url": "https://www.aicnational.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published listing page shows Queensland with 167 listings.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published listing page groups legal help into 9 categories.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says a request is free to submit with no obligation to proceed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The service choices shown are family, criminal, property and conveyancing, wills and estates, employment, personal injury, commercial, migration and general legal services.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published process tells users to search, compare reviews, view photos, compare services and pricing, then contact businesses directly by phone, email or quote request.",
+      "source": "money page"
+    },
+    {
+      "claim": "Provider text tells readers to confirm current scope, fees, availability and whether practitioners can assist.",
+      "source": "money page"
+    },
+    {
+      "claim": "The request text says the job can be described in about 30 seconds.",
+      "source": "money page"
+    },
+    {
+      "claim": "The request text says no account is required.",
+      "source": "money page"
+    },
+    {
+      "claim": "By submitting, users agree to be contacted about the request and for their details to be shared with suitable professionals.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published page presents a way to find solicitors and law firms across Australia, with categories, locations and provider profiles.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how people can compare legal categories, profiles and request options before contacting a solicitor."
+}
