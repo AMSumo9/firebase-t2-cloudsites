@@ -1,0 +1,276 @@
+{
+  "kicker": "Ipswich Wall Planning",
+  "h1_tail": "Planning, Costs and Approval Checks",
+  "meta_hook": "Compare materials, drainage, approvals and quote questions before you build",
+  "takeaway": "Ipswich wall planning should begin with height, load, drainage, access and approval status. Source pricing lists treated timber from $300-$450 per square metre, concrete sleeper walls around $550-$700 per square metre, and core-filled block or engineered walls from $550-$750+ per square metre, with exclusions noted. Approval checks are needed for walls over 1.0 m, surcharge loads, nearby structures, another wall, or pool-barrier situations.",
+  "lead": "For homeowners comparing retaining walls ipswich options, the useful starting point is the site itself, including wall height, retained soil, drainage path, access and any load above the wall.",
+  "lead_tail": "with practical questions to ask before choosing a wall system",
+  "stats": [
+    {
+      "value": "$300-$450/m2",
+      "label": "indicative timber sleeper starting range"
+    },
+    {
+      "value": "$550-$700/m2",
+      "label": "indicative concrete sleeper range"
+    },
+    {
+      "value": "1.0 m",
+      "label": "approval trigger to check"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the wall load, not the finish",
+      "html": "<p><a href=\"https://www.retainingwallipswich.com.au/\">Retaining Wall Ipswich</a> frames wall planning around the amount of soil being held back, the water behind the wall, and whether a driveway, building, pool or second wall sits near the retained area. That order helps separate a low garden edge from a structural retaining project or an approval pathway.</p><p>The first review should capture rough length, maximum height, slope, access, timing and clear photos. A contractor or certifier can then test whether the job is likely to stay simple or needs engineering, council approval or a different wall system.</p><ul><li>Measure the highest point, not only the average height.</li><li>Note any driveway, building, pool or second wall above or close to the retained area.</li><li>Describe machine access, tight side paths and where excavated soil could go.</li><li>Ask how drainage, backfill and outlet location will be included in the scope.</li></ul>"
+    },
+    {
+      "h2": "Drainage is part of the structure",
+      "html": "<p>Ipswich blocks can combine reactive clay, steep access and concentrated stormwater, so the water path should be discussed before material selection. The source page treats agi drain, gravel and geofabric behind the wall as structural details, not optional finishing items.</p><p>That changes the quote conversation. Instead of asking only for a wall face price, ask where water will move after heavy rain, what backfill is proposed, how the drain will outlet, and whether nearby hard surfaces change the load or moisture pattern behind the wall.</p><p>For a repair, the same logic applies. Bulging, cracking or leaning may involve more than tired materials, so a replacement scope should consider retained soil, drainage and any surcharge rather than copying the failed wall exactly.</p>"
+    },
+    {
+      "h2": "Material choice follows height, use and access",
+      "html": "<p>The source page identifies several common systems: timber sleepers, concrete sleepers, core-filled besser block, rock or boulder walls, and gabions. Each option should be matched to height, finish, access and water movement before price is compared.</p><p>Treated timber sleepers are described as the lowest upfront option for low, non-structural garden walls. Concrete sleepers are presented as a practical steel-reinforced system set between galvanised posts. Core-filled block is positioned for taller engineered retaining and rendered finishes.</p><p>Rock and boulder walls are described as battered back for a rugged, free-draining finish that suits range blocks. Gabions are described as rock-filled wire baskets suited to sloping and erosion-prone sites. A useful quote should explain why the proposed material fits the actual block, not just the preferred finish.</p>"
+    },
+    {
+      "h2": "Approval checks before a price is final",
+      "html": "<p>The Ipswich guidance says approval is required where the wall plus retained fill or cut is more than 1.0 m above natural ground level, where it supports surcharge such as a driveway, building, pool or another wall, where it is within 1.5 m of a building or another retaining wall, or where it forms part of a pool barrier.</p><p>Engineered and council-approved walls are described as being designed to AS 4678 with RPEQ Form 15 and Form 16 certification when the wall is over 1 m or carrying a surcharge. Before construction, ask who is responsible for checking the approval pathway, preparing engineering documents and confirming certifier or council requirements.</p><p>The related <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-ipswich/\">Ipswich retaining wall planning guide</a> gives a shorter comparison of the same decision points.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is most relevant for Ipswich homeowners planning a new wall, replacing a failing wall, repairing a cracked or bulging wall, or comparing quotes for a sloping block. It also applies where a wall sits near a driveway, building, pool, second wall or tight access point.</p><p>It is less relevant for purely decorative edging that holds back little soil and has no structural load, although drainage and durability still deserve a check. For boundary or approval questions, confirm the site details with the relevant council process, a private certifier or a suitably qualified professional before locking in the build.</p><ol><li>Gather photos, dimensions and access notes.</li><li>Ask whether the wall is exempt, engineered or approval-dependent.</li><li>Compare material options against lifespan, drainage and site constraints.</li><li>Request a written scope that separates excavation, drainage, backfill, engineering and approvals.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Common wall choices and quote questions",
+    "headers": [
+      "Option",
+      "Best-fit use from the source page",
+      "Questions to ask before accepting the quote"
+    ],
+    "rows": [
+      [
+        "Treated timber sleepers",
+        "Low, non-structural garden walls and terraces",
+        "Is the wall under 1.0 m, free of surcharge and drained properly?"
+      ],
+      [
+        "Concrete sleepers",
+        "Durable steel-reinforced retaining between galvanised posts",
+        "How are posts, drainage, backfill and access handled?"
+      ],
+      [
+        "Core-filled besser block",
+        "Taller engineered walls and rendered finishes",
+        "Does the quote include engineering, footing assumptions and approval steps?"
+      ],
+      [
+        "Rock or boulder",
+        "Battered, free-draining walls for a rugged finish on range blocks",
+        "Is there enough access and room for the proposed wall layout?"
+      ],
+      [
+        "Gabion",
+        "Rock-filled baskets for sloping and erosion-prone sites",
+        "How will baskets, rock fill, drainage and access be handled?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Document the site",
+      "text": "Take clear photos, estimate length and maximum height, and note slope, access and nearby structures."
+    },
+    {
+      "name": "Flag loads early",
+      "text": "Tell the contractor about any driveway, building, pool or second wall near the retained area."
+    },
+    {
+      "name": "Ask about approval",
+      "text": "Confirm whether the wall is exempt, approval-dependent or likely to need engineering."
+    },
+    {
+      "name": "Compare systems",
+      "text": "Assess timber, concrete sleeper, block, rock and gabion options against height, drainage, access and expected life."
+    },
+    {
+      "name": "Get the written scope",
+      "text": "Make sure pricing separates excavation, drainage, backfill, engineering, approvals and difficult access where relevant."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should I budget for an Ipswich retaining wall?",
+      "a": "The source page lists indicative starting ranges of $300-$450 per square metre for treated timber, $550-$700 per square metre for concrete sleeper walls, and $550-$750+ per square metre for core-filled block or engineered walls. It also says those figures exclude GST, excavation, drainage, backfill, engineering and difficult access."
+    },
+    {
+      "q": "When does a retaining wall need approval in Ipswich?",
+      "a": "The source page says approval is needed when the wall plus retained fill or cut is more than 1.0 m above natural ground level, supports surcharge, sits within 1.5 m of a building or another retaining wall, or forms part of a pool barrier. Confirm the specific site before work begins."
+    },
+    {
+      "q": "Which wall material is cheapest upfront?",
+      "a": "Treated pine timber sleepers are described as generally the lowest upfront cost for low, non-structural garden walls. For taller walls, driveways or engineered applications, the source page points readers toward concrete sleepers or core-filled block for lower lifetime cost."
+    },
+    {
+      "q": "How long can different retaining wall materials last?",
+      "a": "The source page says treated timber walls typically last 10-15 years in Ipswich reactive clay before rot or termite damage becomes a concern, while concrete sleeper walls often last 25-40+ years."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Ipswich wall planning should begin with height, load, drainage, access and approval status.",
+      "source": "money page"
+    },
+    {
+      "claim": "Treated timber retaining walls are listed from $300-$450 per square metre.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper retaining walls are listed around $550-$700 per square metre.",
+      "source": "money page"
+    },
+    {
+      "claim": "Core-filled block or engineered retaining walls are listed from $550-$750+ per square metre.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed cost figures exclude GST, excavation, drainage, backfill, engineering and difficult access.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval checks are needed for walls over 1.0 m, surcharge loads, nearby structures, another wall, or pool-barrier situations.",
+      "source": "money page"
+    },
+    {
+      "claim": "Wall planning should consider the amount of soil being held back, water behind the wall, and whether a driveway, building, pool or second wall sits near the retained area.",
+      "source": "money page"
+    },
+    {
+      "claim": "A first review is more useful when it includes photos, approximate dimensions and access notes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Ipswich blocks can combine reactive clay, steep access and concentrated stormwater.",
+      "source": "money page"
+    },
+    {
+      "claim": "Ag-drain, gravel and geofabric drainage are described as part of the wall scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bulging, cracked or failing retaining walls may be assessed for repair or replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page identifies timber sleepers, concrete sleepers, core-filled besser block, rock or boulder walls, and gabions as wall systems.",
+      "source": "money page"
+    },
+    {
+      "claim": "Treated timber sleepers are described as the lowest upfront option for low, non-structural garden walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleepers are described as a steel-reinforced system set between galvanised posts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Core-filled besser block is described for taller engineered retaining and rendered finishes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rock and boulder walls are described as battered back for a rugged, free-draining finish that suits range blocks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabions are described as rock-filled wire baskets suited to sloping and erosion-prone sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval is required where the wall plus retained fill or cut is more than 1.0 m above natural ground level.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval is required where the wall supports surcharge such as a driveway, building, pool or another wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval is required where the wall is within 1.5 m of a building or another retaining wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval is required where the wall forms part of a pool barrier.",
+      "source": "money page"
+    },
+    {
+      "claim": "Engineered and council-approved walls are described as designed to AS 4678 with RPEQ Form 15 and Form 16 certification when over 1 m or carrying a surcharge.",
+      "source": "money page"
+    },
+    {
+      "claim": "Treated timber walls typically last 10-15 years in Ipswich reactive clay before rot or termite damage becomes a concern.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper walls often last 25-40+ years.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical planning, material comparison, drainage questions, approval checks and quote preparation for retaining wall projects in Ipswich."
+}
