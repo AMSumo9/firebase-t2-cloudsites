@@ -1,0 +1,300 @@
+{
+  "node_id": "northshorekitchenrenovation-010",
+  "money_domain": "northshorekitchenrenovation.com.au",
+  "money_home_url": "https://www.northshorekitchenrenovation.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/kitchen-renovations-north-shore-010/",
+  "live_url": "https://sites-e470-1.web.app/kitchen-renovations-north-shore-010/",
+  "subdomain": "kitchen-renovations-north-shore",
+  "gh_repo": null,
+  "primary_kw": "kitchen renovations north shore",
+  "kw_slug": "kitchen-renovations-north-shore",
+  "anchor_kw": "kitchen renovations north shore",
+  "brand": "North Shore Kitchen Renovation",
+  "target_page_url": "https://www.northshorekitchenrenovation.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "northshorekitchenrenovation-001",
+    "url": "https://kitchen-renovation-north-shore-guide.surge.sh/",
+    "primary_kw": "kitchen renovation north shore"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\northshorekitchenrenovation.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Dan Kitchens",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Kitchen and Bathroom Renovations",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Beaches Group",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "MJS Projects",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "North Shore",
+        "type": "LOCATION",
+        "salience": 0.955
+      },
+      {
+        "name": "Kitchen Renovations",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Kitchen Renovations North Shore",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Wondrous Kitchen Renovations",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Badel Kitchens",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Tiling",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Home Renovations",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Kitchen renovation",
+        "type": "SERVICE",
+        "salience": 0.925
+      },
+      {
+        "name": "Luxury Kitchen Renovations North Shore",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Joinery",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Central Coast",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Bathroom Renovations",
+        "type": "SERVICE",
+        "salience": 0.875
+      },
+      {
+        "name": "Northern Beaches",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Kitchen Renovation Design Service",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Wondrous",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Building Renovations",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Design and Build",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Home Extensions",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Cabinet Making",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Sydney",
+        "type": "LOCATION",
+        "salience": 0.8
+      },
+      {
+        "name": "Modern Kitchen Designs",
+        "type": "CONCEPT",
+        "salience": 0.8
+      },
+      {
+        "name": "Dan Kitchens Australia",
+        "type": "ORGANIZATION",
+        "salience": 0.8
+      },
+      {
+        "name": "Wondrous Renovations",
+        "type": "ORGANIZATION",
+        "salience": 0.8
+      },
+      {
+        "name": "Custom kitchen designs",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Custom made kitchen cabinets",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Commercial Office Fitouts",
+        "type": "SERVICE",
+        "salience": 0.8
+      }
+    ],
+    "lsi_keywords": [
+      "kitchen renovation upper north shore",
+      "kitchen renovation lower north shore",
+      "custom kitchen design north shore",
+      "luxury kitchen renovations north shore",
+      "modern kitchen designs north shore",
+      "hamptons style kitchen north shore",
+      "custom joinery kitchen north shore",
+      "kitchen renovation mosman north shore",
+      "kitchen renovation wahroonga north shore",
+      "kitchen renovation willoughby north shore",
+      "bespoke kitchen builders north shore",
+      "kitchen renovation project management north shore",
+      "waterproofing kitchen renovation north shore",
+      "laundry renovation north shore",
+      "handleless kitchen cabinets north shore"
+    ]
+  },
+  "image": {
+    "file": "kitchen-renovations-north-shore.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-09",
+  "money_home_text": "Kitchen Renovation North Shore | Local Quote Match Skip to content North Shore Kitchen Renovation Home About Services Locations Tools Resources Contact Free Quote Open menu Home About Services Locations Tools Resources Contact North Shore kitchen specialists Professional Kitchen Renovation in North Shore NSW find suitable local renovation providers for kitchen design, cabinetry, benchtops, apartment kitchens and premium family-home upgrades across Sydney's North Shore. Request a Free Quote Estimate Costs Services Explore full renovations, cabinetry, benchtops and strata kitchens. Free Tools Use the calculator and planning checklist before you request quotes. Resources Read practical guidance for planning and comparing renovation scopes. About Understand how local renovation specialists assess and respond to enquiries. Contact Submit your kitchen brief and preferred timing. Kitchen renovation services Design-led renovation coverage across the North Shore Kitchen renovations on the North Shore often need more than a simple cabinet swap. Apartment buildings around North Sydney, Neutral Bay and Chatswood can involve strata access and compact layouts, while older homes around Wahroonga, Pymble and Killara often need custom joinery, careful measurement and material decisions that suit character architecture. Local renovation specialists respond to enquiries about kitchen renovations North Shore homeowners are already comparing: full redesigns, kitchen makeovers, benchtops, cabinetry, planning support and premium designer kitchens. Full Kitchen Renovations End-to-end North Shore kitchen redesign covering demolition, cabinetry, benchtops, splashback, plumbing, electrical and finishing. Custom Cabinetry and Joinery Made-to-measure cabinetry and joinery for character and modern North Shore homes, including soft-close hardware and 2-pac finishes. Benchtops and Splashbacks Benchtop and splashback supply and installation in porcelain, sintered stone, natural stone, timber or laminate. Kitchen Design and Planning Layout, storage, lighting and material planning before any trades are booked, tailored to the home and budget. Apartment and Strata Kitchens Compact lower North Shore apartment kitchens with strata approval and building-access coordination. Heritage and Character Kitchens Renovations for Federation and period upper North Shore homes where uneven walls and services need custom solutions. Luxury and Designer Kitchens Premium custom kitchens with integrated appliances, scullery or butler&#39;s pantry and high-end natural materials. Why use this North Shore quote match Local project fit Enquiries are framed around North Shore property types, from strata apartments to established family homes. Scope clarity The form asks for suburb, timing and project notes so a suitable provider can respond with useful next steps. Compliance-aware Visitors are reminded to verify licensing, insurance, contract terms and industry-body claims before engaging any provider. No fabricated trust No owner names, licence numbers, reviews or memberships are invented for this rank-rent build. Example project situations These examples show common project shapes only. They are not customer reviews or testimonials. Example situation Chatswood apartment Compact galley layout, strata access, better storage and light-toned finishes near the rail corridor. Example situation Pymble family home Open-plan kitchen, island seating, integrated appliances and custom cabinetry for a larger household. Example situation Mosman character home Premium finishes, careful layout detail and material choices that suit a harbour-side property. Same-week response Tell us about your kitchen project Submit the form and the enquiry support responds inside one business day with the right next step for your suburb, property type, project size and preferred timing. Request a North Shore Kitchen Quote Match Share the suburb, scope and timing so the enquiry support can respond clearly. Your name Phone Email Suburb / Postcode Tell us about your project Request My Free Quote your details are used only to respond to your enquiry. See our privacy policy . Popular North Shore locations Coverage spans lower and upper North Shore suburbs, including apartments, family homes and character properties. North Sydney 2060 Chatswood 2067 Mosman 2088 Lane Cove 2066 St Ives 2075 Gordon 2072 Pymble 2073 Turramurra 2074 Hornsby 2077 Kitchen Renovation North Shore FAQs Common questions before comparing providers. How much does a kitchen renovation cost on the North Shore? Costs vary widely by scope, access, materials and the provider you choose. A light refresh that keeps the layout is typically far lower than a full redesign with custom joinery, structural changes and premium benchtops. North Shore homes often sit at the higher end because of prestige finishes and tricky site access. Always ask for a written scope and an itemised quote before any work starts. What should be included in a kitchen renovation quote? A useful quote should define demolition, cabinetry, benchtops, splashback, appliances, plumbing, electrical, finishing, exclusions, timing and how variations are handled. Inclusions and exclusions are where quotes differ most, so compare them line by line rather than on headline price alone. Is it cheaper to refresh a kitchen than to fully renovate? Usually, yes. A makeover that reuses the existing carcasses and keeps plumbing and electrical in place, swapping door fronts, benchtop, splashback and hardware, typically costs much less than a full strip-out and redesign. The right choice depends on the condition of the existing kitchen and how much the layout is holding you back. Should I renovate the kitchen before selling? A focused kitchen update can help presentation, but the right scope depends on the property value, likely buyer expectations and your timing. Avoid overcapitalising. A measured refresh often presents better value than a full premium renovation done",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.northshorekitchenrenovation.com.au/services/",
+    "https://www.northshorekitchenrenovation.com.au/locations/",
+    "https://www.northshorekitchenrenovation.com.au/tools/cost-calculator/",
+    "https://www.northshorekitchenrenovation.com.au/resources/",
+    "https://www.northshorekitchenrenovation.com.au/services/full-kitchen-renovations/",
+    "https://www.northshorekitchenrenovation.com.au/services/custom-cabinetry/",
+    "https://www.northshorekitchenrenovation.com.au/services/stone-benchtops/",
+    "https://www.northshorekitchenrenovation.com.au/services/kitchen-design/",
+    "https://www.northshorekitchenrenovation.com.au/services/apartment-and-strata-kitchens/",
+    "https://www.northshorekitchenrenovation.com.au/services/luxury-kitchens/",
+    "https://www.northshorekitchenrenovation.com.au/locations/north-sydney/",
+    "https://www.northshorekitchenrenovation.com.au/locations/chatswood/",
+    "https://www.northshorekitchenrenovation.com.au/locations/mosman/",
+    "https://www.northshorekitchenrenovation.com.au/locations/lane-cove/",
+    "https://www.northshorekitchenrenovation.com.au/locations/st-ives/",
+    "https://www.northshorekitchenrenovation.com.au/locations/gordon/",
+    "https://www.northshorekitchenrenovation.com.au/locations/pymble/",
+    "https://www.northshorekitchenrenovation.com.au/locations/turramurra/",
+    "https://www.northshorekitchenrenovation.com.au/locations/hornsby/",
+    "https://www.northshorekitchenrenovation.com.au/tools/checklist/",
+    "https://www.northshorekitchenrenovation.com.au/faq/",
+    "https://www.northshorekitchenrenovation.com.au/locations/wahroonga/",
+    "https://www.northshorekitchenrenovation.com.au/locations/killara/",
+    "https://www.northshorekitchenrenovation.com.au/locations/lindfield/",
+    "https://www.northshorekitchenrenovation.com.au/locations/roseville/"
+  ],
+  "firebase_path": "kitchen-renovations-north-shore-010"
+}
