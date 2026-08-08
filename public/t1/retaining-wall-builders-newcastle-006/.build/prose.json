@@ -1,0 +1,248 @@
+{
+  "kicker": "Newcastle Wall Guide",
+  "h1_tail": "A Practical Planning Guide",
+  "meta_hook": "compare wall types, drainage, quote inclusions and approval questions before you build",
+  "takeaway": "For a Newcastle residential retaining wall, check height, total job value, drainage, access and approval before choosing a material. Retaining Wall Newcastle states that NSW work over $5,000 in labour and materials needs a licensed structural landscaping contractor, and walls over 600mm generally need council approval through complying development or a development application. A comparable quote should separate excavation, materials, drainage, backfill, engineering if required, disposal and access assumptions.",
+  "lead": "For homeowners comparing retaining wall builders newcastle options, the useful starting point is the load, drainage, access and approval position of the wall rather than material preference alone.",
+  "lead_tail": "so quotes can be compared against the same scope",
+  "stats": [
+    {
+      "value": "$5,000+",
+      "label": "NSW licence threshold noted"
+    },
+    {
+      "value": "600mm+",
+      "label": "approval check height noted"
+    },
+    {
+      "value": "5",
+      "label": "common material paths"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Wall's Job",
+      "html": "<p><a href=\"https://www.retainingwallnewcastle.com.au/\">Retaining Wall Newcastle</a> describes local projects as site-specific because blocks may involve coastal headland ground, older cut-and-fill streets, clay, slope, a failed sleeper wall or a new terrace. The first brief should explain what the wall is holding back and how water reaches that area.</p><p>Separate low garden edging from a structural retaining wall. Edging is mainly a small landscaping boundary. A structural wall retains meaningful soil loads and may need footing, drainage, design and approval checks. Note whether lawn, planting, a driveway, a pool area or another structure sits above or near the retained side.</p><ul><li>record approximate height and length</li><li>photograph leaning, cracking, failed sleepers or wet patches</li><li>note where water collects after rain</li><li>describe access to the base and rear of the wall</li><li>state whether the job is repair, replacement, terracing or new work</li></ul>"
+    },
+    {
+      "h2": "Match Material To Site Conditions",
+      "html": "<p>The published guidance identifies concrete sleeper, timber sleeper, besser block, sandstone and gabion options. Treat those as decision paths, not interchangeable products. The right choice depends on retained load, available footprint, drainage, appearance, access and budget.</p><p>Timber sleepers are presented as a lower-cost way to terrace garden areas while heights stay low. Concrete sleepers are described as a common answer when an old timber wall has failed. Besser block is positioned for higher capacity, including where a driveway or pool sits behind the wall. Sandstone and boulder walls rely on mass and batter where the wall is meant to be seen. Gabions use rock baskets and allow water through, which the guidance links with erosion-prone falls.</p><p>When comparing <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-newcastle/\">retaining wall planning in Newcastle</a>, ask each builder to explain why the chosen material fits the slope, soil, water path and access. A quote that names only the face material is missing key scope detail.</p>"
+    },
+    {
+      "h2": "Approval And Licensing Checks",
+      "html": "<p>Two figures should be raised early. Retaining Wall Newcastle states that jobs over $5,000 in labour and materials need a licensed structural landscaping contractor in NSW. It also states that walls over 600mm generally need council approval as complying development or a development application.</p><p>If the wall may be above that height, ask who checks the approval path, who prepares drawings, who coordinates engineering and whether those tasks are included, excluded or listed as allowances. The guidance also refers to AS 4678 engineering when a wall passes the exempt threshold, so engineering should be discussed before construction pricing is treated as final.</p><p>For quote comparison, confirm whether the contractor is licensed for the value and type of work being priced. Also ask whether the quote covers only construction or includes approval support, certification steps and council documentation.</p>"
+    },
+    {
+      "h2": "Drainage Changes The Quote",
+      "html": "<p>The guidance treats subsoil drainage as structural and identifies drainage as the leading cause of wall failure across Newcastle's clay suburbs. That makes drainage a comparison item, not a finishing detail. A cheaper quote that leaves out backfill, outlets or subsoil drainage is not equivalent to one that includes them.</p><p>Ask what backfill is proposed, where water will discharge and how the design responds to clay or sloping ground. For a leaning wall, request assessment before replacement pricing, because the published guidance notes that a lean is not always a rebuild.</p><p>Repair enquiries should include photos of movement, cracks, failed sleepers, wet areas and any recent ground changes nearby. New terrace enquiries should describe finished levels and whether paths, planting, lawn or vehicle areas will sit close to the retained edge.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Newcastle homeowners preparing to brief residential retaining wall work on sloping blocks, failed sleeper replacements, garden terraces, driveway or pool-adjacent walls, visible stone walls and drainage-heavy repairs.</p><p>It is less suited to tiny decorative edging where almost no soil is retained, or to large civil works outside a normal residential trade quote. Where approval, engineering or certification may be needed, include those items in the requested scope before comparing prices.</p><p>Before asking for quotes, gather photos, rough measurements, access notes and a short description of what the wall must do. Give every contractor the same assumptions so differences in price can be traced to inclusions, exclusions and site interpretation.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common retaining wall option checks",
+    "headers": [
+      "Option",
+      "Where it may fit",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Timber sleeper",
+        "Lower garden terracing where budget is a priority",
+        "How will height, drainage and expected service life be handled?"
+      ],
+      [
+        "Concrete sleeper",
+        "Replacement of failed timber walls or lower-maintenance residential work",
+        "What post, footing, drainage and access assumptions are included?"
+      ],
+      [
+        "Besser block",
+        "Higher-load situations such as driveway or pool-adjacent areas",
+        "Is engineering required and who manages approval documentation?"
+      ],
+      [
+        "Sandstone or boulder",
+        "Visible landscape walls where appearance is important",
+        "Does the design rely on mass, batter and enough footprint?"
+      ],
+      [
+        "Gabion",
+        "Rock basket walls where water movement is a design factor",
+        "Where will water discharge and what site preparation is included?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the wall",
+      "text": "Record height, length, slope, retained area, nearby structures and whether the work is repair, replacement or new construction."
+    },
+    {
+      "name": "Check approval triggers",
+      "text": "Ask whether the wall appears above 600mm and whether complying development, a development application or engineering may be needed."
+    },
+    {
+      "name": "Compare inclusions",
+      "text": "Read each quote for excavation, materials, drainage, backfill, disposal, engineering, access assumptions and approval responsibility."
+    },
+    {
+      "name": "Confirm licensing",
+      "text": "For work over $5,000 in labour and materials, confirm the contractor is licensed for the NSW structural landscaping scope being quoted."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be in a retaining wall quote?",
+      "a": "A useful quote should separate excavation, materials, drainage, backfill, engineering if required, disposal of old structures, access assumptions and approval responsibility. Headline rates are hard to compare when inclusions differ."
+    },
+    {
+      "q": "Is timber always the cheapest wall type?",
+      "a": "Retaining Wall Newcastle says treated pine or basic timber sleeper walls are often among the cheapest options for small to moderate garden retaining areas. The final choice still depends on slope, soil and drainage."
+    },
+    {
+      "q": "When should council approval be discussed?",
+      "a": "Discuss approval before accepting a quote if the wall is over 600mm or may need engineering. Retaining Wall Newcastle says those walls generally need council approval through complying development or a development application."
+    },
+    {
+      "q": "Can a leaning wall be repaired instead of rebuilt?",
+      "a": "Sometimes, but it needs assessment first. Retaining Wall Newcastle notes that a lean is not always a rebuild, so repair and replacement should be priced after the cause is understood."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "For a Newcastle residential retaining wall, height, total job value, drainage, access and approval should be checked before choosing a material.",
+      "source": "money page"
+    },
+    {
+      "claim": "NSW work over $5,000 in labour and materials needs a licensed structural landscaping contractor.",
+      "source": "money page"
+    },
+    {
+      "claim": "Walls over 600mm generally need council approval through complying development or a development application.",
+      "source": "money page"
+    },
+    {
+      "claim": "A comparable retaining wall quote should separate excavation, materials, drainage, backfill, engineering if required, disposal and access assumptions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Newcastle retaining wall projects may involve coastal headland ground, older cut-and-fill streets, clay, slope, a failed sleeper wall or a new terrace.",
+      "source": "money page"
+    },
+    {
+      "claim": "Garden edging walls are generally low, mainly decorative and retain small amounts of soil.",
+      "source": "money page"
+    },
+    {
+      "claim": "Structural retaining walls hold back significant soil loads and require proper design, footings and drainage.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper, timber sleeper, besser block, sandstone and gabion options are identified as common retaining wall paths.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleepers are presented as a lower-cost way to terrace garden areas while heights stay low.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleepers are described as a common answer when an old timber wall has failed.",
+      "source": "money page"
+    },
+    {
+      "claim": "Besser block is positioned for higher capacity, including where a driveway or pool sits behind the wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sandstone and boulder walls rely on mass and batter where the wall is meant to be seen.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabions use rock baskets and allow water through, with the guidance linking them to erosion-prone falls.",
+      "source": "money page"
+    },
+    {
+      "claim": "AS 4678 engineering is referred to when a wall passes the exempt threshold.",
+      "source": "money page"
+    },
+    {
+      "claim": "Subsoil drainage is treated as structural.",
+      "source": "money page"
+    },
+    {
+      "claim": "Drainage is identified as the leading cause of wall failure across Newcastle's clay suburbs.",
+      "source": "money page"
+    },
+    {
+      "claim": "A leaning wall is not always a rebuild.",
+      "source": "money page"
+    },
+    {
+      "claim": "Access assumptions, allowances for rock or difficult soil and responsibility for council approvals should be checked when comparing quotes.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers residential retaining wall planning, quote comparison, drainage checks and approval questions for Newcastle homeowners."
+}
