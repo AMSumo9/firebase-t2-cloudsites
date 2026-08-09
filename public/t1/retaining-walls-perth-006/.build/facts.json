@@ -1,0 +1,300 @@
+{
+  "node_id": "retainingwallsperthwa-006",
+  "money_domain": "retainingwallsperthwa.com.au",
+  "money_home_url": "https://www.retainingwallsperthwa.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/retaining-walls-perth-006/",
+  "live_url": "https://sites-e470-1.web.app/retaining-walls-perth-006/",
+  "subdomain": "retaining-walls-perth",
+  "gh_repo": null,
+  "primary_kw": "retaining walls perth",
+  "kw_slug": "retaining-walls-perth",
+  "anchor_kw": "retaining walls perth",
+  "brand": "Perth Retaining Walls",
+  "target_page_url": "https://www.retainingwallsperthwa.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "retainingwallsperthwa-005",
+    "url": "https://retaining-walls-perth-guide.surge.sh/",
+    "primary_kw": "retaining walls perth"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\retainingwallsperthwa.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Twinside Retaining",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Structural Retaining Walls",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Retaining Wall Costs 2026",
+        "type": "CONCEPT",
+        "salience": 1.0
+      },
+      {
+        "name": "Bradford Retaining",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Wonder Walls",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Westside Limestone",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Precast Concrete Retaining Walls Perth",
+        "type": "CONCEPT",
+        "salience": 0.98
+      },
+      {
+        "name": "Retaining Wall Costs Perth",
+        "type": "LOCATION",
+        "salience": 0.98
+      },
+      {
+        "name": "Panel and Post Retaining Walls Perth",
+        "type": "SERVICE",
+        "salience": 0.98
+      },
+      {
+        "name": "retaining wall installation specialist",
+        "type": "SERVICE",
+        "salience": 0.97
+      },
+      {
+        "name": "precast reinforced concrete panel and post retaining walls",
+        "type": "SERVICE",
+        "salience": 0.96
+      },
+      {
+        "name": "Perth",
+        "type": "LOCATION",
+        "salience": 0.956
+      },
+      {
+        "name": "retaining walls",
+        "type": "SERVICE",
+        "salience": 0.952
+      },
+      {
+        "name": "Stronglock",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "modular retaining walls",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "retaining wall",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "retaining wall systems",
+        "type": "CONCEPT",
+        "salience": 0.94
+      },
+      {
+        "name": "Precast Concrete",
+        "type": "CONCEPT",
+        "salience": 0.93
+      },
+      {
+        "name": "Limestone Walls Perth",
+        "type": "OTHER",
+        "salience": 0.93
+      },
+      {
+        "name": "Advanced Modular Retaining",
+        "type": "ORGANIZATION",
+        "salience": 0.92
+      },
+      {
+        "name": "retaining wall cost",
+        "type": "CONCEPT",
+        "salience": 0.92
+      },
+      {
+        "name": "Panel and Post Retaining Walls",
+        "type": "SERVICE",
+        "salience": 0.91
+      },
+      {
+        "name": "The Retaining Wall Company",
+        "type": "ORGANIZATION",
+        "salience": 0.91
+      },
+      {
+        "name": "supply and installation",
+        "type": "SERVICE",
+        "salience": 0.91
+      },
+      {
+        "name": "Strong Lock",
+        "type": "ORGANIZATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Twinside Composite Sleeper",
+        "type": "OTHER",
+        "salience": 0.9
+      },
+      {
+        "name": "retaining wall construction Perth",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "hidden fees",
+        "type": "CONCEPT",
+        "salience": 0.9
+      },
+      {
+        "name": "DIY Retaining Wall",
+        "type": "SERVICE",
+        "salience": 0.89
+      },
+      {
+        "name": "Greater Perth Metropolitan area",
+        "type": "LOCATION",
+        "salience": 0.89
+      }
+    ],
+    "lsi_keywords": [
+      "panel and post retaining walls",
+      "concrete retaining walls perth",
+      "retaining wall installation",
+      "retaining wall builders perth",
+      "retaining wall contractors",
+      "precast concrete retaining walls",
+      "western australia retaining walls",
+      "perth retaining wall specialists",
+      "cost-effective retaining wall solutions",
+      "retaining wall supply and installation",
+      "engineered retaining walls",
+      "greater perth metropolitan area",
+      "landscaping retaining walls",
+      "perth wa retaining wall company",
+      "retaining wall quote"
+    ]
+  },
+  "image": {
+    "file": "retaining-walls-perth.jpg",
+    "photographer": "Iain",
+    "source": "Unsplash",
+    "credit": "Photo by Iain on Unsplash"
+  },
+  "build_date": "2026-08-09",
+  "money_home_text": "Retaining Walls Perth | Local Materials &amp; Compliance Skip to content Perth Retaining Walls Home Services Locations About Tools Contact Get Your Wall Quote Open menu Home Services Locations About Tools Contact Retaining walls Perth homeowners can rely on Limestone, post-and-panel, besser block and timber sleeper walls, matched to your block and Perth's own soil conditions - from the coastal sand plain to the Darling Scarp foothills. Get a Written Quote Tell us about your project and a local retaining wall contractor will be in touch. Tell us about your project Share the details and we will help you take the next step with confidence. Your name Phone Email Suburb / Postcode Tell us about your project Optional - it helps us point your enquiry the right way. Get Your Free Quote Your details are only used to arrange your enquiry. See our privacy policy . Services 8 retaining wall types explained Locations Find your Perth suburb Cost Calculator Estimate your project cost About Who we are The retaining walls Perth homeowners build most often Perth's ground is not one problem. On the coastal sand plain, a wall usually earns its keep holding a level building pad or stopping a sandy face from ravelling - limestone block, quarried locally, is the material most Perth walls are built from. Up on the Darling Scarp, in suburbs like Kalamunda and Roleystone, the ground itself is the driver: steeper slopes, shallow soil over rock, and drainage that has to work through a wet Perth winter. Whichever situation describes your block, the right retaining wall - limestone, post-and-panel, besser block, timber sleeper, rock or boulder - is a decision worth getting right, and the WA permit rules are worth getting right too. Limestone Retaining Walls Engineered &amp; Permit-Approved Retaining Walls Retaining Wall Drainage &amp; Subsoil Systems Concrete Post &amp; Panel Retaining Walls Besser Block Retaining Walls Timber Sleeper Retaining Walls Rock &amp; Boulder Retaining Walls Retaining Wall Repairs &amp; Replacement Why Homeowners Choose Us WA compliance, stated precisely Know the 0.5 m building-permit threshold, the AS 4678 design standard and the Certificate of Design Compliance (BA3) process before you get quotes. Perth materials, properly explained Limestone, post-and-panel, besser block, timber sleeper and more, matched to the ground your block actually sits on. Suburb-level local detail Find your suburb&#39;s landmarks, streets and ground conditions before you decide on a material. Honest scope No same-day promises we can&#39;t back, and compliance advice hedged to what your council actually confirms. Get a Written Quote Tell us about your retaining wall project and a local contractor from our network will be in touch with a written, fixed-price quote. Tell us about your project Share the details and we will help you take the next step with confidence. Your name Phone Email Suburb / Postcode Tell us about your project Optional - it helps us point your enquiry the right way. Get Your Free Quote Your details are only used to arrange your enquiry. See our privacy policy . Common Questions About Perth Retaining Wall Projects How much does a retaining wall cost in Perth? Most Perth retaining walls run roughly $250-$600 per square metre of wall face installed, depending on material, height and access. Limestone and timber sleeper sit toward the lower end for smaller garden walls; taller engineered walls with structural design and permit costs sit higher. These figures exclude GST, excavation, drainage and difficult access - your referred contractor provides a written fixed-price quote. Do I need council approval for a retaining wall in WA? In Western Australia, a retaining wall generally needs a building permit once it retains more than 0.5 metres of ground. A wall of any height can still need a permit if it is tied to other building work, affects or protects adjoining land, or sits on a boundary wall or substantial dividing fence. Always confirm with your local government before starting work. What is the best retaining wall material for Perth&#39;s sandy soil? Limestone is Perth&#39;s most common retaining wall material, since it is quarried locally and suits the sandy Swan Coastal Plain well. Post-and-panel concrete systems suit taller or longer runs, and timber sleeper works well for low garden terracing. The right choice depends on wall height, budget and whether your block sits on sand, limestone-close-to-surface ground, or the clay-prone alluvial flats around the Swan Valley. How high can a retaining wall be without a permit in WA? The statewide exemption in Building Regulations 2012 (WA) applies only to a wall retaining no more than 0.5 metres of ground, and only when it is not associated with other building work, does not affect adjoining land, and is not on a boundary or dividing-fence wall. Some local councils apply this test strictly, so confirm with your council before assuming a wall under 0.5 m is automatically exempt. See all frequently asked questions Talk to a specialist Ready to Get Your Retaining Wall Right? Tell us about your Perth property and a local retaining wall contractor will be in touch. Get a Written Quote Perth Retaining Walls Perth metropolitan area, from the coastal sand-plain suburbs to the Darling Scarp foothills Perth, WA Explore About Services Retaining Wall Cost Calculator Retaining Walls Checklist FAQ Contact Locations Kalamunda Lesmurdie Roleystone Mundaring Darlington Armadale Kelmscott Byford Forrestfield High Wycombe Scarborough City Beach Cottesloe Mount Hawthorn Leederville Legal Privacy Policy Terms of Service Disclaimer &copy; 2026 Perth Retaining Walls. All rights reserved. Built in Perth, WA. All quotes, prices, rates and estimates shown or provided are indicative only and subject to your individual circumstances and revision. They are not a binding offer or professional advice. Request a Project Review Tell us about your project Share the details and we will ",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.retainingwallsperthwa.com.au/services/",
+    "https://www.retainingwallsperthwa.com.au/locations/",
+    "https://www.retainingwallsperthwa.com.au/tools/cost-calculator/",
+    "https://www.retainingwallsperthwa.com.au/services/limestone-retaining-walls/",
+    "https://www.retainingwallsperthwa.com.au/services/engineered-retaining-walls/",
+    "https://www.retainingwallsperthwa.com.au/services/retaining-wall-drainage/",
+    "https://www.retainingwallsperthwa.com.au/services/post-and-panel-retaining-walls/",
+    "https://www.retainingwallsperthwa.com.au/services/besser-block-retaining-walls/",
+    "https://www.retainingwallsperthwa.com.au/services/timber-sleeper-retaining-walls/",
+    "https://www.retainingwallsperthwa.com.au/services/rock-boulder-retaining-walls/",
+    "https://www.retainingwallsperthwa.com.au/services/retaining-wall-repairs/",
+    "https://www.retainingwallsperthwa.com.au/faq/",
+    "https://www.retainingwallsperthwa.com.au/tools/checklist/",
+    "https://www.retainingwallsperthwa.com.au/locations/kalamunda/",
+    "https://www.retainingwallsperthwa.com.au/locations/lesmurdie/",
+    "https://www.retainingwallsperthwa.com.au/locations/roleystone/",
+    "https://www.retainingwallsperthwa.com.au/locations/mundaring/",
+    "https://www.retainingwallsperthwa.com.au/locations/darlington/",
+    "https://www.retainingwallsperthwa.com.au/locations/armadale/",
+    "https://www.retainingwallsperthwa.com.au/locations/kelmscott/",
+    "https://www.retainingwallsperthwa.com.au/locations/byford/",
+    "https://www.retainingwallsperthwa.com.au/locations/forrestfield/",
+    "https://www.retainingwallsperthwa.com.au/locations/high-wycombe/",
+    "https://www.retainingwallsperthwa.com.au/locations/scarborough/",
+    "https://www.retainingwallsperthwa.com.au/locations/city-beach/"
+  ],
+  "firebase_path": "retaining-walls-perth-006"
+}

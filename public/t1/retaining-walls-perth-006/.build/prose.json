@@ -1,0 +1,211 @@
+{
+  "kicker": "Perth Wall Guide",
+  "h1_tail": "For Smarter Site Decisions",
+  "meta_hook": "compare materials, permits, drainage and quote questions before you build",
+  "takeaway": "For Perth wall projects, the two sourced numbers are roughly $250-$600 per square metre of wall face installed, and a WA building-permit trigger once a wall retains more than 0.5 m of ground, subject to other conditions. Material choice then turns on height, access, drainage, budget and ground type, with limestone, post-and-panel concrete, besser block, timber sleeper, rock and boulder options all named in the published guide.",
+  "lead": "For homeowners comparing retaining walls perth options, the useful starting point is not a style preference, but whether the block, wall height, drainage path and approval position point to a simple landscape wall or an engineered structure.",
+  "lead_tail": "with material, access and approval questions settled before quotes are compared",
+  "stats": [
+    {
+      "value": "$250-$600",
+      "label": "per square metre indicative installed range"
+    },
+    {
+      "value": "0.5 m",
+      "label": "WA permit threshold cited"
+    },
+    {
+      "value": "8",
+      "label": "wall types explained"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Block, Not The Brochure",
+      "html": "<p><a href=\"https://www.retainingwallsperthwa.com.au/\">Perth Retaining Walls</a> frames the first decision around Perth ground conditions: the coastal sand plain, where walls often hold a level building pad or stop a sandy face from ravelling, and the Darling Scarp foothills, where steeper slopes, shallow soil over rock and winter drainage become more important.</p><p>A quote request is clearer when it describes the site rather than only the preferred look. Height, access, what the wall retains, whether adjoining land is affected, and where water will move after rain are the inputs that separate a low garden terrace from a wall that may need design, documentation and council confirmation.</p><ul><li>State the approximate retained height, not just the visible wall height.</li><li>Explain whether the wall is near a boundary, building pad, driveway or fence.</li><li>Ask whether drainage and subsoil systems are included in the scope.</li><li>Confirm whether GST, excavation, drainage or difficult access are excluded.</li></ul>"
+    },
+    {
+      "h2": "Material Choice By Site Use",
+      "html": "<p>The published guide names limestone, concrete post-and-panel, besser block, timber sleeper, rock and boulder walls. It also says limestone is quarried locally and is the material most Perth walls are built from, especially where sandy ground suits blockwork.</p><p>Post-and-panel concrete systems are presented as a fit for taller or longer runs, while timber sleeper is positioned for low garden terracing. Besser block, rock and boulder options sit in the wider decision set, but the right answer still depends on height, budget, access and whether the wall needs engineering or permit approval.</p><p>A homeowner comparing <a href=\"https://retaining-walls-perth-guide.surge.sh/\">Perth retaining wall material guidance</a> should treat material as one part of the brief. The better question is whether the proposed system matches the load, soil, drainage and approval setting of the property.</p>"
+    },
+    {
+      "h2": "Permit And Design Checks",
+      "html": "<p>The cited WA threshold is specific: a retaining wall generally needs a building permit once it retains more than 0.5 m of ground. The same guide also says that a wall of any height can still need a permit if it is tied to other building work, affects or protects adjoining land, or sits on a boundary wall or substantial dividing fence.</p><p>For walls that may need formal design, the guide refers to AS 4678 and the Certificate of Design Compliance process known as BA3. Those references help turn the conversation from preference into evidence: what is being retained, how the wall is designed, and what the local government will accept.</p><ol><li>Ask what approval path is expected for the proposed wall.</li><li>Ask whether engineering documentation is required before pricing is final.</li><li>Confirm with the relevant local government before assuming an exemption applies.</li></ol>"
+    },
+    {
+      "h2": "Cost Signals To Clarify Before Comparing Quotes",
+      "html": "<p>The published estimate is roughly $250-$600 per square metre of wall face installed. It is an indicative range, not a binding offer, and the guide says the figures exclude GST, excavation, drainage and difficult access.</p><p>That means the lowest square-metre figure is not automatically the lowest project cost. A quote that omits excavation, drainage or access constraints may change once the site is inspected. A clearer comparison asks each contractor to price the same wall height, same material, same drainage assumption and same approval allowance.</p><ul><li>Separate wall construction from excavation, cartage and site preparation.</li><li>Check whether drainage is priced, excluded or provisional.</li><li>Ask whether engineering and permit documentation are included.</li><li>Ask what changes would trigger a revised price.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide applies to Perth homeowners planning a retaining wall for a building pad, sandy face, sloping block, garden terrace, boundary area or replacement project. It is most useful when the job is early enough that material, drainage and approval decisions are still open.</p><p>It is less useful for a finished design that already has engineering documentation and council direction. In that case, the task is narrower: compare contractors on their ability to build to the approved design, state exclusions clearly and price the actual site conditions.</p><p>For coastal sand-plain properties, the material and drainage questions may differ from foothill blocks near the Darling Scarp. The guide names those settings because Perth ground is not one uniform problem.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common retaining wall decision paths",
+    "headers": [
+      "Situation",
+      "Likely focus",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "Low garden terrace",
+        "Material, access and budget",
+        "Is timber sleeper or limestone suitable for the retained height?"
+      ],
+      [
+        "Longer or taller run",
+        "Structure, drainage and documentation",
+        "Does post-and-panel concrete or another engineered system suit the load?"
+      ],
+      [
+        "Boundary or adjoining land issue",
+        "Permit position and local government confirmation",
+        "Could this wall need approval even below 0.5 m?"
+      ],
+      [
+        "Foothill slope",
+        "Drainage, rock and access",
+        "How will winter water movement be managed in the design?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the site",
+      "text": "Record the suburb, approximate retained height, slope, access limits and whether adjoining land, a fence or a building pad is involved."
+    },
+    {
+      "name": "Choose a material shortlist",
+      "text": "Compare limestone, post-and-panel concrete, besser block, timber sleeper, rock or boulder options against height, budget and ground conditions."
+    },
+    {
+      "name": "Check approval risk",
+      "text": "Ask whether the 0.5 m WA threshold, boundary position or adjoining-land impact means a permit or design documentation may be needed."
+    },
+    {
+      "name": "Compare itemised quotes",
+      "text": "Make sure each quote treats excavation, drainage, GST, difficult access, engineering and permit costs consistently."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should I allow for a Perth wall?",
+      "a": "The sourced estimate is roughly $250-$600 per square metre of wall face installed. It is indicative only and excludes GST, excavation, drainage and difficult access."
+    },
+    {
+      "q": "When does a retaining wall need approval in WA?",
+      "a": "The guide says a building permit generally applies once a wall retains more than 0.5 m of ground. A wall of any height can still need a permit if it connects to other building work, affects adjoining land, or sits on a boundary wall or substantial dividing fence."
+    },
+    {
+      "q": "Is limestone always the right material?",
+      "a": "No. Limestone is described as locally quarried and common in Perth, especially for sandy ground, but post-and-panel concrete, timber sleeper, besser block, rock and boulder walls all have different uses."
+    },
+    {
+      "q": "What should be in a quote request?",
+      "a": "Include retained height, material preference, access, drainage expectations, boundary position and whether approval or engineering may be needed. Ask for exclusions to be stated plainly."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published guide gives an indicative installed cost range of roughly $250-$600 per square metre of wall face.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says a WA building permit generally applies once a retaining wall retains more than 0.5 m of ground.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says a wall of any height can still need a permit if it is tied to other building work, affects or protects adjoining land, or sits on a boundary wall or substantial dividing fence.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide names limestone, post-and-panel, besser block, timber sleeper, rock and boulder retaining wall options.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says Perth ground includes the coastal sand plain and Darling Scarp foothills.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says limestone is quarried locally and is the material most Perth walls are built from.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says post-and-panel concrete systems suit taller or longer runs.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says timber sleeper works well for low garden terracing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide refers to AS 4678 and the Certificate of Design Compliance process known as BA3.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says cost figures exclude GST, excavation, drainage and difficult access.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Perth wall material, cost, drainage and approval questions for early project planning."
+}
