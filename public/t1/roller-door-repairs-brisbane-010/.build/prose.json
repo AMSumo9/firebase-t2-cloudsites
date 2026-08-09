@@ -1,0 +1,180 @@
+{
+  "kicker": "Brisbane Door Repairs",
+  "h1_tail": "Practical Fault And Cost Guide",
+  "meta_hook": "Compare faults, cost signals and repair paths before booking.",
+  "takeaway": "For Brisbane homeowners, the clearest supplied cost signal is that minor roller door repairs are typically around $90-$310, depending on the fault and parts needed. Start by separating the problem into mechanical, opener related or electrical work, then ask whether the next step is service, repair, parts replacement or a new door. If hardwired opener wiring or fixed electrical components are involved, a licensed Queensland electrician is used where required.",
+  "lead": "For homeowners comparing roller door repairs brisbane options, the useful starting point is the fault pattern, door style, access urgency and whether the job touches opener electrics.",
+  "lead_tail": "with the repair path shaped by the fault, parts and access needs.",
+  "stats": [
+    {
+      "value": "$90-$310",
+      "label": "minor repair range noted"
+    },
+    {
+      "value": "8",
+      "label": "listed service paths"
+    },
+    {
+      "value": "4",
+      "label": "enquiry steps"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Fault Pattern",
+      "html": "<p><a href=\"https://www.rollerdoorsbrisbane.com.au/\">Roller Doors Brisbane</a> frames repair enquiries around what the door is doing: stuck roller door, opener fault, noisy tracks, broken spring or a garage that no longer secures properly. That is the right place to begin, because the same visible problem may sit in the curtain, barrel, guides, rollers, cables, spring balance, receiver or opener settings.</p><p>A clear enquiry should name the door style, say whether it is jammed shut or stuck open, describe whether the motor runs, and note whether the problem followed impact, noise, uneven travel or a remote failure. The form asks for suburb or postcode and a short description of what is happening, which gives the specialist the basic repair context before the next step is confirmed.</p><ul><li><strong>Mechanical signs:</strong> sticking, bending, scraping, heavy lifting, uneven travel or a curtain that has jumped the guides.</li><li><strong>Opener signs:</strong> motor noise without movement, receiver trouble, limit faults, safety beam issues or keypad and remote pairing problems.</li><li><strong>Access urgency:</strong> a door stuck open, jammed shut or left unsuitable for normal use after spring, opener or impact failure.</li></ul>"
+    },
+    {
+      "h2": "Choose A Repair Path, Not A Guess",
+      "html": "<p>The listed service paths separate general roller door repair from spring work, cable and roller replacement, opener diagnosis, remote programming, off track correction, emergency repair and new installation. That separation helps when reading a quote. A noisy or sticking door may need attention to the curtain, barrel or guides. A heavy or uneven door may point to spring balance, cables, rollers or other hardware.</p><p>Ask what was checked before any replacement recommendation. The source text says the technician checks the curtain, motor and hardware first, then explains whether repair or replacement is sensible. A separate <a href=\"https://roller-door-repairs-brisbane-guide.netlify.app/\">Brisbane roller door repair guide</a> can sit beside the named business page when comparing repair categories and quote wording.</p>"
+    },
+    {
+      "h2": "When Opener Work Changes The Job",
+      "html": "<p>Opener faults can look like door faults until the motor, receiver, limits, keypad, remote and safety beams are checked. The listed opener service includes diagnosis of opener and motor faults, receiver issues, limit settings, safety beams and opener replacement when needed. Remote and keypad programming is listed separately for pairing remotes, resetting access devices, diagnosing receiver problems and sorting entry keypad issues.</p><p>The electrical boundary is important. The source text states that electrical opener work is handled by a licensed Queensland electrician where required, and that jobs touching hardwired opener wiring or fixed electrical components use a licensed Queensland electrician. Before approving work, ask whether the finding is mechanical, opener related or electrical, and whether adjustment or programming has been considered before replacement.</p>"
+    },
+    {
+      "h2": "Who This Applies To In Brisbane",
+      "html": "<p>This guide applies to Brisbane homeowners, landlords, property managers and small premises with roller, sectional or tilt doors that are jammed, noisy, uneven, opener affected or access critical. The service area is described across the northside, southside, bayside and western suburbs through one site wide service map rather than a token suburb list.</p><p>Local detail is useful when it changes access or preparation. The source examples mention family homes, townhouses, duplexes, light commercial sheds, apartment basements, split level homes, steeper driveways and hillside lots. Those details do not create a fixed cost by suburb. They are prompts to describe garage position, driveway access, property type and whether the door is the only vehicle access point.</p>"
+    },
+    {
+      "h2": "Cost Signals And Quote Questions",
+      "html": "<p>The only specific price signal supplied is that minor roller door repairs in Brisbane are typically around $90-$310, depending on the fault and parts needed. Treat that as a minor repair range, not a promise for spring work, opener replacement, off track faults, cable and roller replacement or new installation. The quote should identify what was found and what is being adjusted, repaired or replaced.</p><p>Before approving work, ask for the fault category, the part or adjustment involved, whether the door has been balanced or aligned, and whether a new door recommendation follows a repair first check. For new installation, the listed service includes roller, sectional and tilt doors, opener options and compliance notes where building work thresholds apply.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Repair path comparison for common Brisbane door faults",
+    "headers": [
+      "Situation",
+      "Likely check",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "Door is jammed, bent, noisy or sticking",
+        "Curtain, barrel, guides and general mechanical faults",
+        "Can it be repaired or adjusted before replacement is suggested?"
+      ],
+      [
+        "Motor runs but access fails",
+        "Opener, receiver, limit settings, safety beams or remote pairing",
+        "Is the issue mechanical, opener related or electrical?"
+      ],
+      [
+        "Door is heavy or uneven",
+        "Spring balance, cables, rollers and tired hardware",
+        "Which part has failed, and does the door need rebalancing?"
+      ],
+      [
+        "Door is off track",
+        "Guides, bent tracks and alignment faults",
+        "Can it be re railed before more damage spreads?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe The Fault",
+      "text": "State the door style, suburb or postcode, access problem and whether the issue involves spring, opener, remote, track or urgent access."
+    },
+    {
+      "name": "Confirm The Category",
+      "text": "Ask whether the technician has found a mechanical, opener related or electrical issue before approving work."
+    },
+    {
+      "name": "Compare Paths",
+      "text": "Ask whether service, repair, parts replacement or a full new door is the sensible path after inspection."
+    },
+    {
+      "name": "Book The Next Step",
+      "text": "Proceed after the repair path and quote are clear."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much can a minor Brisbane roller door repair cost?",
+      "a": "The source text says minor repairs are typically around $90-$310, depending on the fault and parts needed. Larger parts, opener replacement, spring work or new door installation need a specific quote."
+    },
+    {
+      "q": "What details should I provide before booking?",
+      "a": "Give the suburb or postcode, door style and exact symptom, such as spring, opener, remote, track or urgent access trouble. Mention whether the door is stuck open, jammed shut, noisy, uneven or not securing properly."
+    },
+    {
+      "q": "When is an electrician involved?",
+      "a": "Hardwired opener wiring or fixed electrical components are handled by a licensed Queensland electrician where required. Ask whether the fault is mechanical, opener related or electrical."
+    },
+    {
+      "q": "Is replacement always needed?",
+      "a": "No. The source text describes repair first diagnosis, with the curtain, motor and hardware checked before replacement is suggested. Replacement is a quote question after the fault check."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "Minor roller door repairs in Brisbane are typically around $90-$310, depending on the fault and parts needed.",
+      "source": "money page"
+    },
+    {
+      "claim": "Repair enquiries are framed around stuck roller doors, opener faults, noisy tracks, broken springs and garages that no longer secure properly.",
+      "source": "money page"
+    },
+    {
+      "claim": "The enquiry form asks for suburb or postcode and a description of what is happening.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed service paths include roller door repair, opener repair, spring repair, remote and keypad programming, off track repair, cable and roller replacement, new garage door installation and emergency repair.",
+      "source": "money page"
+    },
+    {
+      "claim": "Roller door repair includes jammed, bent, noisy or sticking doors, including curtain, barrel, guides and general mechanical faults.",
+      "source": "money page"
+    },
+    {
+      "claim": "Garage door opener repair includes opener and motor faults, receiver issues, limit settings, safety beams and opener replacements when needed.",
+      "source": "money page"
+    },
+    {
+      "claim": "Remote and keypad programming includes pairing remotes, resetting access devices, diagnosing receiver problems and sorting entry keypad issues.",
+      "source": "money page"
+    },
+    {
+      "claim": "Spring repair includes broken torsion or extension springs and rebalancing heavy, uneven or unsafe garage doors.",
+      "source": "money page"
+    },
+    {
+      "claim": "Off track door repair includes re railing doors that have jumped the guides, repairing bent tracks and sorting alignment faults.",
+      "source": "money page"
+    },
+    {
+      "claim": "Cable and roller replacement includes frayed lifting cables, worn rollers and tired hardware.",
+      "source": "money page"
+    },
+    {
+      "claim": "New garage door installation includes roller, sectional and tilt doors, opener options and compliance notes where building work thresholds apply.",
+      "source": "money page"
+    },
+    {
+      "claim": "Hardwired opener wiring or fixed electrical components use a licensed Queensland electrician where required.",
+      "source": "money page"
+    },
+    {
+      "claim": "Coverage is described across Brisbane northside, southside, bayside and western suburbs through one site wide service map.",
+      "source": "money page"
+    },
+    {
+      "claim": "The location examples mention family homes, townhouses, duplexes, light commercial sheds, apartment basements, split level homes, steeper driveways and hillside lots.",
+      "source": "money page"
+    },
+    {
+      "claim": "The enquiry flow has four steps: tell the fault, get the right fault check, confirm the repair path and book the next step.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source text describes repair first diagnosis that checks the curtain, motor and hardware before explaining whether repair or replacement is sensible.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Brisbane roller door fault checks, repair categories, quote questions and when opener work may need an electrician."
+}
