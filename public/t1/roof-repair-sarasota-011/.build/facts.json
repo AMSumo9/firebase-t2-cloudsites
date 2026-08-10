@@ -1,0 +1,230 @@
+{
+  "node_id": "roofingcompanysarasota-011",
+  "money_domain": "roofingcompanysarasota.net",
+  "money_home_url": "https://www.roofingcompanysarasota.net/",
+  "money_host": "cloudflare-pages",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/roof-repair-sarasota-011/",
+  "live_url": "https://sites-e470-1.web.app/roof-repair-sarasota-011/",
+  "subdomain": "roof-repair-sarasota",
+  "gh_repo": null,
+  "primary_kw": "roof repair sarasota",
+  "kw_slug": "roof-repair-sarasota",
+  "anchor_kw": "roof repair sarasota",
+  "brand": "Roofing Company Sarasota",
+  "target_page_url": "https://www.roofingcompanysarasota.net/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "roofingcompanysarasota-003",
+    "url": "https://vercel-cloudsites-hub.vercel.app/sites-01/roof-repairs-sarasota/",
+    "primary_kw": "roof repairs sarasota"
+  },
+  "socials_found": [],
+  "niche": null,
+  "curated_authorities": [],
+  "starter_entities": [],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\roofingcompanysarasota.net\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Certified Roofing Contractor (CRC)",
+        "type": "Credential",
+        "salience": 0.98
+      },
+      {
+        "name": "Florida Department of Business and Professional Regulation (DBPR)",
+        "type": "Regulator",
+        "salience": 0.97
+      },
+      {
+        "name": "Asphalt shingle roof",
+        "type": "Material/System",
+        "salience": 0.95
+      },
+      {
+        "name": "Construction Industry Licensing Board (CILB)",
+        "type": "Regulator",
+        "salience": 0.9
+      },
+      {
+        "name": "Florida Building Code (FBC)",
+        "type": "Regulation",
+        "salience": 0.9
+      },
+      {
+        "name": "Tile roof",
+        "type": "Material/System",
+        "salience": 0.9
+      },
+      {
+        "name": "Homeowner's insurance claim",
+        "type": "Process",
+        "salience": 0.88
+      },
+      {
+        "name": "Metal roof",
+        "type": "Material/System",
+        "salience": 0.88
+      },
+      {
+        "name": "Wind mitigation inspection",
+        "type": "Service/Process",
+        "salience": 0.85
+      },
+      {
+        "name": "High-Velocity Hurricane Zone (HVHZ)",
+        "type": "Regulation-guard",
+        "salience": 0.8
+      },
+      {
+        "name": "Flat / low-slope roof",
+        "type": "Material/System",
+        "salience": 0.8
+      },
+      {
+        "name": "Roof inspection",
+        "type": "Service",
+        "salience": 0.8
+      },
+      {
+        "name": "Flashing",
+        "type": "Component",
+        "salience": 0.78
+      },
+      {
+        "name": "Sarasota County Building & Permitting Services",
+        "type": "AHJ",
+        "salience": 0.75
+      },
+      {
+        "name": "Emergency tarping",
+        "type": "Service",
+        "salience": 0.75
+      },
+      {
+        "name": "Underlayment",
+        "type": "Component",
+        "salience": 0.72
+      },
+      {
+        "name": "City of Sarasota Building Department",
+        "type": "AHJ",
+        "salience": 0.7
+      },
+      {
+        "name": "Gloeocapsa magma (algae streaking)",
+        "type": "Condition",
+        "salience": 0.7
+      },
+      {
+        "name": "Roof decking / sheathing",
+        "type": "Component",
+        "salience": 0.66
+      },
+      {
+        "name": "TPO (thermoplastic polyolefin) membrane",
+        "type": "Material",
+        "salience": 0.65
+      },
+      {
+        "name": "EPDM rubber membrane",
+        "type": "Material",
+        "salience": 0.6
+      },
+      {
+        "name": "Certified General Contractor (CGC)",
+        "type": "Credential",
+        "salience": 0.55
+      },
+      {
+        "name": "My Safe Florida Home Program",
+        "type": "Scheme",
+        "salience": 0.55
+      },
+      {
+        "name": "Class 3 / Class 4 impact-rated shingle",
+        "type": "Rating",
+        "salience": 0.55
+      },
+      {
+        "name": "Hip roof",
+        "type": "Roof-style",
+        "salience": 0.55
+      },
+      {
+        "name": "Certified Building Contractor (CBC)",
+        "type": "Credential",
+        "salience": 0.5
+      },
+      {
+        "name": "Ridge vent",
+        "type": "Component",
+        "salience": 0.5
+      },
+      {
+        "name": "Roofing square (100 sq ft)",
+        "type": "Unit",
+        "salience": 0.5
+      },
+      {
+        "name": "Gable roof",
+        "type": "Roof-style",
+        "salience": 0.5
+      },
+      {
+        "name": "Soffit",
+        "type": "Component",
+        "salience": 0.48
+      }
+    ],
+    "lsi_keywords": []
+  },
+  "image": {
+    "file": "roof-repair-sarasota.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-10",
+  "money_home_text": "Roofing Company Sarasota | Roof Repair &amp; Replacement Skip to content Roofing Company Sarasota Home Services Locations About Tools Contact Enquire Open menu Home Services Locations About Tools Contact Sarasota &amp; the Suncoast Roofing Company Sarasota A leak after a storm or a roof that is simply near the end of its life is stressful, and picking the right roofer is half the worry. We help Sarasota homeowners get a straight answer fast and a Florida-licensed roofer on the roof for repair, replacement, tile, metal and flat roofs. &#10003; Repair or replace, based on a real inspection, not a sales pitch &#10003; Work built to Florida Building Code high-wind standards &#10003; Verify any license yourself at MyFloridaLicense.com Request a Project Review See our roofing services Tell us about your roof Share what is happening and we will help you take the next step with the right Sarasota roofer. Your name Phone Email Neighborhood / ZIP code Tell us about your project Request a Project Review Your details are only used to arrange your enquiry. See our privacy policy . Explore Roofing Company Sarasota Our roofing services Repair, replacement, shingle, tile, metal, flat and storm work. Sarasota locations Local roofing notes for 17 Sarasota and Suncoast neighborhoods. Roofing cost calculator A transparent, assumptions-first ballpark before you get a quote. Roofing checklist A free homeowner checklist for planning a repair or re-roof. About us Who we are and how we get your roof sorted properly. Contact Tell us what is happening with your roof and we will help. Roof Repair, Replacement and Re-Roofing in Sarasota Sarasota roofs work hard. Heat, humidity, salt air near the coast and storm-driven rain all shorten the life of a roof, so most local homeowners land here for one of a few reasons: a fresh leak, storm damage, or an ageing roof that needs a plan. Whether the right answer is an asphalt shingle roof, a barrel tile roof, a standing-seam metal roof or a flat roof membrane over a lanai, we help you weigh the options and get to a roofing contractor who can quote the work properly. Roof Replacement Full tear-off and re-roof for shingle, tile or metal homes across Sarasota, from decking and underlayment through to the finished covering and code-compliant install. View service -&gt; Roof Repair Targeted repairs for leaks, missing shingles, cracked tiles and worn flashing, matched to the damage found on a proper inspection rather than an over-scoped replacement. View service -&gt; Shingle Roofing Asphalt shingle repair and replacement, the most common Sarasota roof, with attention to ventilation and Florida heat and storm exposure that shortens shingle life. View service -&gt; Tile Roofing Concrete and clay tile repair, re-bedding and replacement for the barrel-tile roofs common on Sarasota&#39;s stucco and Mediterranean-style homes. View service -&gt; Metal Roofing Standing-seam and metal panel roofing for homeowners wanting longer service life and strong wind performance under the Florida Building Code. View service -&gt; Flat &amp; Low-Slope Roofing TPO, EPDM and modified-bitumen work on additions, lanais and low-slope sections where a membrane system rather than shingles is the right fit. View service -&gt; Storm Damage &amp; Emergency Tarping Fast temporary tarping and leak control after storms to reduce water entry, followed by a documented assessment for permanent repair and any insurance claim. View service -&gt; Roof Inspection Pre-sale, post-storm and periodic inspections that check shingles, flashing, decking and ventilation, and can support a wind mitigation report for your insurer. View service -&gt; Why Sarasota Homeowners Choose Roofing Company Sarasota A roof is one of the biggest decisions a homeowner makes, and in Florida it carries real code and insurance weight. Here is what we focus on so you can move forward with confidence. Verify the license yourself Our network includes DBPR-registered Florida roofing contractors. You can verify any license at MyFloridaLicense.com before any work begins. Built to Florida wind standards Sarasota County roofing must meet the Florida Building Code&#39;s high-wind requirements, and the roofers we work with build to those standards. Written scope and price Your roofer sets out scope, price and terms in writing before work starts. Any figure quoted earlier is indicative until then. Local Suncoast coverage We help homeowners right across Sarasota and the wider Suncoast, from Siesta Key and Longboat Key to Palmer Ranch, Venice and North Port. Get help with your Sarasota roof Tell us what is going on, whether that is a leak you have just found, storm damage, or a roof you know is near the end of its life. We will help you understand your options and get a Florida-licensed roofer on the roof to inspect it and quote the work. There is no pressure and no obligation. Any figure discussed early is indicative until a contractor inspects the roof and puts a firm price in writing. Tell us about your project Share the details and we will help you take the next step with confidence. Your name Phone Email Neighborhood / ZIP code Tell us about your project Send My Enquiry Your details are only used to arrange your enquiry. See our privacy policy . Roofing questions Sarasota homeowners ask Straight answers on cost, repair versus replacement, inspections and permits. How much does a new roof cost in Sarasota? A new roof in Sarasota depends on the roof size, pitch, material and whether decking or flashing also needs replacing. As a market guide only, asphalt shingle replacement in the Sarasota area is commonly quoted in the range of $4.50 to $8.00 per square foot, with tile and metal typically higher. Those figures are indicative, not a quote. The roofing contractor who takes on your job provides a firm written estimate after inspecting the roof. How do I know if my roof needs repair or replacement? Repair is often enough when the damage is limited to a few sh",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.roofingcompanysarasota.net/services/",
+    "https://www.roofingcompanysarasota.net/locations/",
+    "https://www.roofingcompanysarasota.net/tools/cost-calculator/",
+    "https://www.roofingcompanysarasota.net/tools/checklist/",
+    "https://www.roofingcompanysarasota.net/services/roof-replacement/",
+    "https://www.roofingcompanysarasota.net/services/roof-repair/",
+    "https://www.roofingcompanysarasota.net/services/shingle-roofing/",
+    "https://www.roofingcompanysarasota.net/services/tile-roofing/",
+    "https://www.roofingcompanysarasota.net/services/metal-roofing/",
+    "https://www.roofingcompanysarasota.net/services/flat-roof/",
+    "https://www.roofingcompanysarasota.net/services/storm-emergency-tarping/",
+    "https://www.roofingcompanysarasota.net/services/roof-inspection/",
+    "https://www.roofingcompanysarasota.net/faq/",
+    "https://www.roofingcompanysarasota.net/locations/gulf-gate/",
+    "https://www.roofingcompanysarasota.net/locations/siesta-key/",
+    "https://www.roofingcompanysarasota.net/locations/palmer-ranch/",
+    "https://www.roofingcompanysarasota.net/locations/fruitville/",
+    "https://www.roofingcompanysarasota.net/locations/bee-ridge/",
+    "https://www.roofingcompanysarasota.net/locations/southgate/",
+    "https://www.roofingcompanysarasota.net/locations/arlington-park/",
+    "https://www.roofingcompanysarasota.net/locations/laurel-park/",
+    "https://www.roofingcompanysarasota.net/locations/bird-key/",
+    "https://www.roofingcompanysarasota.net/locations/lido-key/",
+    "https://www.roofingcompanysarasota.net/locations/longboat-key/",
+    "https://www.roofingcompanysarasota.net/locations/osprey/"
+  ],
+  "firebase_path": "roof-repair-sarasota-011"
+}
