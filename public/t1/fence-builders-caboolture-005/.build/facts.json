@@ -1,0 +1,296 @@
+{
+  "node_id": "fencingcaboolture-005",
+  "money_domain": "fencingcaboolture.com.au",
+  "money_home_url": "https://www.fencingcaboolture.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/fence-builders-caboolture-005/",
+  "live_url": "https://sites-e470-1.web.app/fence-builders-caboolture-005/",
+  "subdomain": "fence-builders-caboolture",
+  "gh_repo": null,
+  "primary_kw": "fence builders caboolture",
+  "kw_slug": "fence-builders-caboolture",
+  "anchor_kw": "fence builders caboolture",
+  "brand": "Fencing Caboolture",
+  "target_page_url": "https://www.fencingcaboolture.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\fencingcaboolture.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Caboolture",
+        "type": "LOCATION",
+        "salience": 0.987
+      },
+      {
+        "name": "Fencing",
+        "type": "SERVICE",
+        "salience": 0.98
+      },
+      {
+        "name": "Landscaping",
+        "type": "SERVICE",
+        "salience": 0.94
+      },
+      {
+        "name": "Moreton Bay",
+        "type": "LOCATION",
+        "salience": 0.935
+      },
+      {
+        "name": "Aluminium Fencing",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "Retaining Walls",
+        "type": "SERVICE",
+        "salience": 0.915
+      },
+      {
+        "name": "Colorbond Fencing",
+        "type": "SERVICE",
+        "salience": 0.91
+      },
+      {
+        "name": "QBCC Licensed Structural Landscaper",
+        "type": "CREDENTIAL",
+        "salience": 0.9
+      },
+      {
+        "name": "fences",
+        "type": "CONCEPT",
+        "salience": 0.9
+      },
+      {
+        "name": "Gates",
+        "type": "CONCEPT",
+        "salience": 0.89
+      },
+      {
+        "name": "QBCC 1127678",
+        "type": "CREDENTIAL",
+        "salience": 0.88
+      },
+      {
+        "name": "Automatic Gates",
+        "type": "SERVICE",
+        "salience": 0.87
+      },
+      {
+        "name": "Timber Fencing",
+        "type": "SERVICE",
+        "salience": 0.867
+      },
+      {
+        "name": "Fencing Contractors",
+        "type": "SERVICE",
+        "salience": 0.867
+      },
+      {
+        "name": "Pool Fencing",
+        "type": "SERVICE",
+        "salience": 0.863
+      },
+      {
+        "name": "Fencing Installers",
+        "type": "SERVICE",
+        "salience": 0.86
+      },
+      {
+        "name": "Fence Installation",
+        "type": "SERVICE",
+        "salience": 0.86
+      },
+      {
+        "name": "Temporary Fencing Hire",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Concreting",
+        "type": "SERVICE",
+        "salience": 0.84
+      },
+      {
+        "name": "automatic sliding gates",
+        "type": "SERVICE",
+        "salience": 0.84
+      },
+      {
+        "name": "Residential Fencing",
+        "type": "SERVICE",
+        "salience": 0.82
+      },
+      {
+        "name": "Sunshine Coast",
+        "type": "LOCATION",
+        "salience": 0.82
+      },
+      {
+        "name": "glass fencing",
+        "type": "SERVICE",
+        "salience": 0.82
+      },
+      {
+        "name": "privacy fencing",
+        "type": "SERVICE",
+        "salience": 0.81
+      },
+      {
+        "name": "Brick Fences",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Justin",
+        "type": "PERSON",
+        "salience": 0.8
+      },
+      {
+        "name": "Rural Fencing",
+        "type": "SERVICE",
+        "salience": 0.79
+      },
+      {
+        "name": "Gate Installation",
+        "type": "SERVICE",
+        "salience": 0.79
+      },
+      {
+        "name": "chainwire fencing",
+        "type": "SERVICE",
+        "salience": 0.79
+      },
+      {
+        "name": "Queensland",
+        "type": "LOCATION",
+        "salience": 0.78
+      }
+    ],
+    "lsi_keywords": [
+      "caboolture fencing contractors",
+      "fencing caboolture qld",
+      "timber fencing caboolture",
+      "colorbond fencing caboolture",
+      "aluminium fencing caboolture",
+      "pool fencing caboolture",
+      "rural fencing caboolture",
+      "gates installation caboolture",
+      "retaining walls caboolture",
+      "qbcc licensed fencing contractor",
+      "moreton bay fencing services",
+      "quality workmanship",
+      "privacy and security fencing",
+      "custom fencing solutions",
+      "landscaping and fencing"
+    ]
+  },
+  "image": {
+    "file": "fence-builders-caboolture.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-10",
+  "money_home_text": "Fencing Caboolture | Colorbond, Timber, Pool &amp; Rural Skip to content Fencing Caboolture Home Services Locations About Tools Contact Get a Free Quote Open menu Home Services Locations About Tools Contact Colorbond, timber, pool and rural fencing across the Caboolture district Fencing Caboolture Homeowners Can Plan Around A fencing job across the Caboolture district usually stalls for one of two reasons: no one actually shows up to measure the run, or the neighbour conversation keeps getting put off. Send through what you know about the fence line and someone will walk the block, note the ground, the access and the old fence, then put a fixed price in writing you can hold - and hand to next door if the line is shared. &#9670; QBCC-licensed operators for regulated fencing work &#9670; Written, itemised quotes before any work begins &#9670; Pool barriers assessed against the QLD pool safety standard &#9670; Dividing-fence cost-sharing explained before you talk to your neighbour See all fencing services -&gt; Request a fencing quote A few details about the fence line is enough to get started. There is no obligation and no deposit at this stage. Your name Phone Email Suburb / Postcode Tell us about your project Optional - it helps us point your enquiry the right way. Request a fencing quote Your details are only used to arrange your enquiry. See our privacy policy . Start where you are up to Some people arrive knowing exactly which fence they want. Others are still working out whose fence it legally is. Both are fine. All fencing services Colorbond, timber, pool, PVC, rural fencing and gates, each with what it costs to own and where it fails. Fence cost calculator Put your run length and expected rate in and see an indicative range, not a single number. Fencing project checklist Boundary, neighbour notice, height, pool barrier and quote comparison, in order. Suburbs we work in Local notes on soil, salt air and access from Caboolture out to Bribie Island and the hinterland. Fencing questions The cost, approval, neighbour and pool-compliance questions people actually ask. About this site How a fencing enquiry is handled from first contact through to a written quote, and how to check any contractor. Fencing Caboolture Blocks Are Actually Built With A Colorbond fence is the workhorse for a boundary fence here: fast to erect, no painting, and a colour range that sits quietly against brick and render. A timber paling fence still suits established streets, and a lapped and capped fence is the step up when you want no gaps at all. PVC fencing removes painting altogether, which matters more here than most districts once salt air off Moreton Bay is in the picture, and glass or aluminium pool fencing is a compliance job before it is a style one. Out toward Wamuran, Woodford and the acreage blocks it is strained wire and star pickets instead. Driveway gates and gate automation are built to suit whatever fence line they hang off. Colorbond Fencing Pre-painted steel boundary fencing, footed for reactive clay soil across the Caboolture district. Timber Fencing Paling, lapped-and-capped and picket timber fencing for character streets and family blocks. Pool Fencing Glass and aluminium pool barriers built to the Queensland pool safety standard. PVC Fencing Rigid vinyl fencing that resists salt air and needs no repainting for the district&#39;s bayside suburbs. Rural Fencing Strained wire and ringlock fencing for acreage blocks from Upper Caboolture to Woodford. Gates &amp; Automation Sliding, swing and solar-powered gate automation matched to the existing fence line. Before you commit Whose dividing fence is it, and who pays for what A fence built on the actual boundary line is legally a dividing fence, not just a shared one, and Queensland's Neighbourhood Disputes (Dividing Fences and Trees) Act 2011 sets a formula for splitting the bill. Both owners are generally on the hook equally, but only up to a sufficient dividing fence - broadly 0.5 m to 1.8 m high, built from a prescribed material like palings, chain wire, metal panels or brick. Want a taller run, a premium finish, or Colorbond over something cheaper? That upgrade is on your bill alone, which is the part that catches most people out. A short conversation next door, backed by a written quote, settles this more often than not. When it doesn't, the formal route is a notice to contribute : an approved form setting out the land, the fence line, the scope of work and an estimated cost, with a written quote attached. No agreement inside a month, and either owner can take it to QCAT within the following two months. Splitting the invoice so each household pays its own share keeps you out of that chase entirely - though nobody, us included, can promise how a neighbour will actually respond. General information as at July 2026. The current rules are published by the Queensland Government and dividing-fence disputes are heard by QCAT . Three rules worth knowing before you order Height: stay at or under 2 m above natural ground and Queensland treats the fence as accepted development. Cross 2 m and a certifier has to sign off first - and a fence sitting on top of a retaining wall counts the wall in that measurement, so a modest wall plus a standard fence can tip over the line without anyone meaning to. Corners: intersections carry sight-line rules, so front fencing on a corner block stays low enough that a driver can actually see who's coming. Pools: a pool barrier answers to its own standard entirely, and only a licensed pool safety inspector can sign it off - not a fencer, and not a checklist. What Is It Per Metre, and Why Do Quotes Differ A per-metre rate is the standard way fencing gets priced, and it's exactly why two figures for the same job can land nowhere near each other. Five things usually explain the gap. Line each one up against your own quotes and the cheaper number often stops looking cheaper. Material and height A lapped and capped fence (palin",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.fencingcaboolture.com.au/services/",
+    "https://www.fencingcaboolture.com.au/locations/",
+    "https://www.fencingcaboolture.com.au/tools/cost-calculator/",
+    "https://www.fencingcaboolture.com.au/tools/checklist/",
+    "https://www.fencingcaboolture.com.au/faq/",
+    "https://www.fencingcaboolture.com.au/services/colorbond-fencing/",
+    "https://www.fencingcaboolture.com.au/services/timber-fencing/",
+    "https://www.fencingcaboolture.com.au/services/pool-fencing/",
+    "https://www.fencingcaboolture.com.au/services/pvc-fencing/",
+    "https://www.fencingcaboolture.com.au/services/rural-fencing/",
+    "https://www.fencingcaboolture.com.au/services/gates-and-automation/",
+    "https://www.fencingcaboolture.com.au/locations/caboolture/",
+    "https://www.fencingcaboolture.com.au/locations/caboolture-south/",
+    "https://www.fencingcaboolture.com.au/locations/upper-caboolture/",
+    "https://www.fencingcaboolture.com.au/locations/morayfield/",
+    "https://www.fencingcaboolture.com.au/locations/burpengary/",
+    "https://www.fencingcaboolture.com.au/locations/burpengary-east/",
+    "https://www.fencingcaboolture.com.au/locations/narangba/",
+    "https://www.fencingcaboolture.com.au/locations/deception-bay/",
+    "https://www.fencingcaboolture.com.au/locations/beachmere/",
+    "https://www.fencingcaboolture.com.au/locations/bellmere/",
+    "https://www.fencingcaboolture.com.au/locations/donnybrook/",
+    "https://www.fencingcaboolture.com.au/locations/ningi/",
+    "https://www.fencingcaboolture.com.au/locations/meldale/",
+    "https://www.fencingcaboolture.com.au/locations/sandstone-point/"
+  ],
+  "firebase_path": "fence-builders-caboolture-005"
+}

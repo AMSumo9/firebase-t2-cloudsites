@@ -1,0 +1,234 @@
+{
+  "kicker": "Caboolture Fencing",
+  "h1_tail": "A Practical Planning Guide",
+  "meta_hook": "compare materials, quote checks, boundary questions and pool barrier basics",
+  "takeaway": "For a Caboolture fencing project, the practical core is a measured written quote, no deposit at enquiry stage, and the right checks before work starts. The source page says regulated work is handled by QBCC licensed operators, pool barriers are assessed against the Queensland pool safety standard, dividing fence costs are generally shared up to a sufficient fence, and fences over 2 m above natural ground need certifier sign off.",
+  "lead": "For homeowners comparing fence builders caboolture options, the useful starting point is the fence line itself, including boundary position, access, ground conditions, material choice and any neighbour or pool barrier issue.",
+  "lead_tail": "with the next decision shaped by quote detail and site conditions",
+  "stats": [
+    {
+      "value": "No",
+      "label": "deposit at enquiry stage"
+    },
+    {
+      "value": "2 m",
+      "label": "height before certifier sign off is noted"
+    },
+    {
+      "value": "1 month",
+      "label": "formal neighbour response window noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the actual fence line",
+      "html": "<p><a href=\"https://www.fencingcaboolture.com.au/\">Fencing Caboolture</a> frames the first job as a site check, not a sales choice. The details that change the quote are the run length, the old fence, ground conditions, access and whether the line is shared with a neighbour. A homeowner who can describe those points is already closer to a useful written price.</p><p>The same page says an enquiry can begin with a few project details, with no obligation and no deposit at that stage. That matters because fencing decisions often need neighbour discussion before anyone is ready to approve work. A fixed, itemised quote gives both households the same scope to consider.</p><ul><li>Confirm whether the fence is a boundary fence, a pool barrier, a rural run, a gate project or part of landscaping work.</li><li>Ask whether removal of the old fence, access limits and ground preparation are included.</li><li>Keep the written quote handy if the fence line is shared.</li></ul>"
+    },
+    {
+      "h2": "Material choice should match the block",
+      "html": "<p>The source page separates common Caboolture district fence types by use. Colorbond is described as a workhorse boundary fence, timber paling and lapped and capped styles suit established streets and family blocks, PVC removes repainting, and glass or aluminium pool fencing is treated first as a compliance task. Rural blocks are described differently, with strained wire and star pickets used toward acreage areas.</p><p>That is a practical decision path. Privacy and security fencing usually starts with height, gaps and material durability. A pool fence starts with the barrier standard. A rural fence starts with the run, posts, wire and gates. A driveway gate or automatic sliding gate should be planned around the fence line it hangs from, not priced as a disconnected accessory.</p><p>For Caboolture, Moreton Bay and nearby acreage settings, the useful question is not which material is most popular. It is which material fits the boundary, maintenance expectations, gate use and any compliance check attached to the job.</p>"
+    },
+    {
+      "h2": "Neighbour and boundary checks",
+      "html": "<p>The published guide explains that a fence built on the actual boundary line is a dividing fence under Queensland rules. It also states that both owners are generally responsible equally, but only up to a sufficient dividing fence. The page describes that sufficient fence as broadly 0.5 m to 1.8 m high and made from prescribed materials such as palings, chain wire, metal panels or brick.</p><p>Upgrades need clearer agreement. If one owner wants a taller run, a premium finish or Colorbond instead of a cheaper sufficient option, the source page says that extra cost is on the owner asking for the upgrade. That is the point to settle before a contractor is booked.</p><p>If agreement does not happen informally, the page describes a notice to contribute, with the land, fence line, scope and estimated cost set out and a written quote attached. It also states that if there is no agreement inside a month, either owner can go to QCAT within the following two months.</p>"
+    },
+    {
+      "h2": "Pool barriers and height approvals",
+      "html": "<p>Pool fencing needs a different conversation from an ordinary boundary fence. The source page says glass and aluminium pool barriers are built to the Queensland pool safety standard, and that only a licensed pool safety inspector can sign off a pool barrier. A fencer can build the barrier, but the page is clear that certification is separate from a checklist.</p><p>Height can also change the approval path. The page states that fences at or under 2 m above natural ground are treated as accepted development in Queensland, while crossing 2 m requires certifier sign off. It also notes that a fence on top of a retaining wall counts the wall in the measurement. That makes wall and fence combinations worth checking early.</p><p>Corner blocks deserve the same early check. The source page says intersections carry sight line rules, so front fencing on a corner block must stay low enough for driver visibility. That is a design constraint, not a finishing detail.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is most useful for homeowners, landlords and acreage owners who already know a fence needs attention but are not ready to approve a job until the scope is clearer. It also applies when a neighbour needs to share the cost, when a pool barrier is involved, or when a driveway gate is part of the project.</p><p>It is less useful for someone looking for a single per metre price without a site check. The source page explains that quote differences come from material, height and site factors. A per metre figure can help compare broad options, but it does not replace measuring the run, checking access and confirming what is included.</p><ol><li>Describe the fence line and the old fence.</li><li>Choose the likely material based on use, not appearance alone.</li><li>Ask for a written, itemised quote before neighbour approval or final sign off.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Common fencing decisions before quoting",
+    "headers": [
+      "Decision",
+      "Use when",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "Colorbond or timber",
+        "Boundary privacy, established streets or family blocks",
+        "Is height, removal and access included in the written quote?"
+      ],
+      [
+        "Glass or aluminium pool barrier",
+        "A pool area needs compliant separation",
+        "Who arranges inspection by a licensed pool safety inspector?"
+      ],
+      [
+        "Rural wire or gate automation",
+        "Acreage, long runs or driveway access",
+        "How will posts, gates and power or solar automation suit the existing line?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Map the line",
+      "text": "Identify the fence run, likely boundary, old fence condition, gate positions and any retaining wall before asking for a quote."
+    },
+    {
+      "name": "Separate compliance issues",
+      "text": "Flag pool barriers, height above natural ground and corner block visibility before choosing a material."
+    },
+    {
+      "name": "Get the quote in writing",
+      "text": "Ask for an itemised price that can be shared with a neighbour if the fence is a dividing fence."
+    },
+    {
+      "name": "Confirm upgrades",
+      "text": "If one owner wants a premium finish or taller fence, separate that upgrade from the sufficient fence cost."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does a Caboolture fence quote need a site measure?",
+      "a": "The source page says the operator walks the block, notes ground, access and the old fence, then puts a fixed price in writing. That makes a site measure more useful than relying only on a broad per metre estimate."
+    },
+    {
+      "q": "Who pays for a shared boundary fence?",
+      "a": "The published guide says both owners are generally responsible equally up to a sufficient dividing fence. It also says upgrade costs, such as a taller run or premium finish, sit with the owner asking for that upgrade."
+    },
+    {
+      "q": "Can a fencer sign off a pool barrier?",
+      "a": "The source page says pool barriers are assessed against the Queensland pool safety standard, but only a licensed pool safety inspector can sign one off."
+    },
+    {
+      "q": "When does fence height need approval?",
+      "a": "The guide states that a fence at or under 2 m above natural ground is treated as accepted development in Queensland, while crossing 2 m needs certifier sign off."
+    }
+  ],
+  "about": [
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A fencing enquiry can begin with a few project details, with no obligation and no deposit at that stage.",
+      "source": "money page"
+    },
+    {
+      "claim": "Regulated fencing work is handled by QBCC licensed operators.",
+      "source": "money page"
+    },
+    {
+      "claim": "Written, itemised quotes are provided before work begins.",
+      "source": "money page"
+    },
+    {
+      "claim": "Pool barriers are assessed against the Queensland pool safety standard.",
+      "source": "money page"
+    },
+    {
+      "claim": "Only a licensed pool safety inspector can sign off a pool barrier.",
+      "source": "money page"
+    },
+    {
+      "claim": "Colorbond, timber, pool, PVC, rural fencing, gates and automation are listed services.",
+      "source": "money page"
+    },
+    {
+      "claim": "A fence built on the actual boundary line is a dividing fence under Queensland rules.",
+      "source": "money page"
+    },
+    {
+      "claim": "Both owners are generally responsible equally up to a sufficient dividing fence.",
+      "source": "money page"
+    },
+    {
+      "claim": "A sufficient dividing fence is described as broadly 0.5 m to 1.8 m high and made from prescribed materials such as palings, chain wire, metal panels or brick.",
+      "source": "money page"
+    },
+    {
+      "claim": "Upgrade costs such as a taller run, premium finish or Colorbond over a cheaper sufficient option are paid by the owner asking for the upgrade.",
+      "source": "money page"
+    },
+    {
+      "claim": "A notice to contribute sets out the land, fence line, scope of work and estimated cost, with a written quote attached.",
+      "source": "money page"
+    },
+    {
+      "claim": "If there is no agreement inside a month, either owner can go to QCAT within the following two months.",
+      "source": "money page"
+    },
+    {
+      "claim": "Fences at or under 2 m above natural ground are treated as accepted development in Queensland.",
+      "source": "money page"
+    },
+    {
+      "claim": "Fences over 2 m above natural ground need certifier sign off.",
+      "source": "money page"
+    },
+    {
+      "claim": "A fence on top of a retaining wall counts the wall in the height measurement.",
+      "source": "money page"
+    },
+    {
+      "claim": "Corner block front fencing is subject to sight line rules for driver visibility.",
+      "source": "money page"
+    },
+    {
+      "claim": "Quote differences can come from material, height and site factors.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers planning, quote checks, material choice, boundary questions and pool barrier issues for fencing projects in the Caboolture district."
+}
