@@ -1,0 +1,263 @@
+{
+  "kicker": "Melbourne Renovation",
+  "h1_tail": "Practical Cost And Scope Guide",
+  "meta_hook": "compare scope, cost signals and quote questions before booking a consult",
+  "takeaway": "Melbourne kitchen projects described by the source page range from about $12,000 to $30,000 for a budget refresh, $25,000 to $60,000 for most full renovations, and more than $80,000 for premium work. A mid-range full job is described as roughly 6 to 12 weeks from contract signing to handover, with 4 to 6 weeks for cabinetry and stone lead-in and 2 to 4 weeks on site.",
+  "lead": "For homeowners comparing kitchen renovations melbourne options, the useful starting point is not style alone, but scope, quote structure, cabinetry lead time and whether the renovator fits the property type.",
+  "lead_tail": "with practical checks before you request a quote",
+  "stats": [
+    {
+      "value": "$25k-$60k",
+      "label": "typical full renovation range stated"
+    },
+    {
+      "value": "6-12 weeks",
+      "label": "mid-range contract to handover guide"
+    },
+    {
+      "value": "2-4 weeks",
+      "label": "typical site work once cabinetry is on site"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Scope, quote and renovator fit",
+      "html": "<p><a href=\"https://www.melbournekitchenreno.com.au/\">Melbourne Kitchen Reno</a> publishes a useful framework for turning an early kitchen idea into a quoteable brief: define the kitchen, suburb, scope and rough budget, then have a VBA-registered renovator review project size, style and timing before an in-home consult.</p><p>The important distinction is between a surface refresh and a full rebuild. A refresh may involve door fronts, benchtop and splashback without moving the layout. A full renovation can involve new cabinetry, benchtops, plumbing and electrical updates, splashback and soft-close hardware, with design, manufacture, demolition and installation handled under a fixed-price written contract.</p><ul><li>Ask whether the quote includes design, manufacture, demolition, installation and finishing.</li><li>Confirm whether plumbing or electrical changes are included or treated as variations.</li><li>Check whether the hardware brand and soft-close runners are included in the base price.</li><li>For a larger layout, ask whether a butler's pantry is being modelled or simply assumed.</li></ul>"
+    },
+    {
+      "h2": "Melbourne property types change the brief",
+      "html": "<p>The source page separates period homes, post-war brick homes and apartments because the right kitchen approach can change with the building. Period terraces, Edwardians and bungalows may suit made-to-measure joinery rather than a flat-pack run, especially where the aim is to respect existing character while improving storage and function.</p><p>Apartment kitchens need a different brief. Compact galley, single-wall and inner-city layouts place more pressure on storage, bench space and access. The published guidance also flags owners corporation documentation, compact layouts, acoustic underlay and clever storage for apartment work across Richmond, Brunswick, Footscray and the inner city.</p><p>For design-first planning before a renovation quote, the related <a href=\"https://kitchen-design-melbourne-guide.vercel.app/\">kitchen design Melbourne guide</a> is a natural companion because layout decisions usually come before finish decisions.</p>"
+    },
+    {
+      "h2": "Budget ranges need scope labels",
+      "html": "<p>The clearest cost comparison is the one that labels scope before price. The source page states that most full Melbourne kitchen renovations land between $25,000 and $60,000 fully fitted. It also gives a budget refresh range of about $12,000 to $30,000, and says premium renovations with natural stone, custom joinery and a butler's pantry can exceed $80,000.</p><p>Those figures are indicative, not a substitute for a written fixed-price quote after measurement. Treat them as a screening tool. If two quotes are far apart, compare exclusions before assuming one renovator is cheaper. Benchtop material, joinery detail, appliance allowances, splashback specification and trade changes can all move the result.</p><ul><li>Use the early range to decide whether the scope is realistic.</li><li>Use the in-home consult to turn measurements and finishes into a fixed price.</li><li>Use the variations process to understand what happens when the brief changes.</li></ul>"
+    },
+    {
+      "h2": "Timing depends on fabrication and site work",
+      "html": "<p>For kitchen renovations melbourne homeowners are told to allow roughly 6 to 12 weeks from contract signing to handover for a mid-range full renovation. The source page breaks that into about 4 to 6 weeks for cabinetry and stone fabrication, 2 to 4 weeks of on-site work once cabinetry is ready, and 1 to 2 weeks for finishing.</p><p>That sequence matters because the visible demolition and install stage is only part of the job. The front half is driven by cabinet, stone and appliance lead times. A practical timeline question is therefore not simply when demolition starts, but when design sign-off, site measurements, ordering and fabrication are locked.</p><p>Before signing, ask the renovator to identify the decisions that can delay fabrication, such as final layout, benchtop choice, hardware selection and appliance dimensions.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to Melbourne homeowners comparing a budget refresh, a mid-range full renovation, a premium kitchen with custom joinery, or a compact apartment kitchen. It is also relevant where the brief includes period-home detailing, post-war brick homes, or a larger layout that may include a butler's pantry.</p><p>It is less useful for readers who only need appliance replacement, painting, or a single trade repair, because the source material is about kitchen renovation projects that move through design, quotation, contract and build. For those smaller jobs, the right question is whether the work requires a full renovator or a narrower trade quote.</p><p>When a project is large enough to require a formal domestic building pathway, ask how the written contract, transparent variation process and any required domestic building insurance will be handled.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Renovation scope comparison",
+    "headers": [
+      "Option",
+      "Best fit",
+      "Quote questions"
+    ],
+    "rows": [
+      [
+        "Budget refresh",
+        "Door fronts, benchtop and splashback where the layout stays put",
+        "Ask what is excluded from the $12,000 to $30,000 indicative range"
+      ],
+      [
+        "Full renovation",
+        "New cabinetry, benchtops, plumbing and electrical updates, splashback and hardware",
+        "Ask whether design, demolition, manufacture, install and finishing are included"
+      ],
+      [
+        "Premium renovation",
+        "Natural stone, custom joinery or a butler's pantry",
+        "Ask how finish selections and layout changes affect the fixed-price quote"
+      ],
+      [
+        "Apartment kitchen",
+        "Compact galley, single-wall or inner-city layouts",
+        "Ask about owners corporation documentation, acoustic underlay and access planning"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the scope",
+      "text": "Write down whether the job is a refresh, full renovation, custom joinery project or apartment kitchen before asking for a quote."
+    },
+    {
+      "name": "Set a rough budget",
+      "text": "Use the published indicative ranges to decide whether the desired finish level is realistic before the in-home consult."
+    },
+    {
+      "name": "Prepare property details",
+      "text": "Have the suburb, property type, kitchen size and any owners corporation requirements ready for the renovator callback."
+    },
+    {
+      "name": "Check the written quote",
+      "text": "Confirm inclusions, exclusions, hardware, trades, fabrication lead time and the process for variations before signing."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should I budget for a Melbourne kitchen renovation?",
+      "a": "The source page says most full renovations land between $25,000 and $60,000 fully fitted. It also gives $12,000 to $30,000 for a budget refresh and says premium work with natural stone, custom joinery and a butler's pantry can exceed $80,000."
+    },
+    {
+      "q": "How long does a mid-range full kitchen renovation take?",
+      "a": "The published guide says to allow roughly 6 to 12 weeks from contract signing to handover. Cabinetry and stone fabrication are described as about 4 to 6 weeks, site work as 2 to 4 weeks, and finishing as 1 to 2 weeks."
+    },
+    {
+      "q": "Are apartment kitchens treated differently?",
+      "a": "Yes. The source page identifies compact galley, single-wall and apartment kitchens as common requests, with attention to storage, bench space, owners corporation documentation and acoustic underlay where they apply."
+    },
+    {
+      "q": "Is custom cabinetry always necessary?",
+      "a": "No. The source page says period terraces, Edwardians and bungalows may suit made-to-measure joinery rather than a flat-pack run, but the right choice depends on the brief, finish style, floor plan and budget."
+    },
+    {
+      "q": "What should I ask before accepting a quote?",
+      "a": "Ask whether the quote is fixed price, what variations process applies, whether soft-close hardware is included, what lead times apply to cabinetry and stone, and whether domestic building insurance is relevant to the contract value."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Melbourne Kitchen Reno publishes a framework where homeowners provide kitchen, suburb, scope and rough budget details before a renovator callback.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a VBA-registered renovator reviews project size, style and timeline before contacting the homeowner.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says full kitchen renovations can include new cabinetry, benchtops, plumbing and electrical updates, splashback and soft-close hardware.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says the renovator runs design, manufacture, demolition and install on a fixed-price written contract.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says period terraces, Edwardians and bungalows across Melbourne suit made-to-measure joinery rather than a flat-pack run.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page flags owners corporation documentation, compact layouts, acoustic underlay and clever storage for apartment work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names Richmond, Brunswick, Footscray and the inner city in relation to apartment kitchen work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says most Melbourne kitchen renovations land between $25,000 and $60,000 fully fitted.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a budget refresh typically starts around $12,000 to $30,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says premium renovations with natural stone, custom joinery and a butler's pantry can exceed $80,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says those cost figures are indicative and the renovator provides a written fixed-price quote.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a mid-range full renovation takes roughly 6 to 12 weeks from contract signing to handover.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says cabinetry and stone fabrication take around 4 to 6 weeks as a lead-in.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says on-site work typically runs 2 to 4 weeks once cabinetry is on site.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says finishing adds 1 to 2 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says lead times on cabinets, stone and appliances drive the front half of the project.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a butler's pantry is a secondary prep and storage room behind the main kitchen, often with a second sink and bench.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says most quality Melbourne kitchen renovations include soft-close runners and hinges as standard, and readers should confirm hardware brand and inclusion in the base price.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says compact galley, single-wall and apartment kitchens are common requests across inner Melbourne.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a fixed-price written contract, transparent variations process and domestic building insurance apply where the contract value requires it.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says free in-home design consults are offered with no fees and no obligation to proceed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says same-day replies are aimed for where possible.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Melbourne kitchen renovation scope, budget ranges, timelines, property fit and quote checks based on the supplied source page."
+}
