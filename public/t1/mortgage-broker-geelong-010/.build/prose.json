@@ -1,0 +1,223 @@
+{
+  "kicker": "Geelong Loan Guide",
+  "h1_tail": "For Clearer Borrower Decisions",
+  "meta_hook": "Compare lender fit, timing, documents and broker questions before you apply",
+  "takeaway": "For a Geelong borrower, the practical answer is to clarify deposit, income evidence, debts, property type, repayments and timing before lodging an application. The source page says its borrowing calculator applies a 3% serviceability buffer, and notes pre-approval may take a few days for a straightforward file or a week or more with some lenders. Standard residential broker help is typically lender-paid, but any fee should be disclosed upfront.",
+  "lead": "For borrowers comparing mortgage broker geelong options, the useful starting point is not a rate headline, but whether the lender, documents and property plan fit the decision in front of you.",
+  "lead_tail": "with lender fit, documents and timing checked before an application is lodged",
+  "stats": [
+    {
+      "value": "3%",
+      "label": "serviceability buffer noted on calculator"
+    },
+    {
+      "value": "4",
+      "label": "loan path steps described"
+    },
+    {
+      "value": "6",
+      "label": "borrower scenarios named"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Loan Question, Not The Rate",
+      "html": "<p><a href=\"https://www.homeloanbrokergeelong.com.au/\">Home Loan Broker Geelong</a> frames the local loan conversation around buying, refinancing or building, with the pressure points usually sitting in deposit, repayments, documents and finance deadlines. That is a more useful first filter than asking for the lowest advertised rate, because different lenders may treat income evidence, property type, equity and timing differently.</p><p>The published process is simple: share the pressure point, have a licensed broker check lender fit, compare realistic paths, then proceed with an application if the borrower is ready. A borrower can use that structure to prepare a sharper conversation before a purchase offer, refinance review or construction decision.</p><ul><li>Bring income evidence, current debts, living costs and deposit details.</li><li>Ask which lender questions are likely to matter before submitting.</li><li>Separate borrowing power from the repayment amount you are comfortable carrying.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>The page is most relevant to Geelong and Bellarine borrowers who already have a defined lending question. That may be a first home buyer working through grant, guarantee, deposit gap and LMI questions, a refinancer checking rate, fees, offset setup and equity, or an investor comparing interest-only, offset and portfolio servicing options.</p><p>Construction, self-employed and bridging scenarios are also named on the source page, so the checklist should be adapted to the paperwork and timing pressure in those cases. A useful companion for broader borrowing context is this <a href=\"https://home-loans-geelong-guide.netlify.app/\">Geelong home loan guide</a>, which keeps the focus on loan structure rather than suburb labels.</p><p>Locality is relevant when the property type, settlement timing or lender comfort changes the file. The source page names Geelong, Newtown, Highton, Belmont, Waurn Ponds, Armstrong Creek, Ocean Grove, Torquay and Drysdale as areas it discusses, but the practical question remains the same: will this borrower, property and deadline fit a suitable lender policy?</p>"
+    },
+    {
+      "h2": "Broker Versus Bank Direct",
+      "html": "<p>A bank can only offer its own loans, while a broker can compare loans from multiple lenders and help identify products that suit the borrower situation. That does not mean every borrower needs a broker. Some people prefer dealing with their existing bank directly, especially when the file is simple and they value one familiar contact.</p><p>The more complex the file, the more valuable the comparison step becomes. Self-employed income, investment servicing, equity-funded deposits, bridging needs or a tight settlement can all create questions that should be tested before lodging. The borrower should ask how the broker is paid, whether any fee applies, and which lenders were considered.</p><p>ASIC Moneysmart guidance on home loans is also useful here: comparison should look beyond the advertised rate and include fees, features, repayment type and whether the loan still suits the borrower's circumstances.</p>"
+    },
+    {
+      "h2": "Documents And Timing To Settle Early",
+      "html": "<p>The source page says pre-approval can sometimes be obtained within a few days when documents are ready and the situation is straightforward, while some lenders may take a week or more. It also says timing depends on lender workload and whether extra verification is needed, including for self-employed income.</p><p>That makes document readiness a practical risk control. Before an inspection weekend, refinance review or build discussion, prepare the evidence a lender will ask for and check whether anything is missing. A broker can then test the likely questions before the application goes in.</p><ol><li>Confirm the goal: purchase, refinance, investment, construction, bridging or review.</li><li>List income, dependants, existing commitments and deposit or equity position.</li><li>Identify the property type and any timing pressure, such as an offer deadline or settlement.</li><li>Ask whether the lender will need extra verification before approval.</li></ol>"
+    },
+    {
+      "h2": "Questions That Improve The Broker Conversation",
+      "html": "<p>Good borrower questions are specific enough to expose trade-offs. Ask how the recommended lender handles your income evidence, what happens if valuation, documents or settlement timing changes, and whether the repayment setup still works if rates or expenses move.</p><p>First home buyers should ask about the Victorian First Home Owner Grant, First Home Guarantee, LMI, deposit gaps and lender choice, because those items are named on the source page. Refinancers should ask whether switching is likely to leave them better off after current rate, fees, offset setup, equity and repayment pressure are reviewed. Investors should ask about interest-only structure, offset use, equity-funded deposit and portfolio servicing.</p><p>A construction borrower should ask when funds are released, what evidence the lender needs at each stage, and what happens if timing shifts. Do not rely on a general answer when the real file depends on lender policy and documents.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Choosing the right loan conversation",
+    "headers": [
+      "Path",
+      "Useful when",
+      "Main question to ask"
+    ],
+    "rows": [
+      [
+        "Broker comparison",
+        "You want lender options checked against income, deposit, property type and timing",
+        "Which lenders fit this file before I apply?"
+      ],
+      [
+        "Bank direct",
+        "You prefer your existing bank and the file is straightforward",
+        "How does this loan compare with suitable alternatives?"
+      ],
+      [
+        "Refinance review",
+        "Your current rate, fees, offset setup or repayment pressure needs testing",
+        "Will switching leave me better off after costs and structure are considered?"
+      ],
+      [
+        "Investment structure",
+        "You are assessing interest-only, offset or equity-funded deposit options",
+        "Does the portfolio still service under lender rules?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the pressure point",
+      "text": "State whether the issue is buying, refinancing, building, investing, bridging, deposit size, repayments, documents or a deadline."
+    },
+    {
+      "name": "Prepare the evidence",
+      "text": "Gather income details, commitments, dependants, deposit or equity information and property details before asking for borrowing guidance."
+    },
+    {
+      "name": "Compare lender fit",
+      "text": "Ask which lender policies may suit the file and which questions could slow approval."
+    },
+    {
+      "name": "Decide the next move",
+      "text": "Use the broker conversation to apply now, adjust the brief or wait until the file is stronger."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do Geelong borrowers usually pay a broker fee?",
+      "a": "The source page says most residential mortgage brokers in Australia are paid by lender commission and typically do not charge a direct fee for standard home or investment loans. It also says some may charge in complex situations and should disclose this upfront."
+    },
+    {
+      "q": "How long can pre-approval take?",
+      "a": "The source page says straightforward files with ready documents can sometimes receive pre-approval within a few days, while some lenders may take a week or more. Extra verification, including self-employed income checks, can affect timing."
+    },
+    {
+      "q": "Is a broker always better than going to a bank?",
+      "a": "No. A broker can compare multiple lenders, while a bank offers its own loans. The better path depends on how simple the file is, how much comparison the borrower wants and who explains the trade-offs clearly."
+    },
+    {
+      "q": "What should a first home buyer ask before inspecting properties?",
+      "a": "Ask about deposit gaps, LMI, lender choice and whether any first home buyer support mentioned by the broker applies to the file. The source page specifically names the Victorian First Home Owner Grant and First Home Guarantee as topics to work through."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page frames the local loan conversation around buying, refinancing or building, with pressure points including deposit, repayments, documents and finance deadlines.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published process is to share the pressure point, have a licensed broker check lender fit, compare realistic paths and then proceed with an application if ready.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names first home, refinance, investment, construction, self-employed and bridging scenarios.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says first home buyers can work through the Victorian First Home Owner Grant, First Home Guarantee, LMI, deposit gaps and lender choice.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says refinancers can review current rate, fees, offset setup, equity and repayment pressure.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says investors can compare interest-only, offset, equity-funded deposit and portfolio servicing options.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names Geelong, Newtown, Highton, Belmont, Waurn Ponds, Armstrong Creek, Ocean Grove, Torquay and Drysdale as areas it discusses.",
+      "source": "money page"
+    },
+    {
+      "claim": "A bank offers its own loans, while a broker can compare loans from multiple lenders and help identify products that suit the borrower situation.",
+      "source": "money page"
+    },
+    {
+      "claim": "Standard residential mortgage brokers in Australia are typically paid by lender commission and may not charge a direct fee, but some may charge in complex situations and should disclose this upfront.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart home loan guidance supports comparing home loans beyond the advertised rate, including fees, features and loan suitability.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "The source page says its borrowing calculator applies a 3% serviceability buffer.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says pre-approval can sometimes be obtained within a few days when documents are ready and the situation is straightforward, while some lenders may take a week or more.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says timing depends on lender workload and whether extra verification is needed, including for self-employed income.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Geelong borrower decisions around broker comparison, bank-direct comparison, refinance checks, investment structure and application readiness."
+}
