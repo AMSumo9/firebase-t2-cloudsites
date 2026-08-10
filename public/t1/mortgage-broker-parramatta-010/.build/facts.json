@@ -1,0 +1,304 @@
+{
+  "node_id": "homeloanbrokerparramatta-010",
+  "money_domain": "homeloanbrokerparramatta.com.au",
+  "money_home_url": "https://www.homeloanbrokerparramatta.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/mortgage-broker-parramatta-010/",
+  "live_url": "https://sites-e470-1.web.app/mortgage-broker-parramatta-010/",
+  "subdomain": "mortgage-broker-parramatta",
+  "gh_repo": null,
+  "primary_kw": "mortgage broker parramatta",
+  "kw_slug": "mortgage-broker-parramatta",
+  "anchor_kw": "mortgage broker parramatta",
+  "brand": "Home Loan Broker Parramatta",
+  "target_page_url": "https://www.homeloanbrokerparramatta.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "homeloanbrokerparramatta-001",
+    "url": "https://home-loans-parramatta-guide.vercel.app/",
+    "primary_kw": "home loans parramatta"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\homeloanbrokerparramatta.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Mortgage Broker Parramatta",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "SAT Home Loan",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Low Doc Home Loan",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Aussie Parramatta",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Parramatta Mortgage Brokers",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Greenline Home Loans",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "The Finance Group",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "GREENLINE FINANCIAL SERVICES GROUP PTY LTD",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Parramatta",
+        "type": "LOCATION",
+        "salience": 0.94
+      },
+      {
+        "name": "Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 0.925
+      },
+      {
+        "name": "Bad credit home loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Inovayt",
+        "type": "ORGANIZATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Home Loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Finance & Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "First home buyers loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Refinancing home loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Investment property loan",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "2nd Mortgage",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.895
+      },
+      {
+        "name": "Parramatta, NSW",
+        "type": "LOCATION",
+        "salience": 0.88
+      },
+      {
+        "name": "Residential Home Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Home Loan Refinancing",
+        "type": "SERVICE",
+        "salience": 0.87
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.867
+      },
+      {
+        "name": "SMSF Loans",
+        "type": "SERVICE",
+        "salience": 0.855
+      },
+      {
+        "name": "Self-employed home loan",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "First Home Buyer",
+        "type": "CONCEPT",
+        "salience": 0.85
+      },
+      {
+        "name": "Investment Property",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Commercial Loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Equipment Finance",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Low deposit home loan",
+        "type": "SERVICE",
+        "salience": 0.85
+      }
+    ],
+    "lsi_keywords": [
+      "mortgage broker Parramatta",
+      "home loan broker Greater Western Sydney",
+      "first home buyer loans Parramatta",
+      "investment property home loans NSW",
+      "mortgage broker NSW 2150",
+      "refinancing home loans Parramatta",
+      "construction loans Greater Western Sydney",
+      "bridging loans Parramatta",
+      "debt consolidation home loans",
+      "business loans Parramatta",
+      "asset finance Greater Western Sydney",
+      "car loans Parramatta",
+      "personal loans Parramatta",
+      "financial planning Parramatta",
+      "Aussie Home Loans Parramatta"
+    ]
+  },
+  "image": {
+    "file": "mortgage-broker-parramatta.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-10",
+  "money_home_text": "Home Loan Broker Parramatta | Compare Loan Options Skip to content Home Loan Broker Parramatta Home Services Locations Tools Resources About Contact Loan Review Open menu Home Services Locations Tools Resources About Contact Parramatta home-loan planning Professional Home Loan Broker in Parramatta A home loan feels easier once the messy questions are out in the open: deposit, repayments, grants, strata, income documents and lender fit. We help Parramatta borrowers sort those questions before they commit to a lender or make an offer under pressure. Book a Review Explore Loan Services First-home focus Grant, duty and deposit planning for buyers entering the market. Refinance clarity Check switching value, equity use and fixed-rate expiry options before moving lenders. Local coverage Grounded around Parramatta, Westmead, Northmead, Merrylands, Oatlands and nearby suburbs. Start from the right home loan section Services Choose the borrowing path that matches your purchase, refinance or investment goal. Open page -&gt; Free Tools Use the borrowing-power calculator and planning checklist before you enquire. Open page -&gt; Resources Find practical guides built for first-home buyers, refinancers and investors. Open page -&gt; About See how we help borrowers prepare for a better loan decision. Open page -&gt; Contact Use the enquiry form when you want deposit, refinance or pre-approval pressure checked. Open page -&gt; Loan paths Home loan comparison built around how Parramatta buyers actually search The strongest loan conversations start with the real pressure point. Some buyers need to know whether a five percent deposit is enough. Others need a refinance review before a fixed rate ends, a cleaner pre-approval before auction, or a lender that understands self-employed income. We help separate those paths so the next step is specific, not a generic rate hunt. First Home Buyer Loans Deposit strategy, NSW grant and duty checks, LMI trade-offs and lender comparison for first-home buyers under pressure. View service -&gt; Low Deposit Home Loans 5-10% deposit pathways, guarantor structures, LMI trade-offs and lender policy comparison for buyers trying to enter sooner. View service -&gt; Home Loan Pre-Approval Borrowing range, document readiness and lender fit before auction, offer or a serious property search. View service -&gt; Refinance Home Loans Rate review, fixed-rate expiry, equity access and switching analysis for borrowers wondering whether the current loan still fits. View service -&gt; Investment Property Loans Investor lending structures, servicing pressure, rental assumptions and lender appetite across the Parramatta catchment. View service -&gt; Self-Employed Home Loans Tax-return, BAS and business-income lending pathways for company owners, contractors and sole traders who need the file explained properly. View service -&gt; Why Parramatta buyers ask for a loan review First-home buyer and refinance support We structure the first review around the pressure points Parramatta borrowers actually feel: deposit, pre-approval, refinance, investor lending and income evidence. Free pre-approval review You can map borrowing range, documents and lender fit before committing to one bank or making an offer under time pressure. Parramatta-wide suburb coverage Support is shaped around apartment-heavy pockets like Harris Park and Westmead through family suburbs such as Oatlands, Ermington and Northmead. Current NSW scheme context First-home and grant guidance is checked against Revenue NSW, Housing Australia and APRA settings so borrowers avoid stale assumptions. Loan review Bring the scenario before the lender shortlist narrows The form works best when it includes the target suburb, rough purchase range and the question that is blocking progress. That could be deposit size, refinancing value, pre-approval timing or self-employed document readiness. Buyers across Parramatta, Harris Park, Rosehill, Granville, Westmead and nearby suburbs commonly use this step to pressure-test the next move before they commit to a bank conversation. Request a Parramatta loan review Share the purchase goal, loan question, suburb and pressure point so the next step can stay practical. Your name Phone Email Suburb / Postcode What are you trying to solve? Request Review Your details are only used to arrange your enquiry. See our privacy policy . Common questions Four home loan questions that come up early These are the questions buyers usually want answered before the property shortlist becomes urgent. The full FAQ expands into suburb and service-specific detail. How much deposit do I need to buy in Parramatta? ⌄ Deposit needs change by lender, property type and whether LMI or a guarantee is in the structure. Many buyers start by checking what the monthly repayment still looks like after rates, strata and moving costs are included. What is the NSW First Home Owner Grant? ⌄ The NSW First Home Owner Grant currently applies to eligible new homes within the state caps. It is most useful when it is tested alongside duty settings, deposit size and the lender&#39;s own policy rather than treated as a shortcut on its own. Do first home buyers pay stamp duty in NSW? ⌄ Some first-home buyers qualify for a full exemption or a concessional rate depending on the purchase price and eligibility. It is worth checking the exact thresholds before the suburb shortlist becomes too narrow. Can a self-employed borrower still get a home loan? ⌄ Yes, although lender choice and document quality matter more. Tax returns, BAS history, entity structure and the timing of the purchase can all change which lenders are realistic. Read the full FAQ -&gt; Parramatta home-loan help Need a cleaner next step on deposit, refinance or pre-approval planning? Use the contact page when you want the loan question framed clearly before the next lender conversation. Go to Contact Home Loan Broker Parramatta Helping buyers, refinancers and investors compare home loan o",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.homeloanbrokerparramatta.com.au/services/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/",
+    "https://www.homeloanbrokerparramatta.com.au/tools/borrowing-power-calculator/",
+    "https://www.homeloanbrokerparramatta.com.au/resources/",
+    "https://www.homeloanbrokerparramatta.com.au/services/first-home-buyer-loans/",
+    "https://www.homeloanbrokerparramatta.com.au/services/low-deposit-home-loans/",
+    "https://www.homeloanbrokerparramatta.com.au/services/home-loan-pre-approval/",
+    "https://www.homeloanbrokerparramatta.com.au/services/refinance-home-loans/",
+    "https://www.homeloanbrokerparramatta.com.au/services/investment-property-loans/",
+    "https://www.homeloanbrokerparramatta.com.au/services/self-employed-home-loans/",
+    "https://www.homeloanbrokerparramatta.com.au/faq/",
+    "https://www.homeloanbrokerparramatta.com.au/tools/first-home-buyer-checklist/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/parramatta/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/harris-park/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/rosehill/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/granville/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/westmead/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/northmead/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/north-parramatta/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/oatlands/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/dundas/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/rydalmere/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/ermington/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/guildford/",
+    "https://www.homeloanbrokerparramatta.com.au/locations/merrylands/"
+  ],
+  "firebase_path": "mortgage-broker-parramatta-010"
+}

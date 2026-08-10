@@ -1,0 +1,222 @@
+{
+  "kicker": "Parramatta Loans",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare deposit, refinance, pre-approval and lender-fit questions before you apply",
+  "takeaway": "Parramatta borrowers commonly need a clearer answer on deposit size, pre-approval, refinance value, investor lending or self-employed income evidence before choosing a lender. The source page names six loan paths and specifically notes 5-10% low-deposit pathways, a free pre-approval review, NSW grant and duty checks, LMI trade-offs, equity access and fixed-rate expiry reviews. Treat those as planning prompts, then confirm current policy, eligibility and repayments before acting.",
+  "lead": "For buyers comparing a mortgage broker parramatta option, the useful starting point is not a headline rate alone, but whether the file is ready for lender scrutiny.",
+  "lead_tail": "with the next decision framed around deposit, documents and lender fit",
+  "stats": [
+    {
+      "value": "5-10%",
+      "label": "low deposit pathways noted"
+    },
+    {
+      "value": "6",
+      "label": "loan paths named"
+    },
+    {
+      "value": "Free",
+      "label": "pre-approval review noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the pressure point",
+      "html": "<p><a href=\"https://www.homeloanbrokerparramatta.com.au/\">Home Loan Broker Parramatta</a> presents the loan conversation around practical borrower pressure points: deposit, repayments, grants, strata, income documents and lender fit. That is a better frame than asking for a rate quote before the purchase goal, property type and evidence file are clear.</p><p>The published service paths point to first-home buyer loans, low deposit loans, pre-approval, refinancing, investment property lending and self-employed home loans. Those categories are useful because each one changes the questions to ask. A first buyer may need to test deposit, duty and grant assumptions. A refinancer may need to compare switching value, fixed-rate expiry and equity use. A self-employed borrower may need to explain income through tax returns, BAS history and business structure.</p><ul><li><strong>Before an offer:</strong> check borrowing range, documents and lender fit before auction or a serious property search.</li><li><strong>Before refinancing:</strong> compare the current loan against switching costs, equity goals and the reason for moving lenders.</li><li><strong>Before choosing a lender:</strong> identify whether deposit, income evidence, property type or timing is the limiting issue.</li></ul>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for Parramatta-area borrowers who are close enough to a decision that vague borrowing advice is no longer useful. The source page describes support for buyers, refinancers and investors around Parramatta, Westmead, Northmead, Merrylands, Oatlands and nearby suburbs, with extra mention of apartment-heavy pockets such as Harris Park and Westmead and family suburbs such as Oatlands, Ermington and Northmead.</p><p>The locality detail matters when it changes the file. Strata can affect how repayments and ongoing costs feel. A pre-approval can be more urgent when a buyer is preparing for auction or making an offer under pressure. A refinance review can become time-sensitive when a fixed rate is ending. None of those points requires assuming a special suburb rule. They require a cleaner fact pattern before lender comparison begins.</p><p>For a broader primer on local borrowing terms and home loan pathways, the sibling <a href=\"https://home-loans-parramatta-guide.vercel.app/\">Parramatta home loans guide</a> is a useful companion reference.</p>"
+    },
+    {
+      "h2": "Deposit and first-home checks",
+      "html": "<p>The source page repeatedly treats first-home planning as a combined deposit, duty, grant and lender-policy question. It notes first-home focus, NSW grant and duty checks, LMI trade-offs and low deposit pathways, including 5-10% deposit pathways. That does not mean every borrower with a small deposit has the same answer. It means the deposit conversation should include both access and after-settlement affordability.</p><p>A first buyer should ask what the monthly repayment looks like after rates, strata and moving costs are considered. They should also ask whether a guarantor structure, LMI, a larger deposit or a different lender policy changes the result. ASIC Moneysmart's home loan guidance is a sensible external reference for comparing loans, understanding repayments and checking costs before signing a mortgage.</p><p>Useful questions to take into a review include: What deposit figure is being tested? Is the property new or established? Are duty or grant assumptions current? Is LMI part of the structure? What documents are needed before a lender will treat the application seriously?</p>"
+    },
+    {
+      "h2": "Refinance and investor decisions",
+      "html": "<p>Refinancing is not just a rate comparison. The source page identifies rate review, fixed-rate expiry, equity access and switching analysis as refinance issues. A borrower can use that list to separate a genuine saving from a move that creates new costs or does not support the next goal.</p><p>Investment property lending needs a different conversation again. The source page refers to investor lending structures, servicing pressure, rental assumptions and lender appetite across the Parramatta catchment. That supports a practical review of whether the loan structure fits the planned hold period, repayment preference and future borrowing needs. ASIC Moneysmart's property investment material is a useful authority for checking broader investment risks and costs before relying on rent or tax outcomes in a purchase decision.</p><p>Where the file includes debt consolidation, equity release, an interest-only request or a second property, the borrower should ask how the lender assesses purpose, repayments and exit plans. Avoid turning a refinance into a shortcut for unrelated spending unless the full loan cost is understood.</p>"
+    },
+    {
+      "h2": "Self-employed and document-heavy files",
+      "html": "<p>The source page says self-employed borrowers may still get a home loan, but lender choice and document quality matter more. It names tax returns, BAS history, entity structure and purchase timing as factors that can change which lenders are realistic. That is the practical centre of a low doc or business-income conversation.</p><p>A company owner, contractor or sole trader should prepare the income story before chasing a lender shortlist. The broker review should explain what income period is being relied on, whether the business structure is clear, and whether the application timing creates avoidable friction. The question is not whether self-employment is acceptable in the abstract. It is whether the actual documents support the requested loan.</p><p>Business loans, equipment finance, car loans and personal loans appear in the topic set around this niche, but the supplied page is centred on home-loan planning. If those debts exist, raise them because they may affect serviceability, not because they should be rolled into a mortgage without a separate cost discussion.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Borrower scenario comparison",
+    "headers": [
+      "Scenario",
+      "Main question",
+      "Evidence to prepare"
+    ],
+    "rows": [
+      [
+        "First-home buyer",
+        "Is the deposit, duty, grant and LMI position clear before making an offer?",
+        "Savings position, purchase target, eligibility questions and repayment allowance."
+      ],
+      [
+        "Refinancer",
+        "Does switching improve the position after costs, equity goals and fixed-rate expiry are considered?",
+        "Current loan details, repayment goal, equity purpose and discharge timing."
+      ],
+      [
+        "Self-employed borrower",
+        "Can the income file be explained in the way a lender will assess it?",
+        "Tax returns, BAS history, entity structure and timing notes."
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the goal",
+      "text": "Write down whether the issue is purchase, refinance, investment, pre-approval, deposit size or income evidence."
+    },
+    {
+      "name": "Prepare the file",
+      "text": "Collect the documents that support income, savings, current debt and the property scenario before comparing lenders."
+    },
+    {
+      "name": "Test policy fit",
+      "text": "Ask which lender requirements are likely to matter for the deposit, property type, income structure and timing."
+    },
+    {
+      "name": "Compare the whole cost",
+      "text": "Review repayments, switching costs, LMI, strata and moving costs rather than judging the loan by the advertised rate alone."
+    },
+    {
+      "name": "Confirm before acting",
+      "text": "Check current NSW scheme settings, lender policy and eligibility before making an offer or signing loan documents."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a Parramatta buyer ask before seeking pre-approval?",
+      "a": "Ask whether the borrowing range, deposit, documents and lender fit are clear enough for an auction, offer or serious property search. The source page specifically frames pre-approval around borrowing range, document readiness and lender fit."
+    },
+    {
+      "q": "Can a low deposit borrower still compare options?",
+      "a": "Yes, the source page refers to 5-10% deposit pathways, guarantor structures, LMI trade-offs and lender policy comparison. The exact answer depends on the lender, property type and full borrower file."
+    },
+    {
+      "q": "What makes a refinance review useful?",
+      "a": "A useful review checks the current loan against rate, fixed-rate expiry, equity access, switching costs and the reason for refinancing. It should not be reduced to the lowest advertised rate."
+    },
+    {
+      "q": "Can self-employed borrowers apply for a home loan?",
+      "a": "Yes. The source page says lender choice and document quality matter more, including tax returns, BAS history, entity structure and timing."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page presents home-loan planning around deposit, repayments, grants, strata, income documents and lender fit.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names first-home buyer loans, low deposit loans, home loan pre-approval, refinance home loans, investment property loans and self-employed home loans as loan paths.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to 5-10% deposit pathways, guarantor structures, LMI trade-offs and lender policy comparison for low deposit borrowers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes a free pre-approval review focused on borrowing range, documents and lender fit.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes local coverage around Parramatta, Westmead, Northmead, Merrylands, Oatlands and nearby suburbs.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page mentions apartment-heavy pockets such as Harris Park and Westmead and family suburbs such as Oatlands, Ermington and Northmead.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page frames first-home support around deposit strategy, NSW grant and duty checks, LMI trade-offs and lender comparison.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart provides home loan guidance relevant to comparing loans, repayments and mortgage costs.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "The source page identifies rate review, fixed-rate expiry, equity access and switching analysis as refinance issues.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to investor lending structures, servicing pressure, rental assumptions and lender appetite across the Parramatta catchment.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart provides property investment guidance relevant to checking broader investment risks and costs.",
+      "source": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "claim": "The source page says self-employed borrowers can still get a home loan, although lender choice and document quality matter more.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names tax returns, BAS history, entity structure and purchase timing as factors for self-employed borrowers.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Parramatta home-loan planning for buyers, refinancers, investors and self-employed borrowers using the supplied source page and listed authorities."
+}
