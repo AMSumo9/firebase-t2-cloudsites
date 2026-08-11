@@ -1,0 +1,176 @@
+{
+  "kicker": "Melbourne Dining",
+  "h1_tail": "A Practical 2026 Guide",
+  "meta_hook": "compare categories, locations, reviews and booking checks before choosing",
+  "takeaway": "Melbourne diners can use the published directory to compare 9 provider types, including Asian, casual and family, fine dining, Italian, Modern Australian, seafood, steak and grill, vegetarian and vegan, and general restaurant listings. The page is free to browse and presents reviews, photos, pricing signals, direct contact options, quote requests, category browsing and suburb browsing as comparison inputs before a booking decision.",
+  "lead": "For diners comparing restaurants melbourne options, the useful starting point is matching the meal type, location, review evidence and booking needs before choosing a venue.",
+  "lead_tail": "with a practical way to compare dining options before making contact",
+  "stats": [
+    {
+      "value": "9",
+      "label": "provider types listed"
+    },
+    {
+      "value": "Free",
+      "label": "browse, compare and request quotes"
+    },
+    {
+      "value": "2026",
+      "label": "published directory footer year"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to read the directory before choosing",
+      "html": "<p><a href=\"https://www.bestmelbournerestaurants.com.au/\">Best Melbourne Restaurants</a> presents a dining directory, so use it for shortlisting rather than treating one listing as the answer. Start with the occasion, then check whether the listing gives enough detail for the next step, such as a menu check, booking enquiry, function question or direct contact request.</p><p>The useful filters are category, location and listing depth. A family meal, plant based dinner, seafood booking or private dining enquiry will each need different checks before contact.</p><ul><li><strong>Use category first</strong> when the meal style is fixed, such as Italian, seafood, steak and grill, fine dining or vegetarian and vegan.</li><li><strong>Use location first</strong> when travel time, an event plan or a nearby suburb matters most.</li><li><strong>Use listing depth</strong> to decide whether to call, email, request a quote or open the venue profile.</li></ul>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide suits diners who want a grounded way to shortlist Melbourne venues without relying only on a star score or a category label. It is relevant for everyday meals, special occasion bookings, family friendly searches, private dining questions and plant based options across named Melbourne areas.</p><p>The source page names Flinders Lane, Carlton, St Kilda, Richmond, Collingwood, Fitzroy, Northcote, South Yarra, Docklands, Southbank, Glen Waverley, Kew and Prahran in its examples and browsing paths. Use those names as search paths, then ask venue specific questions. A Southbank steakhouse search, a Carlton vegan search and a Flinders Lane Italian booking do not need the same checks.</p><p>Visitors may care most about a restaurant near a hotel, event or transport route. Locals may weigh repeat value, group size, dietary fit, noise tolerance and whether the venue suits a casual meal as well as a planned celebration.</p>"
+    },
+    {
+      "h2": "Turn categories into booking questions",
+      "html": "<p>The directory groups venues into Asian, casual and family, fine dining, Italian, Modern Australian, general restaurants, seafood, steak and grill, and vegetarian and vegan. Treat those labels as prompts for sharper questions. Fine dining usually calls for a menu and availability check. A casual and family search should test seating, flexibility and whether mixed ages will be comfortable.</p><p>Italian appears in the featured listings through Vapiano Flinders Lane and The Hardware Club. Vapiano is described as a verified Italian venue in Melbourne, with its own site used for menu and private dining or function information. The Hardware Club is described as authentic Italian dining in Melbourne. One search may need current function details, while another may only need a table for a classic Italian meal.</p><p>Vegetarian and vegan has its own browsing path. Green Man's Arms is presented as a Carlton vegan restaurant offering plant based cuisine, which is useful when the whole meal should be vegetarian or vegan from the start.</p>"
+    },
+    {
+      "h2": "Read reviews with listing context",
+      "html": "<p>The featured listings show review counts and ratings: Vapiano Flinders Lane at 4.2 from 5328 reviews, Kantina at 5.0 from 2 reviews, The Hardware Club at 4.7 from 803 reviews, Green Man's Arms at 4.5 from 1216 reviews and Claypots Barbarossa at 4.4 from 795 reviews. Read those figures as comparison evidence, not a promise about your meal.</p><p>A high rating from a small number of reviews and a slightly lower rating from many reviews answer different questions. The first gives a limited public sample, while the second gives a broader signal. Check the description, category, photos and contact path before booking.</p><p>The page also points readers to photos, services and pricing signals. A stronger shortlist is the one where category, location, review base, menu information and contact options support the same choice.</p>"
+    },
+    {
+      "h2": "Contact and confirmation checks",
+      "html": "<p>The published process is to search by provider type or location, compare reviews, photos, services and pricing, then contact the venue directly by call, email or quote request form. Before making contact, write down the details that affect the answer.</p><ul><li>Date, time and party size for a standard meal.</li><li>Dietary needs if the group includes vegetarian, vegan or other menu requirements.</li><li>Guest count, preferred format and menu expectations for a function or private dining enquiry.</li><li>Whether the location needs to fit an event, work plan, hotel stay or transport route.</li></ul><p>Do not treat a listing description as final confirmation. The page itself says to check current menus, trading details and booking availability through the relevant venue information where needed, especially for functions, private dining and special occasion meals.</p>"
+    },
+    {
+      "h2": "Local browsing without overreading suburbs",
+      "html": "<p>Location browsing is strongest when it solves a real dining constraint. St Kilda, Richmond, Collingwood, Fitzroy and Carlton appear in vegetarian and vegan browsing paths. Seafood searches include Northcote, South Yarra, Docklands and Southbank. Steakhouse browsing includes Glen Waverley, Kew, South Yarra, Prahran, Richmond, Docklands and Southbank.</p><p>Use those paths to reduce travel friction and narrow the shortlist. If the meal follows an event near Southbank or Docklands, proximity may matter more than a small rating difference. If the group is already in Carlton, a nearby vegan or Italian option may be a better fit than a venue across town.</p><p>Category and suburb create the shortlist. Menu fit, availability, group needs and contact response decide whether the booking should go ahead.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Ways to compare Melbourne dining options",
+    "headers": [
+      "Comparison path",
+      "Best when",
+      "Check before booking"
+    ],
+    "rows": [
+      [
+        "Category first",
+        "The cuisine or meal style is already decided",
+        "Menu fit, dietary options and service format"
+      ],
+      [
+        "Location first",
+        "Travel time or event plans shape the night",
+        "Exact area, availability and contact details"
+      ],
+      [
+        "Review first",
+        "Public feedback is an early filter",
+        "Review count, rating context and listing description"
+      ],
+      [
+        "Function enquiry",
+        "The meal involves a group or private dining need",
+        "Guest count, menu format, quote request and current availability"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Pick the constraint",
+      "text": "Decide whether cuisine, location, dietary need, group size or occasion is driving the search."
+    },
+    {
+      "name": "Shortlist by category",
+      "text": "Use the listed provider types to remove venues that do not match the meal style."
+    },
+    {
+      "name": "Compare evidence",
+      "text": "Read ratings, review counts, photos, services and pricing signals together."
+    },
+    {
+      "name": "Confirm current details",
+      "text": "Check menus, trading details, booking availability and function information directly before committing."
+    },
+    {
+      "name": "Contact with specifics",
+      "text": "Send the date, time, party size, dietary needs and function requirements so the venue can respond clearly."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How should I start comparing Melbourne dining options?",
+      "a": "Start with the strongest constraint: cuisine, location, occasion, dietary need or group size. Then compare listings by reviews, photos, services, pricing signals and direct contact options."
+    },
+    {
+      "q": "Are review counts as important as star ratings?",
+      "a": "They should be read together. A rating from a small number of reviews gives a different signal from a similar rating across hundreds or thousands of reviews."
+    },
+    {
+      "q": "Can the directory confirm current menus or booking availability?",
+      "a": "The source page says diners should check current menus, trading details and booking availability through the relevant venue information where needed. That check matters most for functions and private dining."
+    },
+    {
+      "q": "Which dining categories are listed?",
+      "a": "The published categories include Asian, casual and family, fine dining, Italian, Modern Australian, restaurants, seafood, steak and grill, and vegetarian and vegan."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The source directory lists 9 provider types.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed provider types include Asian, casual and family, fine dining, Italian, Modern Australian, restaurants, seafood, steak and grill, and vegetarian and vegan.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says users can browse listings, read reviews, compare services, view photos, compare pricing and get quotes for free.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page describes a process of searching by provider type or location, comparing reviews, photos, services and pricing, then contacting by call, email or quote request form.",
+      "source": "money page"
+    },
+    {
+      "claim": "Vapiano Flinders Lane is shown as a verified Italian venue in Melbourne, with information about menus and private dining or functions available from the venue's own site.",
+      "source": "money page"
+    },
+    {
+      "claim": "The Hardware Club is described as authentic Italian dining in Melbourne.",
+      "source": "money page"
+    },
+    {
+      "claim": "Green Man's Arms is described as a Carlton vegan restaurant offering plant based cuisine.",
+      "source": "money page"
+    },
+    {
+      "claim": "Claypots Barbarossa is described as serving authentic Mediterranean cuisine in Melbourne.",
+      "source": "money page"
+    },
+    {
+      "claim": "The featured listings shown include Vapiano Flinders Lane, Kantina, The Hardware Club, Green Man's Arms and Claypots Barbarossa.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page shows Vapiano Flinders Lane at 4.2 from 5328 reviews, Kantina at 5.0 from 2 reviews, The Hardware Club at 4.7 from 803 reviews, Green Man's Arms at 4.5 from 1216 reviews and Claypots Barbarossa at 4.4 from 795 reviews.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names location browsing paths including St Kilda, Richmond, Collingwood, Fitzroy, Carlton, Northcote, South Yarra, Docklands, Southbank, Glen Waverley, Kew and Prahran.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page advises checking current menus, trading details and booking availability where relevant.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory footer is marked 2026.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to compare Melbourne dining listings by category, location, review evidence and direct booking checks."
+}
