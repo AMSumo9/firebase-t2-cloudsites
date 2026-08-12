@@ -12,6 +12,8 @@ two neutral shared-path sites:
 - T1 workers update only `public/t1/<slug>/`.
 - T2 workers update only `public/t2/<slug>/`.
 - GitHub Actions serialises deploys and publishes both complete trees.
+- Each deploy retains the current and two previous Hosting versions per live
+  site, preventing the shared project from exhausting its 10 GB storage quota.
 - Provider services are retained unless the user explicitly approves deletion.
 - Repository owner: `AMSumo9`; T2 node repositories receive only the scoped
   `AMSUMO_GITHUB_TOKEN` needed to update this aggregator.
