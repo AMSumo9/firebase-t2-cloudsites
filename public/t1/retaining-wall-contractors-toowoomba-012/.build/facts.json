@@ -1,0 +1,262 @@
+{
+  "node_id": "retainingwalltoowoomba-012",
+  "money_domain": "retainingwalltoowoomba.com.au",
+  "money_home_url": "https://www.retainingwalltoowoomba.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/retaining-wall-contractors-toowoomba-012/",
+  "live_url": "https://sites-e470-1.web.app/retaining-wall-contractors-toowoomba-012/",
+  "subdomain": "retaining-wall-contractors-toowoomba",
+  "gh_repo": null,
+  "primary_kw": "retaining wall contractors toowoomba",
+  "kw_slug": "retaining-wall-contractors-toowoomba",
+  "anchor_kw": "retaining wall contractors toowoomba",
+  "brand": "Retaining Wall Toowoomba",
+  "target_page_url": "https://www.retainingwalltoowoomba.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "retainingwalltoowoomba-003",
+    "url": "https://cloudsites-hub.pages.dev/sites-01/retainingwalltoowoomba-003/",
+    "primary_kw": "retaining wall cost toowoomba"
+  },
+  "socials_found": [
+    "https://www.facebook.com/retainingwalltoowoomba"
+  ],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\retainingwalltoowoomba.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "retaining wall construction",
+        "type": "SERVICE",
+        "salience": 0.28
+      },
+      {
+        "name": "Toowoomba",
+        "type": "LOCATION",
+        "salience": 0.24
+      },
+      {
+        "name": "concrete sleeper retaining wall",
+        "type": "SERVICE",
+        "salience": 0.22
+      },
+      {
+        "name": "concrete sleepers",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.2
+      },
+      {
+        "name": "timber sleeper retaining wall",
+        "type": "SERVICE",
+        "salience": 0.18
+      },
+      {
+        "name": "sandstone block retaining wall",
+        "type": "SERVICE",
+        "salience": 0.16
+      },
+      {
+        "name": "treated pine sleepers",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.14
+      },
+      {
+        "name": "sandstone blocks",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.13
+      },
+      {
+        "name": "treated pine sleeper wall",
+        "type": "SERVICE",
+        "salience": 0.12
+      },
+      {
+        "name": "engineered retaining wall",
+        "type": "SERVICE",
+        "salience": 0.12
+      },
+      {
+        "name": "Queensland Building and Construction Commission (QBCC)",
+        "type": "ORGANIZATION",
+        "salience": 0.12
+      },
+      {
+        "name": "besser block retaining wall",
+        "type": "SERVICE",
+        "salience": 0.11
+      },
+      {
+        "name": "Council permit threshold (1m wall height)",
+        "type": "OTHER",
+        "salience": 0.11
+      },
+      {
+        "name": "hardwood sleeper retaining wall",
+        "type": "SERVICE",
+        "salience": 0.1
+      },
+      {
+        "name": "concrete block retaining wall",
+        "type": "SERVICE",
+        "salience": 0.1
+      },
+      {
+        "name": "excavation and earthworks",
+        "type": "SERVICE",
+        "salience": 0.1
+      },
+      {
+        "name": "garden retaining wall",
+        "type": "SERVICE",
+        "salience": 0.1
+      },
+      {
+        "name": "galvanised steel posts",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.1
+      },
+      {
+        "name": "Toowoomba Regional Council",
+        "type": "ORGANIZATION",
+        "salience": 0.1
+      },
+      {
+        "name": "council approval retaining wall",
+        "type": "OTHER",
+        "salience": 0.1
+      },
+      {
+        "name": "ag pipe drainage installation",
+        "type": "SERVICE",
+        "salience": 0.09
+      },
+      {
+        "name": "site assessment and quote",
+        "type": "SERVICE",
+        "salience": 0.09
+      },
+      {
+        "name": "hardwood sleepers",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.09
+      },
+      {
+        "name": "ag pipe (slotted agricultural pipe)",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.09
+      },
+      {
+        "name": "concrete footings",
+        "type": "CONSUMER_GOOD",
+        "salience": 0.09
+      },
+      {
+        "name": "Darling Downs",
+        "type": "LOCATION",
+        "salience": 0.09
+      },
+      {
+        "name": "QBCC licence ($3,300+ work threshold)",
+        "type": "OTHER",
+        "salience": 0.09
+      },
+      {
+        "name": "structural engineer certification",
+        "type": "ORGANIZATION",
+        "salience": 0.09
+      },
+      {
+        "name": "sloping block",
+        "type": "OTHER",
+        "salience": 0.09
+      },
+      {
+        "name": "drainage detailing",
+        "type": "OTHER",
+        "salience": 0.09
+      }
+    ],
+    "lsi_keywords": []
+  },
+  "image": {
+    "file": "retaining-wall-contractors-toowoomba.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-12",
+  "money_home_text": "Retaining Wall Toowoomba | Sleepers & Sandstone Retaining Wall Toowoomba Sleepers, Sandstone, Engineered Wall Types Process Why Us FAQ Areas Call 07 4519 9340 Get a Quote Wall Types Process Why Us FAQ Areas Contact Call 07 4519 9340 Get a Quote Toowoomba &middot; Darling Downs Retaining Wall Toowoomba Concrete sleeper, sandstone block, timber sleeper and engineered walls, built across Toowoomba and the wider Darling Downs. Free site assessment, no obligation. Call Now - 07 4519 9340 Get a Free Quote QBCC-licensed network AS 4678 designed Structural certification Get Your Free Quote Tell us about the block. A local network builder will be in touch shortly. Your name Phone Email Tell us about the wall (height, length, materials) Send Enquiry No obligation. We will be in touch soon. Built for Local Ground Retaining Wall Toowoomba: Built for Darling Downs Slopes A retaining wall in Toowoomba is rarely a one-size job. The city sits on the crest of the Great Dividing Range at around 700 metres, with significant elevation change across suburbs. Darling Downs ground conditions, including reactive clay soils and steep blocks, mean every wall needs to suit its own slope, soil and access. Our network of retaining wall builders works right across the Toowoomba area, from Highfields in the north to Westbrook in the west, with most jobs sitting on Range escarpment blocks where the elevation actually moves the soil. A well-built wall does three real jobs locally: it stops soil loss on sloping blocks, it levels usable garden and entertaining space, and it protects driveways, paths and footings from undercutting. You get a free on-site assessment and a no-cost, no-obligation quote. The builder measures the slope, checks soil and access, and recommends the right wall type for your block and your budget. Get Your Free Site Assessment Wall Types Wall Types We Build Across Toowoomba From budget garden walls to engineered structural walls, with full drainage detailing on every job. Concrete Sleeper Walls Pre-cast concrete sleepers slotted between galvanised steel H-section posts. Strong, low-maintenance, and the most common modern build in Toowoomba backyards. Concrete sleeper retaining wall Toowoomba Timber Sleeper Walls Treated pine for budget garden walls, hardwood sleepers for longer-life jobs. Warm finish that blends into established landscaping. Treated pine &middot; Hardwood Sandstone Block Walls Natural sandstone blocks for a heritage or feature finish. Sits beautifully with established gardens and Range escarpment outlooks. Sandstone retaining wall Toowoomba Besser Block Walls Reinforced concrete besser blocks, render-ready. Suited to higher walls and engineered designs where you need real structural depth. Engineered &middot; Render-ready Engineered Structural Walls Anything taller, on a slope, or near a building. Designed in accordance with AS 4678, with a structural engineer's drawings and certification. AS 4678 &middot; Certifier sign-off Drainage &amp; Earthworks Ag pipe, geofabric, 20 mm drainage gravel and weep holes behind every wall. Excavation, levelling and backfill done in-house by the network. Ag pipe &middot; Geofabric &middot; Gravel Speak to a Wall Builder How We Work How We Build Your Wall A retaining wall job has three real stages. Here is how we handle each one. 01 Step 01 Tell Us About Your Site Send your name, contact details and a quick note about the wall: height, length, the materials you are considering, and photos if you have them. Takes about 60 seconds. 02 Step 02 Free On-Site Assessment and Quote A network builder visits the block, measures the slope, checks soil and access, and recommends the right wall type. Your itemised quote follows shortly afterwards. No obligation. 03 Step 03 We Design, Approve, and Build For engineered walls, the builder organises structural drawings, any soil report needed, and private certifier sign-off (see the Toowoomba Council fences and retaining walls guidance for when approval is needed). Then excavation, footings, posts or block courses, full drainage detailing, and clean backfill. Start with Step 1 Why Us Why Toowoomba Homeowners Choose Our Network We have done the vetting so you do not have to. Every builder in our network holds the appropriate QBCC licence, follows the AS 4678 design standard, and includes proper drainage detailing as standard on every job. Pillar 01 QBCC-Licensed Network Builders In Queensland, a QBCC licence is required to carry out or supervise building work valued at more than $3,300 (including labour, materials and GST). Retaining wall work above that value is treated as building work, so every builder in our network holds the appropriate licence (see the QBCC licence threshold for building work ). Pillar 02 Walls Designed to AS 4678 AS 4678, the Australian Standard for earth-retaining structures, governs retaining wall design. Engineered walls in our network are designed and built in line with it. For walls above the council exemption thresholds, you also get structural engineer drawings and private certifier sign-off as part of the job. Reference: HIA design guidance for retaining walls . Pillar 03 Drainage Done Properly, Every Job Ag pipe at the base, geofabric wrapping the drainage zone, 20 mm gravel backfill against the wall, and weep holes for block walls. Most local quotes leave drainage off the line items. Ours never do. Pillar 04 Local to the Darling Downs Network builders who understand the Toowoomba area, including the Range escarpment slopes in Rangeville and East Toowoomba, the reactive clay you find across the Darling Downs, and the access challenges on tighter inner blocks. Industry alignment QBCC HIA Master Builders QLD AS 4678 FAQ Retaining Wall Questions, Answered FAQ 01 How much does a retaining wall cost in Toowoomba? Costs vary by material, height, drainage requirements and site access. Typical Australian ranges for installed walls: treated pine sleepers $250 to $350 per square metre; hardwood",
+  "target_page_text": "",
+  "nav_candidates": [
+    "mailto:jobs@retainingwalltoowoomba.com.au"
+  ],
+  "firebase_path": "retaining-wall-contractors-toowoomba-012"
+}

@@ -1,0 +1,236 @@
+{
+  "kicker": "Darling Downs Walls",
+  "h1_tail": "A Practical Site Planning Guide",
+  "meta_hook": "compare wall types, approvals, drainage and quote questions before you build",
+  "takeaway": "For a Toowoomba retaining wall, check slope, soil, access, drainage and compliance before comparing prices. The published guide cites Toowoomba’s position around 700 metres on the Great Dividing Range, reactive clay and steep blocks across the Darling Downs, a Queensland QBCC licensing threshold above $3,300, AS 4678 design for engineered walls, and drainage details using ag pipe, geofabric, 20 mm gravel and weep holes where relevant.",
+  "lead": "For homeowners comparing retaining wall contractors toowoomba options, the useful starting point is the block itself, including height, slope, soil, access, material choice and drainage detail.",
+  "lead_tail": "with the block conditions and wall purpose clear before quotes are compared",
+  "stats": [
+    {
+      "value": "700 m",
+      "label": "approximate Toowoomba elevation cited"
+    },
+    {
+      "value": "$3,300+",
+      "label": "QBCC licensing threshold noted"
+    },
+    {
+      "value": "20 mm",
+      "label": "drainage gravel specified"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With Site Conditions",
+      "html": "<p><a href=\"https://www.retainingwalltoowoomba.com.au/\">Retaining Wall Toowoomba</a> describes local walls as site-specific because Toowoomba sits around 700 metres on the Great Dividing Range, with elevation changes, reactive clay and steep Darling Downs blocks influencing the build. Before choosing a finish, define what the wall must hold back, the likely height and length, and whether machinery can reach the work area.</p><p>A low garden edge and a structural wall near a driveway, path, footing or building should not be compared as the same job. Useful quote inputs include photos, access notes, preferred materials, wall purpose, visible slope and any existing drainage problem.</p><ul><li>Ask how excavation, levelling and backfill are treated.</li><li>Confirm whether drainage is included in the written scope.</li><li>Ask what changes if engineering or approval is required.</li></ul>"
+    },
+    {
+      "h2": "Choose Materials By Function",
+      "html": "<p>The published guide names concrete sleeper, timber sleeper, sandstone block, besser block and engineered structural walls. Concrete sleepers use pre-cast sleepers between galvanised steel H-section posts and are described as a common modern backyard option. Timber sleepers are framed around treated pine for budget garden walls and hardwood for longer-life jobs. Sandstone blocks suit a natural feature finish in established gardens.</p><p>Besser block walls are described as reinforced, render-ready and suited to higher or engineered designs. Engineered walls apply where a wall is taller, on a slope, or near a building. For a budget-focused companion read, see this guide to <a href=\"https://cloudsites-hub.pages.dev/sites-01/retainingwalltoowoomba-003/\">retaining wall cost in Toowoomba</a>.</p>"
+    },
+    {
+      "h2": "Use Drainage To Compare Quotes",
+      "html": "<p>Drainage detail is one of the clearest quote checks. The published guide specifies ag pipe at the base, geofabric around the drainage zone, 20 mm drainage gravel behind the wall and weep holes for block walls. A quote that names those items is easier to compare than a price that only says drainage is included.</p><p>Ask where water will be directed, whether slotted agricultural pipe is included, how gravel and geofabric are allowed for, and how weep holes are handled on blockwork. Also check whether backfill and clean-up are included, because those items affect the real project scope.</p>"
+    },
+    {
+      "h2": "Check Licensing, Approval And Engineering",
+      "html": "<p>The guide states that Queensland building work valued at more than $3,300 including labour, materials and GST requires the appropriate QBCC licence. It also says engineered walls are designed in line with AS 4678, the Australian Standard for earth-retaining structures.</p><p>Ask whether the job value requires a licensed contractor, whether the wall height or position triggers approval, and whether a structural engineer, soil report or private certifier is needed. For complex sites, compare quotes only after drawings, certification, excavation, footings, drainage and backfill are all visible in the scope.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Toowoomba and Darling Downs property owners planning a wall where slope, soil, height, access or drainage could change the build method. It is relevant when levelling usable garden or entertaining space, protecting driveways, paths or footings from undercutting, or replacing a wall on a difficult site.</p><p>It also helps owners choosing between concrete sleepers, treated pine, hardwood, sandstone, besser block and engineered options. If appearance is the main goal, material finish may lead. If the wall is higher, loaded, close to a structure, or on a difficult slope, engineering, certification, access and drainage should lead the quote discussion.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Retaining wall options and quote checks",
+    "headers": [
+      "Option",
+      "Best suited to",
+      "Quote checks"
+    ],
+    "rows": [
+      [
+        "Concrete sleeper wall",
+        "Modern backyard walls needing a strong, low-maintenance finish",
+        "Sleeper type, galvanised steel posts, footings, drainage and access"
+      ],
+      [
+        "Timber sleeper wall",
+        "Budget garden walls or warmer landscape finishes",
+        "Treated pine or hardwood, drainage, scope and backfill"
+      ],
+      [
+        "Sandstone block wall",
+        "Feature walls and established garden settings",
+        "Block supply, machine access, base preparation and drainage path"
+      ],
+      [
+        "Besser block wall",
+        "Higher or engineered designs needing structural depth",
+        "Reinforcement, render finish, weep holes, engineering and certification"
+      ],
+      [
+        "Engineered structural wall",
+        "Taller walls, sloping sites, or walls near buildings",
+        "AS 4678 design, drawings, soil report if needed and certifier sign-off"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the site",
+      "text": "Prepare wall height, wall length, photos, access notes and the reason the wall is needed."
+    },
+    {
+      "name": "Separate finish from structure",
+      "text": "Choose a preferred look, then ask whether site conditions require a different structural approach."
+    },
+    {
+      "name": "Check drainage scope",
+      "text": "Confirm ag pipe, geofabric, gravel backfill and weep holes where relevant are included in writing."
+    },
+    {
+      "name": "Ask about compliance",
+      "text": "Clarify QBCC licensing, approval, engineering drawings and certification before comparing final prices."
+    },
+    {
+      "name": "Compare complete quotes",
+      "text": "Assess excavation, footings, posts or blocks, drainage, backfill, engineering and clean-up together."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be included in a retaining wall quote?",
+      "a": "A useful quote should make the site assessment, material choice, excavation, footings, posts or block courses, drainage detail and backfill clear. For engineered walls, ask whether drawings, any soil report needed and certifier sign-off are included."
+    },
+    {
+      "q": "When does a Toowoomba wall need engineering?",
+      "a": "The published guide says engineered structural walls apply to anything taller, on a slope, or near a building. It also says those walls are designed in line with AS 4678."
+    },
+    {
+      "q": "Which wall material is best?",
+      "a": "The supplied facts do not identify one best material. Concrete sleepers, timber sleepers, sandstone blocks, besser blocks and engineered walls are described for different uses, so the choice depends on height, slope, access, finish, drainage and structural need."
+    },
+    {
+      "q": "Why is drainage such a major quote item?",
+      "a": "The published guide names ag pipe, geofabric, 20 mm drainage gravel and weep holes for block walls. Those details help homeowners compare whether two quotes cover the same work."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Toowoomba sits around 700 metres on the Great Dividing Range.",
+      "source": "money page"
+    },
+    {
+      "claim": "Darling Downs blocks can involve reactive clay and steep site conditions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide names concrete sleeper, timber sleeper, sandstone block, besser block and engineered structural retaining wall types.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper walls use pre-cast sleepers between galvanised steel H-section posts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls are described with treated pine for budget garden walls and hardwood for longer-life jobs.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sandstone block walls are described as a natural feature finish for established gardens.",
+      "source": "money page"
+    },
+    {
+      "claim": "Besser block walls are described as reinforced, render-ready and suited to higher or engineered designs.",
+      "source": "money page"
+    },
+    {
+      "claim": "Engineered structural walls are described for taller walls, sloping sites, or walls near a building.",
+      "source": "money page"
+    },
+    {
+      "claim": "Engineered walls are described as designed in line with AS 4678.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says Queensland building work valued at more than $3,300 including labour, materials and GST requires the appropriate QBCC licence.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide specifies ag pipe, geofabric, 20 mm drainage gravel and weep holes for block walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says quote inputs include height, length, materials and photos if available.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says an on-site assessment measures slope, checks soil and access, and recommends a wall type.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says engineered jobs can involve structural drawings, any soil report needed and private certifier sign-off.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Toowoomba wall planning, material selection, drainage scope, licensing questions and quote comparison."
+}
