@@ -1,0 +1,238 @@
+{
+  "kicker": "ACT Site Guide",
+  "h1_tail": "Practical Site Checks Before You Quote",
+  "meta_hook": "compare wall scope, drainage, access and approval questions before a site enquiry",
+  "takeaway": "A useful Canberra retaining wall enquiry starts with six recorded facts: grade, nearby loads, water paths, boundaries, access and visible symptoms. The published source page separates eight wall pathways, including concrete sleeper, masonry, stone, timber, gabion, drainage coordination, engineered approval ready work, and repair or replacement. It also treats building approval and development approval as separate checks, so material choice should come after site geometry, drainage and access are understood.",
+  "lead": "For homeowners comparing retaining walls canberra options, the practical starting point is not the wall face, but the height, water, load, boundary and access facts around it.",
+  "lead_tail": "so the first conversation is based on measured site conditions rather than a preferred material.",
+  "stats": [
+    {
+      "value": "8",
+      "label": "wall pathways described"
+    },
+    {
+      "value": "6",
+      "label": "site facts to record"
+    },
+    {
+      "value": "2",
+      "label": "approval pathways to check"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What To Record Before A Site Visit",
+      "html": "<p><a href=\"https://www.retainingwallcanberra.com.au/\">Retaining Wall Canberra</a> frames the first enquiry around measured site facts: retained height, cut and fill, loads, drainage, boundaries and access. That order is useful because a neat wall face can hide the real work behind it, especially where a slope, driveway, building edge or neighbouring ground changes the load on the retained soil.</p><p>Start with wide photographs from both ends before close ups. The source guide specifically recommends showing the whole geometry first, then adding detail photos of lean, cracking, decay, washout or persistent wetness. A single close photo of a failed corner rarely shows whether the wall is resisting a garden bed, a house bench, redirected water or a larger level change.</p><ul><li><strong>Grade:</strong> record the maximum retained height and the broader slope relationship.</li><li><strong>Loads:</strong> photograph what sits above or near the wall, including paving, driveways, structures and garden levels.</li><li><strong>Water:</strong> note where runoff, downpipes, irrigation or wet patches appear after rain.</li><li><strong>Access:</strong> describe how materials, machinery and spoil would move from the street to the work area.</li></ul>"
+    },
+    {
+      "h2": "Why Canberra Sites Need The Ground Read First",
+      "html": "<p>Canberra blocks have not all arrived at their levels in the same way. The source page contrasts older inner south gardens, hillside house benches in Weston Creek, Belconnen and Tuggeranong, and newer estate levels in Gungahlin and Molonglo. Those examples matter because a replacement wall in a mature garden is a different problem from a boundary wall shaped by subdivision earthworks.</p><p>For an older wall, the question may be whether the wall material has reached the end of its service life or whether the ground and water around it have changed. For a newer estate wall, the question may be how any change works with fixed levels, easements and neighbouring ground. The page also notes Canberra's cycle of frosty winters, dry spells and short intense storm bursts, so drainage and soil movement belong in the first discussion rather than as an afterthought.</p><p>A related crawl reference, <a href=\"https://s3.ap-southeast-2.amazonaws.com/retainingwallcanberra-001/retaining-walls-canberra.html\">a Canberra retaining wall site checklist</a>, follows the same practical theme: describe the site before comparing wall systems.</p>"
+    },
+    {
+      "h2": "Choosing A Wall Pathway Without Starting With Materials",
+      "html": "<p>The source page lists concrete sleeper, segmental block, reinforced masonry, sandstone, natural stone, timber, gabion, drainage coordination, engineered approval ready work, and repair or replacement pathways. Those are not interchangeable finishes. Each pathway depends on geometry, footing or embedment needs, footprint, water management, handling access and the condition of what already exists.</p><p>Concrete sleeper post and panel walls may suit straight or stepped residential lines when embedment, transitions, loads and drainage are designed as one scope. Segmental block and masonry options need their footprint and reinforcement requirements considered. Stone and gabion options rely on enough footprint and suitable foundation conditions. Timber may be relevant for appropriate lower terraces, with durability, moisture exposure and future replacement considered.</p><p>Repair and replacement should begin with cause led assessment. Movement, decay, washout and cracking are symptoms, not full diagnoses. A written scope should say whether the likely answer is repair, stabilisation or full replacement, and what assumptions sit behind that judgement.</p>"
+    },
+    {
+      "h2": "Approval, Design And Qualified Roles",
+      "html": "<p>The published guide keeps building approval and development approval as separate checks for retaining walls in Canberra. That distinction is important because a wall can be affected by retained height, nearby loads, boundaries, structures and the wider site arrangement. A homeowner does not need to solve the approval pathway before asking for help, but the enquiry should give enough information for the provider to identify whether simple assumptions are inappropriate.</p><p>Use the first conversation to ask who is responsible for design, certification, approval advice, excavation planning and drainage detail. The source page is careful about regulated work, saying certification and design belong with appropriately qualified professionals. Housing Industry Association and Master Builders Australia are relevant industry bodies for broader building context, while ASIC Moneysmart gives general renovation guidance for planning and managing renovation decisions.</p><ol><li>Ask whether building approval and development approval have been considered separately.</li><li>Ask what information an engineer or certifier would need if the wall is outside a simple pathway.</li><li>Ask how boundaries, nearby structures and access constraints will be recorded in the written scope.</li></ol>"
+    },
+    {
+      "h2": "What A Comparable Written Scope Should Contain",
+      "html": "<p>Two quotes are only comparable when they answer the same site problem. A useful written scope should record dimensions, symptoms, access, water paths and nearby structures, then connect those facts to the proposed pathway. If one response prices only a visible wall face and another includes excavation, drainage and spoil movement, the lower number may simply be answering a narrower question.</p><p>Drainage deserves a line item because the source page treats collection zones, separator, subsoil drain, outlet, excavation access and spoil movement as part of a workable wall scope. Access deserves the same attention. A site with tight side access, mature landscaping or a difficult spoil route may change how a wall can be built, even before material preference is discussed.</p><p>For retaining walls Canberra owners are trying to compare, a good enquiry does not need polished drawings. It needs measured height, wide photos, water observations after rain, boundary context and a plain note about what has changed. That gives the provider a fair basis for a site response and keeps approval, design and construction responsibilities visible.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Retaining wall enquiry paths by site condition",
+    "headers": [
+      "Situation",
+      "Main question",
+      "Useful evidence to provide"
+    ],
+    "rows": [
+      [
+        "Older or failing wall",
+        "Is the wall tired, or has the surrounding ground or water changed?",
+        "Wide photos, retained height, symptoms, wet areas and nearby loads"
+      ],
+      [
+        "New or changed landscape",
+        "Has paving, irrigation, a garden bed or downpipe changed the retained soil conditions?",
+        "Photos after rain, drainage paths, added surfaces and changed levels"
+      ],
+      [
+        "Estate or boundary wall",
+        "How do fixed levels, boundaries, easements or neighbouring ground affect the scope?",
+        "Boundary context, access route, level changes and approval questions"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the retained height",
+      "text": "Record the tallest retained point and the broader slope relationship rather than relying on one isolated measurement."
+    },
+    {
+      "name": "Photograph the whole wall",
+      "text": "Take wide photos from both ends before close ups of lean, cracking, decay, washout or persistent wetness."
+    },
+    {
+      "name": "Trace water paths",
+      "text": "Note where stormwater, irrigation, downpipes or wet patches appear, especially after rain."
+    },
+    {
+      "name": "Map access",
+      "text": "Describe how people, materials, equipment and spoil would move between the street and the wall."
+    },
+    {
+      "name": "Ask about approvals",
+      "text": "Check whether building approval and development approval need to be considered separately for the site."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What information should I send before asking for a Canberra retaining wall quote?",
+      "a": "Send the retained height, wide photos, close photos of symptoms, water observations, nearby loads, boundary context and access details. The source page says these measured facts should come before material selection."
+    },
+    {
+      "q": "Should I choose concrete sleeper, block, stone, timber or gabion first?",
+      "a": "No. The pathway should follow the site's geometry, loads, drainage, access and approval position. Material preference is useful only after those constraints are understood."
+    },
+    {
+      "q": "Why separate building approval and development approval?",
+      "a": "The published guide treats them as separate checks for Canberra projects. Ask the provider how each pathway is being considered, especially where height, boundaries, nearby structures or significant loads may affect the wall."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A useful Canberra retaining wall enquiry starts with six recorded facts: grade, nearby loads, water paths, boundaries, access and visible symptoms.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published source page separates eight wall pathways, including concrete sleeper, masonry, stone, timber, gabion, drainage coordination, engineered approval ready work, and repair or replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page treats building approval and development approval as separate checks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Retained height, cut and fill, loads, drainage, boundaries and access are measured site facts identified by the source page.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide recommends showing the whole geometry first, then adding detail photos of lean, cracking, decay, washout or persistent wetness.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page contrasts older inner south gardens, hillside house benches in Weston Creek, Belconnen and Tuggeranong, and newer estate levels in Gungahlin and Molonglo.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page notes Canberra's cycle of frosty winters, dry spells and short intense storm bursts.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists concrete sleeper, segmental block, reinforced masonry, sandstone, natural stone, timber, gabion, drainage coordination, engineered approval ready work, and repair or replacement pathways.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper post and panel walls may suit straight or stepped residential lines when embedment, transitions, loads and drainage are designed as one scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "Segmental block and masonry options need their footprint and reinforcement requirements considered.",
+      "source": "money page"
+    },
+    {
+      "claim": "Stone and gabion options rely on enough footprint and suitable foundation conditions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber may be relevant for appropriate lower terraces, with durability, moisture exposure and future replacement considered.",
+      "source": "money page"
+    },
+    {
+      "claim": "Movement, decay, washout and cracking are symptoms considered in repair and replacement assessment.",
+      "source": "money page"
+    },
+    {
+      "claim": "Certification and design belong with appropriately qualified professionals.",
+      "source": "money page"
+    },
+    {
+      "claim": "Housing Industry Association is a relevant industry body for broader building context.",
+      "source": "https://hia.com.au"
+    },
+    {
+      "claim": "Master Builders Australia is a relevant industry body for broader building context.",
+      "source": "https://www.masterbuilders.com.au"
+    },
+    {
+      "claim": "ASIC Moneysmart gives general renovation guidance for planning and managing renovation decisions.",
+      "source": "https://moneysmart.gov.au"
+    },
+    {
+      "claim": "The source page treats collection zones, separator, subsoil drain, outlet, excavation access and spoil movement as part of a workable wall scope.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers site facts, wall pathway choices, drainage, access and approval questions for Canberra retaining wall enquiries."
+}
