@@ -1,0 +1,295 @@
+{
+  "node_id": "melbournenorthkitchenrenovation-010",
+  "money_domain": "melbournenorthkitchenrenovation.com.au",
+  "money_home_url": "https://www.melbournenorthkitchenrenovation.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/kitchen-renovations-melbourne-north-010/",
+  "live_url": "https://sites-e470-1.web.app/kitchen-renovations-melbourne-north-010/",
+  "subdomain": "kitchen-renovations-melbourne-north",
+  "gh_repo": null,
+  "primary_kw": "kitchen renovations melbourne north",
+  "kw_slug": "kitchen-renovations-melbourne-north",
+  "anchor_kw": "kitchen renovations melbourne north",
+  "brand": "Melbourne North Kitchen Renovation",
+  "target_page_url": "https://www.melbournenorthkitchenrenovation.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": null,
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\melbournenorthkitchenrenovation.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "BP Building Concepts",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Kitchen Renovations",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Milan Cabinetmakers",
+        "type": "ORGANIZATION",
+        "salience": 0.975
+      },
+      {
+        "name": "Melbourne Northern Suburbs",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Kitchen Renovations Northern Suburbs",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Northern Suburbs",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Melbourne",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Thomastown",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Diamond Creek",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Eltham",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Heidelberg",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Rosanna",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Watsonia",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Eaglemont",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Greensborough",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Macleod",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Yallambie",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Custom Made Kitchens",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Master Builders Association",
+        "type": "ORGANIZATION",
+        "salience": 0.8
+      },
+      {
+        "name": "MILAN Kitchen Cabinets",
+        "type": "ORGANIZATION",
+        "salience": 0.8
+      },
+      {
+        "name": "Kitchen Cabinets",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Home Renovations",
+        "type": "SERVICE",
+        "salience": 0.75
+      },
+      {
+        "name": "Kitchen Renovations Designers",
+        "type": "SERVICE",
+        "salience": 0.75
+      },
+      {
+        "name": "Kitchen Renovations Builder",
+        "type": "SERVICE",
+        "salience": 0.75
+      },
+      {
+        "name": "Bathroom Renovations",
+        "type": "SERVICE",
+        "salience": 0.7
+      },
+      {
+        "name": "Commercial Carpentry",
+        "type": "SERVICE",
+        "salience": 0.7
+      },
+      {
+        "name": "LGS Framing",
+        "type": "SERVICE",
+        "salience": 0.7
+      },
+      {
+        "name": "Cladding Replacement",
+        "type": "SERVICE",
+        "salience": 0.7
+      },
+      {
+        "name": "Second Storey Extensions",
+        "type": "SERVICE",
+        "salience": 0.7
+      },
+      {
+        "name": "Sunroom Extensions",
+        "type": "SERVICE",
+        "salience": 0.7
+      }
+    ],
+    "lsi_keywords": [
+      "kitchen renovators northern suburbs melbourne",
+      "custom made kitchens north melbourne",
+      "kitchen renovation Thomastown",
+      "kitchen renovation Heidelberg",
+      "kitchen renovation Watsonia",
+      "kitchen renovation Greensborough",
+      "kitchen renovation Macleod",
+      "kitchen renovation Eltham",
+      "turnkey kitchen renovation service north melbourne",
+      "kitchen facelift northern suburbs melbourne",
+      "kitchen builder north melbourne",
+      "Master Builders Association kitchen renovators",
+      "kitchen renovation Diamond Creek",
+      "kitchen renovation Rosanna",
+      "award winning kitchen designs melbourne north"
+    ]
+  },
+  "image": {
+    "file": "kitchen-renovations-melbourne-north.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-13",
+  "money_home_text": "Melbourne North Kitchen Renovation | Kitchen Renovations Skip to content Melbourne North Kitchen Renovation Home Services Locations About Tools Contact Enquire Open menu Home Services Locations About Tools Contact Melbourne North Professional Kitchen Renovations in Melbourne North A kitchen renovation Melbourne North homeowners can plan properly starts with knowing which of six real service paths fits your kitchen, not a single generic quote. We help you work out the scope, get a realistic cost sense, and connect with the right VBA-registered specialist for the job, whether that is a full rebuild, custom cabinetry, or a heritage-sensitive update in an older Northcote or Thornbury home. - Six distinct services, from full renovations to period and heritage kitchens. - A visible-method cost calculator, not a black-box number. - Independent VBA-registered contractors and cabinetmakers carry out the work. Request a Project Review Browse Services VBA-registered network Written scope before work starts Fit for Melbourne North&#39;s housing mix Right trade for the right job Quick navigation Start where your kitchen project actually is Some visitors already know they want a full rebuild. Others are still weighing a facelift against a complete renovation, or want a cost sense before talking to anyone. These links get you to the most useful next step. Services Find the kitchen renovation service that matches your job, from a full rebuild to a benchtop swap. Locations See how kitchen renovation decisions change across Melbourne North&#39;s suburbs and housing stock. Cost Calculator Get an indicative Melbourne North kitchen renovation budget range. Checklist Work through the planning checklist before you request quotes. About How this network helps Melbourne North homeowners get a clearer first conversation. Contact Share your kitchen project and get a straightforward next step. Services overview Kitchen renovation Melbourne North homeowners can match to the right service A Northcote weatherboard with a narrow original floor plan is not the same job as a Mill Park brick-veneer with a builder-grade kitchen ready for an upgrade. We help you separate the real scope early: a complete rebuild, custom cabinetry alone, a stone benchtop swap, upfront design and planning, a facelift, or a period-home renovation that respects the house. That clarity means the first contractor conversation starts with the right brief, not a guess at what \"kitchen renovation\" means for your specific home. Full Kitchen Renovations Complete kitchen rebuilds from demolition and rough-in through cabinetry, benchtops and finishing. Custom Cabinetry &amp; Joinery Made-to-measure cabinets, drawers and butler&#39;s pantries built for your layout and storage. Stone &amp; Benchtop Installation Porcelain, sintered stone and natural stone benchtops, templated and installed to suit your kitchen. Why choose our network Why Melbourne North homeowners use this before requesting quotes VBA-registered network Every kitchen renovation is carried out by an independent building contractor or cabinetmaker registered with the Victorian Building Authority for the class of work involved. Written scope before work starts The quoting contractor sets out the renovation scope, exclusions and price in writing before any demolition or ordering begins. Fit for Melbourne North&#39;s housing mix Scopes are shaped around what your home actually is - a period weatherboard in Northcote, a brick-veneer in Reservoir, or a newer build in Mill Park - not a one-size layout. Right trade for the right job Cabinetmaking, stone installation, plumbing and electrical work are handled by specialists in each trade rather than one generalist covering everything. Project review Tell us your suburb, kitchen and budget range The useful details are simple: your suburb, whether the layout changes, roughly what you want to spend, and anything specific about the home (heritage overlay, apartment, narrow access). That turns a vague idea into a project a contractor can genuinely quote against. Preston Reservoir Thornbury Northcote Coburg Brunswick Tell us about your kitchen Share your suburb, kitchen size and rough scope. We review the details and point you to the right next step. Your name Phone Email Suburb / Postcode Tell us about your project Send My Kitchen Details Your details are only used to arrange your enquiry. See our privacy policy . Common Melbourne North kitchen renovation questions These four questions come up most often before someone requests a quote. How much does a kitchen renovation cost in Melbourne? In Melbourne, a full kitchen renovation typically ranges from the low tens of thousands into higher brackets depending on the size of the kitchen, quality of finishes, and whether you’re changing plumbing or layout. Costs increase if you choose custom cabinetry, stone benchtops, and premium appliances, or need structural work. It’s common to get multiple quotes from local cabinetmakers and builders to understand the realistic budget for your home. Many homeowners also allow a contingency of around 10–15% for unexpected issues. What is the average cost of a kitchen renovation in Melbourne’s northern suburbs? Across suburbs like Preston, Thornbury and Coburg, the average kitchen renovation cost is similar to the broader Melbourne market and usually depends more on the house and specification than the postcode. Older weatherboard and brick homes may need more electrical and plumbing updates, which adds to the budget. Getting quotes from a few local trades who regularly work in the north will give a more accurate range for your particular property. Is it worth renovating my kitchen before selling in Melbourne? A modern, well‑designed kitchen can help attract buyers and may improve the sale price, especially in popular inner‑north suburbs. However, overcapitalising is a risk, so it’s sensible to match the budget and style to the price bracket of similar homes nearby. Many age",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.melbournenorthkitchenrenovation.com.au/services/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/",
+    "https://www.melbournenorthkitchenrenovation.com.au/tools/cost-calculator/",
+    "https://www.melbournenorthkitchenrenovation.com.au/tools/checklist/",
+    "https://www.melbournenorthkitchenrenovation.com.au/services/full-kitchen-renovations/",
+    "https://www.melbournenorthkitchenrenovation.com.au/services/custom-cabinetry-and-joinery/",
+    "https://www.melbournenorthkitchenrenovation.com.au/services/stone-and-benchtop-installation/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/preston/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/reservoir/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/thornbury/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/northcote/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/coburg/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/brunswick/",
+    "https://www.melbournenorthkitchenrenovation.com.au/faq/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/fawkner/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/pascoe-vale/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/essendon/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/ivanhoe/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/heidelberg/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/bundoora/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/epping/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/south-morang/",
+    "https://www.melbournenorthkitchenrenovation.com.au/locations/mill-park/",
+    "https://www.melbournenorthkitchenrenovation.com.au/disclaimer/"
+  ],
+  "firebase_path": "kitchen-renovations-melbourne-north-010"
+}
