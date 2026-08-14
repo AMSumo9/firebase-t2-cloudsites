@@ -1,0 +1,232 @@
+{
+  "kicker": "Sydney Wall Guide",
+  "h1_tail": "A Practical Site Guide",
+  "meta_hook": "compare materials, drainage, approval triggers and quote questions before you build",
+  "takeaway": "In Sydney, a retaining wall can be exempt only when it is 600mm or less and meets every other Codes SEPP condition described by the source page. Above that, or where surcharge, setbacks, drainage, waterbody proximity or heritage conditions complicate the site, expect an approval pathway and engineering against AS 4678. The practical quote inputs are height, length, material, drainage route, access, boundary position and whether the wall is retaining soil, supporting a driveway or replacing a failed structure.",
+  "lead": "For homeowners comparing retaining wall builders sydney options, the useful starting point is not a material preference but the site conditions, approval trigger and drainage path behind the wall.",
+  "lead_tail": "with practical checks before a quote is requested",
+  "stats": [
+    {
+      "value": "600mm",
+      "label": "exempt height threshold described"
+    },
+    {
+      "value": "AS 4678",
+      "label": "engineering standard named"
+    },
+    {
+      "value": "6+",
+      "label": "wall and drainage service categories"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Ground And Load",
+      "html": "<p><a href=\"https://www.retainingwallssydney.net.au/\">Retaining Walls Sydney</a> frames the decision around what is under the block: sandstone ridges, shale-clay areas, sandy bayside pockets, drainage, wall height and whether the wall is holding back a garden terrace, boundary line or driveway. That order matters because a retaining wall is a small structure only when the ground, water and loading stay simple.</p><p>The first conversation with a builder should capture the height to be retained, the length of the wall, the slope above and below, nearby structures, access for excavation, stormwater connection and whether an old wall is bulging, cracked or leaning. Photos help, but measurements and site context usually decide whether the job remains a garden wall or moves into engineered retaining.</p><p>For a broader reader reference on terminology and common local questions, this <a href=\"https://s3.ap-southeast-2.amazonaws.com/retainingwallssydney-006/retaining-walls-sydney.html\">Sydney retaining walls guide</a> gives a related overview without replacing a site assessment.</p>"
+    },
+    {
+      "h2": "Material Choice Is A Site Decision",
+      "html": "<p>The source page names concrete sleeper, timber sleeper, besser block, sandstone, boulder and gabion systems. Those are not interchangeable finishes. A wall beside a driveway has a different job from a low garden terrace, and a replacement wall has to deal with whatever caused the first structure to fail.</p><p>Concrete sleepers are described as a durable steel-reinforced option set between galvanised posts. Timber sleepers are positioned for gardens, terraces and low boundary retaining. Besser block is described for taller engineered retaining and rendered finishes. Sandstone and boulder walls are linked to Sydney sandstone country and a battered-back, free-draining finish. Gabions are described as rock-filled wire baskets suited to sloping and erosion-prone sites.</p><p>A useful quote should explain why the proposed material suits the ground and load, not just what it looks like. Ask what happens behind the wall, how posts or footings are set, where water exits and whether the finished face needs a rendered, natural stone, sleeper or rock basket appearance.</p>"
+    },
+    {
+      "h2": "Drainage And Approval Checks",
+      "html": "<p>The published service text is explicit that drainage is part of the wall system. It names ag-drain, gravel, geofabric and connection to the site stormwater system. In practical terms, the hidden side of the wall should be discussed before the visible face, because retained soil and trapped water are the parts a homeowner cannot inspect once the backfill is closed.</p><p>The same source says walls above the 600mm exempt threshold or carrying a surcharge are designed to AS 4678 by a structural engineer and approved as complying development or through a council development application. It also says exempt development depends on clearing every relevant Codes SEPP condition, including boundary setback, separation from other walls, drainage connection, distance from waterbodies and heritage constraint.</p><ul><li>Ask whether the wall is under or over the 600mm threshold.</li><li>Ask whether a driveway, building, fence or slope creates surcharge.</li><li>Ask where the subsoil drainage connects.</li><li>Ask whether a CDC or council DA is expected.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most useful for Sydney homeowners dealing with sloping blocks, old sleeper walls, garden terraces, low boundary retaining, driveway support or a wall that may need replacement rather than cosmetic repair. It also applies where the location suggests different ground conditions, such as sandstone areas on the north shore and northern beaches, shale-clay areas through the inner west and western suburbs, or sandy bayside pockets around Botany Bay.</p><p>It is less useful for a reader looking only for decorative landscaping where no soil is retained. Even then, the same questions about drainage and boundary position are worth asking, because a wall that looks minor from the front may be retaining more load than expected at the back.</p><p>For owners unsure where the project sits, the safest brief is factual: wall height, wall length, suburb or postcode, whether it is on a boundary, what sits above it, what material is there now and whether water currently pools after rain.</p>"
+    },
+    {
+      "h2": "How To Compare Quotes",
+      "html": "<p>A retaining wall quote should be more than a line item for materials and labour. Compare whether each builder has priced excavation, spoil removal, drainage aggregate, geofabric, ag-drain, stormwater connection, posts or footings, engineering, approval support and reinstatement of nearby surfaces.</p><p>Be cautious about comparing a visible face against a complete wall system. A lower price can simply mean that drainage, approvals, difficult access or replacement of failed material has not been allowed for yet. The source page says cost is driven by material and wall face area, which is height times length, so a quote that does not clearly measure both is hard to compare.</p><p>For repairs, ask whether the proposal is assessment, partial repair or full replacement. Bulging, cracking and ageing timber sleeper walls are named by the source page as common repair and replacement contexts, but the correct response depends on the current wall, the soil behind it and the reason it has moved.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common retaining wall choices by use case",
+    "headers": [
+      "Option",
+      "Useful where",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Concrete sleeper",
+        "Sloping and split-level blocks needing a durable reinforced sleeper system",
+        "How are posts set, and where does the drainage discharge?"
+      ],
+      [
+        "Timber sleeper",
+        "Garden terraces and low boundary retaining",
+        "Is the wall height and loading still suitable for timber?"
+      ],
+      [
+        "Besser block",
+        "Taller engineered walls or rendered finishes",
+        "Is engineering required, and what approval pathway applies?"
+      ],
+      [
+        "Sandstone or boulder",
+        "Sites where a natural battered-back finish suits sandstone country",
+        "How will excavation, batter and drainage be handled?"
+      ],
+      [
+        "Gabion",
+        "Sloping or erosion-prone sites needing a free-draining rock basket wall",
+        "What rock fill, basket specification and foundation preparation are included?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the wall",
+      "text": "Record the approximate height and length, because wall face area is a key cost driver."
+    },
+    {
+      "name": "Describe the load",
+      "text": "Note any driveway, fence, building, slope or boundary condition above or near the wall."
+    },
+    {
+      "name": "Check drainage",
+      "text": "Ask where ag-drain, gravel, geofabric and stormwater connection are allowed for in the quote."
+    },
+    {
+      "name": "Confirm approvals",
+      "text": "Ask whether the wall clears the 600mm exempt threshold and other Codes SEPP conditions, or needs CDC or council DA assessment."
+    },
+    {
+      "name": "Compare full scope",
+      "text": "Compare excavation, spoil, drainage, engineering, approvals and reinstatement, not just the visible wall material."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do Sydney retaining walls always need council approval?",
+      "a": "No. The source page says a wall can be exempt development only if it is 600mm or less and also clears every other relevant Codes SEPP condition. If one condition is missed, a complying development certificate or development application may be needed."
+    },
+    {
+      "q": "Which material is best for a sloping block?",
+      "a": "There is no single best material. The source page describes concrete sleeper, timber, besser block, sandstone, boulder and gabion options, with the right choice depending on height, ground, drainage, finish and load."
+    },
+    {
+      "q": "What should be in a retaining wall quote?",
+      "a": "A useful quote should identify height, length, material, excavation, drainage, stormwater connection, access, engineering or approval requirements, and repair or replacement scope. Without those items, two prices may not be quoting the same job."
+    },
+    {
+      "q": "When does engineering become part of the discussion?",
+      "a": "The source page says walls above the 600mm exempt threshold or carrying a surcharge are designed to AS 4678 by a structural engineer. Nearby driveways, slopes or structures are reasons to ask this question early."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A retaining wall can be exempt development only if it is 600mm or less and meets every other relevant Codes SEPP condition described by the source page.",
+      "source": "money page"
+    },
+    {
+      "claim": "Walls above the 600mm exempt threshold or carrying a surcharge are described as needing AS 4678 design by a structural engineer and approval as complying development or through a council development application.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names boundary setback, separation from other walls, drainage connection, distance from waterbodies and heritage constraint as relevant exempt-development conditions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes concrete sleeper, timber sleeper, besser block, sandstone, boulder, gabion and drainage services.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper retaining walls are described as durable steel-reinforced concrete sleepers set between galvanised posts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls are described for gardens, terraces and low boundary retaining.",
+      "source": "money page"
+    },
+    {
+      "claim": "Besser block walls are described for taller engineered retaining and rendered finishes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sandstone and boulder walls are described as battered back and suited to Sydney sandstone country.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabion walls are described as rock-filled wire baskets suited to sloping and erosion-prone sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says drainage behind retaining walls includes ag-drain, gravel, geofabric and connection to the site stormwater system.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes Sydney ground contexts including sandstone ridges of the north shore and northern beaches, shale-clay areas through the inner west and western suburbs, and sandy bayside pockets around Botany Bay.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says cost is driven by material and wall face area, calculated as height times length.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names bulging, cracked and ageing timber sleeper walls as repair and replacement contexts.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical retaining wall planning, materials, drainage, approvals and quote checks for Sydney residential projects."
+}
