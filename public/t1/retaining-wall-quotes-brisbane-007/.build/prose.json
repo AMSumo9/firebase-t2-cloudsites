@@ -1,0 +1,243 @@
+{
+  "kicker": "Wall Quote Planning",
+  "h1_tail": "For Scope-First Comparisons",
+  "meta_hook": "compare scope, drainage, access and approvals before briefing trades",
+  "takeaway": "Start with scope before price. The supplied source says its planning material includes 17 location guides across all 6 Australian states and both mainland territories, and its enquiry process starts with 4 essentials before optional project details. A fair comparison should put dimensions, access, drainage, design, approvals and exclusions beside the total, because a wall-only figure can miss excavation, restoration and water-management assumptions.",
+  "lead": "For anyone using this guide to assess retaining wall quotes brisbane, the practical task is to turn the site, wall dimensions, access and water details into one comparable brief.",
+  "lead_tail": "so each provider can answer the same scope questions",
+  "stats": [
+    {
+      "value": "17",
+      "label": "location guides"
+    },
+    {
+      "value": "6",
+      "label": "Australian states covered"
+    },
+    {
+      "value": "4",
+      "label": "enquiry essentials"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Build the brief before comparing totals",
+      "html": "<p><a href=\"https://www.retainingwallpros.com.au/\">Retaining Wall Pros</a> frames quote preparation around scope because retaining walls are not always priced by the visible face alone. One quote may include drainage, excavation and restoration, while another may describe only the wall line. Put each provider's inclusions side by side before treating a lower total as better value.</p><p>The published guide gives a clear order of work: understand the wall system, compare whole-of-scope cost drivers, check the relevant authority pathway, then prepare photos and dimensions before requesting prices. That sequence helps keep the discussion about the real job rather than a loose rate.</p><ul><li>Measure the approximate length and record the highest and lowest retained height.</li><li>Photograph the wall line, slope, top, bottom and nearby structures.</li><li>Note gate width, stairs, side access and where equipment or spoil could move.</li><li>Describe ponding, outlets, erosion, staining and known stormwater connections.</li></ul>"
+    },
+    {
+      "h2": "What belongs inside a comparable quote",
+      "html": "<p>A quote can change when excavation, spoil movement, backfill, drainage, engineering, approvals, disposal or GST are treated differently. Ask each provider to write the assumptions down, especially where the site is hard to access or where water marks suggest drainage needs more than a casual allowance.</p><p>The source guide also warns against relying on one remembered height rule. Approval varies by address, and the relevant council or government source should be checked before relying on a threshold. A low wall can still carry extra load when a driveway, building or another terrace sits above it. Pools, boundaries and the destination of collected water can also change the answer.</p><p>For another editorial checklist on the same preparation issue, compare this <a href=\"https://aumedia.neocities.org/retaining-wall-quotes-brisbane/\">retaining wall quote guide</a>.</p>"
+    },
+    {
+      "h2": "Let the site narrow the material choice",
+      "html": "<p>The supplied material list includes concrete sleeper, timber sleeper, Besser or core-filled block, rock, boulder, sandstone and gabion walls. It does not present one universal best option. The useful question is which system suits the wall height, footprint, access, drainage, design needs and landscape context described in the brief.</p><p>Concrete sleeper walls are described as steel-post and reinforced concrete sleeper systems for garden, boundary and structural projects, scoped with access, drainage and approval needs. Timber sleepers are presented for suitable garden and terraced applications where exposure, drainage and maintenance are considered. Reinforced block systems are linked with footing, drainage and structural design. Rock, boulder and sandstone systems need footprint, batter, access, drainage and landscape context assessed before the price is compared.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to owners preparing a new wall, a repair or replacement, or an enquiry about drainage or water issues. It is also useful when the project need is still unclear, because the first decision is the information needed to make a provider's answer meaningful.</p><p>The same preparation helps garden terraces, boundary walls and walls affected by visible water. A small job still needs dimensions and photos. A constrained job needs those basics plus sharper questions about access, spoil movement, drainage, nearby structures and approval pathways. If the quote does not state what is included and excluded, ask for the scope to be rewritten before comparing the total.</p>"
+    },
+    {
+      "h2": "Questions to ask before accepting a price",
+      "html": "<p>Ask each provider to confirm the assumed wall system, excavation approach, drainage method, backfill, disposal, GST treatment and whether engineering or approval advice is included. Where the property has a slope, driveway, building, pool, boundary condition or another terrace above the wall, ask whether those conditions change the advice needed.</p><p>The supplied FAQ says neither lineal-metre nor square-metre rates are enough on their own. A rate can help only after retained height, site work, drainage, access, approvals and exclusions have been brought into the same scope. Clear exclusions are workable. Hidden exclusions make quote comparison unreliable.</p><ol><li>Ask what information would change the quote after inspection.</li><li>Ask whether water collection and discharge are included or assumed.</li><li>Ask which local authority source should be checked before relying on a height threshold.</li><li>Ask whether restoration after excavation is included.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Quote scope comparison points",
+    "headers": [
+      "Quote item",
+      "Why it matters",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "Wall system",
+        "Different systems suit different access, footing, drainage and landscape conditions.",
+        "Why is this system suitable for this site?"
+      ],
+      [
+        "Drainage",
+        "Water management can sit behind the visible wall and affect the installed scope.",
+        "What collection, filtration and discharge path is allowed for?"
+      ],
+      [
+        "Access and spoil",
+        "Restricted access can change excavation, equipment movement and disposal assumptions.",
+        "Where will machinery, materials and spoil move?"
+      ],
+      [
+        "Approvals and engineering",
+        "The source page says approval varies by address and should be checked locally.",
+        "Which current authority source applies to this property?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Collect dimensions",
+      "text": "Record approximate length plus highest and lowest retained height before requesting a quote."
+    },
+    {
+      "name": "Photograph the site",
+      "text": "Include the wall line, slope, top, bottom, nearby structures, access points and water signs."
+    },
+    {
+      "name": "Describe constraints",
+      "text": "Note gate width, stairs, side access, ponding, outlets, erosion and known stormwater connections."
+    },
+    {
+      "name": "Ask for inclusions",
+      "text": "Have each provider state whether drainage, backfill, engineering, approvals, disposal and GST are included."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Should retaining-wall quotes be compared per metre?",
+      "a": "Not on their own. The supplied FAQ says neither lineal-metre nor square-metre rates are enough unless height, drainage, access, site work, approvals and exclusions are being compared on the same scope."
+    },
+    {
+      "q": "What details make an enquiry easier to assess?",
+      "a": "The supplied page asks for location or postcode, project need and preferred contact as essentials, with optional material, timing, approximate length, retained height, access or drainage constraints and extra notes."
+    },
+    {
+      "q": "Does every retaining wall use the same approval rule?",
+      "a": "No. The source says approval varies by address and recommends opening the relevant council or government source before relying on a height threshold."
+    },
+    {
+      "q": "Which wall material is best?",
+      "a": "The supplied material list does not nominate one best system. It presents concrete sleeper, timber sleeper, reinforced block, rock, boulder, sandstone and gabion options as site-dependent choices."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The supplied source says its planning material includes 17 location guides across all 6 Australian states and both mainland territories.",
+      "source": "money page"
+    },
+    {
+      "claim": "The enquiry process starts with 4 essentials before optional project details.",
+      "source": "money page"
+    },
+    {
+      "claim": "A fair comparison should put dimensions, access, drainage, design, approvals and exclusions beside the total.",
+      "source": "money page"
+    },
+    {
+      "claim": "Retaining-wall quotes can differ when one includes drainage, excavation and restoration and another prices only the visible wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says to understand the wall system, compare whole-of-scope cost drivers, check the relevant authority pathway, then prepare photos and dimensions before requesting prices.",
+      "source": "money page"
+    },
+    {
+      "claim": "Useful enquiry details include approximate length plus highest and lowest retained height.",
+      "source": "money page"
+    },
+    {
+      "claim": "Useful site context includes photos of the wall line, slope, top, bottom and nearby structures.",
+      "source": "money page"
+    },
+    {
+      "claim": "Useful access details include gate width, stairs, side access and where equipment or spoil could move.",
+      "source": "money page"
+    },
+    {
+      "claim": "Useful water details include ponding, outlets, erosion, staining and known stormwater connections.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval varies by address and the relevant council or government source should be checked before relying on a height threshold.",
+      "source": "money page"
+    },
+    {
+      "claim": "A low wall can still carry extra load when a driveway, building or another terrace sits above it.",
+      "source": "money page"
+    },
+    {
+      "claim": "Pools, boundaries and the destination of collected water can change approval questions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed wall systems include concrete sleeper, timber sleeper, Besser or core-filled block, rock, boulder, sandstone and gabion walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper retaining walls are described as steel-post and reinforced concrete sleeper systems for garden, boundary and structural projects.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper retaining walls are described for suitable garden and terraced applications with exposure, drainage and maintenance considered.",
+      "source": "money page"
+    },
+    {
+      "claim": "Besser block retaining walls are linked with footing, drainage and structural design.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rock, boulder and sandstone systems are assessed for footprint, batter, access, drainage and landscape context.",
+      "source": "money page"
+    },
+    {
+      "claim": "Neither lineal-metre nor square-metre rates are enough on their own for comparing retaining-wall quotes.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers retaining-wall quote preparation, scope checks, drainage questions, material fit and approval prompts using the supplied Retaining Wall Pros source text."
+}
