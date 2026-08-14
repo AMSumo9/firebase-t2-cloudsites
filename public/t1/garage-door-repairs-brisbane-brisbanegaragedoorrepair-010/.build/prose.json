@@ -1,0 +1,244 @@
+{
+  "kicker": "Brisbane Door Repairs",
+  "h1_tail": "A Practical Homeowner Guide",
+  "meta_hook": "compare faults, quote inputs and repair paths before booking",
+  "takeaway": "For Brisbane homeowners, the practical answer is to identify the door fault before asking for a quote. The published service page separates repairs into 8 job types, including opener repair, spring repair, roller door repair, off-track doors, cable and roller replacement, remote programming, new installation and emergency repair. Its enquiry flow has 4 steps: describe the fault, get the right technician, confirm the repair path and book the next step.",
+  "lead": "For homeowners comparing garage door repairs brisbane options, the useful starting point is the door type, the fault pattern, the suburb access issue and whether repair or replacement is being discussed.",
+  "lead_tail": "with the fault, door style and quote path made clear",
+  "stats": [
+    {
+      "value": "8",
+      "label": "published service categories"
+    },
+    {
+      "value": "4",
+      "label": "enquiry steps"
+    },
+    {
+      "value": "1",
+      "label": "Brisbane service map"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the fault, not the brand of door",
+      "html": "<p><a href=\"https://www.brisbanegaragedoorrepair.au/\">Brisbane Garage Door Repairs</a> frames the enquiry around what the door is doing, because an opener fault, spring problem, cable issue and track problem can look similar to a homeowner. A door that will not close and secure the house is a different conversation from a noisy roller door, a failed remote or a motor that has reached the point where replacement is more practical than repair.</p><p>Before booking, write down the door style, the suburb or postcode, whether access is urgent, and the visible symptom. Useful descriptions include jamming, sticking, bowing, dropping unevenly, failing to respond to a remote, stopping on the limits, or sitting off the track. That gives the technician a cleaner brief and reduces the chance that the first call becomes only a discovery visit.</p><ul><li>For powered openers, note whether the issue is motor response, remotes, keypads, safety beams or limit settings.</li><li>For roller doors, describe the curtain, barrel, guides and whether the door is noisy or hard to move.</li><li>For sectional or tilt doors, mention bent tracks, worn rollers, frayed cables or derailment.</li></ul>"
+    },
+    {
+      "h2": "When repair-first advice makes sense",
+      "html": "<p>The source page presents a repair-first approach, with replacement discussed when the door, motor or hardware is genuinely too far gone. That distinction matters because a repair quote should identify the failed part and the reason it is the right next step, not jump straight to a new door when a service, adjustment or part replacement may be enough.</p><p>Ask the technician to explain whether the proposed work is diagnosis, servicing, parts replacement or a new door installation. For opener faults, the published service scope includes motor faults, limit switches, safety beams, remotes and motor replacement when repair is no longer practical. For spring work, the stated scope is broken torsion and extension springs and rebalancing heavy, fast-dropping or uneven doors.</p><p>There are also cases where the repair path is about restoring alignment rather than changing the whole door. The service list includes re-railing derailed sectional and tilt doors, straightening bent tracks, and fixing the worn part behind the fault. That is a better question set than simply asking whether someone can come out today.</p>"
+    },
+    {
+      "h2": "Local access and property context in Brisbane",
+      "html": "<p>The published location material does more than list suburbs. It links local context to garage setups, including post-war homes, townhouse infill, larger leafy blocks, split-level homes, apartment basements, hilly streets, longer driveways, bush-edge homes and bayside conditions. Those details affect the information a homeowner should prepare, because access, garage layout and door type can shape the repair conversation.</p><p>For example, an apartment basement near a shopping centre or rail line may require clearer access instructions than a freestanding home with a driveway. A longer western-suburbs driveway with an automated double garage may make opener details more important. A hilly street or split-level home can make it worth describing how the door behaves when opening, closing or sitting partly raised.</p><p>For a broader crawl path on the same topic, this independent <a href=\"https://garage-door-repairs-brisbane-guide.netlify.app/\">Brisbane garage door repair guide</a> also keeps the focus on homeowner decision points rather than a suburb roll-call.</p>"
+    },
+    {
+      "h2": "Electrical boundaries and powered openers",
+      "html": "<p>The source page states that powered-opener wiring is handled by a licensed Queensland electrician where required. That is the key boundary for homeowners to clarify when a garage door opener, motor, remote, keypad or in-car button is part of the fault. Mechanical adjustment and programmed controls are not the same question as hardwired electrical work.</p><p>A practical quote request should separate what the opener is doing from what the door is doing. If the motor runs but the door does not move correctly, the issue may be with the door hardware or lifting system. If remotes, keypads or rolling-code openers have lost pairing, the service list includes pairing, clearing old or lost codes and resyncing. If the job touches hardwired wiring, the published position is that a licensed Queensland electrician handles that part where required.</p><ul><li>Ask whether the job involves the opener, the door hardware, or both.</li><li>Ask whether electrical work is expected before the booking is confirmed.</li><li>Ask whether the quote separates diagnosis, parts and installation.</li></ul>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to Brisbane homeowners, landlords or property managers trying to describe a residential garage door fault clearly before speaking with a technician. It is most useful when the door is stuck open, jammed shut, noisy, uneven, off track, not responding to controls, or showing wear in cables, rollers, springs or guides.</p><p>It is less useful for readers seeking a fixed price without diagnosis, because the supplied page does not publish a price list in the provided text. The better first step is to describe the fault and request a written quote after the technician confirms whether the answer is service, repair, parts replacement or a new door.</p><p>Home improvement bodies such as the Housing Industry Association and Master Builders Australia are useful context sources for broader building and trade expectations, while ASIC Moneysmart is relevant when a household is planning or budgeting renovation work. The garage door decision still comes back to the specific door, its hardware and the repair path proposed.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common garage door fault paths",
+    "headers": [
+      "Situation",
+      "Likely quote focus",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "Opener or remote issue",
+        "Motor, limits, safety beams, remotes, keypad pairing",
+        "Is the fault in the opener controls, the door hardware, or both?"
+      ],
+      [
+        "Heavy or uneven door",
+        "Spring condition and door balance",
+        "Is the proposed work spring replacement, rebalancing, or another repair?"
+      ],
+      [
+        "Noisy or sticking roller door",
+        "Curtain, barrel, guides and spring tension",
+        "Which worn part is causing the noise or sticking?"
+      ],
+      [
+        "Door off track",
+        "Tracks, rollers and the reason it derailed",
+        "Will the worn part behind the fault be repaired too?"
+      ],
+      [
+        "Old or damaged door",
+        "Repair compared with new installation",
+        "Why is replacement more practical than repair in this case?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the door",
+      "text": "Record whether the door is roller, sectional or tilt, then note the suburb or postcode and access constraints."
+    },
+    {
+      "name": "Name the symptom",
+      "text": "Explain whether the door is stuck, noisy, uneven, off track, unresponsive to controls or failing to close securely."
+    },
+    {
+      "name": "Separate opener from hardware",
+      "text": "State whether the motor, remote, keypad, safety beams or physical door movement appear to be involved."
+    },
+    {
+      "name": "Ask for the repair path",
+      "text": "Request a clear distinction between servicing, diagnosis, parts replacement and new door installation."
+    },
+    {
+      "name": "Confirm the quote",
+      "text": "Proceed only after the technician explains the proposed work and provides the written quote described by the source page."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I say when requesting a garage door repair quote?",
+      "a": "Give the suburb or postcode, door style and main symptom. Include whether the issue looks like opener, spring, cable, track, remote or urgent access, because that matches the enquiry flow described by the source page."
+    },
+    {
+      "q": "Does every faulty garage door need replacement?",
+      "a": "No. The source page states a repair-first diagnosis, with replacement considered when the door, motor or hardware is genuinely too far gone."
+    },
+    {
+      "q": "Who handles powered opener wiring?",
+      "a": "The published page says powered-opener wiring is handled by a licensed Queensland electrician where required. Ask whether your booking is mechanical, electrical, or both."
+    },
+    {
+      "q": "Are Brisbane suburbs treated the same way?",
+      "a": "The service map covers northside, western, southside, eastern and bayside suburbs, but the useful details are access, property type and garage setup. The source page gives examples such as hilly streets, apartment basements, longer driveways and bayside conditions."
+    }
+  ],
+  "about": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published service page separates repairs into 8 job types, including opener repair, spring repair, roller door repair, off-track doors, cable and roller replacement, remote programming, new installation and emergency repair.",
+      "source": "money page"
+    },
+    {
+      "claim": "The enquiry flow has 4 steps: describe the fault, get the right technician, confirm the repair path and book the next step.",
+      "source": "money page"
+    },
+    {
+      "claim": "Brisbane Garage Door Repairs frames enquiries around the door fault, the door type and the suburb.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page mentions opener faults, snapped springs, noisy roller doors and doors that will not close and secure the house.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service scope includes opener and motor faults, limit switches, safety beams, remotes and motor replacement when repair is no longer practical.",
+      "source": "money page"
+    },
+    {
+      "claim": "The spring repair scope includes broken torsion and extension springs and rebalancing heavy, fast-dropping or uneven garage doors.",
+      "source": "money page"
+    },
+    {
+      "claim": "The roller door repair scope includes jamming, noisy, bowed or sticking roller doors, including the curtain, barrel, guides and spring tension.",
+      "source": "money page"
+    },
+    {
+      "claim": "The off-track door scope includes re-railing derailed sectional and tilt doors, straightening bent tracks and fixing the worn part behind the fault.",
+      "source": "money page"
+    },
+    {
+      "claim": "The cable and roller scope includes replacing frayed lifting cables and worn rollers and checking drums and tracks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The remote and keypad scope includes pairing remotes, in-car buttons and external keypads, clearing old or lost codes and resyncing rolling-code openers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The new installation scope includes sectional, roller and tilt doors with opener options, measured and quoted before work starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "The emergency repair scope includes doors stuck open, jammed shut or left unsafe after a spring, opener or impact failure.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page states that powered-opener wiring is handled by a licensed Queensland electrician where required.",
+      "source": "money page"
+    },
+    {
+      "claim": "The location material mentions post-war homes, townhouse infill, larger leafy blocks, split-level homes, apartment basements, hilly streets, longer driveways, bush-edge homes and bayside conditions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The service map covers northside, western, southside, eastern and bayside suburbs.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provided text does not publish a price list.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Brisbane residential garage door faults, quote preparation, opener boundaries and repair versus replacement questions."
+}
