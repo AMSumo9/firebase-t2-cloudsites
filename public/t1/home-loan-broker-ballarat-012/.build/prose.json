@@ -1,0 +1,244 @@
+{
+  "kicker": "Ballarat Finance",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare lender choice, broker process and loan scenarios before you apply",
+  "takeaway": "The source page states access to 40+ lenders, a 24hr response, no borrower fee because brokers are paid by the lender on settlement, and most applications approved within 2 to 4 weeks. It names first home buyers, refinancers, investors, construction borrowers, self-employed applicants and guarantor structures, with broker partners operating under Australian Credit Licence arrangements and the Best Interests Duty.",
+  "lead": "For borrowers comparing a home loan broker ballarat option, the useful starting point is loan purpose, paperwork, lender fit and settlement timing.",
+  "lead_tail": "with loan options compared against the borrower’s actual situation",
+  "stats": [
+    {
+      "value": "40+",
+      "label": "lenders compared"
+    },
+    {
+      "value": "24hr",
+      "label": "response stated"
+    },
+    {
+      "value": "2-4 weeks",
+      "label": "most approvals stated"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What The Published Page Offers",
+      "html": "<p><a href=\"https://www.ballarathomeloanbroker.com.au/\">Home Loan Broker Ballarat</a> presents broker help for borrowers buying, refinancing, investing, building, using self-employed income evidence or considering a guarantor structure. The page states access to more than 40 lenders, including major banks, credit unions, non-bank lenders and specialist financiers.</p><p>Use the page as a checklist for an appointment, not as a rate promise. Ask which lenders are available for your income type, property security, deposit position and preferred features. A large panel only helps when the shortlist explains why some lenders fit and others have been ruled out.</p><p>The page says there is no cost to the borrower because brokers are paid by the lender when the loan settles. Confirm the commission disclosure and ask whether any separate fee could apply before you proceed.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide suits Ballarat and regional Victorian borrowers who want a structured comparison before lodging an application. The local relevance is the combination of regional property security, borrower evidence and settlement timing, not a broad suburb roll call.</p><ul><li><strong>First home buyers:</strong> the page refers to the First Home Guarantee, a 5% deposit and no lenders mortgage insurance, stamp duty concessions and the First Home Super Saver Scheme. Ask which current document confirms your eligibility.</li><li><strong>Refinancers:</strong> bring the current rate, remaining term, loan features, fees and reason for moving. Ask whether the benefit survives after costs.</li><li><strong>Investors:</strong> ask how rent, existing debt, interest-only options and multiple properties are assessed.</li><li><strong>Construction borrowers:</strong> the page refers to progress draw facilities. Ask what the lender needs before each milestone payment.</li><li><strong>Self-employed applicants:</strong> ask which low-doc evidence, accountant declarations or alternative income records are acceptable before lodgement.</li></ul>"
+    },
+    {
+      "h2": "Documents To Prepare",
+      "html": "<p>The published process starts with a free chat about goals, then comparison across 40+ lenders, then borrower selection and settlement support. That process is easier when the file is organised before product comparison begins.</p><p>Prepare income evidence, existing loan statements, living expense details, savings history and property documents where available. For a refinance, add the current loan balance, repayments, offset or redraw use and any reason you want equity access, renovations funding or debt consolidation. For a build, separate the land position, build contract, progress payment schedule and whether the project is an own-land build, house and land package or knock-down rebuild.</p><p>For a guarantor structure, ask what obligation the guarantor accepts, how the guarantee is limited, and what would need to happen before release is considered. Do not treat family help as a substitute for understanding the lender conditions.</p>"
+    },
+    {
+      "h2": "Local Lending Questions",
+      "html": "<p>The source page names Ballarat, regional Victoria, Alfredton and Delacombe. Those place references matter only where they affect the loan conversation. Ask how the lender will view the property type, valuation evidence, comparable sales, construction stage or income pattern.</p><p>For first home buyers, keep scheme discussion tied to written eligibility material. The page says the First Home Guarantee can involve a 5% deposit and no lenders mortgage insurance, and says from October 2025 it is available to all eligible buyers. Because settings can change, ask which government or lender document is being used for your purchase.</p><p>For another editorial view of the same borrowing topic, see this <a href=\"https://s3.ap-southeast-2.amazonaws.com/ballarathomeloanbroker-001/ballarat-home-loan-broker.html\">Ballarat home loan broker guide</a>.</p>"
+    },
+    {
+      "h2": "Compliance And Choice Checks",
+      "html": "<p>The page states that brokers in the pathway operate under an Australian Credit Licence arrangement, are regulated by ASIC, hold AFCA membership for dispute resolution and maintain professional indemnity insurance. It also refers to the Best Interests Duty, which has applied to mortgage brokers since January 2021.</p><p>Ask for the credit representative details, licence holder, complaints process and commission disclosure. Then compare the recommendation on rate, repayment, fees, features, flexibility, approval conditions and settlement risk.</p><p>A lower rate is not enough if the loan removes a feature you need or adds a condition you cannot satisfy before finance approval. Keep a written shortlist showing lender, reason for recommendation, required documents, expected approval path and borrower actions.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Borrower scenario comparison",
+    "headers": [
+      "Scenario",
+      "Source page detail",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Refers to the First Home Guarantee, 5% deposit, no LMI, stamp duty concessions and First Home Super Saver Scheme.",
+        "Which current authority document confirms my eligibility?"
+      ],
+      [
+        "Refinance",
+        "Refers to rate review, equity access, renovations and debt consolidation.",
+        "What costs and repayment changes sit beside the new rate?"
+      ],
+      [
+        "Investment loan",
+        "Refers to investor-friendly lenders, interest-only options and multiple properties.",
+        "How are rent, debt and future borrowing capacity assessed?"
+      ],
+      [
+        "Construction loan",
+        "Refers to progress draw facilities tied to construction milestones.",
+        "What documents are needed before each progress draw?"
+      ],
+      [
+        "Self-employed borrower",
+        "Refers to low-doc loans, accountant declarations and alternative income verification.",
+        "Which income evidence will the lender accept before lodgement?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan purpose",
+      "text": "State whether the loan is for a first purchase, refinance, investment, construction, self-employed application or guarantor structure."
+    },
+    {
+      "name": "Prepare evidence",
+      "text": "Collect income records, existing loan statements, expense details, savings history and property or build documents before lender comparison."
+    },
+    {
+      "name": "Compare the shortlist",
+      "text": "Ask why each lender was included, what was excluded, and which conditions could affect approval or settlement."
+    },
+    {
+      "name": "Confirm compliance details",
+      "text": "Check credit licence arrangements, commission disclosure, complaints process and how the Best Interests Duty is applied."
+    },
+    {
+      "name": "Choose with settlement in mind",
+      "text": "Select the loan that balances rate, features, conditions, document readiness and settlement timing."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the service described as free to borrowers?",
+      "a": "Yes. The source page says there is no cost to the borrower because brokers are paid by the lender when the loan settles. Ask whether any separate fee could apply to your file."
+    },
+    {
+      "q": "How many lenders are compared?",
+      "a": "The page states access to 40+ lenders, including major banks, credit unions, non-bank lenders and specialist financiers. Ask why the recommended shortlist fits your circumstances."
+    },
+    {
+      "q": "How long does approval usually take?",
+      "a": "The page says most applications are approved within 2 to 4 weeks. Document readiness, lender conditions and property details can affect timing."
+    },
+    {
+      "q": "Does the page include construction loans?",
+      "a": "Yes. It refers to progress draw facilities released as construction milestones are reached, including own-land builds, house and land packages and knock-down rebuilds."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page states access to 40+ lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page states a 24hr response.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page states no borrower fee because brokers are paid by the lender when the loan settles.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page states most applications are approved within 2-4 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names first home buyer loans, refinancing, investment property loans, construction loans, self-employed home loans and guarantor loans.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to access to major banks, credit unions, non-bank lenders and specialist financiers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to the First Home Guarantee, a 5% deposit and no lenders mortgage insurance, stamp duty concessions and the First Home Super Saver Scheme.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says from October 2025 the First Home Guarantee is available to all eligible buyers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to rate review, equity access for renovations and debt consolidation.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to investment strategies, interest-only options and lenders comfortable with multiple properties.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to progress draw facilities released as construction milestones are reached.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to own-land builds, house and land packages and knock-down rebuilds.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to low-doc loans, accountant declarations and alternative income verification for self-employed borrowers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names Ballarat, regional Victoria, Alfredton and Delacombe.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page states that brokers in the pathway operate under an Australian Credit Licence arrangement, are regulated by ASIC, hold AFCA membership and maintain professional indemnity insurance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to the Best Interests Duty applying to mortgage brokers since January 2021.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Ballarat borrower scenarios, broker comparison questions, lender-panel checks and application preparation."
+}
