@@ -1,0 +1,300 @@
+{
+  "node_id": "northernbeachesrenovation-011",
+  "money_domain": "northernbeachesrenovation.com.au",
+  "money_home_url": "https://www.northernbeachesrenovation.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/home-renovations-northern-beaches-011/",
+  "live_url": "https://sites-e470-1.web.app/home-renovations-northern-beaches-011/",
+  "subdomain": "home-renovations-northern-beaches",
+  "gh_repo": null,
+  "primary_kw": "home renovations northern beaches",
+  "kw_slug": "home-renovations-northern-beaches",
+  "anchor_kw": "home renovations northern beaches",
+  "brand": "Northern Beaches Renovation",
+  "target_page_url": "https://www.northernbeachesrenovation.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "northernbeachesrenovation-001",
+    "url": "https://bathroom-renovation-northern-beaches-guide.vercel.app/",
+    "primary_kw": "bathroom renovation northern beaches"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\northernbeachesrenovation.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Four Hammers",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Home Renovation Builders",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "GB Home Builders",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Dependabuild",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Ferrari Constructions",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "All Innovative Building",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Heliconia",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Refresh Renovations AU",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Refresh Renovations",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "David Ferrari",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "AIB",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Northern Beaches Renovations, New Builds & Interior Design Studio",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Interior Design",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Northern Beaches",
+        "type": "LOCATION",
+        "salience": 0.948
+      },
+      {
+        "name": "Custom Home Builders",
+        "type": "SERVICE",
+        "salience": 0.93
+      },
+      {
+        "name": "Home Renovations",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "Home renovations and remodelling services",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Australia",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Shane MacDonald",
+        "type": "PERSON",
+        "salience": 0.9
+      },
+      {
+        "name": "Custom Built Homes",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Sydney’s Northern Beaches",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "New Builds",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Home Extensions",
+        "type": "SERVICE",
+        "salience": 0.867
+      },
+      {
+        "name": "First Floor Additions",
+        "type": "SERVICE",
+        "salience": 0.865
+      },
+      {
+        "name": "Wheeler Heights",
+        "type": "LOCATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Troy Tester",
+        "type": "PERSON",
+        "salience": 0.85
+      },
+      {
+        "name": "Kristian Gray",
+        "type": "PERSON",
+        "salience": 0.85
+      },
+      {
+        "name": "Full Home Renovations",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "House Extensions",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Knockdown Rebuild",
+        "type": "SERVICE",
+        "salience": 0.85
+      }
+    ],
+    "lsi_keywords": [
+      "home renovations Northern Beaches",
+      "kitchen renovations Northern Beaches",
+      "bathroom renovations Northern Beaches",
+      "home extensions Northern Beaches",
+      "custom home builders Northern Beaches",
+      "first floor additions Northern Beaches",
+      "Dee Why home renovations",
+      "Newport home renovations",
+      "Northern Beaches construction companies",
+      "home remodeling Northern Beaches",
+      "residential builders Northern Beaches",
+      "Sydney Northern Beaches renovation experts",
+      "interior renovations Northern Beaches",
+      "property value improvement Northern Beaches",
+      "North Shore and Northern Beaches builders"
+    ]
+  },
+  "image": {
+    "file": "home-renovations-northern-beaches.jpg",
+    "photographer": "Casey Calhoun",
+    "source": "Unsplash",
+    "credit": "Photo by Casey Calhoun on Unsplash"
+  },
+  "build_date": "2026-08-14",
+  "money_home_text": "Northern Beaches Renovation Quotes Skip to content Northern Beaches Renovation Home About Services Locations Tools FAQ Contact Enquire Open menu Home About Services Locations Tools FAQ Contact Renovation planning across the Northern Beaches Renovate With Less Guesswork On The Northern Beaches Salt air, strata access, older bathrooms, tight parking and high expectations can all collide before a quote is even useful. We help you define the real scope, the likely constraints and the outcome you want before a licensed renovation operator reviews the job. Request a Free Quote Estimate renovation cost Northern Beaches renovation services Compare bathroom, kitchen, laundry and full-home options. Locations See local notes for Northern Beaches suburbs. Cost Calculator Build a rough planning range before quoting. Checklist Capture scope, access and approval details early. Contact Share the project details and get the right quote conversation moving. Service coverage Renovation scopes built around the problems you need solved Northern Beaches homes often combine coastal exposure, older housing stock, strata buildings and tight access. We help you identify the issues that matter early: what feels broken now, what needs replacing, what access looks like, where waterproofing or approvals may bite, and what the finished space needs to make daily life easier. Bathroom Renovations Full bathroom redesign, strip-out, waterproofing, tiling and fit-off for Northern Beaches homes and apartments. Kitchen Renovations Kitchen layout, cabinetry, benchtop and trade coordination for coastal family homes, units and townhouses. Laundry Renovations Practical laundry and utility-room upgrades with better storage, ventilation and wet-area detailing. Apartment Renovations Renovation planning for strata units, lift access, working-hour rules and compact wet-area layouts. Whole-Home Renovations Staged renovation planning for older homes, family layouts and multi-room upgrade scopes. Coastal Home Renovations Salt-aware fixture, hardware and material planning for homes close to Northern Beaches surf and lagoon areas. Why homeowners start here before quoting NSW renovation network Licensed builders and operators review the scope, confirm credentials and put quote details in writing before work starts. Coastal-home detail Renovation scopes can account for salt air, ventilation, corrosion-resistant hardware and Northern Beaches access constraints. Wet-area focus Bathroom, laundry and tiling enquiries can include waterproofing, plumbing and electrical scope before a quote is prepared. No-pressure quote path Share the room, budget, timing and access issues once, then decide from a written quote whether the renovation is worth moving ahead. Northern Beaches coverage From Manly apartments to Avalon coastal homes Local planning matters when the job involves lift bookings, parking, older bathrooms, salty air or staged access for family homes. Start with your suburb and the renovation type. Manly 2095 Balgowlah 2093 Seaforth 2092 Freshwater 2096 Curl Curl 2096 Dee Why 2099 Send clear renovation details Include the suburb, property type, rooms involved, desired timing and any access or approval constraints. The more clearly you explain the pain point, the easier it is to get useful questions, realistic quote inclusions and fewer surprises later. Request a Northern Beaches renovation quote Tell us what needs to change, where the property is, what is getting in the way and what outcome would make the renovation worthwhile. Your name Phone Email Suburb / Postcode Tell us about your project Request My Quote Your details are only used to arrange your enquiry. See our privacy policy . Common renovation questions Do I need council approval for a bathroom renovation in the Northern Beaches? For internal bathroom renovations that stay within the existing room and do not change the structure, council approval is often not needed and may fall under exempt development. If you are moving walls, changing external openings, or working on a heritage property, you usually need to check with council first. If the property is a unit or apartment, strata approval is also required before work starts. How long does a bathroom renovation take? A standard full bathroom strip-out and rebuild is usually around five to eight weeks. The exact timing depends on the scope, waterproofing cure time, trades scheduling, and whether any hidden issues are found once demolition starts. Smaller cosmetic updates can be quicker than a full rebuild. How much does a bathroom renovation cost in the Northern Beaches? Costs vary widely depending on size, materials, layout changes, and whether plumbing or electrical work needs to move. Renovations in Sydney coastal areas often cost more when higher-end finishes, waterproofing, or compliance work are involved. A detailed quote is usually needed to compare like-for-like pricing. Can I renovate my bathroom without moving the plumbing? Yes, keeping the existing plumbing layout is usually simpler and less disruptive. It can also reduce labour costs and help the job finish faster. If you want to move the toilet, shower, or vanity, expect extra plumbing and possibly more approval requirements. Plan with a renovation provider Ready to plan your Northern Beaches renovation? Share the project details and move from rough idea to a renovation scope that can be reviewed properly. Start My Quote Northern Beaches Renovation Renovation help across the Northern Beaches, from Manly apartments and Brookvale cottages to Avalon, Newport and Mona Vale coastal homes. Northern Beaches, NSW Explore About Services Cost Calculator Renovation Checklist FAQ Contact Locations Manly Balgowlah Seaforth Freshwater Curl Curl Dee Why Brookvale Frenchs Forest Belrose Collaroy Narrabeen Warriewood Mona Vale Newport Avalon Beach Legal Privacy Policy Terms of Service Disclaimer &copy; 2026 Northern Beaches Renovation. All rights reserved. Built in Northern Beaches, NSW",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.northernbeachesrenovation.com.au/services/",
+    "https://www.northernbeachesrenovation.com.au/locations/",
+    "https://www.northernbeachesrenovation.com.au/tools/cost-calculator/",
+    "https://www.northernbeachesrenovation.com.au/faq/",
+    "https://www.northernbeachesrenovation.com.au/tools/checklist/",
+    "https://www.northernbeachesrenovation.com.au/services/bathroom-renovations/",
+    "https://www.northernbeachesrenovation.com.au/services/kitchen-renovations/",
+    "https://www.northernbeachesrenovation.com.au/services/laundry-renovations/",
+    "https://www.northernbeachesrenovation.com.au/services/apartment-renovations/",
+    "https://www.northernbeachesrenovation.com.au/services/whole-home-renovations/",
+    "https://www.northernbeachesrenovation.com.au/services/coastal-home-renovations/",
+    "https://www.northernbeachesrenovation.com.au/locations/manly/",
+    "https://www.northernbeachesrenovation.com.au/locations/balgowlah/",
+    "https://www.northernbeachesrenovation.com.au/locations/seaforth/",
+    "https://www.northernbeachesrenovation.com.au/locations/freshwater/",
+    "https://www.northernbeachesrenovation.com.au/locations/curl-curl/",
+    "https://www.northernbeachesrenovation.com.au/locations/dee-why/",
+    "https://www.northernbeachesrenovation.com.au/locations/brookvale/",
+    "https://www.northernbeachesrenovation.com.au/locations/frenchs-forest/",
+    "https://www.northernbeachesrenovation.com.au/locations/belrose/",
+    "https://www.northernbeachesrenovation.com.au/locations/collaroy/",
+    "https://www.northernbeachesrenovation.com.au/locations/narrabeen/",
+    "https://www.northernbeachesrenovation.com.au/locations/warriewood/",
+    "https://www.northernbeachesrenovation.com.au/locations/mona-vale/",
+    "https://www.northernbeachesrenovation.com.au/locations/newport/"
+  ],
+  "firebase_path": "home-renovations-northern-beaches-011"
+}

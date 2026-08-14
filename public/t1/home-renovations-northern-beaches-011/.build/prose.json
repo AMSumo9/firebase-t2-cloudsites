@@ -1,0 +1,214 @@
+{
+  "kicker": "Renovation Planning",
+  "h1_tail": "Practical Scope Notes for 2026",
+  "meta_hook": "Plan scope, access, wet areas and quote questions before you commit",
+  "takeaway": "A Northern Beaches renovation brief should pin down the room, property type, access constraints, approvals and desired timing before quotes are compared. The source page names bathroom, kitchen, laundry, apartment, whole-home and coastal renovation scopes. It also says a standard full bathroom strip-out and rebuild is usually around five to eight weeks, while internal bathroom work may not need council approval if it stays within the existing room and does not alter structure.",
+  "lead": "For homeowners comparing home renovations northern beaches options, the useful starting point is a clear scope that separates design wishes from access, approval, wet-area and coastal material questions.",
+  "lead_tail": "with practical checks before a written renovation quote",
+  "stats": [
+    {
+      "value": "5 to 8 weeks",
+      "label": "typical full bathroom rebuild noted by the source page"
+    },
+    {
+      "value": "6",
+      "label": "renovation scope types named by the source page"
+    },
+    {
+      "value": "2026",
+      "label": "published site year shown in the source material"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the constraint, not the finish",
+      "html": "<p><a href=\"https://www.northernbeachesrenovation.com.au/\">Northern Beaches Renovation</a> frames renovation planning around the constraints that can make a quote useful or vague: salt air, strata access, older bathrooms, tight parking and expectations about the finished space. That is a practical order. Before choosing tiles, cabinetry, hardware or a layout, the homeowner needs to know what is being changed, who must approve it and how trades can physically get the work done.</p><p>A good brief should identify the suburb or postcode, the property type, the rooms involved, the reason the current space is failing and the outcome that would justify the disruption. For an apartment, lift bookings, working-hour rules and compact wet areas can affect the plan. For a coastal home, fixture and hardware choices may need closer attention because the source page specifically raises salt air, ventilation and corrosion-resistant hardware.</p><ul><li><strong>Room:</strong> bathroom, kitchen, laundry, apartment, whole-home or coastal scope.</li><li><strong>Access:</strong> parking, lift use, staged entry or tight work areas.</li><li><strong>Approvals:</strong> strata, council checks or structural changes.</li><li><strong>Finish:</strong> daily-use improvements, storage, ventilation and material choices.</li></ul>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is most useful for owners who are not yet ready to compare prices because the job is still loosely described. That includes a Manly apartment owner checking strata rules, an Avalon or Newport coastal homeowner thinking about materials, or a family planning several rooms in stages. The common thread is not the suburb itself. It is the need to turn a general renovation idea into written quote inclusions.</p><p>The source page names full bathroom redesign, strip-out, waterproofing, tiling and fit-off as bathroom items. It names kitchen layout, cabinetry, benchtop and trade coordination for kitchens. It also names practical laundry upgrades with storage, ventilation and wet-area detailing. Those categories are broad, so the early task is to decide what stays, what moves and which trades are likely to be involved.</p><p>If the project is only cosmetic, ask what can remain in place. If plumbing, electrical work, walls or external openings are changing, ask what extra review is needed before work starts.</p>"
+    },
+    {
+      "h2": "Approval and access questions to settle early",
+      "html": "<p>The source page gives a useful approval distinction for bathroom work. Internal bathroom renovations that stay within the existing room and do not change the structure often do not need council approval and may fall under exempt development. If walls move, external openings change or the property is heritage, the page says council should usually be checked first. For a unit or apartment, strata approval is also required before work starts.</p><p>Those statements should become quote questions, not assumptions. Ask the renovation provider to confirm what approval path they expect, what documentation the owners corporation may request and whether any building, waterproofing, plumbing or electrical details will be recorded in writing. A written quote should be clearer when these points are raised before site work begins.</p><p>Access is just as important. Tight parking, lift use and working-hour rules can influence sequencing, rubbish removal and trade coordination. A homeowner who describes these limits early is more likely to receive quote questions that reflect the real job.</p>"
+    },
+    {
+      "h2": "Room-by-room decisions that change the brief",
+      "html": "<p>Bathroom, kitchen and laundry work can look similar on a mood board but behave differently on site. Bathroom and laundry projects involve wet-area detailing, and the source page specifically mentions waterproofing, plumbing and electrical scope before a quote is prepared. Kitchen work shifts the conversation toward layout, cabinetry, benchtops and trade coordination. A whole-home renovation adds staging because family layouts and multiple rooms may need to remain usable during parts of the project.</p><p>For bathroom-only research, the related <a href=\"https://bathroom-renovation-northern-beaches-guide.vercel.app/\">bathroom renovation planning for the Northern Beaches</a> guide can help narrow wet-area questions before the broader renovation brief is finished.</p><p>When comparing options, separate fixed constraints from preferences. Fixed constraints include property type, access, approvals and whether plumbing stays put. Preferences include finishes, storage style, appliance layout and whether the project should be staged. Mixing the two can make quote comparisons harder because one builder may price a simple replacement while another prices layout changes.</p>"
+    },
+    {
+      "h2": "What a written quote should clarify",
+      "html": "<p>The source page encourages homeowners to share the room, budget, timing and access issues, then decide from a written quote whether the renovation is worth moving ahead. That written step matters because a renovation quote is only comparable when inclusions are visible. The document should make clear which rooms are included, whether strip-out is included, what fixtures or finishes are assumed and whether plumbing or electrical relocation is part of the scope.</p><p>For coastal and older properties, ask how material and hardware choices are being handled. The source page refers to salt-aware fixture, hardware and material planning for homes close to surf and lagoon areas. It also raises older bathrooms, ventilation and wet-area detailing as planning concerns. These points do not prove a particular product is required, but they are valid prompts for a site-specific discussion.</p><ol><li>Write down the pain point the renovation must solve.</li><li>Note the property type, suburb, access limits and approval questions.</li><li>Ask for inclusions, exclusions and assumptions in writing.</li><li>Compare quotes on scope first, then finish level.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Common renovation paths and quote focus",
+    "headers": [
+      "Project path",
+      "Best fit",
+      "Quote questions to ask"
+    ],
+    "rows": [
+      [
+        "Keep the existing layout",
+        "Cosmetic or lower-disruption updates where plumbing and walls stay mostly unchanged",
+        "What remains in place, which finishes change and what trade work is included?"
+      ],
+      [
+        "Change the layout",
+        "Projects moving plumbing, cabinetry, walls or openings",
+        "What approvals, extra trades, demolition and sequencing assumptions are included?"
+      ],
+      [
+        "Stage several rooms",
+        "Whole-home or family renovations where the home may stay partly occupied",
+        "Which rooms happen first, how access is managed and what is excluded from each stage?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the room list",
+      "text": "List every room involved and separate must-fix problems from finish preferences."
+    },
+    {
+      "name": "Record site constraints",
+      "text": "Note strata rules, lift access, parking, working hours and any heritage or structural questions."
+    },
+    {
+      "name": "Ask about approvals",
+      "text": "Confirm whether council, strata or other checks are expected before work starts."
+    },
+    {
+      "name": "Request written inclusions",
+      "text": "Compare quotes by scope, assumptions, exclusions and trade responsibilities before comparing finishes."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does every bathroom renovation need council approval?",
+      "a": "No. The source page says internal bathroom renovations that stay within the existing room and do not change the structure often do not need council approval and may fall under exempt development. It also says strata approval is required for a unit or apartment before work starts."
+    },
+    {
+      "q": "How long should a full bathroom rebuild be allowed for?",
+      "a": "The source page says a standard full bathroom strip-out and rebuild is usually around five to eight weeks. Timing still depends on scope, waterproofing cure time, trade scheduling and hidden issues found after demolition."
+    },
+    {
+      "q": "Is keeping the plumbing layout useful?",
+      "a": "Yes. The source page says keeping the existing plumbing layout is usually simpler and less disruptive, can reduce labour costs and can help the job finish faster."
+    },
+    {
+      "q": "What should I provide before asking for a quote?",
+      "a": "Provide the suburb, property type, rooms involved, desired timing and any access or approval constraints. The source page says clearer project details help produce useful questions and more realistic quote inclusions."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page names bathroom, kitchen, laundry, apartment, whole-home and coastal renovation scopes.",
+      "source": "money page"
+    },
+    {
+      "claim": "A standard full bathroom strip-out and rebuild is usually around five to eight weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Internal bathroom renovations that stay within the existing room and do not change the structure often do not need council approval and may fall under exempt development.",
+      "source": "money page"
+    },
+    {
+      "claim": "If walls move, external openings change or the property is heritage, the source page says council should usually be checked first.",
+      "source": "money page"
+    },
+    {
+      "claim": "For a unit or apartment, strata approval is required before work starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page raises salt air, strata access, older bathrooms, tight parking and high expectations as renovation planning constraints.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says coastal renovation scopes can account for salt air, ventilation, corrosion-resistant hardware and Northern Beaches access constraints.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names full bathroom redesign, strip-out, waterproofing, tiling and fit-off as bathroom renovation items.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names kitchen layout, cabinetry, benchtop and trade coordination as kitchen renovation items.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names practical laundry and utility-room upgrades with better storage, ventilation and wet-area detailing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says keeping the existing plumbing layout is usually simpler and less disruptive, can reduce labour costs and can help the job finish faster.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page asks homeowners to include suburb, property type, rooms involved, desired timing and access or approval constraints when sending renovation details.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical renovation scoping, approvals, access, wet-area questions and written quote checks for Northern Beaches homeowners."
+}
