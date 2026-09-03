@@ -1,0 +1,230 @@
+{
+  "kicker": "Perth Retaining",
+  "h1_tail": "Practical Wall Planning Guide",
+  "meta_hook": "compare wall types, permits, drainage and quote questions before you build",
+  "takeaway": "For Perth retaining wall work, the core decision is material, drainage and approval risk. The published source identifies two common local systems, limestone block and post and panel, and notes that a building permit is generally needed once a wall retains more than 0.5 metres of ground. Walls on boundaries, tied to other building work, affecting adjoining land or carrying surcharge may also need engineering and local government approval.",
+  "lead": "For homeowners comparing retaining wall builders perth options, the useful starting point is not a suburb list, but the wall type, site condition, drainage detail and approval pathway.",
+  "lead_tail": "with the main decisions set out before quotes are compared",
+  "stats": [
+    {
+      "value": "0.5 m",
+      "label": "permit threshold noted"
+    },
+    {
+      "value": "AS 4678",
+      "label": "engineering standard referenced"
+    },
+    {
+      "value": "2",
+      "label": "common Perth wall systems highlighted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What To Clarify Before A Quote",
+      "html": "<p><a href=\"https://www.retainingwallperth.au/\">Retaining Wall Perth</a> frames the first decision around two systems that appear often across Perth work, limestone block and post and panel walls. That is a practical split because the choice affects appearance, access, engineering, drainage and how confidently a builder can price the job from site details.</p><p>Useful quote notes include the approximate retained height, whether the wall is on or near a boundary, what sits above it, and whether an existing wall is leaning, bulging or cracked. The source page also asks for suburb or postcode because local terrain can affect the conversation, from sandy Swan Coastal Plain blocks to steeper hills sites.</p><ul><li>Measure the retained height rather than the visible face only.</li><li>Note fences, driveways, buildings or filled ground near the wall.</li><li>Photograph drainage outlets, cracking, bulging and the toe of the wall.</li><li>Ask whether the quote includes drainage, engineering and permit steps.</li></ul>"
+    },
+    {
+      "h2": "Material Choice Without Guesswork",
+      "html": "<p>Limestone block is described as a common fit for Perth's sandy, limestone-backed geology and local streetscape. It can suit owners who want a wall that looks settled in the landscape, although the final choice still depends on height, access and engineering requirements.</p><p>Post and panel, also called twin-side retaining in the source material, uses posts with precast concrete panels slotted between them. It is presented as a fast, consistent-finish system used for boundary and driveway retaining. That makes it worth asking how the posts will be founded, what finish is visible on each side, and how drainage will be handled behind the panels.</p><p>Other systems in the source are more situational. Timber sleeper walls are positioned for garden-scale terracing and low boundary retaining. Rock and boulder walls are linked to hills blocks and granite-outcropped sites. Core-filled besser block is described as an option for taller engineered structural walls and rendered finishes.</p>"
+    },
+    {
+      "h2": "Permit And Engineering Triggers",
+      "html": "<p>The clearest number in the supplied material is the 0.5 metre retaining height threshold. A building permit from local government is generally needed once a wall retains more than that amount of ground, and the source notes that a wall of any height can need approval if it is tied to other building work, affects or protects adjoining land, or affects a boundary wall or dividing fence.</p><p>Tiered walls need extra care. The source states that some councils, including Wanneroo and Melville, count the combined height of tiered walls toward the 0.5 metre figure. That makes it important to ask the local government how it will assess the whole arrangement, not only each individual section.</p><p>For engineered walls, the source refers to AS 4678 and WA-registered building engineering practitioners. A homeowner does not need to solve the engineering before making an enquiry, but should ask who is responsible for the design, drawings, permit submission and any changes requested by council.</p>"
+    },
+    {
+      "h2": "Drainage And Repair Clues",
+      "html": "<p>Drainage is not a decorative extra in the source material. It lists ag-drain, gravel and geofabric behind walls as the structural detail intended to reduce failures in Perth's winter-saturated sandy ground. When comparing quotes, a line item for the wall face alone is incomplete if the drainage system is not explained.</p><p>Repair work needs diagnosis before price. The source separates a leaning timber sleeper section from a bulging block wall that may need partial demolition and rebuild. That distinction is useful for owners because the visible defect may be only the symptom. Footing condition, material condition and drainage behind the wall all affect whether repair or replacement is realistic.</p><p>A practical question for any damaged wall is whether the builder is quoting to restore the failed section, rebuild it in the same material, or replace it with another system. For a broader introductory guide on the related topic, see this <a href=\"https://sitesau.github.io/retaining-wall-perth/\">retaining wall Perth planning overview</a>.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most useful for Perth metro homeowners, renovators and property owners working out whether a new or existing retaining wall needs a simple material quote, an engineered design, local government approval or a repair assessment. It also helps when the wall sits near a driveway, boundary, fence or adjoining land.</p><p>It is less useful for owners seeking a fixed price from a few photos alone. The source page does not publish standard prices, and the relevant inputs vary by material, retained height, drainage, footing condition, access and compliance pathway. A better brief gives the builder enough site context to say what must be checked before a final quote can be relied on.</p><ol><li>Start with wall height, location and photos.</li><li>Identify whether it is new work, repair or replacement.</li><li>Ask about material suitability, drainage and approvals together.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Comparing two common Perth retaining wall systems",
+    "headers": [
+      "Option",
+      "Best fit from supplied source",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Limestone block",
+        "Sandy, limestone-backed Perth blocks and local streetscape fit",
+        "Is it suitable for the retained height, access and desired finish?"
+      ],
+      [
+        "Post and panel",
+        "Boundary and driveway retaining where a consistent finish is preferred",
+        "What posts, panels, footing detail and drainage are included?"
+      ],
+      [
+        "Besser block",
+        "Taller engineered structural walls and rendered finishes",
+        "Who handles engineering, reinforcement detail and permit documentation?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Document the site",
+      "text": "Record retained height, boundary position, nearby loads, access limits and visible defects before asking for a quote."
+    },
+    {
+      "name": "Choose a likely system",
+      "text": "Use limestone, post and panel, timber, rock or besser block as a starting point, then test that choice against height, terrain and engineering needs."
+    },
+    {
+      "name": "Check approval exposure",
+      "text": "Ask local government or the builder whether the 0.5 metre threshold, boundary effects, tiering or surcharge changes the permit pathway."
+    },
+    {
+      "name": "Confirm drainage scope",
+      "text": "Make sure the quote explains ag-drain, gravel, geofabric or other drainage details rather than treating the wall face as the whole job."
+    },
+    {
+      "name": "Separate repair from replacement",
+      "text": "For failed walls, ask whether the proposed work addresses drainage, footing condition and material condition as well as the visible damage."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do Perth retaining walls always need council approval?",
+      "a": "No. The supplied source says a permit is generally needed once a wall retains more than 0.5 metres of ground, but walls below that can still need approval if they affect boundaries, adjoining land, fences or other building work."
+    },
+    {
+      "q": "Which material is most common for Perth retaining walls?",
+      "a": "The source highlights limestone block and post and panel as the two systems Perth commonly builds with. The better choice depends on the site, height, finish, access, drainage and approval requirements."
+    },
+    {
+      "q": "Can a damaged retaining wall be repaired instead of replaced?",
+      "a": "Sometimes, but the source says repair cost depends on the failure mode. A leaning timber sleeper section is different from a bulging block wall, so assessment of drainage, footing and material condition comes first."
+    },
+    {
+      "q": "What should be included in a retaining wall quote?",
+      "a": "Ask for the wall system, retained height assumptions, drainage detail, engineering responsibility and permit responsibility. The supplied source specifically points to drainage, AS 4678 design and local government permits as important project issues."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The supplied source identifies limestone block and post and panel as two common retaining wall systems used in Perth.",
+      "source": "money page"
+    },
+    {
+      "claim": "Limestone block is described as a fit for Perth's sandy, limestone-backed geology and local streetscape.",
+      "source": "money page"
+    },
+    {
+      "claim": "Post and panel retaining walls use posts with precast concrete panels slotted between them and are described as used for boundary and driveway retaining.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls are positioned for garden-scale terracing and low boundary retaining.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rock and boulder walls are linked to hills blocks and granite-outcropped sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Core-filled besser block is described as an option for taller engineered structural walls and rendered finishes.",
+      "source": "money page"
+    },
+    {
+      "claim": "A building permit from local government is generally needed once a wall retains more than 0.5 metres of ground.",
+      "source": "money page"
+    },
+    {
+      "claim": "A retaining wall of any height can need a permit if it is tied to other building work, affects or protects adjoining land, or affects a boundary wall or dividing fence.",
+      "source": "money page"
+    },
+    {
+      "claim": "Some councils, including Wanneroo and Melville, count the combined height of tiered walls toward the 0.5 metre figure.",
+      "source": "money page"
+    },
+    {
+      "claim": "Engineered retaining walls are described as being designed to AS 4678 by a WA-registered building engineering practitioner.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source lists ag-drain, gravel and geofabric drainage behind retaining walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source says drainage helps address failures in Perth's winter-saturated sandy ground.",
+      "source": "money page"
+    },
+    {
+      "claim": "Repair cost depends on the failure mode, with a leaning timber sleeper section differing from a bulging block wall needing partial demolition and rebuild.",
+      "source": "money page"
+    },
+    {
+      "claim": "Assessment of drainage, footing condition and material state is the starting point for an accurate repair quote.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page asks enquirers for suburb or postcode and project details to help point the enquiry the right way.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical material, drainage, repair and approval questions for Perth retaining wall projects."
+}
