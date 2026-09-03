@@ -1,0 +1,220 @@
+{
+  "kicker": "ACT Tree Work",
+  "h1_tail": "A Practical Decision Guide",
+  "meta_hook": "compare status checks, access, scope and quote inputs",
+  "takeaway": "Canberra tree work starts with 4 checks: ownership, protected status, practical scope and written comparison. The published guide names 6 possible routes: removal, pruning, stump grinding, arborist assessment, emergency tree work and hedge or smaller-tree trimming. It points readers to the Urban Forest Act 2023, ACTmapi and City Services guidance before major private-tree work is authorised.",
+  "lead": "For homeowners comparing tree removal canberra options, the useful starting point is not price from height alone, but ownership, protected status, access and the written scope of work.",
+  "lead_tail": "with approval checks and site details set out before quotes are compared",
+  "stats": [
+    {
+      "value": "2023",
+      "label": "Urban Forest Act referenced"
+    },
+    {
+      "value": "4",
+      "label": "checks before choosing"
+    },
+    {
+      "value": "6",
+      "label": "tree-work routes named"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With Status And Purpose",
+      "html": "<p><a href=\"https://www.toptreeremovalcanberra.com.au/\">Top Tree Removal Canberra</a> frames the first decision around whether removal, pruning, assessment or another route fits the tree. The published guide separates private, public and protected status before major work is arranged, and states that all public trees are protected. It also notes that a private tree may be protected under ACT rules.</p><p>That status check should sit beside the reason for the work. A dead, structurally compromised or unsuitable tree may lead to removal, while deadwood, clearance or canopy objectives may point to selective pruning. If health, risk, protected status or development questions remain unclear, an arborist assessment may be the better first request.</p><ul><li>Confirm whether the tree is on private or public land.</li><li>Check ACTmapi and current City Services guidance before major private-tree work.</li><li>State whether the intended outcome is removal, pruning, assessment, stump work or urgent make-safe work.</li></ul>"
+    },
+    {
+      "h2": "Who This Guide Applies To",
+      "html": "<p>This guide applies to Canberra residents preparing a tree-work enquiry where ownership, protected status, access or nearby assets could affect the answer. It is useful when the tree is close to roofs, fences, visible lines, slopes, gates or areas that need clean-up after the work.</p><p>It does not replace an inspection, written quote, insurance check or provider-level proof. Qualifications, memberships, availability and acceptance of the job must be confirmed with the actual operator. The same standard applies when comparing more than one written response.</p><p>A related planning resource is available at <a href=\"https://sites-e470-1.web.app/tree-removal-canberra-007/\">this Canberra tree-work planning guide</a>.</p>"
+    },
+    {
+      "h2": "Quote Inputs That Change Scope",
+      "html": "<p>The published guide says there is no reliable price from height alone. A useful enquiry shows the whole tree, trunk, access route and nearby constraints so the response can address method, inclusions and exclusions.</p><p>Send the suburb, reason for the work, whole-tree and trunk photos, gate or access width, nearby roofs and fences, visible lines, slope and the result wanted after completion. Clarify whether timber, mulch, green waste, final clean-up, surface roots, backfill and stump grinding are included.</p><ul><li>Ask whether the response includes removal, pruning, stump work, waste and site repair.</li><li>Ask for method, approvals, credentials, insurance, inclusions and exclusions in writing.</li><li>Separate immediate make-safe work from later clean-up or stump decisions when the issue is urgent.</li></ul>"
+    },
+    {
+      "h2": "Protected Tree Checks In The ACT",
+      "html": "<p>The published guide points readers to City Services tests and ACTmapi before arranging major private-tree work. It also references the Urban Forest Act 2023, the ACT Tree Register and protected-tree checks. Those inputs support checking status rather than assuming approval from position, species or condition.</p><p>A private tree may be protected by size, registration or other qualifying conditions described in ACT guidance. The guide also says a dead native tree can still require care in the status check. For public trees, it states that residents must not prune or remove street trees themselves.</p><p>When contacting a provider, state what has already been checked and what remains unknown. Do not present approval as resolved unless the status has been confirmed.</p>"
+    },
+    {
+      "h2": "Choosing Between Work Types",
+      "html": "<p>Removal is one possible route, not the automatic one. Selective pruning may suit deadwood, clearance or canopy objectives. Arborist assessment may be needed where the question is health, risk, protected-tree status or development impact.</p><p>Stump grinding should be scoped separately from above-ground removal. Define grinding depth, access, surface roots, grindings and backfill before comparing responses. Hedge and smaller-tree trimming also need dimensions, access, desired finish and green waste handling.</p><p>For fallen or storm-damaged trees, the published guide describes emergency work as safety-first triage covering electrical risk and make-safe scope. Keep people clear of an unsafe area, treat overhead or fallen electrical lines as a separate hazard, then clarify the immediate work requested.</p>"
+    },
+    {
+      "h2": "Compare Provider Proof And Inclusions",
+      "html": "<p>The published guide avoids borrowing an unnamed operator's licence, insurance, memberships or project history. Readers should use the same standard. Confirm proof for the actual business quoting the work, in writing, before accepting a scope.</p><p>Compare responses line by line. One may include stump grinding, waste removal and site repair, while another may stop after cutting and removal of above-ground material. One may assume easy access, while another may allow for narrow gates, nearby structures or more complex rigging.</p><p>Before choosing, ask what remains assumed: ownership status, protected-tree checks, access width, visible services, slope, final clean-up, approval responsibility and exclusions.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Tree work decision routes before requesting a quote",
+    "headers": [
+      "Situation",
+      "Likely route to ask about",
+      "Scope details to clarify"
+    ],
+    "rows": [
+      [
+        "Dead, compromised or unsuitable tree",
+        "Removal or arborist assessment",
+        "Protected status, access, nearby assets, stump and waste"
+      ],
+      [
+        "Deadwood, clearance or canopy objective",
+        "Selective pruning",
+        "Objective, branch areas, access and green waste"
+      ],
+      [
+        "Stump remains after work",
+        "Stump grinding",
+        "Grinding depth, surface roots, grindings and backfill"
+      ],
+      [
+        "Storm damage or fallen tree",
+        "Emergency tree work",
+        "Immediate hazard, make-safe work and later clean-up"
+      ],
+      [
+        "Unclear health or protected-tree question",
+        "Arborist assessment",
+        "Reason for assessment, documents needed and next decision"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Identify ownership",
+      "text": "Confirm whether the tree is private or public before arranging removal or major pruning."
+    },
+    {
+      "name": "Check protected status",
+      "text": "Use ACTmapi and current City Services guidance where private-tree protection may apply."
+    },
+    {
+      "name": "Document the site",
+      "text": "Provide whole-tree photos, trunk photos, access width, nearby structures, visible lines and slope."
+    },
+    {
+      "name": "Define inclusions",
+      "text": "State whether the enquiry includes pruning, removal, stump work, timber, mulch, waste and clean-up."
+    },
+    {
+      "name": "Compare written scopes",
+      "text": "Ask each provider to confirm method, approvals, credentials, insurance, inclusions and exclusions in writing."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can a Canberra tree be removed just because it is inconvenient?",
+      "a": "The published guide does not treat inconvenience as enough by itself. It says removal may suit a dead, structurally compromised or unsuitable tree, but protected status, ownership and the needed outcome should be checked first."
+    },
+    {
+      "q": "Is price mostly based on tree height?",
+      "a": "No. The guide says there is no reliable price from height alone. Access, trunk and canopy conditions, nearby assets, stump work, waste and clean-up can change the written scope."
+    },
+    {
+      "q": "Do public trees need a different process?",
+      "a": "Yes. The published guide states that all public trees are protected and that residents must not prune or remove street trees themselves."
+    },
+    {
+      "q": "What should be sent with an enquiry?",
+      "a": "Send the suburb, reason for the work, whole-tree and trunk photos, access notes, nearby roofs or fences, visible lines, slope and whether stump or waste work is required."
+    }
+  ],
+  "about": [
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published guide identifies removal, pruning, stump grinding, arborist assessment, emergency tree work and hedge or smaller-tree trimming as possible tree-work routes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide references the Urban Forest Act 2023 in relation to ACT protected-tree guidance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says all public trees are protected.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says residents must not prune or remove street trees themselves.",
+      "source": "money page"
+    },
+    {
+      "claim": "A private tree may be protected under ACT rules, including by size, registration or other qualifying conditions.",
+      "source": "money page"
+    },
+    {
+      "claim": "A dead native tree can still require care in the protected-status check.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says to use current City Services tests and ACTmapi before arranging major private-tree work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says there is no reliable price from height alone.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says provider qualifications, insurance, memberships and availability should be confirmed for the actual operator.",
+      "source": "money page"
+    },
+    {
+      "claim": "Emergency tree work is described by the published guide as safety-first triage for fallen or storm-damaged trees, electrical risk and make-safe scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says to keep people clear of an unsafe area and treat overhead or fallen electrical lines as a separate hazard.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Canberra tree-work planning, status checks, quote inputs and provider comparison before a resident chooses a contractor."
+}
