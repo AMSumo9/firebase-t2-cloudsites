@@ -1,0 +1,279 @@
+{
+  "node_id": "homeloanbrokergoldcoast.com-008",
+  "money_domain": "homeloanbrokergoldcoast.com.au",
+  "money_home_url": "https://www.homeloanbrokergoldcoast.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "surge",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/home-loan-brokers-gold-coast-008/",
+  "live_url": "https://sites-e470-1.web.app/home-loan-brokers-gold-coast-008/",
+  "subdomain": "home-loan-brokers-gold-coast-guide",
+  "gh_repo": null,
+  "primary_kw": "home loan brokers gold coast",
+  "kw_slug": "home-loan-brokers-gold-coast",
+  "anchor_kw": "home loan brokers gold coast",
+  "brand": "Home Loan Broker Gold Coast",
+  "target_page_url": "https://www.homeloanbrokergoldcoast.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "homeloanbrokergoldcoast.com-007",
+    "url": "https://s3.ap-southeast-2.amazonaws.com/homeloanbrokergoldcoast.com-007/home-loan-broker-gold-coast.html",
+    "primary_kw": "home loan broker gold coast"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\homeloanbrokergoldcoast.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "home loan broker",
+        "type": "SERVICE",
+        "salience": 0.3
+      },
+      {
+        "name": "Gold Coast",
+        "type": "LOCATION",
+        "salience": 0.26
+      },
+      {
+        "name": "mortgage broker",
+        "type": "SERVICE",
+        "salience": 0.22
+      },
+      {
+        "name": "home loan",
+        "type": "SERVICE",
+        "salience": 0.2
+      },
+      {
+        "name": "Queensland",
+        "type": "LOCATION",
+        "salience": 0.14
+      },
+      {
+        "name": "first home buyer",
+        "type": "CONCEPT",
+        "salience": 0.13
+      },
+      {
+        "name": "refinance",
+        "type": "SERVICE",
+        "salience": 0.12
+      },
+      {
+        "name": "investment loan",
+        "type": "SERVICE",
+        "salience": 0.11
+      },
+      {
+        "name": "interest rate",
+        "type": "CONCEPT",
+        "salience": 0.1
+      },
+      {
+        "name": "pre-approval",
+        "type": "CONCEPT",
+        "salience": 0.1
+      },
+      {
+        "name": "Lenders Mortgage Insurance (LMI)",
+        "type": "CONCEPT",
+        "salience": 0.09
+      },
+      {
+        "name": "MFAA",
+        "type": "ORGANIZATION",
+        "salience": 0.09
+      },
+      {
+        "name": "Queensland First Home Owner Grant",
+        "type": "CONCEPT",
+        "salience": 0.09
+      },
+      {
+        "name": "loan-to-value ratio (LVR)",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "comparison rate",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "deposit",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "stamp duty",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "FBAA",
+        "type": "ORGANIZATION",
+        "salience": 0.08
+      },
+      {
+        "name": "ASIC",
+        "type": "ORGANIZATION",
+        "salience": 0.08
+      },
+      {
+        "name": "Australian Credit Licence",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "QLD stamp duty concession",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "Southport",
+        "type": "LOCATION",
+        "salience": 0.07
+      },
+      {
+        "name": "Robina",
+        "type": "LOCATION",
+        "salience": 0.07
+      },
+      {
+        "name": "Burleigh Heads",
+        "type": "LOCATION",
+        "salience": 0.07
+      },
+      {
+        "name": "offset account",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "fixed rate",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "variable rate",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "AFCA",
+        "type": "ORGANIZATION",
+        "salience": 0.07
+      },
+      {
+        "name": "best interests duty",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "First Home Guarantee Scheme",
+        "type": "CONCEPT",
+        "salience": 0.07
+      }
+    ],
+    "lsi_keywords": [
+      "home loan pre-approval gold coast",
+      "first home buyer loan queensland",
+      "refinance home loan gold coast",
+      "investment property loan gold coast",
+      "best home loan rates gold coast",
+      "low deposit home loan",
+      "lenders mortgage insurance explained",
+      "comparison rate vs interest rate",
+      "queensland first home owner grant 2026",
+      "stamp duty concession queensland",
+      "offset account home loan",
+      "fixed vs variable rate home loan",
+      "self-employed home loan australia",
+      "mortgage broker fees explained",
+      "best interests duty mortgage broker"
+    ]
+  },
+  "image": {
+    "file": "home-loan-brokers-gold-coast.jpg",
+    "photographer": "seb.",
+    "source": "Unsplash",
+    "credit": "Photo by seb. on Unsplash"
+  },
+  "build_date": "2026-08-12",
+  "money_home_text": "Home Loan Broker Gold Coast | Free Quote Home Loan Broker Gold Coast Services Process Why Us FAQ Areas Free Quote Services Process Why Us FAQ Areas Contact Free Quote § 01 · Gold Coast Home Loans Home Loan Broker Gold Coast Free, no obligation help comparing lenders, sorting pre-approval and matching you with a vetted Gold Coast home loan broker. Licensed network Insured partners 5-star rated Get Your Free Quote A specialist will be in touch soon. Name Phone Email Brief details (optional) Send Enquiry No obligation. We will be in touch soon. § 02 · Local Expertise Home Loan Broker Gold Coast Who Knows the Local Market Looking for a home loan broker Gold Coast buyers can actually trust? With dozens of lenders, fluctuating interest rates and shifting Queensland incentives, sorting a home loan on your own can be a full-time job. An experienced Gold Coast mortgage broker can remove the guesswork by comparing suitable lending options and explaining the trade-offs. Whether you are a first home buyer chasing pre-approval, an owner-occupier looking to refinance home loan Gold Coast rates, or an investor weighing fixed against variable, you talk to a specialist who works in the local Queensland mortgage market every day. They know which lenders move quickly, which suit self-employed borrowers, and how the latest rate movements affect what you can comfortably borrow. Most residential borrowers pay nothing for the broker service: lenders pay the broker on settlement, and you keep the choice. Send one short enquiry and a mortgage broker can call to discuss your goals and borrowing position. § 03 · Services Home Loan Solutions for Gold Coast Buyers Six core areas experienced Gold Coast brokers handle every week, with access to a panel of 30+ lenders. First Home Buyer Loans If you are buying your first home on the Gold Coast, our brokers walk you through the Queensland First Home Owner Grant of $30,000 for eligible new builds under $750,000, current for transactions up to 30 June 2026, alongside lender criteria, deposit options and pre-approval timing. Refinancing Refinance home loan Gold Coast comparisons across the panel: switch rate, restructure repayments, or unlock equity. We weigh the comparison rate against features like offset accounts and redraw, so the apples-to-apples picture is clear before you switch. Investment Property Loans Investment loan broker Gold Coast investors trust for negatively or positively geared structures, interest only periods, and lender appetite for higher LVRs. Owner-occupier and investor lending sit on different pricing grids, your broker maps both. Low Deposit and 5% Deposit Pathways A mortgage broker can also help assess your eligibility for the Australian Government 5% Deposit Scheme , letting eligible buyers purchase with as little as 5% down without paying lenders mortgage insurance, plus other low-deposit lender programs. Self-Employed Home Loans Sole traders, contractors and company directors typically need lenders willing to read tax returns and BAS rather than payslips. Experienced brokers know which lenders consider alternative income documentation and how to package your application. Pre-Approval and Bridging Pre-approval gives you a clear price ceiling and a sharper offer at auction. We also help with bridging finance when settlement dates do not line up, plus principal and interest or interest only structures depending on your goal. § 04 · Process How It Works in Three Simple Steps Quick to start, no documents needed up front. 01 Tell Us About Your Goal Fill in the short enquiry form. A few details about your situation and what you want to do, no paperwork at this stage. 02 Speak With a Local Broker A Gold Coast home loan broker can review your situation, discuss suitable loan types and explain the next steps. 03 Compare Options and Choose Your broker compares lender options, walks you through home loan pre-approval Gold Coast next steps, and you choose with no obligation. § 05 · Why Us Why Gold Coast Borrowers Use a Mortgage Broker Check that your broker holds the required credit authorisation and works to recognised professional standards before proceeding. Vetted, accredited brokers MFAA-accredited brokers meet recognised professional and education standards. FBAA-accredited specialists also feature on the panel for additional coverage. Acting in your best interests The broker you engage must operate under the ASIC mortgage broker Best Interests Duty , meaning your interests come first when they recommend a loan, not the lender's. Access to a 30+ lender panel Major banks, second-tier banks and non-bank lenders. The best home loan broker Gold Coast borrowers find is the one who can shop the widest panel for sharper rates and features. Local knowledge of the Gold Coast Brokers who understand the Gold Coast area, from Southport apartment blocks to Burleigh Heads and Coomera house-and-land. Most residential borrowers pay nothing direct: the lender pays the broker on settlement. Licensed network partners Insured partners 5-star rated network § 06 · FAQ Gold Coast Home Loan Questions, Answered How much does a home loan broker cost on the Gold Coast? Most residential brokers in Australia are paid by the lender, not the borrower. Upfront commission is typically around 0.65 to 0.70 percent of the loan amount, with an ongoing trail of around 0.15 percent per year. For most borrowers, there is no direct fee for using a broker. Are mortgage brokers actually free for the borrower? Yes, in most residential cases the lender pays the broker on settlement. Exceptions can apply for complex or commercial loans, in which case the broker discloses any fee in writing before you proceed. What is the difference between a mortgage broker and a home loan broker? In Australia the terms are used interchangeably. Both refer to a credit assistance professional who compares lenders on your behalf. All credit assistance is regulated under the National Consumer Credit Protection Act.",
+  "target_page_text": "",
+  "nav_candidates": [
+    "mailto:enquiry@homeloanbrokergoldcoast.com.au"
+  ]
+}
