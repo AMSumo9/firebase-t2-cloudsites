@@ -1,0 +1,268 @@
+{
+  "node_id": "retainingwallsbrisbane-009",
+  "money_domain": "retainingwallsbrisbane.net.au",
+  "money_home_url": "https://www.retainingwallsbrisbane.net.au/",
+  "money_host": "netlify",
+  "cloud_host": "surge",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/retaining-wall-builders-brisbane-009/",
+  "live_url": "https://sites-e470-1.web.app/retaining-wall-builders-brisbane-009/",
+  "subdomain": "retaining-wall-builders-brisbane-guide-retainingwallsbrisbane",
+  "gh_repo": null,
+  "primary_kw": "retaining wall builders brisbane",
+  "kw_slug": "retaining-wall-builders-brisbane",
+  "anchor_kw": "retaining wall builders brisbane",
+  "brand": "Retaining Walls Brisbane",
+  "target_page_url": "https://www.retainingwallsbrisbane.net.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "retainingwallsbrisbane-001",
+    "url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallsbrisbane-001/retaining-wall-builders-brisbane.html",
+    "primary_kw": "retaining wall builders brisbane"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\retainingwallsbrisbane.net.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Brisbane City Council",
+        "type": "GovernmentAgency",
+        "salience": 0
+      },
+      {
+        "name": "Queensland Building and Construction Commission",
+        "type": "GovernmentAgency",
+        "salience": 0
+      },
+      {
+        "name": "Registered Professional Engineer of Queensland",
+        "type": "ProfessionalCredential",
+        "salience": 0
+      },
+      {
+        "name": "Housing Industry Association",
+        "type": "IndustryBody",
+        "salience": 0
+      },
+      {
+        "name": "Master Builders Queensland",
+        "type": "IndustryBody",
+        "salience": 0
+      },
+      {
+        "name": "Building Regulation 2021",
+        "type": "Legislation",
+        "salience": 0
+      },
+      {
+        "name": "Queensland Development Code MP/NMP 1.7",
+        "type": "TechnicalCode",
+        "salience": 0
+      },
+      {
+        "name": "AS 4678",
+        "type": "AustralianStandard",
+        "salience": 0
+      },
+      {
+        "name": "National Construction Code",
+        "type": "TechnicalCode",
+        "salience": 0
+      },
+      {
+        "name": "concrete sleeper",
+        "type": "BuildingMaterial",
+        "salience": 0
+      },
+      {
+        "name": "timber sleeper",
+        "type": "BuildingMaterial",
+        "salience": 0
+      },
+      {
+        "name": "besser block",
+        "type": "BuildingMaterial",
+        "salience": 0
+      },
+      {
+        "name": "sandstone block",
+        "type": "BuildingMaterial",
+        "salience": 0
+      },
+      {
+        "name": "gabion basket",
+        "type": "BuildingMaterial",
+        "salience": 0
+      },
+      {
+        "name": "agi pipe",
+        "type": "BuildingMaterial",
+        "salience": 0
+      },
+      {
+        "name": "geofabric",
+        "type": "BuildingMaterial",
+        "salience": 0
+      },
+      {
+        "name": "surcharge load",
+        "type": null,
+        "salience": 0
+      },
+      {
+        "name": "zone of influence",
+        "type": null,
+        "salience": 0
+      },
+      {
+        "name": "reactive clay",
+        "type": null,
+        "salience": 0
+      },
+      {
+        "name": "cut-and-fill",
+        "type": null,
+        "salience": 0
+      },
+      {
+        "name": "batter",
+        "type": null,
+        "salience": 0
+      },
+      {
+        "name": "weep holes",
+        "type": null,
+        "salience": 0
+      },
+      {
+        "name": "The Gap",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Bardon",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Ashgrove",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Paddington",
+        "type": "Suburb",
+        "salience": 0
+      },
+      {
+        "name": "Mount Gravatt",
+        "type": "Suburb",
+        "salience": 0
+      }
+    ],
+    "lsi_keywords": []
+  },
+  "image": {
+    "file": "retaining-wall-builders-brisbane.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-16",
+  "money_home_text": "Retaining Walls Brisbane | Site &amp; Drainage Guide Skip to content Retaining Walls Brisbane Home Services Locations About Tools Contact Free Quote Today Open menu Home Services Locations About Tools Contact Site facts before wall choices Retaining Walls Brisbane: plan your project with clarity Understand grade, water, access, loads and approval questions before comparing retaining-wall materials or requesting a written scope. Describe your site Compare wall systems Site facts first Height, loads, drainage, boundaries and access come before material selection. Approval-aware guidance Council and QBCC sources are linked where property-specific checks matter. Clear written scope A useful enquiry records dimensions, symptoms, access and nearby structures. Licensed roles respected Regulated work and design are carried out by appropriately qualified professionals. Retaining wall options for Brisbane sites Compare wall systems by the site problem they need to solve, not by appearance alone. Concrete Sleeper Retaining Walls Reinforced sleeper systems for Brisbane replacements, boundaries and cut-and-fill projects where post embedment, access and drainage are assessed together. Explore this wall type -&gt; Timber Sleeper Retaining Walls Treated timber systems for lower garden walls and terraces where member selection, moisture exposure, drainage and maintenance are explicit. Explore this wall type -&gt; Reinforced Block Retaining Walls Core-filled masonry systems for engineered loads, tighter footprints and finished residential walls requiring coordinated footing and drainage details. Explore this wall type -&gt; Sandstone &amp; Boulder Retaining Walls Gravity and battered natural-stone walls where bearing, block geometry, machinery access and runoff management suit the site. Explore this wall type -&gt; Gabion Retaining Walls Rock-filled basket systems for landscape terraces and erosion settings with sound foundation preparation, filter separation and basket specification. Explore this wall type -&gt; Retaining Wall Drainage Systems Investigation and installation of collection, filtration and lawful discharge details behind new or existing retaining structures. Explore this wall type -&gt; Engineered &amp; Approved Retaining Walls A coordinated design and certification pathway for walls outside simple exemption conditions or affected by significant loads, overlays or nearby structures. Explore this wall type -&gt; Retaining Wall Repairs &amp; Replacement Cause-led assessment of leaning, bulging, cracked, decayed or undermined walls followed by a clear repair or replacement scope. Explore this wall type -&gt; Read the ground A wall is only one part of the slope Retaining structures interact with soil, water, buildings, driveways, pools, fences and neighbours. Brisbane's steep inner suburbs and wider foothill blocks pose different access problems, but both benefit from an accurate retained-height record and an outlet plan for collected water. Start with wide photos and rough measurements. Note cracks, leaning, decayed posts, erosion, wet areas and recent changes above the wall. This evidence helps distinguish a material preference from the actual site problem. What a Brisbane retaining wall has to hold back A retaining wall carries three things at once: the weight of the soil behind it, the water moving through that soil, and whatever sits on the ground above. The first two are constant. The third is the one property owners most often forget, because a driveway, a carport slab, a pool shell or a neighbour's shed reads as part of the yard rather than as a load pressing on a structure a metre away. That is why retained height, measured from the base of the wall to the finished soil level behind it, is the single most useful number to establish early. It sets the pressure the wall must resist, and in Queensland it also sits close to the threshold where an exemption stops applying. A wall that looks 800 millimetres tall from the lawn can be 1.4 metres from the footing once the buried courses are counted. Water is the usual reason walls fail Saturated backfill weighs more than dry backfill and exerts a hydrostatic push that most walls were never sized for. Brisbane's summer storm pattern delivers that condition in short, intense bursts rather than steadily, so a wall can stand for years and then move in a single wet fortnight. The classic Brisbane sequence is a broken or redirected downpipe feeding the retained zone, followed by fines washing out through a joint, followed by a visible dip in the ground above. A working drainage system is a connected path, not a length of slotted pipe thrown into the trench. Water enters through clean aggregate protected by a filter fabric matched to the local soil, travels along a graded subsoil line, and leaves at an outlet that is visible, lawful and maintainable. A pipe that simply disappears into the ground has not shown where the water goes. Approvals, licensing and who signs what Brisbane City Council describes limited circumstances in which a retaining wall may be built without building approval, and the Queensland Development Code sets the deemed-to-satisfy conditions behind them. Height is only the first test. Surcharge loads above the wall, proximity to another wall or a building, boundary position, easements, overlays and protected vegetation each apply separately, and any one of them can pull an otherwise simple wall into the approval pathway. Where design is required, it comes from an engineer registered with the Board of Professional Engineers of Queensland, and the certification trail runs on Form 15 for the design and Form 16 for the inspection and compliance of the built work. Construction itself is regulated building work above the statutory value threshold, so the contractor should hold a QBCC licence covering the class of work. The QBCC licence search is public and worth using before a deposit is paid. Turning observations into a scope A quotation",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.retainingwallsbrisbane.net.au/services/",
+    "https://www.retainingwallsbrisbane.net.au/locations/",
+    "https://www.retainingwallsbrisbane.net.au/tools/cost-calculator/",
+    "https://www.retainingwallsbrisbane.net.au/services/concrete-sleeper-retaining-walls/",
+    "https://www.retainingwallsbrisbane.net.au/services/timber-sleeper-retaining-walls/",
+    "https://www.retainingwallsbrisbane.net.au/services/reinforced-block-retaining-walls/",
+    "https://www.retainingwallsbrisbane.net.au/services/sandstone-boulder-retaining-walls/",
+    "https://www.retainingwallsbrisbane.net.au/services/gabion-retaining-walls/",
+    "https://www.retainingwallsbrisbane.net.au/services/retaining-wall-drainage/",
+    "https://www.retainingwallsbrisbane.net.au/services/engineered-approved-retaining-walls/",
+    "https://www.retainingwallsbrisbane.net.au/services/retaining-wall-repairs-replacement/",
+    "https://www.retainingwallsbrisbane.net.au/locations/the-gap/",
+    "https://www.retainingwallsbrisbane.net.au/locations/bardon/",
+    "https://www.retainingwallsbrisbane.net.au/locations/ashgrove/",
+    "https://www.retainingwallsbrisbane.net.au/locations/paddington/",
+    "https://www.retainingwallsbrisbane.net.au/locations/toowong/",
+    "https://www.retainingwallsbrisbane.net.au/locations/chapel-hill/",
+    "https://www.retainingwallsbrisbane.net.au/locations/st-lucia/",
+    "https://www.retainingwallsbrisbane.net.au/locations/kenmore/",
+    "https://www.retainingwallsbrisbane.net.au/locations/indooroopilly/",
+    "https://www.retainingwallsbrisbane.net.au/locations/mount-gravatt/",
+    "https://www.retainingwallsbrisbane.net.au/locations/camp-hill/",
+    "https://www.retainingwallsbrisbane.net.au/locations/coorparoo/",
+    "https://www.retainingwallsbrisbane.net.au/locations/holland-park/",
+    "https://www.retainingwallsbrisbane.net.au/locations/carindale/"
+  ]
+}

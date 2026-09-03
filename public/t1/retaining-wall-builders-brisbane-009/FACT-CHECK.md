@@ -1,0 +1,17 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source guide names grade, water, access, loads and approval questions as matters to understand before comparing materials or requesting a written scope. | SUPPORTED | Money page says: “Understand grade, water, access, loads and approval questions before comparing retaining-wall materials or requesting a written scope.” |
+| The source guide lists concrete sleeper, timber sleeper, reinforced block, sandstone and boulder, gabion, drainage, engineered and approved, and repair or replacement pathways. | SUPPORTED | Money page lists those wall/pathway sections under “Retaining wall options for Brisbane sites.” |
+| Retained height is measured from the base of the wall to the finished soil level behind it and is treated as a useful early number. | SUPPORTED | Money page says retained height is measured “from the base of the wall to the finished soil level behind it” and calls it “the single most useful number to establish early.” |
+| A wall that looks 800 millimetres tall from the lawn can be 1.4 metres from the footing once buried courses are counted. | SUPPORTED | Money page states this exact 800 mm / 1.4 m comparison. |
+| Saturated backfill weighs more than dry backfill and creates hydrostatic pressure behind a wall. | SUPPORTED | Money page says saturated backfill weighs more than dry backfill and exerts “a hydrostatic push.” |
+| The source guide describes a working drainage system as clean aggregate, filter fabric, a graded subsoil line and a visible, lawful and maintainable outlet. | SUPPORTED | Money page describes water entering clean aggregate protected by filter fabric, travelling along a graded subsoil line, and leaving at a visible, lawful, maintainable outlet. |
+| Brisbane City Council describes limited circumstances in which a retaining wall may be built without building approval. | SUPPORTED | Money page says Brisbane City Council describes limited circumstances where a wall may be built without building approval. |
+| Height, surcharge loads, proximity to another wall or building, boundary position, easements, overlays and protected vegetation can affect the approval pathway. | SUPPORTED | Money page lists each of those as separate approval-pathway factors. |
+| Where design is required, the source guide says it comes from an engineer registered with the Board of Professional Engineers of Queensland. | SUPPORTED | Money page says required design comes from an engineer registered with BPEQ. |
+| The source guide names Form 15 for design and Form 16 for inspection and compliance of the built work. | SUPPORTED | Money page says the certification trail uses Form 15 for design and Form 16 for inspection/compliance. |
+| Construction itself is regulated building work above the statutory value threshold, and the contractor should hold a QBCC licence covering the class of work. | SUPPORTED | Money page states construction is regulated building work above the statutory value threshold and the contractor should hold a QBCC licence covering the work class. |
+| The QBCC licence search is public and worth using before a deposit is paid. | SUPPORTED | Money page says the QBCC licence search is public and worth using before paying a deposit. |
+| Built page visible text: “Retaining Wall Builders Brisbane: Planning Before Materials.” | SUPPORTED | This is the page title/editorial framing; it does not add a specific unsupported external claim or money-site mechanism/licence claim. |
+
+FACT-CHECK: PASS

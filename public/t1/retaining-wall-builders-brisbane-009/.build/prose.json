@@ -1,0 +1,223 @@
+{
+  "kicker": "Brisbane Wall Guide",
+  "h1_tail": "Planning Before Materials",
+  "meta_hook": "compare site facts, drainage, approvals and scope questions before quoting",
+  "takeaway": "A practical Brisbane wall decision starts with retained height, water path, nearby loads, access and approval status before material choice. The source guide names 8 wall or service pathways, and gives a useful caution: a wall that appears 800 millimetres from the lawn may measure 1.4 metres from the footing once buried courses are counted. Where design and inspection apply, the paperwork trail may include Form 15 and Form 16.",
+  "lead": "For homeowners comparing retaining wall builders brisbane options, the useful starting point is the site problem: slope, water, access, loads, boundaries and whether an approval pathway is likely.",
+  "lead_tail": "with the site facts organised before quotes are compared",
+  "stats": [
+    {
+      "value": "8",
+      "label": "wall and service pathways named"
+    },
+    {
+      "value": "15 and 16",
+      "label": "design and inspection forms referenced"
+    },
+    {
+      "value": "1",
+      "label": "retained height record to establish early"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Site, Not The Finish",
+      "html": "<p><a href=\"https://www.retainingwallsbrisbane.net.au/\">Retaining Walls Brisbane</a> frames wall selection around grade, water, access, loads and approval questions before materials are compared. That order is useful because a retaining wall is not only a visible boundary or garden edge. It interacts with soil, stormwater, buildings, driveways, pools, fences and neighbouring land.</p><p>The first job is to record what the wall must hold back. Retained height is measured from the base of the wall to the finished soil level behind it, and the source guide treats it as the single most useful early number. Photos should show the full slope, the top and bottom of the wall, any wet areas, cracks, leaning, decayed posts, erosion and recent changes above the wall.</p><ul><li>Measure the visible face and ask whether buried courses change the real retained height.</li><li>Note what sits above the retained zone, such as a driveway, slab, pool shell, fence or nearby structure.</li><li>Record access for machinery, materials, spoil removal and drainage outlet work.</li></ul>"
+    },
+    {
+      "h2": "Drainage Is A Design Question",
+      "html": "<p>The published guide is direct about water: saturated backfill weighs more than dry backfill and creates hydrostatic pressure. It also describes Brisbane storm conditions as short, intense bursts, where a wall may stand for years and then move during a wet period. That makes drainage part of the structure, not a finishing detail.</p><p>A useful drainage discussion asks where water enters, how it is filtered, where it travels and where it leaves. The source guide names clean aggregate, filter fabric matched to local soil, a graded subsoil line and a visible, lawful and maintainable outlet. A length of slotted pipe without a known outlet is not enough information for a confident scope.</p><p>For another crawlable overview of the same subject, this <a href=\"https://s3.ap-southeast-2.amazonaws.com/retainingwallsbrisbane-001/retaining-wall-builders-brisbane.html\">Brisbane retaining wall planning guide</a> can sit beside the main source when comparing notes.</p>"
+    },
+    {
+      "h2": "Approvals, Licensing And Design Roles",
+      "html": "<p>Brisbane City Council is named in the source material as describing limited circumstances where a retaining wall may be built without building approval. The same passage says height is only the first test. Surcharge loads, proximity to another wall or building, boundary position, easements, overlays and protected vegetation can each affect whether a simple looking job enters an approval pathway.</p><p>Where engineering design is required, the source guide says it comes from an engineer registered with the Board of Professional Engineers of Queensland. It also names Form 15 for design and Form 16 for inspection and compliance of the built work. The Queensland Building and Construction Commission is relevant because construction above the statutory value threshold is described as regulated building work, and the public licence search is worth checking before a deposit is paid.</p><ul><li>Ask who is responsible for design, certification, construction and final inspection.</li><li>Ask whether a boundary, easement, overlay or nearby structure changes the approval pathway.</li><li>Ask which licence class applies to the proposed work.</li></ul>"
+    },
+    {
+      "h2": "Material Choice Follows The Load Case",
+      "html": "<p>The source guide lists concrete sleeper, timber sleeper, reinforced block, sandstone and boulder, gabion, drainage, engineered and approved, and repair or replacement pathways. Those categories should not be treated as a style menu. They are ways to respond to different combinations of height, load, access, moisture exposure, footing detail and drainage requirement.</p><p>Concrete sleeper systems are described for replacements, boundaries and cut and fill projects where post embedment, access and drainage are assessed together. Timber sleeper systems are described for lower garden walls and terraces where member selection, moisture exposure, drainage and maintenance are explicit. Reinforced block systems suit engineered loads, tighter footprints and finished residential walls where footing and drainage details need coordination.</p><p>Natural stone and gabion options depend heavily on bearing, geometry, machinery access, runoff management, foundation preparation, filter separation and basket specification. Repair or replacement work starts with cause led assessment of leaning, bulging, cracked, decayed or undermined walls before a scope is chosen.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most useful for Brisbane property owners preparing to speak with a builder, engineer or certifier about a new wall, replacement wall, drainage investigation or visible movement in an existing structure. It also suits owners who are unsure whether the problem is mainly material failure, water movement, access, a changed load above the wall or an approval issue.</p><p>It is less useful for choosing a wall purely by appearance. The better comparison is between quotes that describe the same retained height, backfill, drainage outlet, access assumptions, nearby loads, approval status and inspection responsibilities. A clear written scope should make those assumptions visible before work starts.</p><ol><li>Collect wide photos, rough measurements and notes on symptoms.</li><li>Mark nearby structures, boundaries, fences, driveways, pools, downpipes and wet zones.</li><li>Ask for a scope that separates design, approval, drainage, construction and inspection items.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Comparing early retaining wall decisions",
+    "headers": [
+      "Decision point",
+      "Lower complexity signal",
+      "Needs deeper checking"
+    ],
+    "rows": [
+      [
+        "Height",
+        "Retained height is clearly measured and modest",
+        "Buried courses or slope make the real height uncertain"
+      ],
+      [
+        "Water",
+        "Outlet is visible, lawful and maintainable",
+        "Pipe route or discharge point is unclear"
+      ],
+      [
+        "Loads",
+        "No nearby structures or hardstand above the retained zone",
+        "Driveway, slab, pool, shed or neighbouring structure sits close"
+      ],
+      [
+        "Approval",
+        "No trigger is apparent after checks",
+        "Boundary, easement, overlay, vegetation or surcharge question remains"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Record the wall",
+      "text": "Photograph the wall from wide angles and measure visible height, slope, access and the retained ground level behind it."
+    },
+    {
+      "name": "Trace water",
+      "text": "Identify downpipes, wet areas, erosion, pipe outlets and any place where collected water appears to disappear."
+    },
+    {
+      "name": "List nearby loads",
+      "text": "Note driveways, slabs, pools, sheds, fences, neighbouring walls and buildings near the retained zone."
+    },
+    {
+      "name": "Check roles",
+      "text": "Ask who handles design, approval advice, QBCC licensed construction, inspection and any Form 15 or Form 16 paperwork."
+    },
+    {
+      "name": "Compare scopes",
+      "text": "Compare quotes by assumptions and inclusions, not only by material name or finished appearance."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I prepare before asking for a retaining wall quote?",
+      "a": "Prepare wide photos, rough dimensions, retained height, access notes, symptoms such as cracking or leaning, wet areas and anything above the wall that may add load. That information helps separate a material preference from the actual site problem."
+    },
+    {
+      "q": "Is drainage always part of the discussion?",
+      "a": "Yes, the source guide treats drainage as central because saturated backfill adds pressure behind a wall. Ask how water enters the drainage layer, how soil is filtered, where the subsoil line runs and where the outlet can be seen and maintained."
+    },
+    {
+      "q": "When might engineering or approval checks be needed?",
+      "a": "The supplied guide says height is only one trigger. Loads above the wall, proximity to buildings or other walls, boundaries, easements, overlays and protected vegetation can each change the pathway."
+    },
+    {
+      "q": "Which wall material is best?",
+      "a": "There is no single best material from the supplied facts. Concrete sleeper, timber sleeper, reinforced block, natural stone and gabion options each depend on retained height, load, access, drainage, foundation conditions and the required finish."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source guide names grade, water, access, loads and approval questions as matters to understand before comparing materials or requesting a written scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide lists concrete sleeper, timber sleeper, reinforced block, sandstone and boulder, gabion, drainage, engineered and approved, and repair or replacement pathways.",
+      "source": "money page"
+    },
+    {
+      "claim": "Retained height is measured from the base of the wall to the finished soil level behind it and is treated as a useful early number.",
+      "source": "money page"
+    },
+    {
+      "claim": "A wall that looks 800 millimetres tall from the lawn can be 1.4 metres from the footing once buried courses are counted.",
+      "source": "money page"
+    },
+    {
+      "claim": "Saturated backfill weighs more than dry backfill and creates hydrostatic pressure behind a wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide describes a working drainage system as clean aggregate, filter fabric, a graded subsoil line and a visible, lawful and maintainable outlet.",
+      "source": "money page"
+    },
+    {
+      "claim": "Brisbane City Council describes limited circumstances in which a retaining wall may be built without building approval.",
+      "source": "money page"
+    },
+    {
+      "claim": "Height, surcharge loads, proximity to another wall or building, boundary position, easements, overlays and protected vegetation can affect the approval pathway.",
+      "source": "money page"
+    },
+    {
+      "claim": "Where design is required, the source guide says it comes from an engineer registered with the Board of Professional Engineers of Queensland.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide names Form 15 for design and Form 16 for inspection and compliance of the built work.",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction itself is regulated building work above the statutory value threshold, and the contractor should hold a QBCC licence covering the class of work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The QBCC licence search is public and worth using before a deposit is paid.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Brisbane retaining wall planning, drainage, approval questions, material fit and quote scope preparation."
+}
