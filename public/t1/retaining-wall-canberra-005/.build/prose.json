@@ -1,0 +1,245 @@
+{
+  "kicker": "Canberra Site Guide",
+  "h1_tail": "What To Record First",
+  "meta_hook": "Use a six point site check, compare eight pathways, and separate both approvals.",
+  "takeaway": "A solid starting point is a measured site record before any wall type is shortlisted. The published guide points to 6 observations, 2 separate approval checks, and 8 wall pathways. Record the maximum retained height, the broader cut and fill, nearby loads, water paths, boundaries and access first. That order is useful on established inner south gardens and on newer cut and fill blocks, where the visible face does not explain the whole level change.",
+  "lead": "For owners comparing retaining wall canberra options, the useful first move is to document the site conditions that shape design, drainage, access and approval questions before materials are discussed.",
+  "lead_tail": "so the first inspection starts from measured facts rather than assumptions.",
+  "stats": [
+    {
+      "value": "8",
+      "label": "wall pathways listed"
+    },
+    {
+      "value": "6",
+      "label": "site facts to record"
+    },
+    {
+      "value": "2",
+      "label": "approval checks kept separate"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the full site picture",
+      "html": "<p><a href=\"https://www.retainingwallcanberra.com.au/\">Retaining Wall Canberra</a> frames the job from the ground up, not from the visible wall face. Its guide says retained height, cut and fill, nearby loads, water paths, boundaries and the route from the street should be noted before material selection. That sequence keeps an early discussion tied to measured conditions instead of preferences about finish.</p><p>Begin with one wide photograph from each end. Then record the maximum retained height and the broader change in ground level. After the overall geometry is visible, add close views of lean, cracking, decay, washout or persistent wetness. The guide also draws a line between what is seen and what is still unknown, stating that a wet patch is evidence while its source remains a question.</p><ul><li>Record the highest retained point, not just the most visible face.</li><li>Photograph what sits near the crest, including driveways, buildings, fences, trees, pools and other walls.</li><li>Trace where water appears to move through or over the soil.</li></ul>"
+    },
+    {
+      "h2": "Use the six point site ledger in every enquiry",
+      "html": "<p>The site ledger reduces a workable written enquiry to six observations, grade, loads, water, access, boundaries and approval path. That is more useful than asking which wall type is best, because each of those facts can alter the likely scope before anyone settles on a system.</p><p>Access deserves its own notes. The guide tells owners to measure gates, turns, steps, overhead limits and the distance from the street. Those details can affect handling, excavation planning and spoil movement. Boundary notes should be just as specific. Confirm the surveyed line, neighbouring levels, fences and any shared structures, rather than assuming a fence line tells the full story.</p><p>For a companion overview that compares system options, see this <a href=\"https://s3.ap-southeast-2.amazonaws.com/retainingwallcanberra-001/retaining-walls-canberra.html\">guide to retaining wall systems in Canberra</a>.</p>"
+    },
+    {
+      "h2": "Keep building approval and development approval separate",
+      "html": "<p>The guide is explicit that building approval and development approval are separate checks. It says the two pathways use different tests, and that an exemption under one pathway does not establish an exemption under the other. For owners, that means the site record should keep height, cut and fill, boundary position and nearby structures clear enough to support both questions if approval becomes relevant.</p><p>A written scope should be just as traceable. The guide says it should name the system, design roles and excavation. It should also cover spoil, drainage, outlet work, inspections and restoration. If any item is provisional, the condition that could change the method or programme should be identified in writing.</p><ul><li>Ask who is responsible for design and certification if the wall falls outside simple exemptions.</li><li>Ask whether drainage and outlet work are described as part of the scope or left for later confirmation.</li><li>Ask which unknown site condition could change the method after excavation starts.</li></ul>"
+    },
+    {
+      "h2": "Choose among the eight pathways by site conditions",
+      "html": "<p>The published guide lists eight pathways, concrete sleeper walls, segmental block and masonry walls, sandstone and natural stone walls, timber sleeper and garden walls, gabion walls, drainage and excavation coordination, engineered approval ready walls, and repairs or replacement. The useful reading is not that each option suits a style preference, but that each one is tied to geometry, loads, footprint, access and drainage.</p><p>Concrete sleeper work is described as one scope where embedment, handling access, transitions, loads and drainage are designed together. Segmental and reinforced masonry options are assessed against wall geometry, footing or reinforced soil requirements, available footprint and finish. Stone may offer a durable gravity solution where the site has sound bearing, enough footprint and safe machinery access. Timber is narrowed to appropriate lower terraces, with moisture exposure, fixings, drainage and future replacement needs still in view.</p><p>Where an existing wall is already moving or deteriorating, the guide shifts the discussion to cause led assessment of movement, decay, washout and cracking, followed by a repair, stabilisation or replacement scope.</p>"
+    },
+    {
+      "h2": "Local prompts that actually change the brief",
+      "html": "<p>The local value here comes from the kinds of blocks the guide names, not from a generic suburb list. It says Canberra sites range from established inner south gardens to recent Molonglo cut and fill blocks. In both settings, the wall interacts with land above it, nearby building or driveway load, the boundary, and water moving through or over the soil.</p><p>The location prompts are most useful when they match the character of the property. Red Hill is framed around ridge edge and established garden conditions. Deakin is described in terms of established homes and blocks where access protection, existing walls, trees and service routes can shape excavation planning. Forrest is presented as a mature inner south setting where formal landscapes, boundary detail and protection of established paths and gardens deserve early documentation.</p><p>If your site has a similar mix of mature planting, tight access, existing structures or visible cut and fill, put those facts into the first written brief. They are more useful than a material preference when the aim is to compare methods on the same site basis.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Two practical starting points for wall planning",
+    "headers": [
+      "Situation",
+      "What to record first",
+      "Why it changes scope"
+    ],
+    "rows": [
+      [
+        "New wall on changing ground",
+        "Maximum retained height, broader cut and fill, access route, nearby loads and water paths",
+        "These details shape system selection, excavation planning and drainage coordination"
+      ],
+      [
+        "Existing wall with visible movement",
+        "Wide site photos, lean or cracking, wet areas, nearby structures and boundary context",
+        "Repair, stabilisation or replacement depends on cause led assessment, not face appearance alone"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Photograph the setting",
+      "text": "Take one wide image from each end before adding close photos of cracks, lean, decay, washout or wet areas."
+    },
+    {
+      "name": "Measure the geometry",
+      "text": "Note the maximum retained height and how the wall sits within the broader cut and fill relationship."
+    },
+    {
+      "name": "Map nearby loads",
+      "text": "Record driveways, buildings, fences, trees, pools and other walls near the crest because nearby loads can change the brief."
+    },
+    {
+      "name": "Note access and boundaries",
+      "text": "Measure gates, turns, steps, overhead limits and the distance from the street, then confirm surveyed lines and neighbouring levels."
+    },
+    {
+      "name": "Ask for a written scope",
+      "text": "Request the system, design roles, excavation, spoil, drainage, outlet work, inspections and restoration in writing."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should be prepared before asking for site advice?",
+      "a": "Prepare a written enquiry with measured facts first, including grade, loads, water, access, boundaries and the approval path. Wide site photos and clearly marked unknowns give a stronger starting point than a preferred material alone."
+    },
+    {
+      "q": "Is one approval check enough for a wall project in Canberra?",
+      "a": "No. The guide says building approval and development approval should be kept separate, and that an exemption under one pathway does not establish an exemption under the other."
+    },
+    {
+      "q": "How should existing wall damage be documented?",
+      "a": "Start with wide photos of the whole setting, then add close views of lean, cracking, decay, washout or persistent wetness. The guide links repair or replacement decisions to cause led assessment rather than to the face appearance alone."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The guide says retained height, cut and fill, nearby loads, water paths, boundaries and the route from the street should be noted before material selection.",
+      "source": "money page"
+    },
+    {
+      "claim": "The wall face is not the whole level change.",
+      "source": "money page"
+    },
+    {
+      "claim": "Owners are told to take one wide photograph from each end, then record the maximum retained height and the broader change in ground level.",
+      "source": "money page"
+    },
+    {
+      "claim": "Lean, cracking, decay, washout and persistent wetness are relevant symptoms to document.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide states that a wet patch is evidence while its source remains a question.",
+      "source": "money page"
+    },
+    {
+      "claim": "The site ledger lists six observations, grade, loads, water, access, boundaries and approval path.",
+      "source": "money page"
+    },
+    {
+      "claim": "Access notes should include gates, turns, steps, overhead limits and the distance from the street.",
+      "source": "money page"
+    },
+    {
+      "claim": "Boundary notes should include the surveyed line, neighbouring levels, fences and shared structures.",
+      "source": "money page"
+    },
+    {
+      "claim": "Building approval and development approval are separate checks that use different tests.",
+      "source": "money page"
+    },
+    {
+      "claim": "An exemption under one pathway does not establish an exemption under the other.",
+      "source": "money page"
+    },
+    {
+      "claim": "A written scope should name the system, design roles and excavation, and also cover spoil, drainage, outlet work, inspections and restoration.",
+      "source": "money page"
+    },
+    {
+      "claim": "Any provisional item should identify the condition that could change the method or programme.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide lists eight pathways, concrete sleeper, segmental block and masonry, sandstone and natural stone, timber sleeper and garden, gabion, drainage and excavation coordination, engineered approval ready, and repairs or replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper systems are considered together with embedment, handling access, transitions, loads and drainage.",
+      "source": "money page"
+    },
+    {
+      "claim": "Segmental and reinforced masonry options are assessed against wall geometry, footing or reinforced soil requirements, available footprint and finish.",
+      "source": "money page"
+    },
+    {
+      "claim": "Stone may offer a durable gravity solution where the site has sound bearing, enough footprint and safe machinery access.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber options are considered for appropriate lower terraces alongside moisture exposure, fixings, drainage and future replacement needs.",
+      "source": "money page"
+    },
+    {
+      "claim": "Repairs and replacement are linked to cause led assessment of movement, decay, washout and cracking.",
+      "source": "money page"
+    },
+    {
+      "claim": "Canberra blocks are described as ranging from established inner south gardens to recent Molonglo cut and fill sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Red Hill is framed around ridge edge and established garden conditions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Deakin is described as established homes and blocks where access protection, existing walls, trees and service routes can shape excavation planning.",
+      "source": "money page"
+    },
+    {
+      "claim": "Forrest is presented as a mature inner south setting where formal landscapes, boundary detail and protection of established paths and gardens deserve early documentation.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to document site conditions, compare wall pathways and separate approval questions for a Canberra wall project."
+}
