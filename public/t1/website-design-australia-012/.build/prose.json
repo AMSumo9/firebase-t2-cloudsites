@@ -1,0 +1,169 @@
+{
+  "kicker": "Australian Web Design",
+  "h1_tail": "A Practical Buyer Guide",
+  "meta_hook": "compare conversion-focused build choices before briefing a designer",
+  "takeaway": "The source page gives three usable facts: Best Website Creation is presented as free, conversion-focused, and for Australian businesses. Treat those as prompts for due diligence. Before engaging, confirm what free includes, how conversion goals will be built into the site, who supplies content, who owns access, and how accessibility, search basics, mobile usability and post-launch changes will be handled.",
+  "lead": "For Australian business owners comparing website design australia options, the useful starting point is whether the finished site can explain the offer and prompt the right enquiry.",
+  "lead_tail": "with practical checks for briefing, structure and handover",
+  "stats": [
+    {
+      "value": "Free",
+      "label": "offer described on source page"
+    },
+    {
+      "value": "Conversion-focused",
+      "label": "design positioning"
+    },
+    {
+      "value": "Australian",
+      "label": "business audience"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What the source page supports",
+      "html": "<p><a href=\"https://www.bestwebsitecreation.com.au/\">Best Website Creation</a> is presented on its published page as a free, conversion-focused web design option for Australian businesses. That is a concise claim, so a buyer should ask for the operational detail behind it before relying on the offer.</p><p>The page does not list packages, timeframes, platform choices or inclusions. A clear conversation should cover pages, copy, images, forms, hosting, analytics, support and ownership. If any item sits outside the free build, the buyer should know that before content or design work starts.</p><ul><li>Ask which pages are included and which require separate work.</li><li>Confirm who approves copy, images, calls to action and contact forms.</li><li>Check whether basic search, analytics and mobile review are included.</li><li>Clarify domain access, hosting access and ownership of published content.</li></ul>"
+    },
+    {
+      "h2": "Who this guide applies to",
+      "html": "<p>This guide suits small and local Australian businesses that need a public website and are comparing a free design offer with a paid agency, a template builder or an internal build. It is most useful when the site needs to turn offline trust into calls, quote requests, bookings or email enquiries.</p><p>It is less suited to complex ecommerce, regulated customer portals, custom software or projects with heavy integration requirements. Those still need careful design, but the buying process should also cover security, architecture, support commitments and change control. Those details are not stated in the source page, so they should be raised directly.</p><p>For a city-specific view, this companion guide to <a href=\"https://cloudsites-hub.pages.dev/sites-01/bestwebsitecreation-001/\">web design Brisbane considerations</a> frames similar questions through a local service-business lens.</p>"
+    },
+    {
+      "h2": "Briefing a conversion-focused build",
+      "html": "<p>A useful brief starts with the action the site should support. For many service businesses, that action may be a phone call, quote request, booking enquiry or email. Since the source page uses conversion-focused positioning, ask how the proposed layout will make that action visible without making the page vague or forced.</p><p>The brief should also identify the questions a first-time visitor brings to the page. They may need to know what the business does, where it works, how to start, what evidence supports the claims, and whether the next step is low friction. Those questions shape page order, headings, proof points, button labels and form fields.</p><ol><li>Define the primary enquiry action before discussing visual style.</li><li>List the main services or offers in plain language.</li><li>Prepare approved business details, images and trust signals.</li><li>Ask how mobile users will reach the same action quickly.</li><li>Confirm how launch checks will be documented.</li></ol>"
+    },
+    {
+      "h2": "Launch checks that affect trust",
+      "html": "<p>The World Wide Web Consortium is a standards body for the web, so accessibility and valid structure should be treated as part of quality, not decoration. A buyer does not need to become a developer, but they can ask whether the site uses clear headings, readable contrast, keyboard-friendly navigation, descriptive links and forms that work on a phone.</p><p>Search engine optimisation begins with fundamentals. For this topic, relevant concepts include search results pages, backlinks, web traffic, local search, digital marketing and keyword research. In buyer terms, the site should have crawlable text, sensible page titles, descriptive internal links and content that reflects the real business offer.</p><p>The Australian Competition and Consumer Commission is relevant because business websites make representations to consumers. Review wording before launch. Avoid claims about being the best, cheapest, fastest or most trusted unless the business can substantiate them.</p>"
+    },
+    {
+      "h2": "Free build or paid project",
+      "html": "<p>A free design offer can suit a business that needs to get online, test a clearer message or replace an underperforming first site. Free does not define scope. Ask whether future changes, hosting, domains, copywriting, image sourcing, search work, analytics, support or redesign rounds are included.</p><p>A paid project may be better when the business needs deeper planning, multiple stakeholders, custom content, ecommerce, complex forms, integrations or a defined support arrangement. For website design australia comparisons, compare the proposed page structure, content responsibilities and handover notes. A good decision is based on fit, not only on whether the upfront build has a fee.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Choosing a practical web design path",
+    "headers": [
+      "Option",
+      "Best fit",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Free conversion-focused build",
+        "A business that needs a clear public presence and can confirm scope before starting",
+        "What is included, who owns access, and what support happens after launch?"
+      ],
+      [
+        "Paid design project",
+        "A business with complex pages, integrations, ecommerce or multiple approvals",
+        "What deliverables, revisions and support terms are documented?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Read the source claim",
+      "text": "Start from the stated free, conversion-focused offer and avoid assuming inclusions that are not listed."
+    },
+    {
+      "name": "Define the enquiry goal",
+      "text": "Choose the main action the site should support before assessing layouts or colours."
+    },
+    {
+      "name": "Confirm scope in writing",
+      "text": "Ask what pages, copy, images, forms, search basics, hosting and support are included."
+    },
+    {
+      "name": "Review standards and claims",
+      "text": "Check accessibility basics, mobile usability and the accuracy of business representations before launch."
+    },
+    {
+      "name": "Plan the handover",
+      "text": "Confirm access, ownership and update responsibilities so the site can be maintained after publication."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is a free website design offer enough for an Australian business?",
+      "a": "It can be enough for a simple public presence if the included scope is clear. The source page says the offer is free and conversion-focused, but it does not state package inclusions."
+    },
+    {
+      "q": "What should conversion-focused design mean in practice?",
+      "a": "It should make the visitor's next step clear, such as an enquiry, call or booking request. Useful checks include page structure, plain copy, visible calls to action, mobile usability and accurate supporting information."
+    },
+    {
+      "q": "Should search engine optimisation be discussed during the web design brief?",
+      "a": "Yes. Search basics such as crawlable text, useful headings, descriptive titles and relevant content belong in the brief before broader digital marketing or backlink work is considered."
+    },
+    {
+      "q": "What consumer-law issue should a business website avoid?",
+      "a": "Website copy should avoid unsupported claims about price, quality, speed or market position. The ACCC is the Australian consumer authority relevant to business representations."
+    }
+  ],
+  "about": [
+    {
+      "name": "Search engine optimization",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "name": "Digital marketing",
+      "sameAs": "https://en.wikipedia.org/wiki/Digital_marketing"
+    },
+    {
+      "name": "Keyword research",
+      "sameAs": "https://en.wikipedia.org/wiki/Keyword_research"
+    },
+    {
+      "name": "Local search (Internet)",
+      "sameAs": "https://en.wikipedia.org/wiki/Local_search_(Internet)"
+    },
+    {
+      "name": "Web traffic",
+      "sameAs": "https://en.wikipedia.org/wiki/Web_traffic"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Search engine results page",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_results_page"
+    },
+    {
+      "name": "Backlink",
+      "sameAs": "https://en.wikipedia.org/wiki/Backlink"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "url": "https://www.accc.gov.au"
+    },
+    {
+      "name": "World Wide Web Consortium",
+      "url": "https://www.w3.org"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Best Website Creation is presented on its published page as a free, conversion-focused web design option for Australian businesses.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page does not list packages, timeframes, platform choices or inclusions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The World Wide Web Consortium is a standards body for the web.",
+      "source": "https://www.w3.org"
+    },
+    {
+      "claim": "Search engine optimisation includes concepts such as search results pages, backlinks, web traffic, local search, digital marketing and keyword research.",
+      "source": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "claim": "The Australian Competition and Consumer Commission is relevant to business websites that make representations to consumers.",
+      "source": "https://www.accc.gov.au"
+    }
+  ],
+  "scope": "This guide covers practical checks for Australian businesses comparing a free, conversion-focused web design offer with other build options."
+}
