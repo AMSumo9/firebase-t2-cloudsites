@@ -1,0 +1,265 @@
+{
+  "node_id": "adelaidekitchenreno-010",
+  "money_domain": "adelaidekitchenreno.com.au",
+  "money_home_url": "https://www.adelaidekitchenreno.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "surge",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/kitchen-renovations-adelaide-010/",
+  "live_url": "https://sites-e470-1.web.app/kitchen-renovations-adelaide-010/",
+  "subdomain": "kitchen-renovations-adelaide-guide",
+  "gh_repo": null,
+  "primary_kw": "kitchen renovations adelaide",
+  "kw_slug": "kitchen-renovations-adelaide",
+  "anchor_kw": "kitchen renovations adelaide",
+  "brand": "Kitchen Renovation Adelaide",
+  "target_page_url": "https://www.adelaidekitchenreno.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "adelaidekitchenreno-002",
+    "url": "https://sitesau.github.io/small-kitchen-renovations-adelaide/",
+    "primary_kw": "small kitchen renovations adelaide"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "C:\\Projects\\AAAA-PROJECTS\\live-sites-cloudsites\\_cache\\research\\adelaidekitchenreno.com.au\\_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "kitchen renovation",
+        "type": "SERVICE",
+        "salience": 0.3
+      },
+      {
+        "name": "Adelaide",
+        "type": "LOCATION",
+        "salience": 0.24
+      },
+      {
+        "name": "kitchen design",
+        "type": "SERVICE",
+        "salience": 0.18
+      },
+      {
+        "name": "custom cabinetry",
+        "type": "SERVICE",
+        "salience": 0.14
+      },
+      {
+        "name": "stone benchtops",
+        "type": "SERVICE",
+        "salience": 0.12
+      },
+      {
+        "name": "cabinet maker",
+        "type": "SERVICE",
+        "salience": 0.11
+      },
+      {
+        "name": "new kitchen",
+        "type": "SERVICE",
+        "salience": 0.1
+      },
+      {
+        "name": "kitchen renovation cost",
+        "type": "CONCEPT",
+        "salience": 0.09
+      },
+      {
+        "name": "kitchen splashbacks",
+        "type": "SERVICE",
+        "salience": 0.08
+      },
+      {
+        "name": "joinery",
+        "type": "SERVICE",
+        "salience": 0.08
+      },
+      {
+        "name": "council approval",
+        "type": "CONCEPT",
+        "salience": 0.08
+      },
+      {
+        "name": "kitchen layout",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "appliance installation",
+        "type": "SERVICE",
+        "salience": 0.07
+      },
+      {
+        "name": "open plan kitchen",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "butler's pantry",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "heritage overlay",
+        "type": "CONCEPT",
+        "salience": 0.07
+      },
+      {
+        "name": "small kitchen renovation",
+        "type": "SERVICE",
+        "salience": 0.07
+      },
+      {
+        "name": "kitchen remodel",
+        "type": "SERVICE",
+        "salience": 0.06
+      },
+      {
+        "name": "soft-close drawers",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "kitchen facelift",
+        "type": "SERVICE",
+        "salience": 0.06
+      },
+      {
+        "name": "South Australia",
+        "type": "LOCATION",
+        "salience": 0.06
+      },
+      {
+        "name": "trade coordination",
+        "type": "CONCEPT",
+        "salience": 0.06
+      },
+      {
+        "name": "HIA (Housing Industry Association)",
+        "type": "ORGANIZATION",
+        "salience": 0.06
+      },
+      {
+        "name": "Master Builders SA",
+        "type": "ORGANIZATION",
+        "salience": 0.06
+      },
+      {
+        "name": "Adelaide Hills",
+        "type": "LOCATION",
+        "salience": 0.05
+      },
+      {
+        "name": "kitchen designer",
+        "type": "PERSON",
+        "salience": 0.05
+      },
+      {
+        "name": "renovation timeline",
+        "type": "CONCEPT",
+        "salience": 0.05
+      },
+      {
+        "name": "CBD (Adelaide CBD)",
+        "type": "LOCATION",
+        "salience": 0.05
+      }
+    ],
+    "lsi_keywords": [
+      "custom kitchen cabinetry adelaide",
+      "stone benchtop installation adelaide",
+      "kitchen design adelaide",
+      "kitchen renovation cost adelaide",
+      "small kitchen renovation adelaide",
+      "modern kitchen renovations adelaide",
+      "affordable kitchen renovations adelaide",
+      "open plan kitchen adelaide",
+      "butler's pantry adelaide",
+      "kitchen splashback installation",
+      "cabinet maker adelaide",
+      "kitchen renovation timeline",
+      "council approval kitchen renovation sa",
+      "heritage home kitchen renovation adelaide",
+      "kitchen renovation adelaide hills"
+    ]
+  },
+  "image": {
+    "file": "kitchen-renovations-adelaide.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-08-12",
+  "money_home_text": "Kitchen Renovation Adelaide | Vetted Local Renovators Adelaide Kitchen Reno Services Process Why Us FAQ Areas Free Quote Services Process Why Us FAQ Areas Contact Free Quote Adelaide kitchen renovations Kitchen Renovation Adelaide With Experienced Local Renovators Get a free, no obligation quote from vetted Adelaide cabinet makers and designers. Compare vetted renovators and choose the one you trust. Get Your Free Kitchen Renovation Quote Tell us about your kitchen so an experienced Adelaide renovator can review the project. Name Phone Email Brief details (optional) Send Enquiry No obligation. We send your details to vetted Adelaide renovators only. Why local matters Kitchen Renovation Adelaide: Why Local Knowledge Matters Planning a kitchen renovation Adelaide homeowners can actually trust shouldn't mean chasing five quotes, getting hit with hidden costs, and stitching together a designer, a cabinet maker, and three trades who have never worked together before. Most people start the process excited and end it exhausted. Experienced Adelaide kitchen renovators understand local homes, from heritage stone cottages in the inner suburbs to open-plan family kitchens in the Hills. Whether you are after a full kitchen remodel, a kitchen facelift, a small kitchen renovation, custom cabinetry, stone benchtops, or a layout change, we point you to the people who do that work properly. On cost, we keep it honest. Kitchen renovations Adelaide quotes typically land somewhere between $8,000 and $80,000 plus, depending on scope. No high pressure sales, no rushed decisions, just transparent quotes from people who price the job properly. Get your free quote and we will take it from there. What Adelaide renovators cover Kitchen Design, Custom Cabinetry and Stone Benchtops Six core service areas cover design, joinery and coordinated trades so the renovation can move from planning through installation cleanly. Kitchen design and layout Experienced kitchen designers handle full kitchen design and layout work, including open plan conversions, work triangle planning, and lighting. Modern kitchen renovations Adelaide homeowners actually use, drawn before a single cabinet is ordered. Custom cabinetry and joinery Custom cabinetry and joinery built by experienced Adelaide cabinet makers. Soft-close drawers, bespoke pull-outs, full-height pantry runs. Affordable kitchen renovations Adelaide builds use proven cabinet systems, premium builds use bespoke joinery. Stone benchtops and splashbacks Stone benchtops, engineered surfaces, glass and tiled kitchen splashbacks. Templated, fabricated, and installed by stonemasons in the network so the joins land where they should. Appliance installation and trade coordination Appliance installation handled alongside electrician, plumber, tiler and stonemason coordination. One renovator runs the schedule so trades show up in the right order, not in each other's way. Small kitchen renovations and facelifts Small kitchen renovation Adelaide projects and kitchen facelifts where the existing layout stays and we replace doors, benchtops, splashbacks and handles. The fastest way to lift a tired kitchen without a full rebuild. Butler's pantries and open plan conversions Butler's pantry builds tucked behind the main run, and open plan kitchen conversions that knock through to dining and living. The bigger structural moves where layout, services and finishes all need to line up. See Your Options Network work, side by side Before and After: An Adelaide Kitchen Reno One project completed by experienced Adelaide renovators. Same camera angle, same room, same family, twelve weeks apart. Before After How it works Three Steps From Idea to Installed Kitchen Three simple steps, no chasing and no pressure. You make the final call. Step 01 Tell us about your kitchen Spend 60 seconds on the form. Share scope, suburb, rough budget range, and what you want from the new kitchen. The more detail you share, the tighter the match. Step 02 Discuss your project with Adelaide renovators Experienced renovators who service your suburb can review the scope and discuss the right design and construction approach. That includes the cabinet maker, designer, and trade coordination across electrician, plumber, tiler and stonemason, all run to Housing Industry Association standards . Step 03 Choose your renovator and start the build Compare quotes and designs side by side, pick the renovator you trust, and they manage the build. A typical kitchen renovation takes 8 to 14 weeks end to end, depending on scope. Where approvals are needed, your renovator handles them in line with PlanSA's approval guidance and the Planning and Design Code . No obligation, no pressure and no chasing. You make the final call. What to expect from an Adelaide renovator Vetted Renovators, Industry Standards, Local Knowledge We have done the vetting so you do not have to. Every renovator we put in front of you has been checked against the same three filters: licensing, industry standing, and Adelaide-specific experience. Vetted before they ever quote you Before engagement, confirm that your renovator holds the appropriate SA building work contractor licensing through Consumer and Business Services , so you are dealing with a properly licensed business from day one. We also check supervisor registration via CBS for every partner before they enter the network. Backed by recognised industry bodies Many of our partner builders carry Master Builders South Australia accreditation , an independent industry standard for build quality and conduct. Cabinet makers and joiners should work to Housing Industry Association standards for kitchen design, manufacture and install. Built around Adelaide homes Experienced local renovators understand Adelaide kitchens specifically. From heritage cottages in the inner suburbs and Adelaide Hills character homes through to modern open plan family layouts in the north and south, choose a renovator with relevant experienc",
+  "target_page_text": "",
+  "nav_candidates": [
+    "mailto:quotes@adelaidekitchenreno.com.au"
+  ]
+}
