@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://sites-e470-2.web.app/business-loans-adelaide-comparison-8c1344373cde181ef55f07985dd8/sitemap.xml
