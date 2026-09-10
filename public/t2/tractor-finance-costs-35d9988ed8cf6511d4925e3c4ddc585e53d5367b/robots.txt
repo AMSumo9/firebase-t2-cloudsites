@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://sites-e470-2.web.app/tractor-finance-costs-35d9988ed8cf6511d4925e3c4ddc585e53d5367b/sitemap.xml
