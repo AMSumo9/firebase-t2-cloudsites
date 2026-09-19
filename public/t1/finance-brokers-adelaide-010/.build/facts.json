@@ -1,0 +1,304 @@
+{
+  "node_id": "adelaidefinancebroker-010",
+  "money_domain": "adelaidefinancebroker.com.au",
+  "money_home_url": "https://www.adelaidefinancebroker.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "firebase",
+  "host_type": "path",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/finance-brokers-adelaide-010/",
+  "live_url": "https://sites-e470-1.web.app/finance-brokers-adelaide-010/",
+  "subdomain": "finance-brokers-adelaide",
+  "gh_repo": null,
+  "primary_kw": "finance brokers adelaide",
+  "kw_slug": "finance-brokers-adelaide",
+  "anchor_kw": "finance brokers adelaide",
+  "brand": "Adelaide Finance Broker",
+  "target_page_url": "https://www.adelaidefinancebroker.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "adelaidefinancebroker-001",
+    "url": "https://cloudsites-hub.pages.dev/sites-01/adelaidefinancebroker-001/",
+    "primary_kw": "home loan broker adelaide"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "/opt/t1/live-sites-cloudsites/_cache/research/adelaidefinancebroker.com.au/_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Rise High",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Navigate Asset Finance",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "MV Finance",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Finance Broker Adelaide",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Up Finance",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Mangion Capital Pty Ltd",
+        "type": "ORGANIZATION",
+        "salience": 0.98
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Rise High Financial Solutions",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Maddie Visser",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Accelerate Group",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "John Mangion",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Finance Brokers",
+        "type": "SERVICE",
+        "salience": 0.93
+      },
+      {
+        "name": "Adelaide",
+        "type": "LOCATION",
+        "salience": 0.925
+      },
+      {
+        "name": "Finance Broker",
+        "type": "SERVICE",
+        "salience": 0.925
+      },
+      {
+        "name": "Commercial Finance",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "Commercial Finance Broker Adelaide",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "Walkerville SA",
+        "type": "LOCATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Complex Transitional Lending",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Motorbike Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Boat Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Caravan Loans",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Self-Employed Lending Specialists",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Home Loans",
+        "type": "SERVICE",
+        "salience": 0.862
+      },
+      {
+        "name": "UFinancial Group",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "AHM Financial Consultants Pty Ltd",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Commercial equipment finance",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Vehicle finance",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Post-Separation Finance",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Nationally Licensed",
+        "type": "CREDENTIAL",
+        "salience": 0.85
+      }
+    ],
+    "lsi_keywords": [
+      "finance broker adelaide",
+      "mortgage broker adelaide",
+      "home loans adelaide",
+      "adelaide finance broker",
+      "business loans adelaide",
+      "commercial finance adelaide",
+      "construction loans adelaide",
+      "asset finance adelaide",
+      "car loans adelaide",
+      "personal loans adelaide",
+      "refinancing adelaide",
+      "south australia finance broker",
+      "best mortgage broker adelaide",
+      "adelaide building finance",
+      "finance broker cbd adelaide"
+    ]
+  },
+  "image": {
+    "file": "finance-brokers-adelaide.jpg",
+    "photographer": "0xk",
+    "source": "Unsplash",
+    "credit": "Photo by 0xk on Unsplash"
+  },
+  "build_date": "2026-09-19",
+  "money_home_text": "Adelaide Finance Broker | Find the Right Broker for You Adelaide Finance Broker Services Home Loans Investment Loans Car Loans Commercial Loans Business Loans Equipment Finance View All Services Locations Adelaide CBD Adelaide Hills Aldinga Brighton Burnside Campbelltown View All Locations Blog About Contact Message Call Call Now Home Services Home Loans Investment Loans Car Loans Commercial Loans Business Loans Equipment Finance View All Services Locations Adelaide CBD Adelaide Hills Aldinga Brighton Burnside Campbelltown View All Locations Blog About Contact Message Us Call (08) 7184 5626 Send Us a Message Leave your details and we'll get back to you as soon as possible. Your Name Phone Number Message (optional) Send Message We respect your privacy. No spam, ever. Serving all of Adelaide &amp; South Australia Adelaide Finance Broker Find the Right Broker for You you can work with experienced finance brokers across Adelaide who access 40+ lenders to find your best rate. Free service, no obligation. FIND A BROKER Call (08) 7184 5626 &bull; Free Consultation Free broker enquiry support Access to 50+ licensed brokers across Adelaide you can work with the right specialist for your needs find a Broker Tell us what you need and you can speak with the right specialist. Your Name Phone Number I'm Looking For Home Loan / Mortgage Investment Property Loan Car Finance Business Loan Commercial Finance Equipment Finance Find My Broker 50+ Partner Brokers All Major Lenders Free Service CBA ANZ NAB BankSA Westpac ING Suncorp Macquarie St.George Virgin Bankwest CBA ANZ NAB BankSA Westpac ING Suncorp Macquarie St.George Virgin Bankwest 50+ Partner Brokers Our Services Find the Right Finance Broker for Your Needs you can work with experienced brokers across Adelaide who specialise in different types of finance. All brokers access 40+ lenders. Home Loans Connect with mortgage brokers who find the best rates Find a broker Investment Loans Brokers specialising in property investment finance Find a broker Car Loans Car finance specialists for competitive vehicle rates Find a broker Commercial Loans Commercial property and business asset finance Find a broker Business Loans Business finance experts for Adelaide SMEs Find a broker Equipment Finance Asset and equipment finance specialists Find a broker View all services Why Use Our Service Why use Adelaide Finance Broker? We're not a broker ourselves. you can work with the right licensed finance broker for your specific situation, completely free. 50+ Partner Brokers We've vetted experienced brokers across Adelaide. Whether you need a mortgage specialist in Glenelg or a business loan expert in the CBD, a suitable licensed broker can respond. Access to 40+ Lenders Our partner brokers work with all major banks - CBA, ANZ, Westpac, NAB, BankSA - plus specialist lenders you won't find on comparison sites. Completely Free Service Our broker enquiry support costs you nothing. Brokers are paid by lenders, so you get expert help finding the best deal at no cost to you. Service Areas Finance Brokers Across Adelaide you can work with local finance brokers who understand the Adelaide property market. From the CBD to the Hills, we've got you covered. Adelaide CBD Adelaide Hills Aldinga Brighton Burnside Campbelltown Elizabeth Glenelg Golden Grove Henley Beach Marion Mitcham Modbury Morphett Vale Mount Barker North Adelaide Norwood Port Adelaide Prospect Salisbury Seaford Semaphore Tea Tree Gully Unley View all service areas Find Your Perfect Finance Broker Tell us what you need and you can speak with an experienced Adelaide broker who can help. Free service, no obligation. CALL (08) 7184 5626 NOW Available 9am - 5pm &bull; Adelaide Finance Broker Specialists Adelaide Finance Broker you can work with experienced finance brokers across Adelaide. Find the right specialist for home loans, car finance, business loans, and more. (08) 7184 5626 loans@adelaidefinancebroker.com.au Adelaide, SA 5000 Find a Broker For Home Loans Investment Loans Car Loans Commercial Loans Business Loans Equipment Finance Adelaide Areas Adelaide CBD Adelaide Hills Aldinga Brighton Burnside Campbelltown View all areas Quick Links About Us Blog Contact Privacy Policy Terms of Service Hours Monday - Friday: 9am - 5pm Phone available 24/7 &copy; 2026 Adelaide Finance Broker. All rights reserved. Adelaide Finance Broker is an enquiry website. Licensed finance brokers provide all credit assistance. We do not provide financial advice or credit assistance. Please read our Privacy Policy. Call (08) 7184 5626 &times;",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.adelaidefinancebroker.com.au/services",
+    "https://www.adelaidefinancebroker.com.au/services/home-loans",
+    "https://www.adelaidefinancebroker.com.au/services/investment-loans",
+    "https://www.adelaidefinancebroker.com.au/services/car-loans",
+    "https://www.adelaidefinancebroker.com.au/services/commercial-loans",
+    "https://www.adelaidefinancebroker.com.au/services/business-loans",
+    "https://www.adelaidefinancebroker.com.au/services/equipment-finance",
+    "https://www.adelaidefinancebroker.com.au/locations",
+    "https://www.adelaidefinancebroker.com.au/locations/adelaide-cbd",
+    "https://www.adelaidefinancebroker.com.au/locations/adelaide-hills",
+    "https://www.adelaidefinancebroker.com.au/locations/aldinga",
+    "https://www.adelaidefinancebroker.com.au/locations/brighton",
+    "https://www.adelaidefinancebroker.com.au/locations/burnside",
+    "https://www.adelaidefinancebroker.com.au/locations/campbelltown",
+    "https://www.adelaidefinancebroker.com.au/locations/elizabeth",
+    "https://www.adelaidefinancebroker.com.au/locations/glenelg",
+    "https://www.adelaidefinancebroker.com.au/locations/golden-grove",
+    "https://www.adelaidefinancebroker.com.au/locations/henley-beach",
+    "https://www.adelaidefinancebroker.com.au/locations/marion",
+    "https://www.adelaidefinancebroker.com.au/locations/mitcham",
+    "https://www.adelaidefinancebroker.com.au/locations/modbury",
+    "https://www.adelaidefinancebroker.com.au/locations/morphett-vale",
+    "https://www.adelaidefinancebroker.com.au/locations/mount-barker",
+    "https://www.adelaidefinancebroker.com.au/locations/north-adelaide",
+    "https://www.adelaidefinancebroker.com.au/locations/norwood"
+  ],
+  "firebase_path": "finance-brokers-adelaide-010"
+}
