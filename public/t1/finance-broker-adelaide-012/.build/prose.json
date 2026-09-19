@@ -1,0 +1,223 @@
+{
+  "kicker": "Adelaide Finance",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare broker fit, lender access and questions before you enquire",
+  "takeaway": "For Adelaide borrowers, the published facts are narrow but useful: the named provider says it is an enquiry website, not a credit assistance provider, with 50+ partner brokers and brokers who access 40+ lenders. It describes broker enquiry support as free and no obligation. The best use is to define the loan need first, then ask which licensed broker is suited to that situation.",
+  "lead": "For borrowers comparing finance broker adelaide options, the useful starting point is not a slogan but the type of loan, the documents available and the questions to ask before an enquiry.",
+  "lead_tail": "with lender range, broker fit and loan purpose checked first",
+  "stats": [
+    {
+      "value": "50+",
+      "label": "partner brokers referenced"
+    },
+    {
+      "value": "40+",
+      "label": "lenders accessed by brokers"
+    },
+    {
+      "value": "Free",
+      "label": "broker enquiry support"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What the published service description says",
+      "html": "<p><a href=\"https://www.adelaidefinancebroker.com.au/\">Adelaide Finance Broker</a> is described on its own site as an enquiry website. The same page states that licensed finance brokers provide all credit assistance and that the site itself does not provide financial advice or credit assistance.</p><p>That distinction shapes the questions a borrower should ask. A useful enquiry names the finance purpose clearly: home loan, investment property loan, car finance, business loan, commercial finance or equipment finance. Those categories are all named on the provider's published page, so they are the safest way to frame the first conversation.</p><p>The page also states that broker enquiry support is free and no obligation, with 50+ partner brokers and brokers who access 40+ lenders. Treat those figures as due diligence prompts. Ask which lenders are being considered, why a product suits the application, what fees or commissions apply, and what alternatives should be compared before any application proceeds.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to borrowers who need finance guidance but have not chosen the right broker type. The provider names several loan categories, so the practical split is by borrower task rather than by a long list of suburbs.</p><ul><li><strong>Home buyers</strong> should prepare income, deposit, property and existing debt details before asking how borrowing capacity and repayments may be assessed.</li><li><strong>Property investors</strong> should ask how rental income, loan structure and future plans affect the options being compared.</li><li><strong>Vehicle buyers</strong> should separate car finance from broader personal borrowing and ask what information is needed before a quote is meaningful.</li><li><strong>Business borrowers</strong> should explain the purpose of funds, trading position and security available before discussing business loans or commercial finance.</li><li><strong>Equipment buyers</strong> should clarify the asset, supplier, business use and timing before asking about equipment finance.</li></ul><p>For a narrower residential borrowing path, the related <a href=\"https://cloudsites-hub.pages.dev/sites-01/adelaidefinancebroker-001/\">home loan broker Adelaide guide</a> is the cleaner starting point.</p>"
+    },
+    {
+      "h2": "Adelaide context without suburb padding",
+      "html": "<p>The provider says it serves Adelaide and South Australia, and names Adelaide CBD, Adelaide Hills, Aldinga, Brighton, Burnside and Campbelltown among its areas. Those place names are useful only when they change the finance question. A business borrower near the CBD may need different records from a household preparing a residential loan enquiry in the Hills.</p><p>Local context should stay practical. Ask whether the broker regularly handles the type of property, asset or business finance you are pursuing in South Australia. If the answer is yes, ask what documents usually slow an application and what should be checked before a formal submission.</p><p>A suburb name alone should not carry the decision. Stronger questions cover loan purpose, lender fit, valuation or asset details, repayment structure, fee disclosure and whether the borrower has enough information to compare options against consumer guidance from ASIC Moneysmart on home loans and property investment.</p>"
+    },
+    {
+      "h2": "Questions to ask before choosing a broker",
+      "html": "<p>A broker can compare useful options only when the borrower gives clean information and asks direct questions. Before submitting an enquiry, write down the amount needed, the purpose, preferred repayment comfort, existing debts, income position and any timing pressure.</p><p>Use questions that reveal process, not just confidence:</p><ul><li>Which lenders are being considered and why?</li><li>Does the broker deal with the specific loan type I need?</li><li>What documents should I prepare before an application?</li><li>How are broker commissions or fees disclosed?</li><li>What happens if the first lender does not suit my circumstances?</li><li>Will I receive a comparison of options, or one recommendation only?</li></ul><p>For investment loans, ask how interest-only structures, loan-to-value ratio and lenders mortgage insurance may affect the discussion, without assuming any fixed threshold applies. For business or equipment finance, ask what trading records, invoices, asset details or security questions the broker expects to review.</p>"
+    },
+    {
+      "h2": "Reading lender access claims carefully",
+      "html": "<p>The published page states that partner brokers work with major banks including CBA, ANZ, Westpac, NAB and BankSA, as well as specialist lenders. A broad lender panel can be useful context, but the borrower still needs to know which lenders are actually relevant to the application in front of them.</p><p>Do not treat lender count as an outcome by itself. A borrower with stable income, an investor with existing debts, a self-employed applicant and a business seeking equipment finance may all need different documentation and different product comparisons. The value comes from matching the lender shortlist to the borrower profile.</p><p>ASIC Moneysmart publishes consumer guidance on home loans and property investment. In a broker conversation, use that as a reason to ask for repayment examples, comparison reasons, fee disclosure and a clear explanation of why a recommended option is suitable for the stated purpose.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Broker comparison paths by borrower need",
+    "headers": [
+      "Borrower need",
+      "What to prepare",
+      "What to ask"
+    ],
+    "rows": [
+      [
+        "Home loan or refinancing",
+        "Income, debts, deposit, property details",
+        "Which lenders fit my borrowing position and repayment comfort?"
+      ],
+      [
+        "Investment loan",
+        "Rental plans, existing loans, ownership structure questions",
+        "How will the loan structure affect cash flow and future options?"
+      ],
+      [
+        "Business or commercial finance",
+        "Purpose of funds, trading information, security details",
+        "Which documents will lenders need before assessing the request?"
+      ],
+      [
+        "Vehicle or equipment finance",
+        "Asset details, supplier quote, business or personal use",
+        "Is the product suited to the asset and expected ownership period?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan purpose",
+      "text": "Choose the closest category from home loan, investment loan, car finance, business loan, commercial finance or equipment finance before making an enquiry."
+    },
+    {
+      "name": "Prepare borrower details",
+      "text": "Collect income, debt, asset, property or business information so the broker can assess options against real circumstances."
+    },
+    {
+      "name": "Check broker fit",
+      "text": "Ask whether the broker regularly handles the exact type of finance you need in Adelaide or South Australia."
+    },
+    {
+      "name": "Request lender reasoning",
+      "text": "Ask which lenders are being compared and why those options suit the application."
+    },
+    {
+      "name": "Confirm disclosure",
+      "text": "Ask how fees, commissions, obligations and next steps will be explained before any application proceeds."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is this provider itself a broker?",
+      "a": "The provider says it is an enquiry website and that licensed finance brokers provide all credit assistance. It also says it does not provide financial advice or credit assistance."
+    },
+    {
+      "q": "What loan types are named on the provider's page?",
+      "a": "The page names home loans, investment loans, car loans, commercial loans, business loans and equipment finance. Borrowers should choose the closest category before enquiring."
+    },
+    {
+      "q": "Does the enquiry support cost borrowers anything?",
+      "a": "The published page describes broker enquiry support as free and no obligation. Borrowers should still ask any broker how fees, commissions and lender payments are disclosed."
+    },
+    {
+      "q": "Why should lender count not be the only test?",
+      "a": "The page refers to brokers accessing 40+ lenders, which is useful context. The better test is whether the lender shortlist fits the borrower's loan purpose, documents and repayment position."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Adelaide Finance Broker is described as an enquiry website.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says licensed finance brokers provide all credit assistance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says it does not provide financial advice or credit assistance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says it serves Adelaide and South Australia.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider references 50+ partner brokers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says brokers access 40+ lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider describes broker enquiry support as free and no obligation.",
+      "source": "money page"
+    },
+    {
+      "claim": "The named finance categories include home loans, investment loans, car loans, commercial loans, business loans and equipment finance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider lists Adelaide CBD, Adelaide Hills, Aldinga, Brighton, Burnside and Campbelltown among service areas.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider names CBA, ANZ, Westpac, NAB and BankSA among lenders referenced on the page.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart publishes consumer guidance on home loans.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "ASIC Moneysmart publishes consumer guidance on property investment.",
+      "source": "https://moneysmart.gov.au/property-investment"
+    }
+  ],
+  "scope": "This guide covers borrower preparation, broker-fit questions and lender-comparison prompts for Adelaide and South Australia finance enquiries."
+}
