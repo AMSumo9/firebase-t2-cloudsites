@@ -1,0 +1,179 @@
+{
+  "kicker": "Capalaba Electrical Guide",
+  "h1_tail": "A Practical Job Planning Guide",
+  "meta_hook": "plan safe checks, quote details and licensed electrician questions",
+  "takeaway": "For Capalaba, QLD 4157 electrical jobs, start by separating urgent symptoms from planned work. The source guide groups enquiries into seven job paths: safety switches, switchboards, power points, lighting, ceiling fans, smoke alarms and fault investigation. It says hot outlets, switches that will not reset and unexpected power loss need safe assessment, while Queensland smoke alarms should be photoelectric, interconnected and meet AS 3786-2014.",
+  "lead": "For homeowners and shop occupiers comparing electrical services capalaba options, the useful starting point is a safe description of the symptom, the room affected and the licensed work likely involved.",
+  "lead_tail": "with the job details ready before an electrician is contacted",
+  "stats": [
+    {
+      "value": "7",
+      "label": "job topics in the source guide"
+    },
+    {
+      "value": "4157",
+      "label": "Capalaba postcode referenced"
+    },
+    {
+      "value": "AS 3786-2014",
+      "label": "smoke alarm standard named"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Job Type, Not The Fix",
+      "html": "<p><a href=\"https://www.electriciancapalaba.au/\">Electrician Capalaba</a> frames local enquiries around the kind of job being described, rather than guessing the repair. That is useful for Capalaba homes and shops because a planned fitting, a tripping circuit and a compliance question each call for different information before anyone can judge the work.</p><p>The source guide separates common requests into safety switches, switchboard assessment, power points, lighting, ceiling fans, smoke alarms and electrical fault investigation. Treat those as practical headings for your own notes. Write down the affected room or circuit, when the issue began, whether it repeats and whether any appliance or building change happened recently.</p><p>For planned work, describe the fitting or load you want added, where it will sit and what access might affect the job. For faults, describe symptoms without opening a board or touching fixed wiring. A clearer brief helps a licensed electrician decide what questions to ask next.</p>"
+    },
+    {
+      "h2": "When To Stop Using The Area",
+      "html": "<p>The source page names three examples that deserve caution: a switch that will not reset, a hot outlet and unexpected power loss. Those are not quote-shopping details. They are signs to stop using the affected point or area and seek a safe assessment.</p><p>If there is an immediate hazard, the source page says to contact emergency services or the electricity distributor. It also states that the information site cannot dispatch help. That distinction matters because an enquiry form is not a substitute for urgent response where there is active danger.</p><ul><li>Record what stopped working and where it happened.</li><li>Note whether the problem returns after a reset attempt.</li><li>Keep recent appliance, renovation or storm details available.</li><li>Do not open a switchboard or work on fixed wiring.</li></ul>"
+    },
+    {
+      "h2": "Capalaba Property Context That Actually Helps",
+      "html": "<p>The local detail in the source guide is restrained: Capalaba, Queensland 4157, with homes and shops that may range from older fittings to planned new loads. That is enough to shape the enquiry without pretending every property in the area has the same wiring or switchboard history.</p><p>Useful context is the property type, the affected room, whether the job is residential or commercial and whether the work relates to a new load such as an EV charger, fixed lighting, ceiling fan or split system air conditioning. Those topics appear in the supplied research set, so they are relevant prompts, not a reason to assume the job is simple.</p><p>A related local guide for <a href=\"https://sites-e470-1.web.app/electrical-services-capalaba-001/\">Capalaba electrical job planning</a> takes the same cautious approach: describe the work, keep the location clear and let licensed assessment handle the technical decision.</p>"
+    },
+    {
+      "h2": "Safety Switches, Breakers And Board Questions",
+      "html": "<p>The source guide gives a plain distinction that is worth keeping in view. A safety switch monitors for leakage of electrical current and cuts power when that fault is detected. A circuit breaker primarily protects wiring and appliances. Some devices combine both functions, so unclear board labels are a question for a licensed electrician.</p><p>For a switchboard assessment, avoid diagnosing the board yourself. Ask whether the issue is coverage, capacity, circuit protection or labelling. If a device will not reset, say which area lost power and what was in use at the time. If the enquiry is about an upgrade, explain the planned load rather than asking for a generic bigger board.</p><p>For smoke alarms, the source guide names compliant alarms as photoelectric, interconnected and meeting AS 3786-2014. It also says the required power supply and replacement choice depend on the dwelling and existing alarm arrangement.</p>"
+    },
+    {
+      "h2": "What To Put In An Enquiry",
+      "html": "<p>A good enquiry does not need technical language. It needs enough plain facts for a provider to decide whether the work is in scope and what follow-up is needed. The source form asks for suburb or postcode, job type, access and nearby structures, with photos only later if a provider asks for them.</p><p>Keep the request narrow. For a power point, say whether it is new, damaged or being relocated. For lighting, say whether it is a fixed fitting or a fault. For ceiling fans, note the intended location and whether existing wiring is present, without assuming that wiring is suitable.</p><p>The source page is also clear about identity and expectations. It is an information and enquiry website, not an electrical contractor, booking service or emergency response channel. Submitting details does not confirm availability, timing or acceptance of the work.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common electrical enquiry paths",
+    "headers": [
+      "Situation",
+      "Useful details to prepare",
+      "Decision to ask about"
+    ],
+    "rows": [
+      [
+        "Fault or power loss",
+        "Room, circuit, timing, repeat pattern and recent appliance changes",
+        "Whether safe assessment is needed before reuse"
+      ],
+      [
+        "Planned fitting or new load",
+        "Location, property type, access and intended equipment",
+        "Whether licensed wiring or switchboard assessment is required"
+      ],
+      [
+        "Smoke alarm replacement",
+        "Dwelling arrangement and existing alarm type",
+        "Whether the alarm choice and power supply meet current requirements"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Name the job type",
+      "text": "Choose the closest source category, such as safety switch, switchboard, power point, lighting, ceiling fan, smoke alarm or fault investigation."
+    },
+    {
+      "name": "Describe the symptom safely",
+      "text": "Record what happened, where it happened and when it began, without opening electrical equipment."
+    },
+    {
+      "name": "Add property context",
+      "text": "Include Capalaba or postcode 4157, the property type and any access details relevant to the work."
+    },
+    {
+      "name": "Ask the licensed-work question",
+      "text": "Ask what parts of the job require a licensed electrician and what information is needed before assessment."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is this page an electrical contractor?",
+      "a": "No. The source page describes Electrician Capalaba as a local information brand and an enquiry website, not an electrical contractor, booking service or emergency response channel."
+    },
+    {
+      "q": "What should I do if an outlet is hot or power is unexpectedly lost?",
+      "a": "The source guide says a hot outlet, switch that will not reset or unexpected power loss deserves a safe assessment. If there is an immediate hazard, contact emergency services or the electricity distributor."
+    },
+    {
+      "q": "Are safety switches and circuit breakers the same thing?",
+      "a": "No. The source guide says a circuit breaker primarily protects wiring and appliances, while a safety switch protects people against electric shock by responding to leakage current."
+    },
+    {
+      "q": "What smoke alarm details matter in Queensland?",
+      "a": "The source guide says compliant alarms are photoelectric, interconnected and meet AS 3786-2014. It also says the right power supply and replacement choice depend on the dwelling and existing alarm arrangement."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The source guide is for Capalaba, QLD 4157.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide groups enquiries into safety switches, switchboard assessment, power points, lighting, ceiling fans, smoke alarms and electrical fault investigation.",
+      "source": "money page"
+    },
+    {
+      "claim": "A switch that will not reset, a hot outlet or unexpected power loss deserves a safe assessment.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide says not to open a board or work on fixed wiring.",
+      "source": "money page"
+    },
+    {
+      "claim": "For an immediate hazard, the source guide says to contact emergency services or the electricity distributor.",
+      "source": "money page"
+    },
+    {
+      "claim": "The information site cannot dispatch help.",
+      "source": "money page"
+    },
+    {
+      "claim": "Capalaba homes and shops vary from older fittings to planned new loads.",
+      "source": "money page"
+    },
+    {
+      "claim": "A safety switch monitors for leakage of electrical current and cuts power when that fault is detected.",
+      "source": "money page"
+    },
+    {
+      "claim": "A circuit breaker primarily protects wiring and appliances.",
+      "source": "money page"
+    },
+    {
+      "claim": "A safety switch protects people against electric shock.",
+      "source": "money page"
+    },
+    {
+      "claim": "Some devices combine safety switch and circuit breaker functions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Compliant smoke alarms are photoelectric, interconnected and meet AS 3786-2014.",
+      "source": "money page"
+    },
+    {
+      "claim": "Smoke alarm power supply and replacement choice depend on the dwelling and existing alarm arrangement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The enquiry form asks for suburb or postcode, job type, access and nearby structures.",
+      "source": "money page"
+    },
+    {
+      "claim": "Photos can be provided later if a provider asks for them.",
+      "source": "money page"
+    },
+    {
+      "claim": "Electrician Capalaba is a local information brand and an information and enquiry website, not an electrical contractor.",
+      "source": "money page"
+    },
+    {
+      "claim": "Submitting an enquiry does not confirm provider availability, timing or acceptance of the work.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers safe enquiry preparation for Capalaba electrical faults, fittings, switchboards, safety switches and smoke alarm questions."
+}
