@@ -1,0 +1,182 @@
+{
+  "kicker": "Employment Law",
+  "h1_tail": "A Practical Comparison Guide",
+  "meta_hook": "compare provider types, questions to ask, and quote inputs before choosing help",
+  "takeaway": "The source page presents a comparison path for employment law help across Australia, with 3 provider types: unfair dismissal, employment contract lawyers, and workplace investigations. Requests are described as free to submit, with no obligation to proceed, and the intake asks what happened, when the dismissal took effect, the state, and where the matter is up to. It also says a job can be described in about 30 seconds before suitable professionals make contact.",
+  "lead": "For Australians comparing unfair dismissal lawyers after a termination, the useful starting point is a clear record of what happened, when it took effect, and what outcome is being sought.",
+  "lead_tail": "with enough detail to compare suitable employment law options",
+  "stats": [
+    {
+      "value": "3",
+      "label": "provider types listed"
+    },
+    {
+      "value": "30 sec",
+      "label": "job description prompt"
+    },
+    {
+      "value": "Free",
+      "label": "to submit requests"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What the comparison page is actually useful for",
+      "html": "<p><a href=\"https://www.unfairdismissallawyersaustralia.com.au/\">Unfair Dismissal Lawyers Australia</a> is presented as a place to compare unfair dismissal and employment lawyers across Australia, rather than as a single law firm. The useful part for a worker is the structure: choose a service type, describe the job, then compare professionals who respond before deciding what suits the matter.</p><p>The page lists 3 broad service paths: unfair dismissal, employment contract lawyers, and workplace investigations. That split matters because a termination dispute is not always just a dismissal question. Some people need advice on an employment contract, some need help after a dismissal, and some workplace matters turn on an investigation process or evidence trail.</p><p>The intake wording also points to the details a professional will need early. It asks when the dismissal took effect, the state, and where the matter is up to. Those are sensible facts to gather before making contact because they help separate a general workplace concern from a matter that may need prompt legal advice.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for employees, former employees, and workplace participants who are still working out which type of employment law help fits their situation. It is also useful for someone comparing provider profiles before requesting quotes, because the source page encourages readers to read reviews, compare services and pricing, view photos, and contact providers directly.</p><ul><li><strong>Recently dismissed workers:</strong> prepare the dismissal date, any written notice, and a short chronology before submitting a request.</li><li><strong>Contract-focused matters:</strong> use the employment contract category when the main issue is a clause, negotiation, variation, restraint, or exit term rather than the dismissal event itself.</li><li><strong>Workplace process concerns:</strong> consider the workplace investigations category where the issue involves fact finding, conduct allegations, or an investigation process.</li><li><strong>Location-based searches:</strong> use state or city filters where available, then check each provider profile on its own merits.</li></ul>"
+    },
+    {
+      "h2": "How to prepare a useful request",
+      "html": "<p>A short request can still be precise. The page says the job can be described in about 30 seconds, but the best version is not a vague complaint. It should give the professional enough context to decide whether the matter fits their services and whether they can respond quickly.</p><p>Before submitting, write a plain sequence of events: job role, dismissal date, how the decision was communicated, what documents exist, and what step has already been taken. Keep opinions separate from documents. A provider can assess the matter more easily when the timeline, emails, payslips, contract, warning letters, and meeting notes are identified rather than pasted into a long emotional summary.</p><p>The source page says requests are free to submit and there is no obligation to proceed. Treat that as a comparison step, not a decision to hire. Ask each respondent how they approach the first review, what information they need, what services they offer, and how pricing is explained before work starts.</p>"
+    },
+    {
+      "h2": "Comparing profiles without over-reading ratings",
+      "html": "<p>The directory displays featured providers, review counts, ratings, locations, categories, and short service descriptions. Those details are helpful for screening, but they should not replace direct questions. A high rating or a nearby city does not tell you whether the professional can deal with the specific facts, documents, timing, or desired outcome.</p><p>Use the profile as a first filter, then ask practical questions. Does the provider handle unfair dismissal matters, employment contract advice, or workplace investigations? Do they act in your state? What documents should be sent before the first conversation? How do they explain fees, quotes, or next steps?</p><p>For a local example of the same category approach, the related guide on <a href=\"https://aumedia.neocities.org/unfair-dismissal-lawyers-brisbane/\">unfair dismissal lawyers in Brisbane</a> shows how a city page can narrow the search without changing the underlying need to compare services, pricing signals, and fit.</p>"
+    },
+    {
+      "h2": "What to ask before choosing a professional",
+      "html": "<p>Once a provider contacts you, move from browsing to verification. Ask whether they are the right professional for the exact issue, what information they need, and what the first paid or unpaid step involves. Avoid assuming that every employment law provider offers the same mix of advice, representation, contract review, and investigation work.</p><ul><li>What category does my matter fall into based on the facts I have described?</li><li>What documents should I prepare before a first consultation?</li><li>How will fees, quotes, or pricing be explained before I commit?</li><li>Who will do the work and how will updates be provided?</li><li>What outcome options can be discussed after the documents are reviewed?</li></ul><p>The Law Council of Australia is a suitable general authority to keep in view when checking the broader legal profession context, but the practical choice still comes back to provider fit, scope, documents, and clear engagement terms.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Choosing the right employment law pathway",
+    "headers": [
+      "Situation",
+      "Better starting category",
+      "What to prepare"
+    ],
+    "rows": [
+      [
+        "Dismissal has already happened",
+        "Unfair dismissal provider",
+        "Dismissal date, notice, timeline, employer messages"
+      ],
+      [
+        "Main issue is a clause or exit term",
+        "Employment contract provider",
+        "Contract, variations, emails, proposed terms"
+      ],
+      [
+        "Issue involves an internal fact-finding process",
+        "Workplace investigations provider",
+        "Allegation summary, meeting notes, investigation documents"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Choose the category",
+      "text": "Start with unfair dismissal, employment contract, or workplace investigations based on the main problem described in your documents."
+    },
+    {
+      "name": "Write the timeline",
+      "text": "Record what happened, when the dismissal took effect, your state, and what steps have already occurred."
+    },
+    {
+      "name": "Compare responses",
+      "text": "Speak with the professionals who contact you and compare services, pricing explanations, and document requests before deciding."
+    },
+    {
+      "name": "Confirm the next step",
+      "text": "Ask what will happen first, what it may cost, and what information is needed before any work begins."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is submitting a request the same as hiring a lawyer?",
+      "a": "No. The source page says requests are free to submit and there is no obligation to proceed. Treat the request as a way to start comparing suitable professionals before choosing any provider."
+    },
+    {
+      "q": "What details should I provide first?",
+      "a": "Provide the service needed, what happened, when the dismissal took effect, your state, and where the matter is up to. A concise timeline and key documents are more useful than a long unsorted summary."
+    },
+    {
+      "q": "Can I compare other employment law services on the same page?",
+      "a": "Yes. The page lists unfair dismissal, employment contract lawyers, and workplace investigations as provider types, so users can start with the category that best matches the issue."
+    }
+  ],
+  "about": [
+    {
+      "name": "Settlement (litigation)",
+      "sameAs": "https://en.wikipedia.org/wiki/Settlement_(litigation)"
+    },
+    {
+      "name": "Contract of sale",
+      "sameAs": "https://en.wikipedia.org/wiki/Contract_of_sale"
+    },
+    {
+      "name": "Property law",
+      "sameAs": "https://en.wikipedia.org/wiki/Property_law"
+    },
+    {
+      "name": "Conveyancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Conveyancing"
+    },
+    {
+      "name": "Real estate",
+      "sameAs": "https://en.wikipedia.org/wiki/Real_estate"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Stamp duty",
+      "sameAs": "https://en.wikipedia.org/wiki/Stamp_duty"
+    },
+    {
+      "name": "Torrens title",
+      "sameAs": "https://en.wikipedia.org/wiki/Torrens_title"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Law Council of Australia",
+      "url": "https://lawcouncil.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page presents a comparison path for employment law help across Australia.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page lists 3 provider types: unfair dismissal lawyers, employment contract lawyers, and workplace investigations.",
+      "source": "money page"
+    },
+    {
+      "claim": "Requests are described as free to submit.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page states there is no obligation to proceed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The intake asks what happened, when the dismissal took effect, the state, and where the matter is up to.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says a job can be described in about 30 seconds.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page encourages users to read reviews, compare services and pricing, view photos, and contact providers directly.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory displays featured providers, review counts, ratings, locations, categories, and short service descriptions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Users can browse by state and the page lists New South Wales, Victoria, Queensland, Western Australia, and South Australia location sections.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says users can speak with professionals who contact them and decide what suits them.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to compare employment law provider options, prepare a request, and ask clearer questions before choosing help."
+}
