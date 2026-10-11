@@ -1,0 +1,155 @@
+{
+  "kicker": "Toowoomba Local Guide",
+  "h1_tail": "A Practical Local Search Guide",
+  "meta_hook": "Compare categories, reviews, quotes and listing signals before contacting providers",
+  "takeaway": "My Toowoomba is presented as a Toowoomba local search guide with 57 categories, cross-checked listings, reviews, photos, service comparison and quote requests. The page states that people can search, read reviews, compare services and get quotes free. Businesses can claim a free listing or consider Featured placement, which the page describes as including priority placement, photos and lead tracking.",
+  "lead": "For residents comparing business directory toowoomba options, the useful question is how quickly a listing helps narrow a category, check evidence and contact a suitable local provider.",
+  "lead_tail": "with enough detail to compare before making contact",
+  "stats": [
+    {
+      "value": "57",
+      "label": "categories listed"
+    },
+    {
+      "value": "Free",
+      "label": "search and quote use stated"
+    },
+    {
+      "value": "100+",
+      "label": "lenders referenced for one finance listing"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How To Read A Local Listing",
+      "html": "<p><a href=\"https://www.mytoowoomba.com.au/\">My Toowoomba</a> presents itself as a way to find trusted local businesses in Toowoomba by browsing cross-checked listings, reading reviews, comparing services and requesting quotes. That makes it most useful after you know the broad service needed, but before choosing who deserves a call or quote request.</p><p>Start with the closest category, then check location, service wording, review evidence, photos and the contact path. A broad repair may sit across builders, electricians, plumbers, painters, roofers or pest control providers. A move may involve real estate, removalists, storage, cleaners or locksmiths. The directory helps turn that first messy list into a smaller set of providers to contact directly.</p><p>Where a listing mentions pricing or quote options, use that as a prompt to ask for a written scope. A directory profile can help you compare signals, but it cannot confirm final inclusions, exclusions, availability or whether the provider is suitable for a particular job.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide applies to Toowoomba residents, property owners, local businesses and readers using category pages to compare providers before direct contact. It also applies to business owners deciding whether a basic listing is enough, or whether Featured placement with photos and lead tracking should be considered.</p><ul><li><strong>Households:</strong> shortlist local options for repairs, appointments, quotes or recurring services.</li><li><strong>Property managers and landlords:</strong> build a call list for urgent and non-urgent maintenance needs.</li><li><strong>Business owners:</strong> review how similar providers describe services, locations, photos and review evidence.</li><li><strong>Trade researchers:</strong> use category pages and guides when a decision needs more background before contact.</li></ul><p>The next check is direct due diligence. Ask about licensing, insurance, written quotes, site inspections, inclusions, exclusions and response times where those details matter to the job.</p>"
+    },
+    {
+      "h2": "Category Breadth Without Confusion",
+      "html": "<p>A directory with 57 categories works best when the listing detail is matched to the decision. A bakery, florist or pub search may rely on location fit, customer feedback and service description. A builder, electrician, finance broker, mortgage broker, lawyer, medical centre or security provider may need closer checks because the work can involve documentation, site details, compliance questions or an ongoing relationship.</p><p>The source page lists categories including accountants, builders, electricians, finance brokers, lawyers, locksmiths, mortgage brokers, plumbers, real estate, roofers, security systems and web design. It also lists customer-facing categories such as beauty salons, fitness centres, hair salons, massage therapy, optometrists, physiotherapists, pet stores and veterinarians.</p><p>When comparing results, ask what would make two providers materially different. For a trade, that may be residential versus commercial work, repair versus installation, inspection needs, job photos and quote format. For advisory services, it may be client type, appointment style, documents required and how fees are explained.</p><p>If the task is plumbing-specific, the related <a href=\"https://plumbers-toowoomba-guide.vercel.app/\">Toowoomba plumbing guide</a> can help frame questions before choosing a provider from a broader local directory.</p>"
+    },
+    {
+      "h2": "Review And Quote Signals To Check",
+      "html": "<p>The page says users can read reviews, compare services and get quotes. Those signals should be read together. A review score without service detail may not show whether the provider handles your type of job. A service list without reviews may not show how previous customers experienced the work. A quote request without a clear scope can produce replies that are difficult to compare.</p><p>Before contacting a provider, prepare a short brief. Include the suburb or service location, the category needed, the problem or goal, photos if relevant, preferred timing, access constraints and whether you need inspection, advice, supply, installation, repair or ongoing support.</p><p>Ask each shortlisted business the same core questions:</p><ul><li>what is included and excluded in the quoted work</li><li>whether inspection is needed before a firm price</li><li>who will complete the work or provide the service</li><li>what photos, documents or measurements they need</li><li>how changes to scope are handled</li></ul>"
+    },
+    {
+      "h2": "For Businesses Considering A Listing",
+      "html": "<p>The source page invites Toowoomba businesses to claim a free listing or upgrade to Featured for priority placement, photos and lead tracking. From the provider side, the listing should answer the questions a cautious local customer has before contact.</p><p>A useful profile makes the service category obvious, describes the work in plain language, identifies the service area where appropriate and uses photos only when they help explain the work or business. Reviews can support trust, but they should not replace clear service information.</p><p>Priority placement may increase visibility within the directory, but the profile still needs specific content. A vague description can miss good enquiries because customers cannot tell whether the provider handles their exact need. Lead tracking is most useful when the business records enquiry sources and notes which categories or descriptions produce better contacts.</p><p>The strongest listing is not necessarily the longest. It is the one that helps the right customer ask a specific question.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Local directory use cases compared",
+    "headers": [
+      "Use case",
+      "What to check first",
+      "Best next action"
+    ],
+    "rows": [
+      [
+        "Finding a provider",
+        "Category, location, services, reviews and photos",
+        "Shortlist two or three providers and request comparable quotes"
+      ],
+      [
+        "Researching a decision",
+        "Guides, category pages and service descriptions",
+        "Write down questions before contacting a business"
+      ],
+      [
+        "Listing a business",
+        "Category fit, service wording, photos and enquiry process",
+        "Claim the listing or assess whether Featured placement is useful"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Choose the closest category",
+      "text": "Start with the service category that best matches the problem, then widen only if results are too narrow."
+    },
+    {
+      "name": "Compare evidence",
+      "text": "Look at reviews, service wording, photos and location signals before making contact."
+    },
+    {
+      "name": "Send the same brief",
+      "text": "Use the same job details for each quote request so replies can be compared fairly."
+    },
+    {
+      "name": "Confirm directly",
+      "text": "Ask the provider to confirm scope, inclusions, timing and any documents needed before you commit."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the directory only for trades?",
+      "a": "No. The source page lists trades alongside finance, legal, health-adjacent, retail, hospitality, creative and professional service categories. The right category depends on the decision you are making."
+    },
+    {
+      "q": "Does using the directory cost customers money?",
+      "a": "The page states that users can read reviews, compare services and get quotes free. Any provider fees, quotes or service costs still need to be confirmed directly with the business."
+    },
+    {
+      "q": "Can a business add itself?",
+      "a": "Yes. The page invites Toowoomba businesses to claim a free listing, with an option to upgrade to Featured for priority placement, photos and lead tracking."
+    },
+    {
+      "q": "What should I prepare before requesting a quote?",
+      "a": "Prepare the service needed, location, job details, photos if relevant and preferred timing. Sending the same information to each provider makes replies easier to compare."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "My Toowoomba presents itself as a way to find trusted local businesses in Toowoomba.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says it has cross-checked business listings.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says users can read reviews, compare services and get quotes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory states that search, reviews, comparisons and quote requests are free for users.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists 57 categories.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page includes categories such as accountants, builders, electricians, finance brokers, lawyers, locksmiths, mortgage brokers, plumbers, real estate, roofers, security systems and web design.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page includes customer-facing categories such as beauty salons, fitness centres, hair salons, massage therapy, optometrists, physiotherapists, pet stores and veterinarians.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page invites Toowoomba businesses to claim a free listing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says businesses can upgrade to Featured for priority placement, photos and lead tracking.",
+      "source": "money page"
+    },
+    {
+      "claim": "One finance listing references asset, car, equipment and business finance options from a network of 100+ lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page includes reviews, photos and service comparison as listing signals.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers how to use a Toowoomba local directory to shortlist providers, compare listings and prepare clearer enquiries."
+}
