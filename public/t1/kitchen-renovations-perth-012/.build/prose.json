@@ -1,0 +1,247 @@
+{
+  "kicker": "Perth Renovation Guide",
+  "h1_tail": "A Practical Homeowner Guide",
+  "meta_hook": "compare scope, costs, timing and quote questions before you renovate",
+  "takeaway": "For Perth homeowners, the supplied source gives three hard planning anchors: typical kitchen projects through independent builders often sit between $25,000 and $70,000, a typical program can run about 6 to 12 weeks from contract sign-off to handover, and the published pathway starts with a free consult before a fixed-price quote. Use those figures as a scoping frame, then test layout changes, cabinetry detail, benchtop choice, access and approvals before committing.",
+  "lead": "For Perth homeowners comparing kitchen renovations perth options, the useful starting point is not style alone, but scope, contract clarity, site constraints and the trade sequence behind the finished room.",
+  "lead_tail": "with practical checks before a quote is accepted",
+  "stats": [
+    {
+      "value": "$25k-$70k",
+      "label": "typical project range cited"
+    },
+    {
+      "value": "6-12 weeks",
+      "label": "typical contract-to-handover window"
+    },
+    {
+      "value": "6",
+      "label": "service paths listed"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With Scope, Not Finishes",
+      "html": "<p>The published <a href=\"https://www.kitchenrenovationperth.com.au/\">Kitchen Renovation Perth</a> page frames a renovation as a scope decision before it becomes a materials decision. It lists full rebuilds, cabinetry-led redesigns, apartment and strata work, benchtop and splashback upgrades, heritage and character-home kitchens, and lower-disruption makeovers. That spread matters because the same visual goal can mean very different contracts.</p><p>A homeowner replacing doors, handles and benchtops needs a different conversation from someone moving appliances, adding a scullery or rebuilding joinery. The first brief should separate what must change from what simply feels dated. Useful quote inputs include the property type, suburb, rough budget tier, desired layout changes, appliance scope, storage problems, access limits and any approval pathway that may affect timing.</p><ul><li><strong>Layout:</strong> note whether plumbing, power points or appliance positions are expected to move.</li><li><strong>Cabinetry:</strong> identify storage failures, awkward corners and bench-space limits before choosing colours.</li><li><strong>Access:</strong> apartments and strata properties may need more planning around lift access, deliveries and work scheduling.</li><li><strong>Character detail:</strong> older homes may need a brief that respects existing proportions while improving storage and circulation.</li></ul>"
+    },
+    {
+      "h2": "When A Full Rebuild Makes Sense",
+      "html": "<p>A full rebuild is the heavier option. The source page describes complete Perth kitchen rebuilds involving cabinetry, benchtops, appliances and trade coordination. That level of work is usually worth discussing when the existing footprint causes daily frustration, the storage is fundamentally wrong, or new appliances and surfaces will not solve the underlying layout problem.</p><p>The fixed-price quote pathway described on the source page is useful here because a larger job needs written scope, milestones and a variation process before the homeowner commits. Ask what is included in demolition, fabrication, trade coordination, appliance allowances, splashback works and handover. Also ask what would count as a variation after the contract is signed, since unclear assumptions can turn a tidy design conversation into a difficult build conversation.</p><p>For planning inspiration before briefing a builder, the related <a href=\"https://kitchen-design-perth-guide.vercel.app/\">Perth kitchen design guide</a> is a useful companion because design choices and build scope need to line up early.</p>"
+    },
+    {
+      "h2": "Where A Refresh Can Be Enough",
+      "html": "<p>The source page also describes lower-disruption refresh work for homeowners who want visible improvement without a full demolition and rebuild. That pathway suits a narrower brief, such as improving worn finishes, upgrading a benchtop or splashback, or making the kitchen feel cleaner without changing the whole footprint.</p><p>A refresh still needs discipline. If the cabinetry boxes are failing, the layout blocks movement or the appliance plan is changing, a cosmetic update may not solve the practical problem. If the bones are sound, a smaller scope can keep the conversation focused on surfaces, hardware, bench material, splashback finish and realistic disruption. The useful question is whether the planned spend fixes the daily irritation or only hides it for a while.</p><p>Stone benchtop and splashback upgrades appear as their own pathway in the supplied material. Treat that as a signal to ask about compliant stone alternatives, material guidance and whether the project can be handled without opening up the whole kitchen.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to Perth homeowners who already know the kitchen needs work but have not decided whether the job is a rebuild, a cabinetry redesign, a surface upgrade or a smaller makeover. It also suits owners of apartments and strata-managed homes, where access, approvals and scheduling can matter as much as the cabinets themselves.</p><p>The supplied page gives a few local examples without turning the job into a suburb list. Coastal material choices are mentioned for Scarborough and Cottesloe. Apartment logistics are mentioned for South Perth and Leederville. Heritage and character-home briefs are listed as a distinct service path, with storage, circulation and service upgrades needing to respect character detail and tighter structural realities.</p><p>Those examples should shape questions, not assumptions. A coastal property owner can ask how finishes and hardware will be selected for the brief. An apartment owner can ask what access information is needed before quoting. A character-home owner can ask how new storage will sit with existing detail.</p>"
+    },
+    {
+      "h2": "Contract And Quote Checks",
+      "html": "<p>The source page says WA homeowners should expect a written scope, contract price, milestones and variation process, with required notices under the Home Building Contracts Act pathway that applies to the job. It also says the renovator reviewing the brief should provide the Building and Energy registration details that apply to their scope of work.</p><p>Before accepting a quote, ask for the registration details relevant to the scope, the written contract pathway, what is excluded, how variations are approved, and who coordinates the trades. For apartment and strata work, add questions about access, common areas, delivery timing and any approval steps the owner must handle.</p><p>The cost range on the supplied page is broad because layout changes, cabinetry detail, benchtop choice and appliance scope all affect price. A homeowner comparing two quotes should check whether both builders have priced the same inclusions. A lower number is not comparable if appliance supply, splashback, demolition, electrical work or joinery detail is treated differently.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Choosing The Right Renovation Scope",
+    "headers": [
+      "Option",
+      "Best fit",
+      "Key question before quoting"
+    ],
+    "rows": [
+      [
+        "Full rebuild",
+        "Layout, cabinetry, benchtops, appliances and trade coordination all need review",
+        "Which assumptions are included in the written scope and variation process?"
+      ],
+      [
+        "Refresh or upgrade",
+        "The footprint works but finishes, benchtop, splashback or visible wear need attention",
+        "Will this smaller scope fix the daily problem or only improve appearance?"
+      ],
+      [
+        "Apartment or strata kitchen",
+        "Access, approvals and scheduling affect the job as much as design",
+        "What information is needed about access, common areas and owner approvals?"
+      ],
+      [
+        "Character-home kitchen",
+        "Storage and circulation need improvement without ignoring existing detail",
+        "How will new joinery and services respect the home’s character?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the brief",
+      "text": "Write down the kitchen problems, property type, suburb, rough budget tier and whether layout changes are expected."
+    },
+    {
+      "name": "Separate must-haves",
+      "text": "List functional needs such as storage, bench space, appliance placement and access before choosing finishes."
+    },
+    {
+      "name": "Request a written quote",
+      "text": "Ask for scope, contract price, milestones, exclusions and the variation process before committing."
+    },
+    {
+      "name": "Check builder details",
+      "text": "Ask for the registration details that apply to the scope of work being proposed."
+    },
+    {
+      "name": "Compare like for like",
+      "text": "Review whether each quote treats cabinetry, benchtops, appliances, splashback, demolition and trade coordination the same way."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a Perth homeowner allow for this kind of project?",
+      "a": "The supplied source says most Perth kitchen projects through independent builders land between $25,000 and $70,000, depending on layout changes, cabinetry detail, benchtop choice and appliance scope."
+    },
+    {
+      "q": "How long can the work take after contract sign-off?",
+      "a": "The source gives a typical window of roughly 6 to 12 weeks from contract sign-off to handover. Design, fabrication and trade sequencing can affect the total program."
+    },
+    {
+      "q": "Is a written contract needed?",
+      "a": "Yes. The supplied page says WA homeowners should expect a written scope, contract price, milestones and variation process, with required notices under the applicable Home Building Contracts Act pathway."
+    },
+    {
+      "q": "Can a scullery or butler's pantry be included?",
+      "a": "Yes, where the layout supports it. The supplied page says this brief often sits alongside a kitchen redesign in Perth family homes."
+    },
+    {
+      "q": "What should apartment owners ask before getting a quote?",
+      "a": "Ask about approvals, access, scheduling, deliveries and common-area constraints. The source identifies apartment and strata kitchens as a distinct service path where those issues matter as much as cabinetry."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published pathway starts with a free consult before a fixed-price quote.",
+      "source": "money page"
+    },
+    {
+      "claim": "Typical kitchen projects through independent builders often sit between $25,000 and $70,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "A typical program can run about 6 to 12 weeks from contract sign-off to handover.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists full rebuilds, cabinetry-led redesigns, apartment and strata work, benchtop and splashback upgrades, heritage and character-home kitchens, and lower-disruption makeovers.",
+      "source": "money page"
+    },
+    {
+      "claim": "Complete Perth kitchen rebuilds can involve cabinetry, benchtops, appliances and trade coordination.",
+      "source": "money page"
+    },
+    {
+      "claim": "The fixed-price quote pathway includes scope, milestones and variation handling before commitment.",
+      "source": "money page"
+    },
+    {
+      "claim": "Lower-disruption refresh work is for homeowners who want visible improvement without a full demolition and rebuild.",
+      "source": "money page"
+    },
+    {
+      "claim": "Stone benchtop and splashback upgrades are listed as a separate service path with compliant stone alternatives, splashbacks and materials guidance.",
+      "source": "money page"
+    },
+    {
+      "claim": "Apartment and strata kitchen upgrades are listed for homes where approvals, access and scheduling matter as much as cabinetry.",
+      "source": "money page"
+    },
+    {
+      "claim": "Coastal material choices are mentioned for Scarborough and Cottesloe.",
+      "source": "money page"
+    },
+    {
+      "claim": "Apartment logistics are mentioned for South Perth and Leederville.",
+      "source": "money page"
+    },
+    {
+      "claim": "Heritage and character-home briefs are listed for older Perth homes where storage, circulation and service upgrades have to respect character detail and tighter structural realities.",
+      "source": "money page"
+    },
+    {
+      "claim": "WA homeowners should expect a written scope, contract price, milestones and variation process.",
+      "source": "money page"
+    },
+    {
+      "claim": "The builder must provide the required notices under the Home Building Contracts Act pathway that applies to the job.",
+      "source": "money page"
+    },
+    {
+      "claim": "The renovator reviewing the brief should provide the Building and Energy registration details that apply to their scope of work.",
+      "source": "money page"
+    },
+    {
+      "claim": "Cost varies with layout changes, cabinetry detail, benchtop choice and appliance scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "A scullery or butler's pantry can be included where the layout supports it.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Perth kitchen renovation scope, quote checks, timing, cost signals and homeowner questions before engaging a builder."
+}
