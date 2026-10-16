@@ -1,0 +1,222 @@
+{
+  "kicker": "Wall Project Guide",
+  "h1_tail": "A Practical Hiring Guide",
+  "meta_hook": "compare wall types, quote inputs and contractor questions before you enquire",
+  "takeaway": "Start with the facts a wall specialist needs: wall size, site conditions, postcode and timing. The source page lists 8 provider types, including concrete sleeper, timber, block and masonry, stone and boulder, gabion, repairs, engineered and commercial work. It says requests are free to submit, carry no obligation to proceed, and can be made without an account in about 30 seconds.",
+  "lead": "For homeowners comparing retaining wall contractors, the useful starting point is a clear brief, including wall type, site access, visible condition, postcode and preferred timing.",
+  "lead_tail": "so each enquiry starts with enough context.",
+  "stats": [
+    {
+      "value": "8",
+      "label": "provider types listed"
+    },
+    {
+      "value": "30 sec",
+      "label": "job description prompt"
+    },
+    {
+      "value": "6",
+      "label": "states and territories shown"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With the Job Details",
+      "html": "<p><a href=\"https://www.retainingwallcontractors.com.au/\">Retaining Wall Contractors Australia</a> frames the first enquiry around wall size, site conditions, postcode and timing. Those inputs help a wall specialist judge fit before a quote conversation, especially when the listed work spans new walls, repairs, material based projects, and engineered or commercial jobs.</p><p>Prepare the brief before asking for a quote. Measure the approximate length and height if you can do so sensibly, note whether access is narrow, sloped or shared, and say whether the wall is new work, replacement or repair. If the material is undecided, say that too. A vague request invites assumptions, while a short factual brief gives each business the same starting point.</p><ul><li>Wall size and visible condition.</li><li>Postcode and access notes.</li><li>Preferred material, if known.</li><li>Timing for the first conversation.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Australian property owners and project managers comparing wall specialists across the locations shown on the source page. The page shows browsing for the Australian Capital Territory, New South Wales, Queensland, South Australia, Tasmania and Victoria, with Geelong and Newcastle shown as popular locations.</p><p>It also suits readers who know a wall is needed but are still choosing the right work type. A garden or boundary wall may begin as a material question, while a damaged wall starts as a repair enquiry. A larger project may need the engineered or commercial category before individual businesses are contacted. For a city focused Queensland comparison, see this <a href=\"https://aumedia.neocities.org/retaining-wall-contractors-brisbane/\">Brisbane wall contractor guide</a>.</p>"
+    },
+    {
+      "h2": "Choosing the Right Category",
+      "html": "<p>Use the categories as a decision filter, not as proof that every listed provider suits every job. Concrete sleeper, timber, block and masonry, stone and boulder, and gabion options are useful when material is already part of the brief. Repair listings are a better starting point when the existing wall is the problem. Engineered and commercial listings are relevant when documentation, design input or larger project coordination may be involved.</p><p>Ask each business to confirm the category that best describes the job before discussing price. If photos are available, ask whether they are enough for an initial view or whether a site visit is needed before scope can be discussed. When two providers suggest different methods, compare what each method includes before treating one response as cheaper.</p>"
+    },
+    {
+      "h2": "Checks Before You Shortlist",
+      "html": "<p>A practical shortlist compares evidence, coverage and fit. The source page describes cross checked provider listings and encourages users to read reviews, view photos, compare services and pricing, then contact providers directly. Some featured profiles refer to first party evidence of wall services and tell users to confirm coverage, availability and project requirements with the business.</p><p>Before committing time to a quote process, ask what parts of the work the provider handles, what information they need from you, and whether the job type matches their recent work. If the choice is repair or replacement, ask whether they inspect before recommending either path. If a wall may involve design documents or broader site coordination, raise that early so the provider can confirm whether the enquiry fits their work.</p><ul><li><strong>Coverage:</strong> confirm the provider services the postcode and property type.</li><li><strong>Fit:</strong> match the enquiry to the closest listed category.</li><li><strong>Evidence:</strong> compare photos, service descriptions and review text.</li><li><strong>Next step:</strong> ask what is needed for a useful quote discussion.</li></ul>"
+    },
+    {
+      "h2": "Reading Reviews and Prices",
+      "html": "<p>The source page displays ratings and review counts for some providers, but it also directs users to contact each business for details that may change. Reviews can help create a shortlist. They cannot answer whether a specific wall type, access issue or timing requirement suits that provider.</p><p>Photos may be more useful than broad praise when they show a similar wall type. Pricing comparisons work best after the scope is aligned, because one response may include different preparation, materials or site assumptions from another. For wider renovation discipline, ASIC Moneysmart has renovating information that can help owners think about spending before committing, while the Housing Industry Association and Master Builders Australia publish building sector material that may help readers prepare better questions.</p>"
+    },
+    {
+      "h2": "What to Send First",
+      "html": "<p>The source page says users can describe the job in about 30 seconds, without an account and with no obligation. Keep the first message short, but include the facts that change provider fit.</p><p>A useful enquiry includes property location, wall size, visible condition, preferred material if known, access notes, photos available and timing. If you are unsure whether the wall needs repair or replacement, say that directly. If engineered or commercial expertise may be needed, use those words so unsuitable providers can opt out early.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Ways to frame the first enquiry",
+    "headers": [
+      "Situation",
+      "Useful category signal",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "New residential wall",
+        "Material category such as timber, concrete sleeper, block and masonry, stone and boulder, or gabion",
+        "Have you built this wall type recently, and what details do you need before quoting?"
+      ],
+      [
+        "Existing wall problem",
+        "Retaining wall repairs",
+        "Do you inspect before recommending repair or replacement?"
+      ],
+      [
+        "Larger or documented project",
+        "Engineered and commercial retaining walls",
+        "What design or project documents do you need before assessing suitability?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the wall",
+      "text": "Note the approximate wall size, visible condition, material preference and whether the job is new work, repair or replacement."
+    },
+    {
+      "name": "Choose the category",
+      "text": "Use the listed provider types to direct the enquiry toward the most relevant wall professional."
+    },
+    {
+      "name": "Send the brief",
+      "text": "Include postcode, site conditions and timing so unsuitable providers can be filtered out early."
+    },
+    {
+      "name": "Compare evidence",
+      "text": "Review photos, service descriptions, pricing information and reviews before contacting preferred businesses."
+    },
+    {
+      "name": "Confirm directly",
+      "text": "Ask each provider to confirm coverage, availability and project requirements before you decide."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What details should I provide before asking for a quote?",
+      "a": "Provide wall size, site conditions, postcode and timing. The source page asks for those details so suitable wall professionals can assess the enquiry."
+    },
+    {
+      "q": "Is submitting an enquiry described as free?",
+      "a": "Yes. The source page says the request is free to submit, carries no obligation to proceed, and does not require an account."
+    },
+    {
+      "q": "Which wall categories are listed?",
+      "a": "The listed categories include concrete sleeper, timber, block and masonry, stone and boulder, gabion, repairs, engineered and commercial work, plus general contractor listings."
+    },
+    {
+      "q": "Can reviews alone decide who to hire?",
+      "a": "No. Reviews can help with shortlisting, but users are also told to compare services, photos and pricing, then contact the business directly to confirm coverage and project requirements."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page lists 8 provider types for retaining wall work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page asks users to share wall size, site conditions, postcode and timing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says requests are free to submit and carry no obligation to proceed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a job can be described in about 30 seconds with no account.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed provider categories include concrete sleeper, timber, block and masonry, stone and boulder, gabion, retaining wall repairs, engineered and commercial retaining walls, and general contractor listings.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page shows location browsing for the Australian Capital Territory, New South Wales, Queensland, South Australia, Tasmania and Victoria.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names Geelong and Newcastle as popular locations.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page encourages users to read reviews, view photos, compare services and pricing, and contact providers directly.",
+      "source": "money page"
+    },
+    {
+      "claim": "Some featured profiles on the source page refer to first party evidence of retaining wall services and tell users to confirm coverage, availability and project requirements directly.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart publishes renovating information.",
+      "source": "https://moneysmart.gov.au"
+    },
+    {
+      "claim": "The Housing Industry Association publishes building industry information.",
+      "source": "https://hia.com.au"
+    },
+    {
+      "claim": "Master Builders Australia publishes building sector information.",
+      "source": "https://www.masterbuilders.com.au"
+    }
+  ],
+  "scope": "This guide covers how to prepare, shortlist and compare wall professionals using the published Australian service information supplied for this page."
+}
