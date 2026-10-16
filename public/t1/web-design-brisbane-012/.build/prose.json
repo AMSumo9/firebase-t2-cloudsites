@@ -1,0 +1,172 @@
+{
+  "kicker": "Brisbane Web Guide",
+  "h1_tail": "Practical Planning Notes",
+  "meta_hook": "compare scope, budget, timing and platform choices before you brief a designer",
+  "takeaway": "A Brisbane business website brief should start with scope, platform, budget and content readiness. The source page gives indicative local costs of about $2,500 to $7,500 for a small brochure site, about $7,500 to $15,000 for a more polished lead-focused build, and higher starting points for eCommerce or heavily custom work. Simple brochure projects are commonly 4 to 10 weeks, WordPress or small business sites 6 to 10 weeks, and custom or eCommerce builds from about 12 weeks.",
+  "lead": "For Brisbane businesses comparing web design brisbane options, the useful starting point is not style alone, but the job the site must do, the budget range and the content needed before build.",
+  "lead_tail": "with scope, platform and launch support considered before design starts",
+  "stats": [
+    {
+      "value": "$2,500 to $7,500",
+      "label": "small brochure site range"
+    },
+    {
+      "value": "6 to 10 weeks",
+      "label": "common WordPress or small business timeline"
+    },
+    {
+      "value": "12 weeks plus",
+      "label": "eCommerce or custom build timing"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Business Job",
+      "html": "<p><a href=\"https://www.webdesignbrisbaneaustralia.com.au/\">Web Design Brisbane Australia</a> presents the core decision clearly: a site should be fast, mobile-first, search-ready and built around the customers a business wants to reach across Brisbane. That matters because a cafe, trade business, consultant, clinic or online store can all need different page structures even when the visual brief sounds similar.</p><p>The first scoping question is the commercial action the site must support. A brochure site may need trust, service clarity and an enquiry path. A landing page for Google Ads needs fewer distractions and a sharper conversion path. An online store needs product structure, speed and buyer confidence. A redesign has the extra task of modernising the site without carelessly losing existing search visibility.</p><p>Before asking for a quote, write down the pages you expect, the platform you prefer, who will supply copy and images, and whether you need ongoing care after launch. A tighter brief makes the estimate more useful and reduces the chance of comparing proposals that are solving different problems.</p>"
+    },
+    {
+      "h2": "Budget Signals To Clarify Early",
+      "html": "<p>The published cost guidance separates smaller brochure websites from more polished lead-focused builds and from eCommerce or heavily custom work. That is a practical split, because the same five-page count can hide very different effort if the project also needs conversion planning, WordPress editing, WooCommerce or Shopify setup, landing page strategy or careful migration from an older site.</p><p>Ask each designer what is included in discovery, design, development, mobile checks, on-page SEO structure, launch support and training. Also ask what is excluded, such as copywriting, product entry, photography, care plans, extra integrations or post-launch changes. A lower starting figure may still be suitable for a simple local presence, but only if the inclusions match the outcome you need.</p><p>For another crawlable reference point on the same topic, see this <a href=\"https://sitesau.github.io/web-design-brisbane/\">Brisbane website planning guide</a>. Keep the comparison focused on scope and ownership, not only on the headline figure.</p>"
+    },
+    {
+      "h2": "Platform Choice And Ownership",
+      "html": "<p>The source page names custom web design, small business websites, WordPress builds, Shopify and WooCommerce stores, redesigns, landing pages, SEO-friendly builds, and website care. Those categories are useful because they map to how the business will operate the site after launch.</p><p>WordPress suits teams that want to update text, images and pages without having a developer on call. Shopify and WooCommerce are framed for online stores where speed, trust and conversion matter. A bespoke build can make sense when the business needs a strategy-led design around a specific customer journey. A landing page is different again, because it usually exists to support a campaign, launch or promotion.</p><p>Ownership should be discussed in plain terms. The source page says the website and domain stay yours, and that training can be provided if you want to update the site yourself. That is worth confirming in the proposal, along with administrator access, hosting responsibilities, backups, security updates and whether a care plan is optional or expected.</p>"
+    },
+    {
+      "h2": "Timing Depends On Feedback And Content",
+      "html": "<p>The published timeline ranges are broad for a reason. A simple brochure site is commonly around 4 to 10 weeks. A WordPress or small business site is commonly around 6 to 10 weeks. An eCommerce or custom build can start from about 12 weeks and extend to several months. The largest variable named on the source page is how quickly content and feedback come back.</p><p>That means timing is not only a developer question. The business also needs to supply service details, page priorities, images, product information, approvals and feedback at agreed stages. If several people must approve the site, name that group early and decide who has final sign-off.</p><ul><li>For a new small site, prepare service pages and enquiry goals before design begins.</li><li>For a redesign, identify pages that already attract enquiries or rankings before changing structure.</li><li>For an online store, prepare product categories, shipping information and trust content before build.</li><li>For a campaign page, decide the single action the visitor should take.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most useful for Brisbane and South East Queensland businesses that need a new website, a redesign, a WordPress site they can edit, or an eCommerce store built on Shopify or WooCommerce. It also applies to owners planning a lead-generation landing page for Google Ads, launches or promotions.</p><p>Local context is relevant when the website has to sell into different parts of Brisbane with different customer expectations. The source page gives examples from the CBD and inner-city areas such as Fortitude Valley, Newstead and West End through to Toowong, Indooroopilly, Chermside, Carindale and Sunnybank. Use those place references to shape service copy only where they reflect real customers, service areas or project examples.</p><p>Search performance should be treated carefully. A well-built site can have clean markup, fast load times and sensible on-page SEO, but the source page also notes that ongoing ranking results depend on competition and content, and that no one can honestly guarantee a specific position under Australian Consumer Law.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common project types and the questions to ask",
+    "headers": [
+      "Project type",
+      "Best fit",
+      "Key question"
+    ],
+    "rows": [
+      [
+        "Small brochure site",
+        "A clear local presence with service pages and enquiry paths",
+        "What pages, copy and images are included?"
+      ],
+      [
+        "WordPress build",
+        "A site the owner or team can update",
+        "What training and editor access are provided?"
+      ],
+      [
+        "Shopify or WooCommerce store",
+        "Online selling with product structure and trust signals",
+        "Who handles product content, shipping details and launch checks?"
+      ],
+      [
+        "Website redesign",
+        "Modernising an ageing or underperforming site",
+        "How will existing rankings and useful pages be protected?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the outcome",
+      "text": "Write the main commercial action the site must support, such as enquiries, product sales, campaign leads or easier self-management."
+    },
+    {
+      "name": "Choose the likely platform",
+      "text": "Shortlist whether the project sounds like WordPress, Shopify, WooCommerce, a custom build, a landing page or a redesign."
+    },
+    {
+      "name": "Prepare content inputs",
+      "text": "Gather service details, images, product information, existing page priorities and decision-makers before requesting a quote."
+    },
+    {
+      "name": "Compare inclusions",
+      "text": "Check design, development, mobile readiness, SEO foundations, training, launch support and care plan options line by line."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a Brisbane business budget for a new website?",
+      "a": "The source page gives about $2,500 to $7,500 for a small brochure website, about $7,500 to $15,000 for a more polished lead-focused build, and higher starting points for eCommerce or heavily custom work."
+    },
+    {
+      "q": "How long does a local website build usually take?",
+      "a": "The published guide says a simple brochure site is commonly around 4 to 10 weeks, a WordPress or small business site around 6 to 10 weeks, and eCommerce or custom work from about 12 weeks to several months."
+    },
+    {
+      "q": "Can the business update the site after launch?",
+      "a": "The source page says editable platforms like WordPress can be used, with training so text, images and pages can be changed without a developer. A care plan is positioned as an option for owners who prefer not to manage changes."
+    },
+    {
+      "q": "Can a designer guarantee Google rankings?",
+      "a": "No specific ranking should be treated as guaranteed. The source page says a well-built site can support SEO with clean structure, speed and sensible on-page work, while results still depend on competition and content."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "Web Design Brisbane Australia describes its websites as fast, mobile-first and search-ready.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider lists custom web design, small business websites, WordPress web design, eCommerce web design, website redesign, landing page design, SEO-friendly web design, and website care and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "A small business brochure website in Brisbane is stated as commonly running from about $2,500 to $7,500.",
+      "source": "money page"
+    },
+    {
+      "claim": "A more polished lead-focused build is stated as sitting closer to $7,500 to $15,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "eCommerce and heavily custom work are stated as starting higher.",
+      "source": "money page"
+    },
+    {
+      "claim": "A simple brochure site is stated as commonly taking around 4 to 10 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "A WordPress or small business site is stated as commonly taking around 6 to 10 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "An eCommerce or custom build is stated as taking from about 12 weeks up to several months.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says timelines depend most on how quickly content and feedback come back.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says websites and domains stay with the owner.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says WordPress sites can be built so owners or teams can manage updates without a developer on call.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says training can be provided so owners can change text, images and pages.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says no one can honestly guarantee a specific Google position under Australian Consumer Law.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes work across Brisbane and South East Queensland, including the CBD, Fortitude Valley, Newstead, West End, Toowong, Indooroopilly, Chermside, Carindale and Sunnybank.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical planning, budget, timing, platform and ownership questions for Brisbane business website projects."
+}
