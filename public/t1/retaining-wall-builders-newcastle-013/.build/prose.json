@@ -1,0 +1,255 @@
+{
+  "kicker": "Newcastle Wall Guide",
+  "h1_tail": "Practical Site Planning Guide",
+  "meta_hook": "compare wall systems, drainage and approval questions before you quote",
+  "takeaway": "For Newcastle retaining wall projects, the sourced figures are practical approval triggers: exempt development is listed as a maximum 600mm high, at least 1m from each lot boundary and 2m from any other retaining wall, with AS 4678 noted for structural walls. The useful first step is not choosing a finish. It is checking height, boundaries, surcharge loads, drainage needs and whether the block needs engineering or approval before pricing is treated as reliable.",
+  "lead": "For homeowners comparing retaining wall builders newcastle options, the useful decision starts with the block, the wall height, drainage, boundary setbacks and whether approval or engineering is likely.",
+  "lead_tail": "with a practical focus on site fit, wall type and approval checks",
+  "stats": [
+    {
+      "value": "600mm",
+      "label": "listed maximum height for exempt development"
+    },
+    {
+      "value": "1m",
+      "label": "listed minimum distance from each lot boundary"
+    },
+    {
+      "value": "AS 4678",
+      "label": "standard named for structural walls"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Block, Not The Finish",
+      "html": "<p><a href=\"https://www.retainingwallsnewcastle.com.au/\">Retaining Walls Newcastle</a> frames retaining wall work as a site-specific decision, which is the right starting point for Newcastle and Lake Macquarie blocks. The published guide names concrete sleeper, timber, block, sandstone, rock, boulder and gabion options, but it also says the wall system should be matched to soil, height and budget rather than chosen first.</p><p>That matters on a sloping backyard, a renovation dependency or a failing existing wall because the visible face is only one part of the job. A useful quote should ask what the wall is holding back, what sits above it, how close it is to boundaries, and whether drainage, excavation or access will affect the build.</p><ul><li>Measure the rough retained height before asking for pricing.</li><li>Note whether there is a driveway, building or other load above the wall.</li><li>Ask whether the scope includes agricultural drain, gravel and geotextile backfill.</li><li>Confirm whether the wall can follow an exempt pathway or needs certification.</li></ul>"
+    },
+    {
+      "h2": "When Approval Questions Change The Scope",
+      "html": "<p>The source page states that, in NSW, a retaining wall is exempt development only if it clears every standard in the SEPP Exempt and Complying Development Codes 2008. It lists 600mm as the maximum height for exempt development, 1m as the minimum distance from each lot boundary, and 2m as the minimum distance from any other retaining wall.</p><p>Outside those standards, the published advice is to consider a Complying Development Certificate or a Development Application, and to confirm with the council or a private certifier before work starts. That makes approval a design input, not a paperwork task at the end. A wall that is taller, close to boundaries or affected by surcharge loads may need engineering to AS 4678, which the page identifies as the standard for structural earth-retaining walls.</p><p>For a homeowner, the practical question for retaining wall builders newcastle enquiries is simple: ask what approval path the quote assumes, then make sure that assumption appears in writing.</p>"
+    },
+    {
+      "h2": "Drainage Belongs In The Quote",
+      "html": "<p>The source page is unusually direct about drainage: it says drainage is the detail that stops most residential wall failures and should be treated as a standard inclusion, not an optional extra. It also names agricultural drain, gravel and geotextile backfill as items that should be specified rather than assumed.</p><p>That gives homeowners a concrete way to compare quotes without needing to solve the engineering themselves. If one scope lists the wall face but stays vague about subsoil drainage, backfill and water escape, it is not describing the same job as a scope that includes those items. The page also notes that poor drainage is a common reason walls crack, lean or fail, so the drainage line item is part of the wall's long-term function, not a cosmetic detail.</p><p>For further local context on wall choices, the related <a href=\"https://aumedia.neocities.org/retaining-walls-newcastle/\">Newcastle retaining walls guide</a> sits in the same topic area and is useful for comparing how different wall systems are discussed.</p>"
+    },
+    {
+      "h2": "Material Choice Should Follow The Site Problem",
+      "html": "<p>Concrete sleeper walls are described as the workhorse for ridge blocks and sloping backyards. Timber sleeper walls are positioned for garden terracing where the level change stays small. Besser block walls are linked with real capacity and a rendered finish on tight inner-city lots. Rock, boulder, sandstone and gabion choices are presented as options for stone appearance, bushland-edge blocks, sandy or erosion-prone ground.</p><p>Those descriptions do not mean one material is automatically best. They point to the questions a contractor should resolve before recommending a system. How much height is retained? Is the soil sandy, reactive clay or former colliery ground as referenced on the source page? Is the work residential, commercial, repair-based or part of broader civil preparation? Will the site need excavation and earthworks before the wall can be built?</p><p>A fair comparison between Newcastle retaining wall contractors should therefore include system, excavation assumptions, drainage, approval pathway and finish, not just a metre rate or a photo of a completed wall.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to homeowners, renovators and small property owners who are planning residential retaining walls, replacing a leaning or cracked wall, or trying to understand whether a sloping block needs engineering before a quote can be trusted. It also helps commercial or civil buyers frame early questions where commercial retaining walls, site preparation, excavation or earthworks may sit inside a larger package.</p><p>The source page names Newcastle ridge suburbs, coastal blocks and the Lake Macquarie fringe, and gives examples including coastal dune sand at Stockton, reactive clay ridges at Adamstown Heights and New Lambton Heights, estuarine flats at Mayfield, and former colliery ground at Wallsend and Lambton. Use those examples as prompts for site questions, not as a substitute for an assessment.</p><p>Before choosing retaining wall builders newcastle homeowners should gather photos, rough measurements, boundary context, the reason for the wall and any known council or mine-subsidence questions. That gives a contractor enough information to say what needs checking next.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common retaining wall decisions before quoting",
+    "headers": [
+      "Decision",
+      "When it may fit",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "Concrete sleeper",
+        "Ridge blocks and sloping backyards named in the source page",
+        "Does the quote include drainage and backfill details?"
+      ],
+      [
+        "Timber sleeper",
+        "Small garden terracing where the level change stays small",
+        "Is the wall decorative or retaining enough soil to need extra checks?"
+      ],
+      [
+        "Besser block",
+        "Tight lots where capacity and a rendered finish are wanted",
+        "Does the wall need engineering or approval?"
+      ],
+      [
+        "Gabion or rock",
+        "Sandy, erosion-prone, escarpment or bushland-edge settings named in the source page",
+        "How will drainage and site access be handled?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the wall area",
+      "text": "Record the rough height, length, boundary distance and what sits above the proposed wall."
+    },
+    {
+      "name": "Describe the site ground",
+      "text": "Note whether the block is sandy, clay, flat, sloping, coastal, ridge-based or affected by an existing failed wall."
+    },
+    {
+      "name": "Ask about approval",
+      "text": "Check whether the contractor assumes exempt development, a Complying Development Certificate or a Development Application."
+    },
+    {
+      "name": "Require drainage detail",
+      "text": "Ask for agricultural drain, gravel and geotextile backfill to be stated clearly where they form part of the design."
+    },
+    {
+      "name": "Compare written scopes",
+      "text": "Assess wall system, excavation, drainage, engineering and finish together rather than comparing price alone."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can a small retaining wall be DIY?",
+      "a": "The source page says homeowners often build small, non-structural garden walls themselves using blocks, sleepers or DIY kits. It also says larger structural walls, especially those above around a metre or retaining driveways and buildings, usually call for licensed contractors and sometimes engineers."
+    },
+    {
+      "q": "Does every retaining wall need council approval?",
+      "a": "No. The source page says a NSW wall is exempt development only if it clears every standard in the SEPP Exempt and Complying Development Codes 2008. If it falls outside those standards, a certificate or development application may be needed."
+    },
+    {
+      "q": "What should be included in a retaining wall quote?",
+      "a": "A useful quote should identify the wall system, site assumptions, drainage, excavation or earthworks, approval pathway and whether engineering is required. The source page says pricing depends on the site, not a generic phone estimate."
+    },
+    {
+      "q": "Why is drainage discussed so much?",
+      "a": "The source page states that drainage stops most residential wall failures and should be included in quotes rather than bolted on. It names agricultural drain, gravel and geotextile backfill as details to specify."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page names concrete sleeper, timber, block, sandstone, rock, boulder and gabion retaining wall options.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says wall systems should be matched to soil, height and budget.",
+      "source": "money page"
+    },
+    {
+      "claim": "In NSW, the source page says a retaining wall is exempt development only if it clears every standard in the SEPP Exempt and Complying Development Codes 2008.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists 600mm as the maximum height for exempt development.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists 1m as the minimum distance from each lot boundary.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists 2m as the minimum distance from any other retaining wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says walls outside exempt standards may need a Complying Development Certificate or a Development Application.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says councils or private certifiers should confirm the approval position before work starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page identifies AS 4678 as the engineering standard for structural earth-retaining walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says drainage should be treated as a standard inclusion, not an optional extra.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names agricultural drain, gravel and geotextile backfill as drainage details to specify.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says poor drainage is a common reason walls crack, lean or fail.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes concrete sleeper walls as the workhorse on ridge blocks and sloping backyards.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes timber sleeper walls for garden terracing where the level change stays small.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page links Besser block walls with capacity and a rendered finish on tight inner-city lots.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes gabion retaining walls as free-draining baskets for sandy and erosion-prone ground.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names coastal dune sand at Stockton, reactive clay ridges at Adamstown Heights and New Lambton Heights, estuarine flats at Mayfield, and former colliery ground at Wallsend and Lambton.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says retaining wall pricing depends on the site, not a generic phone estimate.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says homeowners often build small, non-structural garden walls themselves using blocks, sleepers or DIY kits.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says larger structural walls, especially those above around a metre or retaining driveways and buildings, usually require licensed contractors and sometimes engineers.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Newcastle retaining wall planning, quote checks, drainage, wall-system choice and approval questions using the supplied source material."
+}

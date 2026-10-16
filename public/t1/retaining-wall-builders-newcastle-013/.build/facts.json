@@ -1,0 +1,299 @@
+{
+  "node_id": "retainingwallsnewcastle-013",
+  "money_domain": "retainingwallsnewcastle.com.au",
+  "money_home_url": "https://www.retainingwallsnewcastle.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "surge",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/retaining-wall-builders-newcastle-013/",
+  "live_url": "https://sites-e470-1.web.app/retaining-wall-builders-newcastle-013/",
+  "subdomain": "retaining-wall-builders-newcastle-53b8559b",
+  "gh_repo": null,
+  "primary_kw": "retaining wall builders newcastle",
+  "kw_slug": "retaining-wall-builders-newcastle",
+  "anchor_kw": "retaining wall builders newcastle",
+  "brand": "Retaining Walls Newcastle",
+  "target_page_url": "https://www.retainingwallsnewcastle.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "retainingwallsnewcastle-005",
+    "url": "https://aumedia.neocities.org/retaining-walls-newcastle/",
+    "primary_kw": "retaining walls newcastle"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "/opt/t1/live-sites-cloudsites/_cache/research/retainingwallsnewcastle.com.au/_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Retaining Walls",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Keejen Civil Construction",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Retaining Wall Construction",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Commercial Retaining Walls",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Newcastle Retaining Wall Specialists",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Keevs Construction",
+        "type": "ORGANIZATION",
+        "salience": 0.98
+      },
+      {
+        "name": "engineered retaining walls",
+        "type": "CONCEPT",
+        "salience": 0.97
+      },
+      {
+        "name": "Newcastle",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Keejen Construction",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "subdivision and land development",
+        "type": "SERVICE",
+        "salience": 0.93
+      },
+      {
+        "name": "civil packages",
+        "type": "CONCEPT",
+        "salience": 0.91
+      },
+      {
+        "name": "Civil Construction",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "ISO 9001",
+        "type": "CREDENTIAL",
+        "salience": 0.9
+      },
+      {
+        "name": "Earthmoving",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Excavation & Earthmoving",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "infrastructure development",
+        "type": "CONCEPT",
+        "salience": 0.9
+      },
+      {
+        "name": "earthworks",
+        "type": "CONCEPT",
+        "salience": 0.9
+      },
+      {
+        "name": "ISO 14001",
+        "type": "CREDENTIAL",
+        "salience": 0.895
+      },
+      {
+        "name": "ISO 45001",
+        "type": "CREDENTIAL",
+        "salience": 0.895
+      },
+      {
+        "name": "in-house engineering team",
+        "type": "ORGANIZATION",
+        "salience": 0.89
+      },
+      {
+        "name": "site preparation",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Excavation",
+        "type": "CONCEPT",
+        "salience": 0.865
+      },
+      {
+        "name": "reinforced concrete walls",
+        "type": "SERVICE",
+        "salience": 0.86
+      },
+      {
+        "name": "earthworks, drainage and pavements",
+        "type": "CONCEPT",
+        "salience": 0.86
+      },
+      {
+        "name": "steel post and precast concrete sleeper systems",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "rural and agricultural civil construction",
+        "type": "SERVICE",
+        "salience": 0.84
+      },
+      {
+        "name": "sandstone block walls",
+        "type": "SERVICE",
+        "salience": 0.84
+      },
+      {
+        "name": "block and core-filled walls",
+        "type": "SERVICE",
+        "salience": 0.84
+      },
+      {
+        "name": "gravity and gabion walls",
+        "type": "SERVICE",
+        "salience": 0.84
+      },
+      {
+        "name": "Concrete Sleeper Walls",
+        "type": "SERVICE",
+        "salience": 0.83
+      }
+    ],
+    "lsi_keywords": [
+      "retaining wall construction",
+      "concrete sleeper retaining walls",
+      "engineered retaining walls",
+      "drainage for retaining walls",
+      "excavation and earthworks",
+      "residential retaining walls",
+      "commercial retaining walls",
+      "retaining wall approval requirements",
+      "Newcastle retaining wall contractors",
+      "Hunter Valley retaining walls",
+      "Lake Macquarie retaining walls",
+      "Maitland retaining walls",
+      "site grading and slope support",
+      "civil construction retaining walls",
+      "ISO certified civil contractor"
+    ]
+  },
+  "image": {
+    "file": "retaining-wall-builders-newcastle.png",
+    "photographer": "Editorial",
+    "source": "generated-fallback",
+    "credit": "Original illustration"
+  },
+  "build_date": "2026-09-12",
+  "money_home_text": "Retaining Walls Newcastle NSW | Concrete, Timber &amp; Block Skip to content Retaining Walls Newcastle Home Services Locations About Tools Contact Get Expert Quote Open menu Home Services Locations About Tools Contact Newcastle &amp; Lake Macquarie retaining wall specialists, matched to your block Retaining Walls Newcastle NSW Concrete sleeper, timber, block, sandstone and gabion walls across Newcastle's ridge suburbs, coastal blocks and Lake Macquarie fringe. NSW approval pathways explained plainly, and drainage treated as a standard inclusion, not an optional extra. Get Your Site Assessed See wall systems Get your site assessed Tell us about your block and we&#39;ll come back with a real next step. Your name Phone Email Suburb / Postcode Tell us about your project Optional - it helps us point your enquiry the right way. Get your site assessed Your details are only used to arrange your enquiry. See our privacy policy . Retaining Walls Newcastle: 8 wall systems Every wall system suits a different block. We match the system to your soil, height and budget, not the other way around. Concrete Sleeper Retaining Walls The workhorse on ridge blocks and sloping backyards. Timber Sleeper Retaining Walls Garden terracing where the level change stays small. Besser Block Retaining Walls Real capacity plus a rendered finish, on tight inner-city lots. Rock &amp; Boulder Retaining Walls A rugged stone face for escarpment and bushland-edge blocks. Gabion Retaining Walls Free-draining baskets for sandy and erosion-prone ground. Retaining Wall Drainage &amp; Subsoil Systems Ag drain, gravel and geotextile - specified, never assumed. Engineered &amp; Approved Retaining Walls Surcharge loads, and anything outside the exempt standards. Retaining Wall Repairs &amp; Replacement Bulging, cracked or leaning walls assessed before pricing. Do you need council approval? In NSW a retaining wall is exempt development only if it clears every standard in the SEPP (Exempt and Complying Development Codes) 2008. Outside those standards, it needs a Complying Development Certificate or a Development Application. 600mm Maximum height for exempt development 1m Minimum distance from each lot boundary 2m Minimum distance from any other retaining wall AS 4678 Engineering standard for structural walls Always confirm with your council or a private certifier before starting work. See engineered &amp; approved walls . Drainage is the detail that stops most residential wall failures - it belongs in every quote you receive, not as an add-on. See drainage &amp; subsoil systems . Why Newcastle homeowners choose us AS 4678 engineered designs Structural walls are designed to AS 4678 Earth-retaining structures and taken through the correct NSW council approval pathway. Newcastle ground conditions Guidance grounded in the coastal sand, reactive clay and mine-subsidence districts across Newcastle and Lake Macquarie. Drainage built in, not bolted on A retaining wall should be quoted with agricultural drain, gravel and geotextile backfill - the detail that stops most residential wall failures. Free written quotes Matched providers visit the site and set out a written scope before any work starts, so the quote reflects your block, not a generic price. 15 suburbs, 15 different soil conditions Coastal dune sand at Stockton, reactive clay ridges at Adamstown Heights and New Lambton Heights, estuarine flats at Mayfield, former colliery ground at Wallsend and Lambton - the right wall system depends on where you are. Merewether The Junction Cooks Hill The Hill Hamilton Mayfield Stockton Lambton New Lambton Heights Adamstown Heights See all 15 suburbs Get your site assessed Tell us about your block Retaining wall pricing depends on your site, not a phone estimate. Tell us the suburb, the rough height and what's driving the project (new terrace, a failing wall, a renovation dependency) and we'll come back with a real next step. ● Site-specific assessment, not a generic price. ● NSW approval pathway confirmed before work starts. ● Drainage scoped in from the first quote. Tell us about your project Share the details and we will help you take the next step with confidence. Your name Phone Email Suburb / Postcode Tell us about your project Optional - it helps us point your enquiry the right way. Free Site Quote Your details are only used to arrange your enquiry. See our privacy policy . Common questions before you start Can I build a retaining wall myself or do I need a licensed builder? Homeowners often build small, non‑structural garden walls themselves using blocks, sleepers or DIY kits. For larger structural walls, especially those above around a metre or retaining driveways and buildings, NSW regulations usually require licensed contractors and, in some cases, engineers. Insurance and future resale can be affected if the wall is not built by appropriately qualified trades. Many people in Newcastle choose to DIY only the very small decorative walls and leave the bigger ones to professionals. How high can I build a retaining wall without an engineer in NSW? In much of NSW, including Newcastle, simple low walls can sometimes be built without an engineer, but anything over roughly 1–1.5 metres typically needs engineering design and certification. Height isn’t the only factor; soil type, loads above the wall and proximity to boundaries also matter. Councils and certifiers look at whether the wall is retaining more than just garden soil, such as driveways or structures. When in doubt, homeowners usually engage an engineer to avoid safety and compliance issues. Do retaining walls need drainage behind them? Yes, almost all retaining walls need proper drainage to stay stable and avoid damage. Builders usually install gravel backfill, ag pipe and weep holes to let water escape rather than build up pressure behind the wall. Poor drainage is one of the most common reasons walls crack, lean or fail. In Newcastle’s heavy rain events, good drainage is especially im",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.retainingwallsnewcastle.com.au/services/",
+    "https://www.retainingwallsnewcastle.com.au/locations/",
+    "https://www.retainingwallsnewcastle.com.au/tools/cost-calculator/",
+    "https://www.retainingwallsnewcastle.com.au/services/concrete-sleeper-retaining-walls/",
+    "https://www.retainingwallsnewcastle.com.au/services/timber-sleeper-retaining-walls/",
+    "https://www.retainingwallsnewcastle.com.au/services/besser-block-retaining-walls/",
+    "https://www.retainingwallsnewcastle.com.au/services/rock-boulder-retaining-walls/",
+    "https://www.retainingwallsnewcastle.com.au/services/gabion-retaining-walls/",
+    "https://www.retainingwallsnewcastle.com.au/services/retaining-wall-drainage/",
+    "https://www.retainingwallsnewcastle.com.au/services/engineered-retaining-walls/",
+    "https://www.retainingwallsnewcastle.com.au/services/retaining-wall-repairs/",
+    "https://www.retainingwallsnewcastle.com.au/locations/merewether/",
+    "https://www.retainingwallsnewcastle.com.au/locations/the-junction/",
+    "https://www.retainingwallsnewcastle.com.au/locations/cooks-hill/",
+    "https://www.retainingwallsnewcastle.com.au/locations/the-hill/",
+    "https://www.retainingwallsnewcastle.com.au/locations/hamilton/",
+    "https://www.retainingwallsnewcastle.com.au/locations/mayfield/",
+    "https://www.retainingwallsnewcastle.com.au/locations/stockton/",
+    "https://www.retainingwallsnewcastle.com.au/locations/lambton/",
+    "https://www.retainingwallsnewcastle.com.au/locations/new-lambton-heights/",
+    "https://www.retainingwallsnewcastle.com.au/locations/adamstown-heights/",
+    "https://www.retainingwallsnewcastle.com.au/tools/checklist/",
+    "https://www.retainingwallsnewcastle.com.au/faq/",
+    "https://www.retainingwallsnewcastle.com.au/locations/kotara/",
+    "https://www.retainingwallsnewcastle.com.au/locations/wallsend/"
+  ]
+}
