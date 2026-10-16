@@ -1,0 +1,288 @@
+{
+  "kicker": "Brisbane Renovation",
+  "h1_tail": "A Practical Homeowner Guide",
+  "meta_hook": "compare scope, approvals, timing and quote checks before you brief a builder",
+  "takeaway": "Brisbane renovation planning needs a tight brief because published project figures vary sharply by scope: kitchens are listed at $25,000 to $60,000+, bathrooms at $22,000 to $35,000+, extensions and full home renovations from $150,000+, and raise and build-under projects from $650,000. The source page says quotes are returned within 48 hours, usually as 2 to 3 obligation-free options from QBCC licensed builders.",
+  "lead": "For homeowners comparing renovation builders brisbane options, the useful starting point is not style inspiration alone, but scope, licensing, approvals, cost range and how the builder will manage the work.",
+  "lead_tail": "with attention on quote quality, approvals and builder fit",
+  "stats": [
+    {
+      "value": "$1.08B",
+      "label": "approved Brisbane renovations cited"
+    },
+    {
+      "value": "48hrs",
+      "label": "quote response time listed"
+    },
+    {
+      "value": "100%",
+      "label": "QBCC licensed builders stated"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With Scope Before Style",
+      "html": "<p>The published guide from <a href=\"https://www.brisbanerenovation.com.au/\">Renovation Builders Brisbane</a> frames renovation planning around the type of project first: kitchen, bathroom, Queenslander work, house extension, heritage renovation or full home renovation. That order is useful because the builder, quote detail and approval pathway can change once the work moves beyond finishes and into structure, layout or building footprint.</p><p>A kitchen update may focus on cabinetry, surfaces, appliances and a more functional room plan. A bathroom project can involve fixtures, waterproofing, plumbing changes and layout decisions. A full home renovation is broader again, with the source page listing structural modifications, kitchen and bathroom upgrades, flooring, electrical rewiring, plumbing updates, painting and fixtures as typical inclusions.</p><p>Before asking for prices, write down what is staying, what is moving and what is unknown. Builders can price a defined scope more clearly than a loose wish list, and homeowners can compare quotes with fewer hidden assumptions.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Brisbane homeowners who are deciding whether to renovate a single room, extend an existing house, restore a character home or plan a whole-house transformation. It is especially relevant where the home may involve Queenslander features, a heritage overlay, structural changes or a staged build that needs design, documentation and construction coordination.</p><ul><li><strong>Kitchen and bathroom owners:</strong> ask what is included in demolition, plumbing, electrical work, fixtures, cabinetry and final finishes.</li><li><strong>Queenslander owners:</strong> ask how VJ walls, timber restoration, raise and build-under work and modern comfort upgrades will be handled.</li><li><strong>Extension clients:</strong> ask who manages design decisions, council approvals, building permits and construction sequencing.</li><li><strong>Whole-home renovators:</strong> ask whether one point of contact will coordinate trades from concept to completion.</li></ul><p>For a broader companion overview of planning a <a href=\"https://brisbane-renovation-guide.netlify.app\">Brisbane renovation</a>, compare the same questions against budget, timing and property constraints before committing to a builder conversation.</p>"
+    },
+    {
+      "h2": "Approval Questions Worth Asking Early",
+      "html": "<p>The source page says council approval is required when a renovation alters the building footprint or structure, and that a building permit is needed for structural alterations, extensions and significant layout changes. It also says internal-only renovations typically do not require planning approval, while heritage overlay properties need additional approval.</p><p>Treat those points as prompts for professional advice rather than a final ruling on your house. A certifier, town planner or qualified builder can confirm whether your planned work is structural, whether the footprint changes, and whether the property has overlay constraints. Ask this before finalising drawings or ordering major items, because approval questions can affect layout, sequencing and the quote.</p><p>The published timing guidance lists council approval at 2 to 8 weeks depending on complexity. Full renovations are described as taking 5 to 12 months including approvals, with feasibility at 2 to 4 weeks, design and documentation at 2 to 4 months, pre-construction at 2 to 4 weeks, and then construction time.</p>"
+    },
+    {
+      "h2": "Reading A Quote Without Guesswork",
+      "html": "<p>A renovation quote should make the builder's assumptions visible. For kitchen and bathroom work, compare allowances for fixtures, cabinetry, waterproofing, plumbing, electrical work and finishes. For extensions and full home projects, look for documentation, approvals, structural work, trade coordination, site access and what happens when variations are needed.</p><p>The source page lists obligation-free quotes and says homeowners may receive 2 to 3 options within 48 hours. The comparison should not reduce to the lowest figure. A cheaper quote may simply exclude work that another builder has included. Ask each builder to explain exclusions, provisional sums, fixture allowances and likely decision points.</p><p>Licensing is also part of quote quality. The source page states that all participating builders are QBCC licensed and says a QBCC licence is required for work over $3,300 in Queensland. Confirm the relevant licence and scope before signing anything.</p>"
+    },
+    {
+      "h2": "Cost And Timing Signals By Project Type",
+      "html": "<p>The published cost bands are broad because project scope changes quickly. Kitchens are listed at $25,000 to $60,000+, while bathrooms are listed at $22,000 to $35,000+. House extensions are stated from $150,000, and full home renovations from $150,000+. The FAQ on the source page gives a wider full-home range of $150,000 to $500,000+, with standard 3 to 4 bedroom renovations at $250,000 to $450,000.</p><p>Use those numbers as conversation markers, not as a quote for your property. Ask which choices move the price: layout changes, structural work, heritage requirements, fixture level, cabinetry detail, access, documentation and builder availability. The same discipline applies to timing. The source page lists kitchens at 4 to 8 weeks and bathrooms at 2 to 4 weeks, while larger renovations can extend across months once approvals and documentation are included.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common Brisbane renovation quote paths",
+    "headers": [
+      "Project type",
+      "Published cost signal",
+      "Key question to ask"
+    ],
+    "rows": [
+      [
+        "Kitchen",
+        "$25,000 to $60,000+",
+        "Are cabinetry, finishes, plumbing and electrical assumptions itemised?"
+      ],
+      [
+        "Bathroom",
+        "$22,000 to $35,000+",
+        "What waterproofing, fixture and layout work is included?"
+      ],
+      [
+        "Extension",
+        "From $150,000",
+        "Who manages approvals, documentation and construction sequencing?"
+      ],
+      [
+        "Full home renovation",
+        "$150,000 to $500,000+",
+        "Is there one point of contact from concept to completion?"
+      ],
+      [
+        "Raise and build-under",
+        "From $650,000",
+        "What structural, approval and staging steps are allowed for?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the project type",
+      "text": "Decide whether the work is a room upgrade, extension, heritage project, Queenslander renovation or full-home transformation before asking for prices."
+    },
+    {
+      "name": "List inclusions and exclusions",
+      "text": "Write down fixtures, finishes, structural changes, plumbing, electrical work, cabinetry and any unknowns that need builder advice."
+    },
+    {
+      "name": "Check approvals early",
+      "text": "Ask whether the work changes structure or footprint, and whether a building permit, council approval or heritage approval may be needed."
+    },
+    {
+      "name": "Compare like with like",
+      "text": "Review at least the same categories across quotes, including allowances, exclusions, timing assumptions and variation process."
+    },
+    {
+      "name": "Confirm licence fit",
+      "text": "Check that the builder holds the relevant QBCC licence for the type and value of renovation being discussed."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should I budget for a Brisbane kitchen or bathroom renovation?",
+      "a": "The source page lists kitchens at $25,000 to $60,000+ and bathrooms at $22,000 to $35,000+. Your quote can move outside those bands if layout, plumbing, cabinetry, fixtures or structural work changes."
+    },
+    {
+      "q": "When is council approval likely to matter?",
+      "a": "The source page says approval is required when work alters the building footprint or structure, and that heritage overlay properties need additional approval. Confirm the exact pathway with a certifier, town planner or qualified builder."
+    },
+    {
+      "q": "How long can a renovation take?",
+      "a": "The published guide lists bathrooms at 2 to 4 weeks, kitchens at 4 to 8 weeks, and full home renovations at 5 to 12 months including approvals. Larger projects also include feasibility, design, documentation and pre-construction stages."
+    },
+    {
+      "q": "What should I ask before comparing builders?",
+      "a": "Ask what is included, what is excluded, which approvals may be required, how variations are priced, who coordinates trades and whether the QBCC licence matches the proposed work."
+    },
+    {
+      "q": "Are Queenslander and heritage renovations different from standard updates?",
+      "a": "The source page identifies Queenslander renovations, VJ walls, timber restoration, raise and build-under projects, and heritage overlay work as specialist areas. Ask how those features affect design, approvals and construction sequencing."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page lists kitchen renovations at $25,000 to $60,000+.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists bathroom renovations at $22,000 to $35,000+.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists house extensions from $150,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists full home renovations from $150,000+.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says full home renovations in Brisbane typically cost $150,000 to $500,000+.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a standard 3 to 4 bedroom home renovation ranges from $250,000 to $450,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says raise and build-under projects start from $650,000.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says quotes are returned within 48 hours.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says homeowners receive 2 to 3 obligation-free quotes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page states that builders are QBCC licensed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a QBCC licence is required for all work over $3,300 in Queensland.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says Brisbane has over $1.08 billion in approved renovations.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says council approval is required for renovations that alter the building footprint or structure.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a building permit is needed for structural alterations, extensions and significant layout changes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says internal-only renovations typically do not require planning approval.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says properties in a heritage overlay require additional approval.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says council approval takes 2 to 8 weeks depending on complexity.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says full home renovations typically take 5 to 12 months including approvals.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says feasibility takes 2 to 4 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says design and documentation take 2 to 4 months.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says pre-construction takes 2 to 4 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says kitchen renovations take 4 to 8 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says bathroom renovations take 2 to 4 weeks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists structural modifications, kitchen and bathroom upgrades, new flooring, electrical rewiring, plumbing updates, painting and fixtures as typical full renovation inclusions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page identifies Queenslander renovations, VJ walls, timber restoration, raise and build-under projects and heritage renovation as service areas.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says builders are members of HIA and Master Builders Queensland.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Brisbane home renovation scope, costs, approvals, timing and quote checks using the supplied source facts."
+}
