@@ -1,0 +1,223 @@
+{
+  "kicker": "Adelaide Web Guide",
+  "h1_tail": "A Practical Buyer Guide",
+  "meta_hook": "compare scope, timing, ownership and platform fit before you brief a designer",
+  "takeaway": "For an Adelaide small business website, the source page says a simple brochure-style build usually starts in the low thousands, most small business projects take around 3 to 8 weeks, and typical packages include planning, design, build, basic on-page SEO setup, mobile optimisation and launch support. The key comparison is not only price. Check scope, platform, content responsibility, site ownership, search foundations and what happens after launch.",
+  "lead": "For Adelaide businesses comparing website design adelaide options, the practical decision is how well each proposal connects design, mobile performance, search structure, content ownership and enquiry goals.",
+  "lead_tail": "with scope, timing and ownership checked before the quote is accepted",
+  "stats": [
+    {
+      "value": "3 to 8",
+      "label": "weeks for most small business builds"
+    },
+    {
+      "value": "8",
+      "label": "service types listed"
+    },
+    {
+      "value": "Low thousands",
+      "label": "usual starting point for simple brochure sites"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What A Sensible Brief Should Cover",
+      "html": "<p><a href=\"https://www.webdesigninadelaide.com.au/\">Web Design Adelaide</a> describes a useful starting point for local projects: decide whether the job is a first website, a refresh, an online store, a landing page, or a redesign that protects existing rankings. That distinction matters because each path changes the platform, content workload, conversion layout and launch checklist.</p><p>A good brief should say what the site must do, not just how it should look. For a service business, the goal may be enquiries from mobile visitors. For a retailer, the stronger concern may be product pages, checkout trust and store management. For a campaign, a landing page may need fewer sections but sharper calls to action.</p><ul><li>List the pages or templates the quote must include.</li><li>State who supplies copy, photography, product data and brand assets.</li><li>Ask whether basic on-page SEO setup and mobile optimisation are included.</li><li>Confirm whether training, maintenance, backups and updates are included or separate.</li></ul>"
+    },
+    {
+      "h2": "Choosing Between Custom, WordPress And Ecommerce",
+      "html": "<p>The source page separates custom design, small business sites, WordPress builds, ecommerce design, redesigns, landing pages, SEO-friendly builds and care plans. Those categories are useful because they point to different buyer decisions. A custom site suits a business that needs a more tailored structure. WordPress suits teams that want to update pages without keeping a developer on call. Shopify or WooCommerce suits stores where speed, trust and conversion affect sales.</p><p>The better question is whether the platform matches the way the business will work after launch. A cafe, consultant, clinic or trade business may value easy content edits and enquiry flow. An online store needs product management, checkout confidence and fast load times. A redesign needs extra care because the existing site may already have search visibility that should not be thrown away during launch.</p>"
+    },
+    {
+      "h2": "Cost, Timing And Scope Signals",
+      "html": "<p>The published guidance says a simple brochure-style website for a small business usually starts in the low thousands, while custom, ecommerce or booking-enabled sites cost more. It also says most small business websites take around 3 to 8 weeks from brief to launch, depending on scope and how quickly content is supplied. Those figures are enough to frame expectations without assuming every project is the same.</p><p>Quotes become easier to compare when they are itemised. Look for planning, design, build, basic on-page SEO setup, mobile optimisation and go-live support. Ask whether stock imagery, content structure or a short training session is included. Hosting, domain renewal, ongoing maintenance and marketing should be treated as separate continuing costs unless the proposal clearly says otherwise.</p><p>For a second perspective on the same local topic, this related <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/web-design-adelaide/\">web design Adelaide guide</a> can help compare terminology before speaking with providers.</p>"
+    },
+    {
+      "h2": "Search And Performance Foundations",
+      "html": "<p>The Adelaide provider says good on-page SEO, clean structure and strong Core Web Vitals should be built in from the start. In practical terms, a buyer can ask how page titles, headings, internal links, image handling and mobile layouts will be planned before development begins. These are not decorative details. They affect whether visitors can use the site comfortably and whether search engines can understand the pages.</p><p>The World Wide Web Consortium is a relevant authority for web standards, while the Australian Competition and Consumer Commission is relevant to fair trading and consumer-facing claims. A business website should therefore be easy to use, technically coherent and careful with public claims. If a designer proposes testimonials, guarantees, offers or comparison statements, ask how those claims will be kept accurate and supported.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Adelaide SMEs, sole traders, service firms and retailers who are preparing to brief a designer, compare quotes or refresh an ageing site. It is especially relevant when the business wants a responsive website that works on phones, can be indexed properly, and turns visitors into enquiries or purchases.</p><p>It also applies to owners who want control after launch. The source page says the finished website and its content are yours once the build is paid in full, while custom code may sometimes be licensed rather than owned outright. That is a contract point worth checking before work starts, because future moves, redesigns and maintenance depend on what you are actually allowed to take with you.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common Adelaide website project paths",
+    "headers": [
+      "Project type",
+      "Best fit",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Small business website",
+        "A brochure-style site focused on enquiries and clear service information.",
+        "What pages, mobile optimisation and basic on-page SEO setup are included?"
+      ],
+      [
+        "WordPress build",
+        "A business that wants to update content without a developer on call.",
+        "Will training be included, and who manages updates after launch?"
+      ],
+      [
+        "Ecommerce build",
+        "A store using Shopify or WooCommerce with product and checkout needs.",
+        "How will speed, trust signals and product management be handled?"
+      ],
+      [
+        "Redesign",
+        "An ageing or underperforming site that may already have rankings.",
+        "How will existing pages, redirects and search visibility be protected?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the goal",
+      "text": "Write down whether the site must generate enquiries, sell products, support a campaign or replace an ageing build."
+    },
+    {
+      "name": "Map the scope",
+      "text": "List pages, features, content duties, imagery, platform needs and launch support before asking for a quote."
+    },
+    {
+      "name": "Check ownership",
+      "text": "Confirm what you own after final payment and whether any custom code is licensed."
+    },
+    {
+      "name": "Plan aftercare",
+      "text": "Ask what maintenance, backups, updates, security support and marketing cost after launch."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should an Adelaide business expect to budget?",
+      "a": "The source page says a simple brochure-style small business website usually starts in the low thousands. Custom, ecommerce and booking-enabled builds cost more because they involve broader scope."
+    },
+    {
+      "q": "How long does a small business website take?",
+      "a": "The published guidance says most small business websites take around 3 to 8 weeks from brief to launch. Timing depends on scope and how quickly content is supplied."
+    },
+    {
+      "q": "What should be included in a package?",
+      "a": "A typical package includes planning, design, build, basic on-page SEO setup, mobile optimisation and launch on the domain. Some builds also include stock imagery, content structure and a short training session."
+    },
+    {
+      "q": "Will the business own the finished site?",
+      "a": "The source page says businesses usually own the content, branding and finished website once paid in full. It also notes that custom code is sometimes licensed rather than owned, so the agreement should be checked."
+    }
+  ],
+  "about": [
+    {
+      "name": "Search engine optimization",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "name": "Web traffic",
+      "sameAs": "https://en.wikipedia.org/wiki/Web_traffic"
+    },
+    {
+      "name": "Digital marketing",
+      "sameAs": "https://en.wikipedia.org/wiki/Digital_marketing"
+    },
+    {
+      "name": "Local search (Internet)",
+      "sameAs": "https://en.wikipedia.org/wiki/Local_search_(Internet)"
+    },
+    {
+      "name": "Keyword research",
+      "sameAs": "https://en.wikipedia.org/wiki/Keyword_research"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Search engine results page",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_results_page"
+    },
+    {
+      "name": "Backlink",
+      "sameAs": "https://en.wikipedia.org/wiki/Backlink"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "url": "https://www.accc.gov.au"
+    },
+    {
+      "name": "World Wide Web Consortium",
+      "url": "https://www.w3.org"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A simple brochure-style website for a small business usually starts in the low thousands.",
+      "source": "money page"
+    },
+    {
+      "claim": "Custom, ecommerce or booking-enabled sites cost more than simple brochure-style websites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Most small business websites take around 3 to 8 weeks from brief to launch.",
+      "source": "money page"
+    },
+    {
+      "claim": "Project timing depends on scope and how quickly content is supplied.",
+      "source": "money page"
+    },
+    {
+      "claim": "A typical package covers planning, design, build, basic on-page SEO setup, mobile optimisation and going live on the domain.",
+      "source": "money page"
+    },
+    {
+      "claim": "Some builds include stock imagery, content structure and a short training session.",
+      "source": "money page"
+    },
+    {
+      "claim": "Hosting and domain renewal are ongoing costs on top.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider lists custom web design, small business websites, WordPress web design, ecommerce web design, website redesign, landing page design, SEO-friendly web design and website care and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider describes WordPress websites as flexible and easy to update by the owner or team without a developer on call.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider describes Shopify and WooCommerce online stores as ecommerce options.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says every site ships on clean, fast, search-ready foundations so Google can index it properly from the day it goes live.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says good on-page SEO, clean structure and strong Core Web Vitals are built in.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says the finished website and its content are yours once the build is paid in full.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider notes that custom code is sometimes licensed rather than owned outright.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider focuses on web design across metropolitan Adelaide, including the CBD, inner east, coast, northern suburbs, southern suburbs and Adelaide Hills.",
+      "source": "money page"
+    },
+    {
+      "claim": "The World Wide Web Consortium is a relevant authority for web standards.",
+      "source": "https://www.w3.org"
+    },
+    {
+      "claim": "The Australian Competition and Consumer Commission is relevant to fair trading and consumer-facing claims.",
+      "source": "https://www.accc.gov.au"
+    }
+  ],
+  "scope": "This guide covers practical buying checks for Adelaide website design projects, including scope, platform fit, timing, ownership, search foundations and aftercare."
+}
