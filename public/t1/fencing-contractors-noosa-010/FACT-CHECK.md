@@ -1,0 +1,20 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The Noosa Fencing page names six job types: Colorbond, timber, pool, aluminium slat, rural fencing, and gates. | SUPPORTED | Money page lists “Colorbond Fencing,” “Timber Fencing,” “Pool Fencing,” “Aluminium Slat Fencing & Screens,” “Rural Fencing,” and “Gates & Gate Automation.” |
+| Queensland dividing fence steps can involve one month to reach agreement after a notice to contribute, then a possible QCAT application within two months. | SUPPORTED | Money page says the Act allows “one month to reach agreement,” followed by a possible “QCAT application within two months of the notice.” |
+| The same fencing material can involve different post, access and removal assumptions depending on exposure, street setting or acreage boundary conditions. | SUPPORTED | Money page says exposed beachfront sites may need different post specs, access/run complexity affects time, and removal/disposal/making good can be part of the job. |
+| Colorbond and aluminium slat fencing are placed in the coastal wind and salt air conversation, especially across the beachside strip from Noosa Heads to Marcoola. | SUPPORTED | Money page says Colorbond and aluminium slat suit “salt air and wind” from “Noosa Heads to Marcoola.” |
+| Timber is described as a fit for established hinterland streets and shared dividing fences. | SUPPORTED | Money page says timber remains right on “established hinterland streets” and “as a shared dividing fence.” |
+| Rural fencing is treated as a separate job type for acreage boundaries around Doonan, Eumundi and Kin Kin. | SUPPORTED | Money page lists rural fencing for “paddock and acreage boundaries out through Doonan, Eumundi and Kin Kin.” |
+| Pool barriers have their own safety requirements and the inspection pathway is confirmed by a licensed pool safety inspector. | SUPPORTED | Money page says pool barriers have separate safety requirements and that the pathway is confirmed only by a licensed pool safety inspector. |
+| A metre rate can help early budgeting, but it does not describe the whole site. | SUPPORTED | Money page says “A metre rate can help you sanity-check a project, but it does not describe the whole site.” |
+| Corners, returns, gates, hard to reach boundaries, removal, disposal and making good can affect fencing work beyond straight metres. | SUPPORTED | Money page lists corners, returns, gates, hard-to-reach boundaries, removal, disposal and making good as factors beyond straight metres. |
+| Combined height can change the approval question. | SUPPORTED | Money page says to check proposed height against ground and retaining walls because “combined height can change the approval question.” |
+| Corner blocks can need lower sight line treatment. | SUPPORTED | Money page says a corner block can need “a lower sight-line treatment.” |
+| The estimator mentioned by the business is described as a conversation starter, not a site measure or fixed offer. | SUPPORTED | Money page says the estimator is “a conversation starter, not a site measure or a fixed offer.” |
+| Queensland dividing fence work can involve the Neighbourhood Disputes (Dividing Fences and Trees) Act 2011 process. | SUPPORTED | Money page names the Act and says it sets a process for adjoining owners considering a sufficient dividing fence. |
+| An owner seeking more than a sufficient dividing fence may need to cover the difference for a premium material, extra height or preferred finish. | SUPPORTED | Money page says an owner wanting more than sufficient covers the difference for premium material, extra height or preferred finish. |
+| For work that requires licensing, a contractor should hold a current QBCC licence with the right scope. | SUPPORTED | Money page says to check the contractor holds a current QBCC licence with the right scope for work requiring licensing. |
+| Built page photo credit: “Original illustration. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA lists credit as “Original illustration” and source as “generated-fallback”; “Editorial illustration only” describes page use rather than a business claim. |
+
+FACT-CHECK: PASS
