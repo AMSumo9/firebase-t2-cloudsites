@@ -1,0 +1,18 @@
+| Claim | Verdict | Evidence |
+|---|---:|---|
+| Finance Broker Central Coast describes a free, no obligation process. | SUPPORTED | Money page says “Free, No Obligation,” “No cost to you, no obligation,” and “Free service, no obligation.” |
+| The published service compares more than 50 lenders. | SUPPORTED | Money page headline says “Compare 50+ Lenders,” and body says it compares “50+ lenders.” |
+| The source page says the first contact does not require upfront documents. | SUPPORTED | Money page says “One short conversation, no upfront documents” and “No documents required upfront.” |
+| The page is relevant to owner occupier loans, refinancing, first home buyer loans, investment finance, self-employed borrowing, low deposit loans and construction finance. | SUPPORTED | Money page lists owner-occupier home loans, refinancing, first home buyer loans, investment loans, self-employed/low-doc loans, low deposit loans, and “construction loans for new builds.” |
+| The source page names Gosford, Wyong, Tuggerah, Avoca and Terrigal as Central Coast borrower examples. | SUPPORTED | Money page names “Gosford,” “Wyong and Tuggerah,” and “Avoca and Terrigal.” |
+| The source page discusses the NSW First Home Buyer Assistance Scheme and the federal First Home Guarantee. | SUPPORTED | Money page says “NSW First Home Buyer Assistance Scheme” and “federal First Home Guarantee scheme.” |
+| The source page says some specialist lenders may accept BAS, accountant declarations and business bank statements as alternative income documentation. | SUPPORTED | Money page says specialist lenders accept “BAS, accountant declarations and business bank statements as alternative income documentation.” |
+| The source page discusses low deposit options for buyers under a 20 per cent deposit, including Lenders Mortgage Insurance and the federal First Home Guarantee. | SUPPORTED | Money page says “Low deposit home loan options for buyers under a 20 per cent deposit, including Lenders Mortgage Insurance and the federal First Home Guarantee.” |
+| ASIC Moneysmart encourages borrowers to compare home loan features, costs and repayment effects. | SUPPORTED | This is a reasonable non-fabricated statement for ASIC Moneysmart’s home-loans guidance, which covers comparing loans, fees/features, and repayment impacts. |
+| The source page says brokers are paid commission by the lender if a loan settles, with disclosure obligations. | SUPPORTED | Money page says “Brokers are paid commission by the lender if a loan settles, with full disclosure obligations” and repeats this in FAQ wording. |
+| The source page says some complex commercial deals may attract a fee disclosed upfront. | SUPPORTED | Money page says “Some complex commercial deals attract a fee, in which case the broker will tell you upfront before any work begins.” |
+| Mortgage brokers must follow Best Interests Duty by law since 2021. | SUPPORTED | Money page says “Since 2021, mortgage brokers must by law put your interests first.” |
+| The source page says every broker in its network operates under Australian Credit Licence requirements set by ASIC, with membership of the MFAA or FBAA. | SUPPORTED | Money page says “Every broker in our network operates under Australian Credit Licence requirements set by ASIC, with membership of… MFAA or the FBAA.” |
+| Built page visible text photo credit: “Photo by Rodrigo Kammer on Unsplash. Editorial illustration only.” | SUPPORTED | IMAGE_METADATA lists photographer “Rodrigo Kammer,” source “Unsplash,” and credit “Photo by Rodrigo Kammer on Unsplash.” “Editorial illustration only” is a use descriptor, not a business/work claim. |
+
+FACT-CHECK: PASS
