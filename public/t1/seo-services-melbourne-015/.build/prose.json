@@ -1,0 +1,214 @@
+{
+  "kicker": "Melbourne SEO Guide",
+  "h1_tail": "A Practical Buyer Checklist",
+  "meta_hook": "compare audits, retainers, timelines and local search fit before you enquire",
+  "takeaway": "Melbourne businesses can use the published audit-first model as a buying filter: request a free written audit, expect the stated one business-day reply, then compare scope before discussing a retainer. The business page lists 9 SEO services, monthly retainers typically from $1,200 to $4,000+GST, project audits from around $1,500, 3 to 6 months for mid-competition movement, and 9 to 12 months for tougher law, finance or national online retail keywords.",
+  "lead": "For Melbourne business owners comparing seo services melbourne options, the useful starting point is a written audit, a clear retainer scope and a realistic view of when organic search can move.",
+  "lead_tail": "with audit notes, quote inputs and decision checks kept in one place",
+  "stats": [
+    {
+      "value": "9",
+      "label": "SEO services listed"
+    },
+    {
+      "value": "1 business day",
+      "label": "stated enquiry reply"
+    },
+    {
+      "value": "$1,200 to $4,000+GST",
+      "label": "published monthly retainer range"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Audit",
+      "html": "<p><a href=\"https://www.theseocompanymelbourne.com.au/\">The SEO Company Melbourne</a> presents the first step as a free written audit, which gives a buyer something concrete to judge before a monthly retainer is discussed. The published scope includes Google readability, indexation, Core Web Vitals, on-page tune-ups, internal links, backlinks and the top three competitor gaps for the main keyword.</p><p>Read the audit as a priority document. A useful review should show whether the site is being held back by crawl or indexation problems, missing service or product intent, weak internal links, page experience issues, or authority gaps.</p><ul><li><strong>Fix first:</strong> anything stopping important pages from being crawled, indexed or understood.</li><li><strong>Plan next:</strong> service, suburb, category or product pages that better match buyer searches.</li><li><strong>Build later:</strong> link earning, supplier mentions and content depth once the site foundations are sound.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide suits Melbourne businesses weighing an SEO retainer, checking whether an audit should come first, or comparing organic work with faster Google Ads activity. The published page speaks to local businesses, online stores and smaller operators that need practical visibility rather than traffic reports alone.</p><p>For a local service business, ask whether Google Business Profile work, local directory listings, suburb-level landing pages and review strategy are part of the plan. For an online store, ask how category pages, product pages and intent-matched content will be improved together. For a technically messy site, ask whether crawl, indexation, Core Web Vitals and structured data issues will be handled before new content is produced.</p><p>The listed services are local SEO, eCommerce SEO, technical SEO, Google Ads, content marketing, link building, SEO audit, keyword research and small business SEO. Use that list to separate essential month-one work from later activity.</p>"
+    },
+    {
+      "h2": "Price And Timing Checks",
+      "html": "<p>The published pricing gives useful guardrails. Melbourne retainers are described as typically running $1,200 to $4,000+GST per month, depending on competition, scope and target keywords. Project-based audits are listed from around $1,500. Those figures do not price every campaign, but they help frame questions when a quote is vague, very low or far above the stated range.</p><p>Timing should be treated the same way. The page describes 3 to 6 months for measurable movement on mid-competition keywords, and 9 to 12 months for tougher law, finance or national online retail keywords. Ask which keyword groups fit each timing band, what must happen before rankings can move, and how progress will be reported if traffic is still building.</p><ul><li>Which keywords are being targeted first, and why?</li><li>Which technical fixes block progress if delayed?</li><li>Which pages will be created or improved in the first month?</li><li>How will completed work be shown in reporting?</li></ul>"
+    },
+    {
+      "h2": "Local Search Or Broader Organic Work",
+      "html": "<p>Melbourne locality should be tied to search behaviour, not a list of suburbs. The published page gives Box Hill as an example for Google Maps visibility and refers to service areas across Melbourne, Dandenong, the south-east and Geelong. Use those references to ask whether the campaign is about map-led enquiries, broader organic visibility, or product and category demand.</p><p>Local work should make the business easier to understand as an entity in a place: what it does, where it serves, how its pages connect and whether directory listings, reviews and local pages support the same story. Broader organic work may put more weight on technical health, keyword mapping, content depth and backlinks.</p><p>A related <a href=\"https://storage.googleapis.com/theseocompanymelbourne-002/seo-audit-melbourne.html\">Melbourne SEO audit guide</a> can help before a full retainer discussion, especially when the first decision is diagnosis rather than ongoing implementation.</p>"
+    },
+    {
+      "h2": "What Reporting Should Prove",
+      "html": "<p>A transparent retainer should make the work inspectable. The business page says keyword research, on-page tune-ups, link earning and content writing sit inside a retainer with monthly reporting tied to actual work completed. That is a stronger standard than reporting traffic graphs without showing what changed.</p><p>For buyers comparing Melbourne SEO providers, ask for task-level evidence. A technical item should name the affected template, crawl issue, Core Web Vitals item or structured data gap. A content item should name the page, search intent and internal links. A link earning item should explain the kind of placement being pursued, such as digital PR, supplier mentions or resource placements.</p><p>The page also says reputable specialists do not promise first-page rankings because Google's algorithm is the controlling authority. Judge the proposal on method, priorities, evidence and reporting, not an absolute position claim.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Choosing the first SEO step",
+    "headers": [
+      "Option",
+      "Best fit",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Written audit",
+        "A site that needs diagnosis before retainer spend",
+        "What technical, content and competitor gaps are prioritised first?"
+      ],
+      [
+        "Monthly retainer",
+        "A business ready for ongoing implementation",
+        "Which tasks are included each month, and how is completed work reported?"
+      ],
+      [
+        "Google Ads support",
+        "A business needing immediate high-intent traffic while SEO builds",
+        "How will paid search data inform keyword and landing page decisions?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Request the audit",
+      "text": "Share the site, suburb or postcode and project context so the review can focus on the right market."
+    },
+    {
+      "name": "Sort the findings",
+      "text": "Separate technical blockers, missing intent pages and authority gaps before comparing retainers."
+    },
+    {
+      "name": "Check the timing",
+      "text": "Ask whether the quoted timing matches the keyword competition and work required."
+    },
+    {
+      "name": "Review reporting",
+      "text": "Look for monthly reporting tied to completed actions, not only ranking or traffic charts."
+    },
+    {
+      "name": "Approve the first month",
+      "text": "Start with the work that removes the biggest constraint, whether technical, local, content or link related."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should a Melbourne SEO audit include?",
+      "a": "The published audit reviews Google readability, indexation, Core Web Vitals, on-page tune-ups, internal links, backlinks and the top three competitor gaps for the main keyword."
+    },
+    {
+      "q": "How much should I expect to budget?",
+      "a": "The published guide price is $1,200 to $4,000+GST per month for retainers, depending on competition, scope and target keywords. Project-based audits are listed from around $1,500."
+    },
+    {
+      "q": "How long before rankings move?",
+      "a": "The page describes 3 to 6 months for measurable movement on mid-competition keywords, and 9 to 12 months for tougher law, finance or national online retail keywords."
+    },
+    {
+      "q": "Should local and technical work be quoted separately?",
+      "a": "They can be distinct workstreams. Local activity relates to Maps, local pack signals, directory listings, suburb pages and reviews, while technical activity focuses on crawl, indexation, Core Web Vitals and structured data."
+    },
+    {
+      "q": "Can a provider guarantee first-page rankings?",
+      "a": "The page says no reputable SEO specialist promises rankings, because Google's algorithm is the controlling authority. Ask instead for a transparent method, timeline and reporting."
+    }
+  ],
+  "about": [
+    {
+      "name": "Search engine optimization",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "name": "Search engine results page",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_results_page"
+    },
+    {
+      "name": "Backlink",
+      "sameAs": "https://en.wikipedia.org/wiki/Backlink"
+    },
+    {
+      "name": "Web traffic",
+      "sameAs": "https://en.wikipedia.org/wiki/Web_traffic"
+    },
+    {
+      "name": "Local search (Internet)",
+      "sameAs": "https://en.wikipedia.org/wiki/Local_search_(Internet)"
+    },
+    {
+      "name": "Digital marketing",
+      "sameAs": "https://en.wikipedia.org/wiki/Digital_marketing"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Keyword research",
+      "sameAs": "https://en.wikipedia.org/wiki/Keyword_research"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "url": "https://www.accc.gov.au"
+    },
+    {
+      "name": "World Wide Web Consortium",
+      "url": "https://www.w3.org"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The business page offers a free written SEO audit.",
+      "source": "money page"
+    },
+    {
+      "claim": "The selected specialist replies within one business day.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published service list includes 9 SEO services.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed services are local SEO, eCommerce SEO, technical SEO, Google Ads, content marketing, link building, SEO audit, keyword research and small business SEO.",
+      "source": "money page"
+    },
+    {
+      "claim": "The audit scope includes Google readability, indexation, Core Web Vitals, on-page tune-ups, internal links, backlinks and the top three competitor gaps for the main keyword.",
+      "source": "money page"
+    },
+    {
+      "claim": "Melbourne retainers are described as typically running $1,200 to $4,000+GST per month depending on competition, scope and target keywords.",
+      "source": "money page"
+    },
+    {
+      "claim": "Project-based audits are described as starting from around $1,500.",
+      "source": "money page"
+    },
+    {
+      "claim": "Most Melbourne businesses are described as seeing measurable ranking movement in 3 to 6 months for mid-competition keywords.",
+      "source": "money page"
+    },
+    {
+      "claim": "Tougher law, finance or national online retail keywords are described as taking 9 to 12 months.",
+      "source": "money page"
+    },
+    {
+      "claim": "Local SEO includes Google Business Profile, local directory listings, suburb-level landing pages and review strategy.",
+      "source": "money page"
+    },
+    {
+      "claim": "The business page gives Box Hill as an example for Google Maps visibility.",
+      "source": "money page"
+    },
+    {
+      "claim": "The business page references service areas across Melbourne, Dandenong, the south-east and Geelong.",
+      "source": "money page"
+    },
+    {
+      "claim": "Keyword research, on-page tune-ups, link earning and content writing sit inside a transparent retainer with monthly reporting tied to actual work completed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The page says no reputable SEO specialist promises rankings because Google's algorithm is the authority.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers audit-first SEO evaluation, retainers, local visibility, technical checks, pricing and timing for Melbourne businesses."
+}
