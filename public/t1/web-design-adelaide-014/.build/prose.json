@@ -1,0 +1,180 @@
+{
+  "kicker": "Adelaide Websites",
+  "h1_tail": "A Practical 2026 Project Guide",
+  "meta_hook": "Compare scope, timing, platforms and ownership before you brief a designer",
+  "takeaway": "For an Adelaide business website, the published guidance gives three useful planning anchors: simple brochure sites usually start in the low thousands, most small business builds take around 3 to 8 weeks from brief to launch, and custom, ecommerce or booking-enabled projects cost more. Before approving a quote, confirm scope, platform, content responsibilities, launch tasks, ownership, recurring costs and post-launch support in writing.",
+  "lead": "For Adelaide businesses comparing web design adelaide options, the useful starting point is not only the look of the site, but scope, ownership, mobile performance and enquiry flow.",
+  "lead_tail": "with a clear brief before design work begins",
+  "stats": [
+    {
+      "value": "3 to 8",
+      "label": "weeks for many small business builds"
+    },
+    {
+      "value": "low thousands",
+      "label": "starting point for simple brochure sites"
+    },
+    {
+      "value": "8",
+      "label": "service types listed"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What A Sensible Website Brief Should Settle First",
+      "html": "<p><a href=\"https://www.webdesigninadelaide.com.au/\">Web Design Adelaide</a> frames website work around defined project needs: custom builds, WordPress sites, ecommerce stores, redesigns, landing pages, SEO-friendly builds and maintenance each point to a different brief. A useful quote starts with the job the website must perform after launch.</p><p>A first website for a local service business may need clear pages, mobile readability and an enquiry form. An online store needs product structure, payment flow and trust-building content. A redesign has the extra task of modernising the site while protecting existing search visibility. A campaign landing page needs fewer distractions and a sharper enquiry path.</p><p>Before asking for prices, write the core job of the site in plain language. Useful brief notes include:</p><ul><li>what action a visitor should take, such as calling, submitting an enquiry or buying online</li><li>whether staff need to update pages after launch</li><li>whether an existing site has search rankings that need careful handling during a redesign</li><li>whether maintenance, backups, security and support are required after go-live</li></ul>"
+    },
+    {
+      "h2": "Cost And Timing Signals To Ask About",
+      "html": "<p>The published pricing guidance gives two anchors: a simple brochure-style website for a small business usually starts in the low thousands, and many small business websites take around 3 to 8 weeks from brief to launch. Those are planning ranges, not fixed promises. Final cost and timing depend on scope, complexity and how quickly content is supplied.</p><p>Costs can increase when the project includes custom design, ecommerce, booking functionality, larger content requirements or a more involved redesign. Hosting and domain renewal are noted as ongoing costs, so a tidy quote should separate the once-off build from recurring running costs.</p><p>Timing is also shaped by the business commissioning the work. Photos, page copy, product details and approvals can hold up progress when they are not ready. Ask for milestones, content deadlines, revision points and the process for handling changes to the agreed scope.</p>"
+    },
+    {
+      "h2": "Platform Choice And Ownership",
+      "html": "<p>Platform choice should follow the way the business wants to manage the site. WordPress is presented for flexible, easy-to-update websites that the client or team can manage without a developer on call. Shopify and WooCommerce are named for ecommerce projects. Custom web design suits work that needs a more tailored strategy and structure.</p><p>For a business that wants internal staff to edit services, team details or blog content, update access and training should be discussed early. For a store, the questions shift to product management, checkout, performance and the practical work of keeping catalogue information current.</p><p>Ownership should be checked before signing. The published guidance says the finished website and its content are yours to keep and move once the build is paid in full. A written agreement should still spell out what is included, what can be moved later and what ongoing services are separate.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most useful for Adelaide SMEs, sole traders and local teams deciding whether to build a first site, refresh an ageing site, or create a focused landing page for a campaign. The same checks help ecommerce operators weighing Shopify or WooCommerce, and service businesses that want a WordPress site they can update without a developer on call.</p><p>Local relevance should shape practical details, not just page wording. The published guidance says enquiries are welcome across metropolitan Adelaide and the Adelaide Hills, including the CBD, inner east, coast, northern suburbs and southern suburbs. A stronger brief connects those service areas to visitor needs: which locations must be clear, what mobile users need to find quickly and how enquiries should be routed.</p><p>For a second editorial view of the same topic, this <a href=\"https://vercel-cloudsites-hub.vercel.app/sites-01/web-design-adelaide/\">Adelaide website design guide</a> can sit alongside the provider details when preparing questions for a quote.</p>"
+    },
+    {
+      "h2": "Checks Before Approving A Quote",
+      "html": "<p>A good proposal should make inclusions visible before work starts. The published guidance says scope, pricing and next steps are set out in writing, and that a typical package may include planning, design, build, basic on-page SEO setup, mobile optimisation and going live on the client domain.</p><p>Ask whether content structure, stock imagery, launch support or a short training session is included. Also ask what sits outside the build, especially maintenance and marketing, because those are described as usually separate.</p><p>For search visibility, ask how page structure will be handled, whether redirects are needed on a redesign, how mobile layouts are tested, and how performance foundations are considered before launch. The provider describes on-page SEO, clean structure and Core Web Vitals as part of the build approach, so these topics belong in the written scope.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Choosing the right website project type",
+    "headers": [
+      "Project type",
+      "Best fit",
+      "Questions to settle"
+    ],
+    "rows": [
+      [
+        "First small business website",
+        "A new local business or sole trader that needs a professional online presence",
+        "What pages are needed, who supplies copy and images, and how enquiries will be captured"
+      ],
+      [
+        "Website redesign",
+        "An ageing or underperforming site with existing content or search visibility",
+        "How rankings, URLs, redirects and current content will be handled"
+      ],
+      [
+        "WordPress build",
+        "A business that wants to update content without calling a developer for every change",
+        "What training, editing access and maintenance support are included"
+      ],
+      [
+        "Ecommerce build",
+        "A retailer that needs Shopify or WooCommerce product and checkout structure",
+        "How products, payments, trust elements and ongoing store management will work"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the site goal",
+      "text": "Write the main action visitors should take and list the pages needed to support that action."
+    },
+    {
+      "name": "Choose the project type",
+      "text": "Decide whether the job is a first website, redesign, WordPress build, ecommerce store, landing page or maintenance arrangement."
+    },
+    {
+      "name": "Prepare content inputs",
+      "text": "Gather copy, images, product details and service area information before setting launch expectations."
+    },
+    {
+      "name": "Ask for written scope",
+      "text": "Confirm inclusions, exclusions, pricing, milestones, ownership and ongoing costs before work starts."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a small Adelaide business budget for a website?",
+      "a": "The published guidance says a simple brochure-style website usually starts in the low thousands, while custom, ecommerce or booking-enabled sites cost more. Hosting and domain renewal are ongoing costs on top."
+    },
+    {
+      "q": "How long does a typical small business website take?",
+      "a": "The stated range for most small business websites is around 3 to 8 weeks from brief to launch, depending on scope and how quickly content is supplied."
+    },
+    {
+      "q": "What should be included in a website package?",
+      "a": "A typical package may include planning, design, build, basic on-page SEO setup, mobile optimisation and going live on the business domain. Content structure, stock imagery, training, maintenance and marketing should be confirmed separately."
+    },
+    {
+      "q": "Who owns the finished website?",
+      "a": "The published guidance says the finished website and its content are yours once the build is paid in full. The written quote should still confirm exactly what is included and what ongoing services are separate."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "Web Design Adelaide presents website work around custom builds, WordPress sites, ecommerce stores, redesigns, landing pages, SEO-friendly builds and maintenance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The business offers custom, WordPress and ecommerce builds for local businesses.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guidance says written scope, pricing and next steps are set out before work starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "A simple brochure-style website for a small business usually starts in the low thousands.",
+      "source": "money page"
+    },
+    {
+      "claim": "Custom, ecommerce or booking-enabled sites cost more than simple brochure-style websites.",
+      "source": "money page"
+    },
+    {
+      "claim": "Hosting and domain renewal are ongoing costs on top.",
+      "source": "money page"
+    },
+    {
+      "claim": "Most small business websites take around 3 to 8 weeks from brief to launch, depending on scope and how quickly content is supplied.",
+      "source": "money page"
+    },
+    {
+      "claim": "A typical web design package may include planning, design, build, basic on-page SEO setup, mobile optimisation and going live on the client domain.",
+      "source": "money page"
+    },
+    {
+      "claim": "Some builds also include stock imagery, content structure and a short training session.",
+      "source": "money page"
+    },
+    {
+      "claim": "Ongoing maintenance and marketing are usually separate.",
+      "source": "money page"
+    },
+    {
+      "claim": "WordPress websites are presented as flexible, easy-to-update sites the client or team can manage without a developer on call.",
+      "source": "money page"
+    },
+    {
+      "claim": "Shopify and WooCommerce are named for ecommerce projects.",
+      "source": "money page"
+    },
+    {
+      "claim": "The finished website and its content are described as yours to keep and move once the build is paid in full.",
+      "source": "money page"
+    },
+    {
+      "claim": "Enquiries are welcome across metropolitan Adelaide and the Adelaide Hills.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guidance names the CBD, inner east, coast, northern suburbs and southern suburbs as Adelaide areas relevant to its work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider describes on-page SEO, clean structure and Core Web Vitals as part of the build approach.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Adelaide website project planning, scope, timing, platform choice, ownership and quote checks."
+}
