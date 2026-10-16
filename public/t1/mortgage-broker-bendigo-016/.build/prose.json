@@ -1,0 +1,247 @@
+{
+  "kicker": "Bendigo Finance",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare local broker questions, loan timing and borrower fit",
+  "takeaway": "For Bendigo borrowers, the sourced offer is a free, obligation-free enquiry about buying, refinancing, investing or seeking pre-approval. The published guide says application to settlement typically takes around four to six weeks, depending on lender and circumstances. It also says pre-approval is typically valid for around 90 days, and that most residential brokers are paid by lender commission, with any borrower fee disclosed upfront.",
+  "lead": "For people comparing mortgage broker bendigo options, the useful test is how clearly a broker links your deposit, income, property goal and timing to lender policy.",
+  "lead_tail": "so the next discussion starts with facts, not guesswork.",
+  "stats": [
+    {
+      "value": "Free",
+      "label": "obligation-free enquiry"
+    },
+    {
+      "value": "4-6 weeks",
+      "label": "typical application to settlement"
+    },
+    {
+      "value": "90 days",
+      "label": "typical pre-approval validity"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What Local Borrowers Are Comparing",
+      "html": "<p><a href=\"https://www.bendigohomeloanbroker.com.au/\">Bendigo Home Loan Broker</a> describes an enquiry path for Central Victoria borrowers who want help with a first home purchase, refinance, investment loan or pre-approval. The useful comparison is not a single headline rate. It is whether the broker can test your borrower profile against lender policy before an application is lodged.</p><p>The published guide gives local examples: first home buyers looking around Kangaroo Flat or Strathdale, owners refinancing in Golden Square, and investors considering Epsom or Eaglehawk. Treat those as scenario clues, not as promises that a suburb receives different lender treatment.</p><p>Start by naming the loan purpose. Buying, replacing an existing loan, using equity, preparing for inspections and structuring an investment purchase all raise different questions.</p>"
+    },
+    {
+      "h2": "Questions To Ask Before Applying",
+      "html": "<p>The source page says there are dozens of lenders, each with their own rates, policies and quirks. A broker conversation should turn that broad field into a shortlist you can interrogate. Ask why each lender is being considered, what was ruled out, and which assumptions could change the recommendation.</p><ul><li><strong>Deposit and equity:</strong> ask how your available funds affect lender choice, mortgage insurance questions and approval confidence.</li><li><strong>Loan purpose:</strong> state whether the loan is for a home, refinance, renovation funding, investment purchase or pre-approval.</li><li><strong>Repayment style:</strong> ask when fixed, variable, offset and interest only features are relevant to your situation.</li><li><strong>Timing:</strong> ask what must happen before finance approval, formal approval and settlement.</li><li><strong>Disclosure:</strong> ask whether any borrower fee applies and how lender commission will be shown.</li></ul><p>For a related checklist, see this <a href=\"https://home-loan-broker-bendigo-guide.netlify.app/\">Bendigo home loan broker guide</a>.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for borrowers whose needs match the source material: first home buyers, existing homeowners considering refinance, property investors, and people seeking pre-approval before choosing a property. It also suits borrowers who want a local discussion before comparing lenders themselves.</p><p>First home buyers should ask current eligibility questions about the Victorian First Home Owner Grant and the federal First Home Guarantee. The published guide says the Victorian grant is for eligible new home purchases, with current thresholds checked through the State Revenue Office of Victoria. It also says the federal guarantee is administered by Housing Australia and may allow eligible first home buyers to purchase with as little as a 5 percent deposit without lenders mortgage insurance, subject to price caps reviewed annually.</p><p>Refinancers should explain whether the goal is a better rate, debt consolidation, equity access for a renovation, or investment funding. Investors should ask how principal and interest, interest only, offset accounts, fixed rates, variable rates and existing equity are being modelled.</p>"
+    },
+    {
+      "h2": "Timing, Approval And Settlement",
+      "html": "<p>The source page gives two timing anchors. Pre-approval, also called conditional approval, is typically valid for around 90 days depending on the lender. Application to settlement typically takes around four to six weeks depending on the lender and the borrower's circumstances.</p><p>Use those figures for planning, not as guarantees. A buyer who has not chosen a property may need pre-approval first. A refinancer may begin with loan statements, income evidence and a clear reason for changing lenders. An investor may need more modelling because the lender will assess existing commitments and the proposed structure.</p><p>For Bendigo borrowers, the local question is whether the broker understands the property type, contract timing and borrower goal well enough to prepare a stronger file. Ask what information is needed before the lender sees the application, and what would cause the recommended lender or product to change.</p>"
+    },
+    {
+      "h2": "Compliance And Consumer Protection",
+      "html": "<p>The source page says introduced professionals hold an Australian Credit Licence or operate as Credit Representatives under a licensee, as required by the National Consumer Credit Protection Act 2009. It also says brokers are commonly accredited with MFAA or FBAA, and that partner brokers have Australian Financial Complaints Authority external dispute resolution coverage.</p><p>ASIC's broker obligations are central to the discussion because the published guide says Australian mortgage brokers must act in the consumer's best interests and prioritise the consumer when providing credit assistance. Ask who holds the credit licence or representative appointment, which dispute resolution body applies, how the recommendation will be recorded, and when you will see commission or fee disclosure.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Borrower scenarios and broker questions",
+    "headers": [
+      "Scenario",
+      "What to clarify",
+      "Sourced issue"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Deposit, eligibility questions, grant or guarantee relevance, and property goal",
+        "The source page refers to eligible new home purchases, Housing Australia and a possible 5 percent deposit pathway subject to caps"
+      ],
+      [
+        "Refinancer",
+        "Reason for switching, debt consolidation, equity access, rate type and offset needs",
+        "Application to settlement is typically around four to six weeks, depending on lender and circumstances"
+      ],
+      [
+        "Investor",
+        "Interest only or principal and interest, offset use, fixed or variable rate, and existing equity",
+        "The source page says investment lending has structuring decisions to model before signing"
+      ],
+      [
+        "Pre-approval seeker",
+        "Deposit, income, borrowing goal and likely lender fit before house hunting",
+        "Pre-approval is typically valid for around 90 days, depending on lender"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan purpose",
+      "text": "State whether you are buying, refinancing, investing or seeking pre-approval before comparing lenders."
+    },
+    {
+      "name": "Prepare borrower facts",
+      "text": "Have income, deposit, debts, property goal and timing ready so the broker can test lender fit."
+    },
+    {
+      "name": "Ask for the shortlist logic",
+      "text": "Request the reason each lender is being considered and what would change the recommendation."
+    },
+    {
+      "name": "Check disclosures",
+      "text": "Confirm any borrower fee, lender commission disclosure, licensing position and dispute resolution pathway before applying."
+    },
+    {
+      "name": "Plan the next date",
+      "text": "Use the four to six week settlement guide and 90 day pre-approval guide as planning anchors, not promises."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does a Bendigo borrower usually pay the broker directly?",
+      "a": "The source page says most Australian residential mortgage brokers do not charge borrowers directly and are typically paid lender commission. It also says any exceptions must be disclosed upfront under ASIC rules."
+    },
+    {
+      "q": "How long does pre-approval usually last?",
+      "a": "The published guide says pre-approval is typically valid for around 90 days, depending on the lender. Ask when the approval expires and what documents may need refreshing."
+    },
+    {
+      "q": "Which loan situations are named in the source page?",
+      "a": "It names first home buying, refinancing, investment property loans, pre-approval and loan comparison. It also mentions fixed and variable rates, offset accounts, interest only loans and principal and interest structures."
+    },
+    {
+      "q": "What should investors ask before choosing a loan?",
+      "a": "Investors should ask how interest only, principal and interest, offset accounts, fixed or variable rates, and existing equity affect the recommendation. The source page says these structuring decisions should be modelled against lender policy before signing."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bendigo Home Loan Broker describes an enquiry path for first home buying, refinancing, investment loans and pre-approval.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published enquiry is described as free and obligation-free.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names Central Victoria and Greater Bendigo as service areas.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names Kangaroo Flat, Strathdale, Golden Square, Epsom and Eaglehawk as local borrower examples.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says there are dozens of lenders with their own rates, policies and quirks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says most residential brokers are typically paid commission by the lender and any borrower fee must be disclosed upfront.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says the Victorian First Home Owner Grant is for eligible new home purchases, with current thresholds to be checked through the State Revenue Office of Victoria.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says the federal First Home Guarantee is administered by Housing Australia.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says eligible first home buyers may purchase with as little as a 5 percent deposit without lenders mortgage insurance, subject to price caps reviewed annually.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says refinancing may be considered for a better rate, debt consolidation or accessing equity for a renovation or investment.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says investment lending involves structuring decisions including interest only versus principal and interest, offset accounts, fixed versus variable rates, and existing equity.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says pre-approval is also called conditional approval.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says pre-approval is typically valid for around 90 days, depending on the lender.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says application to settlement typically takes around four to six weeks, depending on the lender and borrower circumstances.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says introduced professionals hold an Australian Credit Licence or operate as Credit Representatives under a licensee as required by the National Consumer Credit Protection Act 2009.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says brokers are commonly accredited with MFAA or FBAA.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says partner brokers have Australian Financial Complaints Authority external dispute resolution coverage.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says Australian mortgage brokers must act in the consumer's best interests and prioritise the consumer when providing credit assistance.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Bendigo borrower questions about broker fit, loan purpose, disclosure, timing and approval preparation."
+}
