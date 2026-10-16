@@ -1,0 +1,214 @@
+{
+  "kicker": "Sydney Renovation Guide",
+  "h1_tail": "A Practical Homeowner Guide",
+  "meta_hook": "compare cost, timing, strata and builder checks before you commit",
+  "takeaway": "For Sydney homeowners, the source page frames a kitchen renovation as a budget, scope and builder-fit decision. Published figures put many projects at about $15,000 to $100,000 plus, with 6 to 12 weeks from sign-off to handover, and 2 to 4 weeks commonly spent on site once materials are ready. The listed process includes a free 60-minute in-home consult, a builder review within one business day, and a fixed-price quote within 5 to 10 working days.",
+  "lead": "For homeowners comparing kitchen renovations sydney options, the useful starting point is not a style board, but the scope, approvals, quote structure and builder fit behind the finished room.",
+  "lead_tail": "with cost, timing and approval questions brought into focus early",
+  "stats": [
+    {
+      "value": "$15k to $100k+",
+      "label": "published project range"
+    },
+    {
+      "value": "6 to 12 weeks",
+      "label": "sign-off to handover"
+    },
+    {
+      "value": "2 to 4 weeks",
+      "label": "typical on-site phase"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What the published service actually describes",
+      "html": "<p><a href=\"https://www.sydneykitchenreno.com.au/\">Sydney Kitchen Reno</a> presents its role as helping Sydney homeowners map kitchen scope, timeline and budget to a NSW-licensed renovator suited to the project size and style. The source page says the builder handles design, fixed-price quoting, the home building contract and the build itself from start to finish.</p><p>The described work is broader than a cabinet swap. It includes full kitchen renovations with new cabinetry, stone benchtops, plumbing and electrical updates, splashbacks and soft-close hardware. The page also separates heritage or Federation kitchen rebuilds from strata-approved apartment kitchens, which is useful because the quote questions are different in each case.</p><ul><li>For a full renovation, ask what is included in demolition, manufacture, installation and final fit-off.</li><li>For a character home, ask how joinery, services and finishes will respect the age of the house.</li><li>For an apartment, ask what documentation, access rules and work windows must be settled before work starts.</li></ul>"
+    },
+    {
+      "h2": "Cost signals to check before comparing quotes",
+      "html": "<p>The published cost guidance says most Sydney kitchen projects fall between about $15,000 and $100,000 plus, depending on whether the job is a budget refresh, a standard full renovation or a premium custom rebuild with layout changes. Treat that range as a sorting tool, not a quote.</p><p>The page identifies the main price drivers as layout changes, custom joinery, premium stone, appliance selection, strata or access constraints, and heritage or structural work required before installation. Those are the items to make visible before comparing two builders, because a cheaper quote may simply leave one of them unresolved.</p><p>A useful quote request gives the renovator the kitchen size, desired scope, finish level, suburb or postcode and rough budget. The source page also points to an indicative cost calculator, but says a precise builder-specific number comes after an in-home consult and fixed-price quote.</p>"
+    },
+    {
+      "h2": "Timing, approvals and the order of decisions",
+      "html": "<p>The source page gives two timing frames. It says a typical Sydney kitchen renovation takes around 6 to 12 weeks from sign-off to handover, including design, quoting, cabinetry fabrication, benchtop templating, demolition and installation. It also says the on-site stage is often about 2 to 4 weeks once materials are ready.</p><p>That distinction matters when planning a household around the work. The visible site disruption is only one part of the schedule. Design decisions, cabinet manufacture and benchtop templating can decide whether the on-site phase runs smoothly or stalls while selections are clarified.</p><p>Apartment work can require more pre-start administration. The published strata service notes body-corp documentation, plumbing through party walls, acoustic underlay and after-hours work windows. The broader Sydney apartment question is therefore not only whether the kitchen design works, but whether access, lift bookings, waste rules and committee requirements are understood before trades arrive.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is most useful for Sydney homeowners who already know they want a kitchen renovation, but still need to sort the job type. The source page points to three common briefs: full kitchen renovations, heritage and Federation rebuilds, and strata-approved apartment kitchens.</p><p>For terraces or older houses in areas named by the source page, such as Newtown, Surry Hills, Mosman, Randwick and Ryde, the relevant questions are joinery style, service upgrades and finishes that suit the age of the home. For apartments in locations the page names, including Bondi Junction, Randwick and Alexandria, the practical questions shift toward documentation, access and work-hour constraints.</p><p>Readers comparing another editorial overview can also use this <a href=\"https://kitchen-renovations-sydney-guide.vercel.app/\">Sydney kitchen renovation guide</a> as a second crawlable reference point, then come back to the quote checklist with clearer questions for the builder.</p>"
+    },
+    {
+      "h2": "Questions to ask before committing",
+      "html": "<p>A fixed-price contract is only useful when the inclusions are clear. The source page says projects use fixed-price HIA or Master Builders contracts, a transparent variations process and NSW home building compensation cover. Before signing, ask which selections are fixed, which are provisional, and how any requested change will be documented.</p><p>Good pre-quote questions stay practical. Ask who measures the space, who confirms plumbing and electrical assumptions, when cabinetry is manufactured, when benchtops are templated, and what has to happen before demolition. For kitchen renovations sydney homeowners in strata buildings, add questions about approval paperwork, waste handling and permitted work times.</p><p>Also ask what happens at handover. A tidy close should identify remaining defects, appliance and hardware checks, and the process for closing out small adjustments after final fit-off.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Kitchen renovation scenarios and quote focus",
+    "headers": [
+      "Scenario",
+      "Main quote focus",
+      "Pre-start question"
+    ],
+    "rows": [
+      [
+        "Full renovation",
+        "Cabinetry, benchtops, plumbing, electrical, splashback and hardware",
+        "Are demolition, manufacture, installation and final fit-off all included?"
+      ],
+      [
+        "Heritage or Federation rebuild",
+        "Joinery, service upgrades and finishes suited to the home age",
+        "Has the renovator handled this style of brief before?"
+      ],
+      [
+        "Strata apartment kitchen",
+        "Documentation, party-wall plumbing, acoustic underlay and work windows",
+        "What approvals, lift bookings and waste rules apply before work starts?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the brief",
+      "text": "Write down kitchen size, desired scope, finish level, suburb or postcode and rough budget before requesting a consult."
+    },
+    {
+      "name": "Separate design from site work",
+      "text": "Ask how design, quoting, cabinetry fabrication and benchtop templating fit into the overall 6 to 12 week pathway."
+    },
+    {
+      "name": "Check contract inclusions",
+      "text": "Confirm what the fixed price includes, how variations are handled and whether the stated cover applies to the job."
+    },
+    {
+      "name": "Plan approvals early",
+      "text": "For strata or older homes, ask what documentation or investigations are needed before demolition can be booked."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a Sydney homeowner budget for a kitchen renovation?",
+      "a": "The source page says most Sydney projects fall between about $15,000 and $100,000 plus. The actual figure depends on scope, layout changes, joinery, stone, appliances, access constraints and any heritage or structural work."
+    },
+    {
+      "q": "How long does the renovation process usually take?",
+      "a": "The published guidance says around 6 to 12 weeks from sign-off to handover, including design, quoting, fabrication, templating and installation. Once materials are ready, the on-site phase is often about 2 to 4 weeks."
+    },
+    {
+      "q": "Do apartment kitchens need different planning?",
+      "a": "Yes, according to the source page, strata projects may involve body-corp documentation, plumbing through party walls, acoustic underlay and after-hours work windows. Ask about approvals and access before locking in dates."
+    },
+    {
+      "q": "What should be checked in a fixed-price quote?",
+      "a": "Check that demolition, cabinetry, benchtops, plumbing, electrical, splashback, hardware and final fit-off are either included or clearly excluded. Also ask how variations are priced and approved."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Many Sydney kitchen renovation projects are published as falling between about $15,000 and $100,000 plus.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published pathway includes a free 60-minute in-home consult.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a builder reviews project details within one business day.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a fixed-price quote is emailed within 5 to 10 working days after the consult.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a typical Sydney kitchen renovation takes around 6 to 12 weeks from sign-off to handover.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says many Sydney kitchen renovations spend about 2 to 4 weeks on site once materials are ready.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed renovation work includes new cabinetry, stone benchtops, plumbing and electrical updates, splashback and soft-close hardware.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page identifies layout changes, custom joinery, premium stone, appliance selection, strata or access constraints, and heritage or structural work as major price drivers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes heritage and Federation kitchen rebuilds for character homes in Newtown, Surry Hills, Mosman, Randwick and Ryde.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page describes strata apartment kitchen issues including body-corp documentation, plumbing through party walls, acoustic underlay and after-hours work windows.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to strata committee handling across Bondi Junction, Randwick and Alexandria.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says projects use fixed-price HIA or Master Builders contracts, a transparent variations process and NSW home building compensation cover.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Sydney kitchen renovation cost, timing, contract, strata and brief-setting questions using the supplied source material."
+}
