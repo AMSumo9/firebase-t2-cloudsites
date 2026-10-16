@@ -1,0 +1,152 @@
+{
+  "kicker": "Childcare Guide",
+  "h1_tail": "A Practical Family Checklist",
+  "meta_hook": "compare provider types, reviews, suburbs and quote requests with less guesswork",
+  "takeaway": "Families comparing childcare options can use one practical frame: choose from 7 provider types, share the suburb, care type, child age band, preferred days and desired start date, then compare services, photos, reviews, pricing and quotes. The source directory says requests are free to submit, carry no obligation, and can be described in about 30 seconds before suitable providers make contact.",
+  "lead": "For families searching childcare centres australia options, the useful work is narrowing provider type, location, child age, preferred days and start timing before comparing individual services.",
+  "lead_tail": "with a focus on practical comparison signals rather than broad claims",
+  "stats": [
+    {
+      "value": "7",
+      "label": "provider types listed"
+    },
+    {
+      "value": "30 sec",
+      "label": "request description prompt"
+    },
+    {
+      "value": "Free",
+      "label": "to submit a request"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What families can compare before enquiring",
+      "html": "<p>For the source guide, see <a href=\"https://www.thechildcarenearme.com.au/\">Australian Childcare Directory</a>.</p><p>The <a href='https://www.thechildcarenearme.com.au/'>Australian Childcare Directory</a> frames childcare comparison around provider type, suburb, reviews, photos, services, pricing and quote requests. That is enough to build a practical shortlist without treating every listing as interchangeable.</p><p>A parent starting with childcare centres should first decide whether the need is regular long day care, early learning, kindergarten or preschool, outside school hours care, vacation care, family day care, or a broader childcare centre search. The source page groups these as 7 provider types, which helps families avoid contacting a service that is not built around the days, ages or session pattern they need.</p><p>The directory also asks for care type, child age band, preferred days and desired start date. Those fields are useful because availability conversations often become vague when a family only asks whether a place is open. A clearer enquiry explains the child's age, the suburb being considered, the weekdays needed and when care should begin.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for parents, guardians and carers who need to compare childcare or early learning providers across Australia, including families who are moving suburb, changing work days, planning school holiday care, or deciding between centre based and smaller care settings.</p><ul><li><strong>Families needing regular weekday care:</strong> compare long day care, childcare centres and early learning listings against the days and start date required.</li><li><strong>Families preparing for school routines:</strong> look separately at kindergarten and preschool, outside school hours care and vacation care, because each solves a different scheduling problem.</li><li><strong>Families who want a smaller setting:</strong> include family day care in the comparison rather than only looking at larger centre categories.</li><li><strong>Families not ready to commit:</strong> the source page says a request is free to submit and carries no obligation to proceed.</li></ul><p>A related overview of <a href='https://childcare-services-australia-guide.surge.sh/'>childcare services across Australia</a> can help when the question is broader than centre based care.</p>"
+    },
+    {
+      "h2": "How to read provider listings",
+      "html": "<p>A listing should help answer three questions: what type of care is offered, where it is located, and what other families have said about the service. The source page shows featured provider cards with locations, provider category labels, review scores, review counts and profile links. Those signals are comparison prompts, not a substitute for speaking with the provider.</p><p>Use reviews as one input alongside practical fit. A highly rated provider may still be unsuitable if it does not match the child's age band, preferred days or start date. A convenient suburb may still need a closer look if the family needs outside school hours care rather than long day care.</p><p>When viewing a profile or preparing an enquiry, ask for the details that affect day to day use:</p><ul><li>Which age groups are currently accepted for the care type being considered?</li><li>Which days are available for the desired start period?</li><li>What services, photos or pricing details can be compared before a visit or call?</li><li>Can the provider give a quote or confirm the next step through the enquiry form?</li></ul>"
+    },
+    {
+      "h2": "Location signals without suburb overload",
+      "html": "<p>The directory lets families browse by state and location, with listing counts shown for Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Victoria and Western Australia. Those state pages are useful as entry points, but the stronger comparison happens at suburb and service level.</p><p>The source page names examples such as Mountain Creek, Macquarie, Carramar, Blacktown, Northbridge, Glebe and Rockingham. Rather than treating those names as a checklist, use them as a reminder that childcare search is local because travel time, drop off routine and school or work patterns shape the final choice.</p><p>Families comparing providers in a suburb should look for the category first, then the practical fit. A childcare centre in one suburb and a family day care option nearby may both appear relevant, but they may suit different child age bands, care days and family routines. The useful enquiry is precise: suburb, provider type, age band, preferred days and desired start date.</p>"
+    },
+    {
+      "h2": "What to send in an enquiry",
+      "html": "<p>The source page's request flow asks families to describe what they need before suitable providers make contact. A concise enquiry is better than a long backstory because providers can respond faster when the core variables are visible.</p><ol><li>Choose the service type before writing the message.</li><li>State the suburb or nearby area being considered.</li><li>Include the child age band rather than only the child's name.</li><li>List the preferred care days and any flexibility.</li><li>Give the desired start date or explain if the timing is still being explored.</li></ol><p>After contact, compare the replies on the same basis. Check whether each provider answered the care type, age, day and timing questions. Then review photos, pricing details and service information where available. This keeps the decision tied to family needs instead of relying only on the first provider to reply.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common childcare search paths",
+    "headers": [
+      "Search path",
+      "Best used when",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Childcare centre or long day care",
+        "Regular care is needed across set weekdays",
+        "Which age bands, days and start dates are available?"
+      ],
+      [
+        "Kindergarten or preschool",
+        "The family is comparing early learning options",
+        "What program details and session patterns can be compared?"
+      ],
+      [
+        "Outside school hours or vacation care",
+        "Care is needed around school routines or holidays",
+        "Which days and periods are covered?"
+      ],
+      [
+        "Family day care",
+        "A smaller care setting is being considered",
+        "What age range and days can the provider support?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Pick the care category",
+      "text": "Start with the provider type so the enquiry goes to services that match the family's actual need."
+    },
+    {
+      "name": "Define the local requirement",
+      "text": "Share the suburb, child age band, preferred days and desired start date before comparing individual listings."
+    },
+    {
+      "name": "Compare replies consistently",
+      "text": "Assess each provider against the same care type, timing, services, pricing and review signals."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What information should I prepare before contacting a childcare provider?",
+      "a": "Prepare the suburb, care type, child age band, preferred days and desired start date. Those are the fields the source directory asks families to share when requesting childcare options."
+    },
+    {
+      "q": "Is submitting a childcare request presented as paid or obligation free?",
+      "a": "The source page says requests are free to submit and that there is no obligation to proceed. Families should still confirm provider fees, inclusions and availability directly with any service that responds."
+    },
+    {
+      "q": "Which provider types can families compare?",
+      "a": "The listed categories are childcare centres, early learning centres, family day care, kindergarten and preschool, long day care, outside school hours care and vacation care."
+    },
+    {
+      "q": "Should reviews decide the shortlist by themselves?",
+      "a": "No. Reviews are useful comparison signals, but the practical fit still depends on care type, location, child age, preferred days and start timing."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The source directory compares childcare, early learning, kindergarten and OSHC services across Australia.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source directory lists 7 provider types.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed provider types are childcare centres, early learning centres, family day care, kindergarten and preschool, long day care, outside school hours care and vacation care.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source directory asks families to share the suburb, care type, child age band, preferred days and desired start date.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says requests are free to submit and carry no obligation to proceed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says families can describe the job in about 30 seconds.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says families can read reviews, view photos, compare services and pricing, and request quotes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory lets users browse locations in Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Victoria and Western Australia.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names provider examples in Mountain Creek, Macquarie, Carramar, Blacktown, Northbridge and Glebe.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page includes Childcare Centres in Rockingham as a popular location entry.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical comparison steps for families reviewing childcare, early learning and care category listings across Australia."
+}
