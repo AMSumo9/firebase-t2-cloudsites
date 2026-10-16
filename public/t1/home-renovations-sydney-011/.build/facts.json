@@ -1,0 +1,298 @@
+{
+  "node_id": "renovationsydney-011",
+  "money_domain": "renovationsydney.com.au",
+  "money_home_url": "https://www.renovationsydney.com.au/",
+  "money_host": "vercel",
+  "cloud_host": "surge",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/home-renovations-sydney-011/",
+  "live_url": "https://sites-e470-1.web.app/home-renovations-sydney-011/",
+  "subdomain": "home-renovations-sydney-guide-renovationsydney",
+  "gh_repo": null,
+  "primary_kw": "home renovations sydney",
+  "kw_slug": "home-renovations-sydney",
+  "anchor_kw": "home renovations sydney",
+  "brand": "Renovation Sydney",
+  "target_page_url": "https://www.renovationsydney.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "renovationsydney-001",
+    "url": "https://home-renovations-sydney.onrender.com/",
+    "primary_kw": "home renovations sydney"
+  },
+  "socials_found": [],
+  "niche": "trades",
+  "curated_authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "reference_topics": {
+    "source": "/opt/t1/live-sites-cloudsites/_cache/research/renovationsydney.com.au/_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Extend a Home",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Trade Industries Group",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Exotic Home Renovations",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Bespoke Renovations",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Renova Build",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Mr & Mrs Elias",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Sydney",
+        "type": "LOCATION",
+        "salience": 0.958
+      },
+      {
+        "name": "House Extension",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "TIG",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Trade Industries Group (TIG)",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Exotic Home Renovations PTY LTD",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Home Renovation",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Hornsby",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Home Renovations",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "Commercial Renovations",
+        "type": "SERVICE",
+        "salience": 0.92
+      },
+      {
+        "name": "First Floor Additions",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Ground Floor Extensions",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Five-Star Rated",
+        "type": "CREDENTIAL",
+        "salience": 0.9
+      },
+      {
+        "name": "Full Home Renovations",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "architectural apartment renovations",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "Kitchen Renovations",
+        "type": "SERVICE",
+        "salience": 0.883
+      },
+      {
+        "name": "Bathroom Renovations",
+        "type": "SERVICE",
+        "salience": 0.883
+      },
+      {
+        "name": "Full Residential Renovations",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Google 5-star rated",
+        "type": "CREDENTIAL",
+        "salience": 0.88
+      },
+      {
+        "name": "Design, Renovation, Construction, and Fit Outs",
+        "type": "SERVICE",
+        "salience": 0.88
+      },
+      {
+        "name": "Mid to High-End Renovations",
+        "type": "SERVICE",
+        "salience": 0.87
+      },
+      {
+        "name": "Apartment Renovations",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Bathroom Renovation",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Kitchen Renovation",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Major Home Renovations",
+        "type": "SERVICE",
+        "salience": 0.85
+      }
+    ],
+    "lsi_keywords": [
+      "home renovations Sydney",
+      "kitchen renovations Sydney",
+      "bathroom renovations Sydney",
+      "apartment renovations Sydney",
+      "residential renovations Sydney",
+      "house extensions Sydney",
+      "custom joinery Sydney",
+      "renovation architects Sydney",
+      "waterproofing for renovations Sydney",
+      "bedroom renovations Sydney",
+      "home remodelers Sydney",
+      "renovation companies Sydney North Shore",
+      "renovation contractors Sydney Castle Hill",
+      "energy efficient home upgrades Sydney",
+      "interior design for home renovations Sydney"
+    ]
+  },
+  "image": {
+    "file": "home-renovations-sydney.jpg",
+    "photographer": "𝕡𝕒𝕨𝕤 𝕒𝕟𝕕 𝕡𝕣𝕚𝕟𝕥𝕤",
+    "source": "Unsplash",
+    "credit": "Photo by 𝕡𝕒𝕨𝕤 𝕒𝕟𝕕 𝕡𝕣𝕚𝕟𝕥𝕤 on Unsplash"
+  },
+  "build_date": "2026-09-06",
+  "money_home_text": "Renovation Sydney | Renovation Builders Skip to content Renovation Sydney Home About Locations Services Tools Contact Enquire Open menu Home About Locations Services Tools Contact Reviewing new Sydney renovation projects this month Renovations In Sydney Sydney renovations can turn quickly from exciting to overwhelming: approvals, access, structure, heritage limits, budget pressure and too many quote variables. We help homeowners get the project type and likely constraints clear before the builder conversation begins. &bull; Heritage terraces, harbourside homes, beachside units, project homes and apartments all covered. &bull; Approvals, structural work and finish quality considered together before pricing. &bull; Clear project details before the site visit, written quote and build decision. Request a Sydney renovation review Tell us the suburb, project type and rough scope so we can guide the next step. Your name Phone Email Suburb / Postcode Request My Renovation Review Your details are only used to arrange your enquiry. See our privacy policy . Builder-led project delivery Written contract before work begins Right fit for your home type Approval details handled early Quick navigation Renovation Sydney decision points for a clearer project Some homeowners already know they want a full renovation. Others are still working out whether the real issue is a kitchen, bathroom, extension, granny flat, heritage constraint or approval problem. These links help you start in the right place. Services See the six renovation services available across Sydney. Locations See how renovation issues change across Sydney homes, apartments and suburbs. Cost Calculator Estimate an indicative Sydney renovation budget by project type and scope. Checklist Work through the planning checklist before you request quotes. About How we guide Sydney homeowners through early renovation decisions. Contact Share the project basics and plan the next practical step. Services overview Renovation service options that reflect how Sydney projects are actually scoped A Paddington terrace under a conservation overlay is not the same project as a Castle Hill second-storey addition or a Cronulla beachside kitchen renovation. We help you identify the real renovation path early: whole-home, kitchen, bathroom, extension, granny flat, heritage or terrace work. That clarity makes the first conversation more useful. You can explain the outcome you want, the constraints you already know, and the questions that still need a builder's eye. Whole-Home Renovations Whole-home renovations for houses that no longer work, from layout reconfiguration to modern services and finishes. Kitchen Renovations Custom kitchen renovations that fix poor flow, tired cabinetry and appliance layouts that no longer suit the home. Bathroom Renovations Waterproofed bathroom renovations for dated, leaking or awkward rooms, from same-layout refreshes to full reconfiguration. Why start here Why Sydney renovation projects need a clearer start Builder-led project delivery Builder credentials, insurance details and written scope should be clear before work starts. Written contract before work begins The quoting contractor sets out the scope, price, programme and exclusions in writing so you can decide with full information. Right fit for your home type Scopes account for heritage terraces, harbourside homes, beachside units, project homes and apartments across greater Sydney. Approval details handled early Council pathways, waterproofing and structural work are considered upfront so the renovation path is clearer before pricing. Project planning Get the project type, budget and suburb context clear early The useful input is simple: suburb, project type, what feels broken or outdated, whether structural change or approvals are likely, and your rough budget. From there we help shape a more useful renovation conversation. Bondi Mosman Paddington Balmain Newtown Chatswood Tell us about your project Share the project type, suburb and anything unusual about access, heritage or approvals so we can guide the next step. Your name Phone Email Suburb / Postcode Tell us about the project Send My Renovation Enquiry Your details are only used to arrange your enquiry. See our privacy policy . Common Sydney renovation questions These are the four questions most likely to shape whether your next step is a full quote, a cost review, a council-approval conversation or a tighter scope rethink. How much does a home renovation cost in Sydney? It depends heavily on scope, size and finish level. As a guide, a cosmetic refresh of a few rooms can sit in the tens of thousands, while a full whole-home renovation with structural change in Sydney commonly runs from around $150,000 into the several hundred thousands. Materials are usually the largest single cost, with labour a significant share on top. The only reliable figure is a written fixed-price quote from a licensed builder for your specific home. What does a kitchen renovation cost in Sydney? A budget kitchen refresh - new doors, benchtop and splashback with no layout change - often starts in the low-to-mid tens of thousands. A mid-range full kitchen with new cabinetry, stone-look benchtops, appliances and services updates typically lands higher, and premium custom joinery with a butler&#39;s pantry and integrated appliances higher again. Costs vary with cabinetry material, benchtop choice and the amount of plumbing and electrical work. Get a written quote for an accurate price. How much is a bathroom renovation in Sydney? Bathroom cost is driven by size, tiling extent, whether the layout moves and the quality of fixtures. A straightforward same-layout renovation is usually the most affordable path; moving plumbing, enlarging the room or using premium tiling and tapware increases the figure. Waterproofing to Australian Standard AS 3740 is a non-negotiable part of any compliant bathroom. A licensed renovator will price the work in writing aft",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.renovationsydney.com.au/locations/",
+    "https://www.renovationsydney.com.au/services/",
+    "https://www.renovationsydney.com.au/tools/cost-calculator/",
+    "https://www.renovationsydney.com.au/tools/renovation-checklist/",
+    "https://www.renovationsydney.com.au/services/home-renovations/",
+    "https://www.renovationsydney.com.au/services/kitchen-renovations/",
+    "https://www.renovationsydney.com.au/services/bathroom-renovations/",
+    "https://www.renovationsydney.com.au/locations/bondi/",
+    "https://www.renovationsydney.com.au/locations/mosman/",
+    "https://www.renovationsydney.com.au/locations/paddington/",
+    "https://www.renovationsydney.com.au/locations/balmain/",
+    "https://www.renovationsydney.com.au/locations/newtown/",
+    "https://www.renovationsydney.com.au/locations/chatswood/",
+    "https://www.renovationsydney.com.au/faq/",
+    "https://www.renovationsydney.com.au/locations/manly/",
+    "https://www.renovationsydney.com.au/locations/parramatta/",
+    "https://www.renovationsydney.com.au/locations/hornsby/",
+    "https://www.renovationsydney.com.au/locations/castle-hill/",
+    "https://www.renovationsydney.com.au/locations/cronulla/",
+    "https://www.renovationsydney.com.au/locations/randwick/",
+    "https://www.renovationsydney.com.au/locations/hurstville/",
+    "https://www.renovationsydney.com.au/locations/drummoyne/",
+    "https://www.renovationsydney.com.au/locations/ryde/",
+    "https://www.renovationsydney.com.au/disclaimer/"
+  ]
+}

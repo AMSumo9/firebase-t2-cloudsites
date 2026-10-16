@@ -1,0 +1,244 @@
+{
+  "kicker": "Sydney Renovation Guide",
+  "h1_tail": "For Clearer Project Decisions",
+  "meta_hook": "Plan scope, approvals, costs and builder questions before requesting quotes",
+  "takeaway": "A Sydney renovation decision should start with scope, approval risk, structure and finish level, not with a quote alone. The source page says a full whole-home renovation with structural change commonly starts around $150,000 and can run into several hundred thousands, while smaller kitchen refreshes may begin in the low-to-mid tens of thousands. Waterproofing to AS 3740 is stated as non-negotiable for compliant bathrooms.",
+  "lead": "For homeowners comparing home renovations sydney options, the useful starting point is a clear scope, known property constraints, rough budget and the questions a licensed builder must answer before pricing.",
+  "lead_tail": "with scope, constraints and quote details made clearer before work begins",
+  "stats": [
+    {
+      "value": "6",
+      "label": "renovation service paths referenced"
+    },
+    {
+      "value": "$150,000+",
+      "label": "common starting point for structural whole-home work"
+    },
+    {
+      "value": "AS 3740",
+      "label": "bathroom waterproofing standard named"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Real Project Type",
+      "html": "<p><a href=\"https://www.renovationsydney.com.au/\">Renovation Sydney</a> frames early planning around the property type, the likely constraints and the difference between cosmetic work and structural change. That is useful because home renovations sydney can mean a same-layout kitchen, a leaking bathroom, a whole-house reconfiguration, an extension, a terrace upgrade or an apartment project with access limits.</p><p>The first job is to name what has actually failed. Poor flow, tired cabinetry and appliance locations point toward a kitchen scope. A dated, leaking or awkward wet area points toward a bathroom scope. A home that no longer works as a whole may need layout reconfiguration, service upgrades and coordinated finishes rather than isolated room work.</p><p>Good early notes for a builder include the suburb, property type, rough scope, known heritage or approval concerns, access limits and budget range. The published guide also separates <a href=\"https://home-renovations-sydney.onrender.com/\">Sydney home renovation planning</a> into a related planning resource for readers comparing the same decision from another angle.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide applies to Sydney owners who are not yet ready to sign a contract but need a clearer way to brief a renovator. It is most relevant where the job may involve approvals, structural work, waterproofing, custom joinery, apartment access, terrace constraints or finish choices that could materially change the quote.</p><ul><li><strong>Whole-home renovators:</strong> check whether the brief is a layout problem, a services problem, a finish problem or all three.</li><li><strong>Kitchen renovators:</strong> record whether the layout stays, whether plumbing or electrical work moves and whether custom cabinetry or integrated appliances are part of the expectation.</li><li><strong>Bathroom renovators:</strong> identify leaks, awkward layouts, tiling extent, fixture quality and whether plumbing is moving.</li><li><strong>Extension clients:</strong> ask how structure, approvals and existing home condition affect the path before pricing.</li><li><strong>Apartment owners:</strong> note access, body corporate or strata issues and any restrictions that affect delivery.</li></ul>"
+    },
+    {
+      "h2": "Sydney Property Conditions Change The Brief",
+      "html": "<p>The source page names heritage terraces, harbourside homes, beachside units, project homes and apartments because those categories change the conversation before finishes are chosen. A Paddington terrace under a conservation overlay is not scoped the same way as a Castle Hill second-storey addition or a Cronulla beachside kitchen renovation.</p><p>That does not mean every project needs a complex approval pathway. It means the owner should avoid asking for a generic price before the renovation contractor understands the dwelling, the access, the approval setting and the parts of the home that may be affected by the work. Council pathways, waterproofing and structural questions are best raised early because they can shape the quote and the order of decisions.</p><p>For locality, use suburb details as evidence, not decoration. Bondi, Mosman, Paddington, Balmain, Newtown and Chatswood are all named by the source page, but the relevant question is what the suburb implies for the house type, access, heritage issue, apartment condition or approval conversation.</p>"
+    },
+    {
+      "h2": "Cost Signals Before A Written Quote",
+      "html": "<p>The supplied page gives broad cost language rather than a fixed menu, which is appropriate for renovation work. It says a cosmetic refresh of a few rooms can sit in the tens of thousands, while a full whole-home renovation with structural change in Sydney commonly runs from around $150,000 into several hundred thousands. It also says materials are usually the largest single cost, with labour a significant share on top.</p><p>For kitchen work, the page distinguishes a budget refresh with new doors, benchtop and splashback from a mid-range full kitchen and a premium custom joinery result with features such as a butler's pantry and integrated appliances. The cost drivers named are cabinetry material, benchtop choice and the amount of plumbing and electrical work.</p><p>For bathrooms, the source page identifies size, tiling extent, layout movement and fixture quality as the main cost drivers. It states that waterproofing to Australian Standard AS 3740 is a non-negotiable part of any compliant bathroom, so the quote should make that part of the scope clear rather than treating it as a loose allowance.</p>"
+    },
+    {
+      "h2": "What To Check Before Choosing A Builder",
+      "html": "<p>The clearest checkpoint is whether the contractor can put the scope, price, programme and exclusions in writing before work begins. The source page says builder credentials, insurance details and written scope should be clear before work starts, and that the quoting contractor should set out the scope, price, programme and exclusions so the owner can decide with full information.</p><p>A practical pre-quote checklist should ask for the project type, the rooms affected, known approval issues, likely structural change, access constraints, preferred finish level and budget range. Owners should also ask whether the next step is a full quote, a cost review, a council-approval conversation or a tighter scope rethink.</p><p>Industry bodies such as the Housing Industry Association and Master Builders Australia are useful general references for building industry context, while ASIC Moneysmart provides consumer-facing renovation finance guidance. Use those sources for broader planning, then rely on the written builder quote for the home-specific scope.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Renovation scope comparison for Sydney owners",
+    "headers": [
+      "Project situation",
+      "Early question",
+      "Quote detail to clarify"
+    ],
+    "rows": [
+      [
+        "Cosmetic room refresh",
+        "Are layout and services staying in place?",
+        "Finishes, fixtures, exclusions and any trade work"
+      ],
+      [
+        "Whole-home renovation",
+        "Is structural change part of the brief?",
+        "Scope, programme, price and affected services"
+      ],
+      [
+        "Kitchen upgrade",
+        "Is it a door and benchtop refresh or full reconfiguration?",
+        "Cabinetry, benchtops, appliances, plumbing and electrical work"
+      ],
+      [
+        "Bathroom renovation",
+        "Will the layout move or room size change?",
+        "Waterproofing, tiling extent, fixtures and plumbing"
+      ],
+      [
+        "Extension or addition",
+        "What approvals and structural issues are likely?",
+        "Builder assessment, council pathway and written exclusions"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the property",
+      "text": "Write down the suburb, dwelling type, age cues and any access, heritage, apartment or approval issue already known."
+    },
+    {
+      "name": "Separate scope from finishes",
+      "text": "List structural, layout and services changes before choosing cabinetry, tapware, benchtops or tiles."
+    },
+    {
+      "name": "Set a budget range",
+      "text": "Use the source page's broad cost signals as planning guidance, then wait for a written fixed-price quote for the specific home."
+    },
+    {
+      "name": "Ask for exclusions",
+      "text": "Request the scope, price, programme and exclusions in writing before deciding whether the builder is the right fit."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What information should I prepare before requesting a renovation quote?",
+      "a": "Prepare the suburb, project type, rough scope, budget range, property constraints and anything unusual about access, heritage or approvals. Those are the inputs named by the source page as useful before the builder conversation."
+    },
+    {
+      "q": "Does every Sydney renovation need approval?",
+      "a": "The source page says council pathways and structural work should be considered upfront, but it does not state that every project needs approval. Ask the builder which pathway applies to the specific home and scope."
+    },
+    {
+      "q": "What makes bathroom pricing different from kitchen pricing?",
+      "a": "The source page says bathroom cost is driven by size, tiling extent, layout movement and fixture quality, with AS 3740 waterproofing required for compliance. Kitchen costs are tied to cabinetry material, benchtop choice, appliances and plumbing or electrical changes."
+    },
+    {
+      "q": "Is a written quote enough before work begins?",
+      "a": "A written quote is important, but the source page also points to builder credentials, insurance details, written scope, programme and exclusions. Review those items together before signing a contract."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page frames early renovation planning around property type, likely constraints and the difference between cosmetic work and structural change.",
+      "source": "money page"
+    },
+    {
+      "claim": "Home renovation scopes described by the source page include whole-home work, kitchen renovations, bathroom renovations, extensions, granny flats, heritage work and terrace work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page asks homeowners to provide suburb, project type, rough scope, known approval concerns, access issues and budget context before the builder conversation.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names heritage terraces, harbourside homes, beachside units, project homes and apartments as Sydney property types that can affect scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page contrasts a Paddington terrace under a conservation overlay with a Castle Hill second-storey addition and a Cronulla beachside kitchen renovation.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bondi, Mosman, Paddington, Balmain, Newtown and Chatswood are locations named on the source page.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a cosmetic refresh of a few rooms can sit in the tens of thousands.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a full whole-home renovation with structural change in Sydney commonly runs from around $150,000 into several hundred thousands.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says materials are usually the largest single cost, with labour a significant share on top.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says kitchen renovation cost varies with cabinetry material, benchtop choice and the amount of plumbing and electrical work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says bathroom cost is driven by size, tiling extent, whether the layout moves and fixture quality.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page states waterproofing to Australian Standard AS 3740 is a non-negotiable part of any compliant bathroom.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says builder credentials, insurance details and written scope should be clear before work starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says the quoting contractor should set out the scope, price, programme and exclusions in writing before a decision is made.",
+      "source": "money page"
+    },
+    {
+      "claim": "Housing Industry Association is included as a general building industry reference.",
+      "source": "https://hia.com.au"
+    },
+    {
+      "claim": "Master Builders Australia is included as a general building industry reference.",
+      "source": "https://www.masterbuilders.com.au"
+    },
+    {
+      "claim": "ASIC Moneysmart provides consumer-facing renovation guidance.",
+      "source": "https://moneysmart.gov.au"
+    }
+  ],
+  "scope": "This guide covers Sydney renovation planning, scope checks, cost signals, approval questions and written-quote preparation for homeowners."
+}
