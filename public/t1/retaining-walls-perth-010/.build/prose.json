@@ -1,0 +1,215 @@
+{
+  "kicker": "Perth Wall Guide",
+  "h1_tail": "A Practical Homeowner Guide",
+  "meta_hook": "compare wall types, permit triggers, cost signals and quote questions",
+  "takeaway": "For Perth homeowners, the core numbers are a 0.5 m WA permit trigger and an indicative installed cost of about $250-$600 per square metre of wall face. That price guide excludes GST, excavation, drainage and difficult access. The main decisions are retained height, soil, access, water movement and whether the wall needs engineering, AS 4678 design input or BA3 design compliance documentation.",
+  "lead": "For homeowners comparing retaining walls perth options, the useful starting point is the block itself: sand, slope, access, drainage, height and whether the proposed wall triggers approval.",
+  "lead_tail": "with material choice and council checks brought into the same conversation",
+  "stats": [
+    {
+      "value": "0.5 m",
+      "label": "WA permit trigger noted by the source page"
+    },
+    {
+      "value": "$250-$600",
+      "label": "indicative installed cost per square metre of wall face"
+    },
+    {
+      "value": "8",
+      "label": "wall types explained on the source page"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With Ground, Height And Purpose",
+      "html": "<p><a href=\"https://www.retainingwallsperthwa.com.au/\">Perth Retaining Walls</a> frames wall choice around local ground conditions, not a single default material. On the coastal sand plain, a wall may hold a level building pad or stop a sandy face from ravelling. Around the Darling Scarp foothills, steeper slopes, shallow soil over rock and winter drainage become stronger design questions.</p><p>Brief a contractor with the retained height, wall length, nearby fences or boundaries, access for excavation and whether the wall is part of other building work. Those details affect whether limestone, post-and-panel concrete, besser block, timber sleeper, rock, boulder or engineered retaining wall construction is a realistic fit.</p><p>A related overview of <a href=\"https://sites-e470-1.web.app/retaining-walls-perth-005/\">Perth retaining wall planning</a> is useful when comparing material, approval and quote questions from another editorial angle.</p>"
+    },
+    {
+      "h2": "Material Choices That Change The Quote",
+      "html": "<p>Limestone is described as Perth's most common wall material, helped by local quarrying and its suitability for sandy Swan Coastal Plain blocks. It still has to match the retained height, drainage needs, access and ground behind the wall.</p><p>Panel and post retaining walls become relevant when a taller or longer run needs a repeatable concrete system. Besser block can suit more structural or finished-wall situations. Timber sleeper is presented as a low garden terracing option. Rock and boulder walls sit closer to landscaping, but the same height and water questions still apply.</p><ul><li><strong>Ask what the wall is holding:</strong> garden soil, a building pad, a driveway edge or a slope all change the design brief.</li><li><strong>Ask what is included:</strong> excavation, drainage, disposal, permit support and finishing can alter the final scope.</li><li><strong>Ask what is excluded:</strong> the published cost range excludes GST, excavation, drainage and difficult access.</li></ul>"
+    },
+    {
+      "h2": "Approval And Engineering Checks",
+      "html": "<p>The key WA approval point in the source page is the 0.5 metre retaining height threshold. It says a retaining wall generally needs a building permit once it retains more than 0.5 metres of ground.</p><p>A lower wall can still need approval if it is associated with other building work, affects adjoining land, or sits on a boundary wall or substantial dividing fence. Confirm the permit position with the relevant local government before work starts, especially where the wall is close to a neighbour or tied into other construction.</p><p>For engineered walls, the same source names AS 4678 and the Certificate of Design Compliance, BA3, process. Ask whether engineering, drawings, drainage design and permit documentation are included, priced separately, or outside the builder's scope.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Perth homeowners planning a new wall, replacing an unsuitable wall, or comparing quotes for a block with sand, slope or access constraints. It also suits owners trying to decide whether a low garden wall is simple landscaping or a project that needs more formal checking.</p><p>It is less useful for anyone seeking a universal metre rate without site details. The published guide gives a broad installed wall-face range, but material, height, excavation, drainage and access all change the quote. A small low wall and a taller engineered wall are different purchasing decisions.</p><p>Before asking for a price, collect photos from both sides of the proposed wall, measure the approximate retained height, note nearby structures or fences, and describe how water currently moves after rain.</p>"
+    },
+    {
+      "h2": "Reading A Written Quote",
+      "html": "<p>A written quote should make the wall type, length, approximate height, included works and exclusions easy to compare. The source page says contractors provide written fixed-price quotes, while also stating that prices, rates and estimates are indicative until individual circumstances are assessed.</p><p>Useful quote questions include whether subsoil drainage is included, whether excavation and spoil removal are included, what happens if rock or difficult access is found, and who handles permit documentation if required.</p><p>For homeowners comparing retaining wall builders Perth wide, the strongest quote names the material system, explains ground and access assumptions, and separates optional items from required work. That gives a clearer basis for comparing limestone, precast concrete, timber sleeper and engineered wall options.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Wall choice checkpoints for Perth homeowners",
+    "headers": [
+      "Choice",
+      "Best supported use from the source page",
+      "Questions to ask before quoting"
+    ],
+    "rows": [
+      [
+        "Limestone",
+        "Common local option for sandy Swan Coastal Plain conditions",
+        "Is drainage included, and is the wall height within a simple or engineered scope?"
+      ],
+      [
+        "Post-and-panel concrete",
+        "Useful for taller or longer runs",
+        "What panel system is proposed, and does the quote include engineering or permit support?"
+      ],
+      [
+        "Timber sleeper",
+        "Lower garden terracing option",
+        "What height is being retained, and what inclusions are allowed for?"
+      ],
+      [
+        "Engineered wall",
+        "Projects needing formal design or compliance steps",
+        "Does the quote allow for AS 4678 design work and BA3 documentation where needed?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the retained height",
+      "text": "Record the approximate height of ground the wall will hold back, because the source page identifies 0.5 metres as the WA permit trigger."
+    },
+    {
+      "name": "Document the site",
+      "text": "Take photos of access, slopes, fences, nearby structures and drainage paths before asking for a quote."
+    },
+    {
+      "name": "Compare inclusions",
+      "text": "Check whether excavation, drainage, GST, permit support and difficult access are included or excluded."
+    },
+    {
+      "name": "Confirm approval",
+      "text": "Ask the relevant local government before assuming a wall is exempt from approval."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should a Perth retaining wall cost?",
+      "a": "The source page gives a broad guide of about $250-$600 per square metre of wall face installed. It says the figure depends on material, height and access, and excludes GST, excavation, drainage and difficult access."
+    },
+    {
+      "q": "Does every retaining wall in WA need a permit?",
+      "a": "No. The source page says a permit generally applies once a wall retains more than 0.5 metres of ground, but a lower wall can still need approval if it is tied to other building work, affects adjoining land or sits on a boundary or substantial dividing fence."
+    },
+    {
+      "q": "Which material is best for sandy Perth blocks?",
+      "a": "The source page says limestone is Perth's most common retaining wall material and suits the sandy Swan Coastal Plain well. The right choice still depends on wall height, budget, access, drainage and whether engineering is required."
+    },
+    {
+      "q": "What should I send before asking for a quote?",
+      "a": "Send photos, suburb or postcode, approximate wall length and retained height, access notes, and whether the wall is near a boundary, fence, driveway or building work. Those details help separate a simple garden wall from a more technical project."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Typical installed retaining wall-face costs in Perth are about $250-$600 per square metre, excluding GST, excavation, drainage and difficult access.",
+      "source": "money page"
+    },
+    {
+      "claim": "A WA retaining wall generally needs a building permit once it retains more than 0.5 metres of ground.",
+      "source": "money page"
+    },
+    {
+      "claim": "A wall under 0.5 metres can still need approval if associated with other building work, affecting adjoining land, or on a boundary wall or substantial dividing fence.",
+      "source": "money page"
+    },
+    {
+      "claim": "AS 4678 and the Certificate of Design Compliance, BA3, process are relevant to engineered retaining wall compliance.",
+      "source": "money page"
+    },
+    {
+      "claim": "Perth retaining wall materials discussed by the source include limestone, post-and-panel, besser block, timber sleeper, rock and boulder walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Limestone is described by the source as Perth's most common retaining wall material and as suitable for the sandy Swan Coastal Plain.",
+      "source": "money page"
+    },
+    {
+      "claim": "Post-and-panel concrete systems suit taller or longer runs according to the source page.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls are described by the source as working well for low garden terracing.",
+      "source": "money page"
+    },
+    {
+      "claim": "Perth ground conditions discussed by the source include the coastal sand plain and the Darling Scarp foothills.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says contractors provide written fixed-price quotes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says quotes, prices, rates and estimates are indicative and subject to individual circumstances and revision.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers material choice, quote checks, approval triggers and practical planning for Perth retaining wall projects."
+}
