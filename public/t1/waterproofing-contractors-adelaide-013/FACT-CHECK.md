@@ -1,0 +1,17 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source page presents waterproofing services for Adelaide homes and buildings. | SUPPORTED | Money page headline says “Waterproofing Adelaide homes and buildings.” |
+| The source page says contractors hold the required South Australian building work contractor licence. | SUPPORTED | Money page says “Every contractor holds the required South Australian building work contractor licence.” |
+| The source page states wet-area work is completed to AS 3740. | SUPPORTED | Money page says wet-area work is completed to the Australian Standard for domestic wet areas and separately names “AS 3740 compliance.” |
+| The source page says customers receive a clear, itemised quote and scope before work begins. | SUPPORTED | Money page says customers receive “a clear, itemised quote and scope before any work begins.” |
+| The source page says full membrane installations are backed by a written workmanship warranty from the contractor. | SUPPORTED | Money page says full membrane installations are backed by “a written workmanship warranty from the contractor.” |
+| The source page lists residential waterproofing, commercial waterproofing, external waterproofing, waterproofing membranes, bathroom waterproofing, shower waterproofing, balcony waterproofing, basement waterproofing, retaining wall waterproofing, roof deck waterproofing and leak detection and repair. | SUPPORTED | The money page lists all 11 named service categories. |
+| The source page describes a four-step process: project details, site inspection, written quote and work completed to Australian Standards. | SUPPORTED | Money page “How it works” has those four steps: project details, site inspection, written quote, then work completed to Australian Standards. |
+| The source page says leak detection includes moisture tracing, invasive investigation and targeted leak repair. | SUPPORTED | Money page describes “Moisture tracing, invasive investigation and targeted leak repair.” |
+| The source page says basement waterproofing can involve below-ground tanking, sump systems and hydrostatic pressure control. | SUPPORTED | Money page states “Below-ground tanking, sump systems and hydrostatic pressure control.” |
+| The source page says retaining wall waterproofing can involve positive-side and negative-side membrane systems. | SUPPORTED | Money page states “Positive- and negative-side membrane systems for retaining walls.” |
+| The source page describes coastal Adelaide locations as exposed to salt-laden air, wind and UV affecting balconies, terraces and roof decks. | SUPPORTED | Glenelg text mentions salt-laden air and UV affecting balconies, terraces and roof decks; Henley Beach mentions salt, wind and UV stressing waterproofing systems. |
+| The source page describes older homes, heritage terraces, character cottages and original wet areas as relevant waterproofing contexts in several Adelaide suburbs. | SUPPORTED | Suburb blurbs mention heritage terraces, character cottages, older homes and original wet areas in Adelaide CBD, North Adelaide, Goodwood, Burnside and related suburb entries. |
+| Built page credit: “Original illustration. Editorial illustration only.” | SUPPORTED | Image metadata lists credit as “Original illustration” and source as generated fallback; “editorial illustration only” describes page usage, not a business/location claim. |
+
+FACT-CHECK: PASS
