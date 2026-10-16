@@ -1,0 +1,243 @@
+{
+  "kicker": "Coastal Ground Guide",
+  "h1_tail": "Practical Costs And Approval Checks",
+  "meta_hook": "compare wall types, drainage, approvals and quote inputs before you build",
+  "takeaway": "A useful Sunshine Coast retaining wall brief starts with height, length, what sits above the wall, ground type and drainage. The published guide says face area is height multiplied by length, names 8 wall and drainage service paths, and flags engineering for walls over 1 metre or carrying surcharge. It also notes council approval can matter before construction, modification or repair, with council concurrence for walls over 2 metres.",
+  "lead": "For homeowners comparing retaining walls sunshine coast options, the practical decision is material fit, ground behaviour, drainage, approvals and what the wall is expected to hold.",
+  "lead_tail": "with the main quote questions set before contractors price the job",
+  "stats": [
+    {
+      "value": "8",
+      "label": "wall service paths noted"
+    },
+    {
+      "value": "1m+",
+      "label": "engineering trigger noted"
+    },
+    {
+      "value": "2m+",
+      "label": "council concurrence trigger noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Wall Problem",
+      "html": "<p><a href=\"https://www.retainingwallsunshinecoast.au/\">Retaining Wall Sunshine Coast</a> sets a useful order for scoping: height, what sits above the wall, ground and drainage first, then material choice. A matching finish can hide very different structures behind the face.</p><p>A low garden terrace, a boundary replacement, a tall rendered block wall and a sloping acreage wall should not be quoted as one generic job. Measure height and length, describe what the retained ground supports, note the ground type where known, and ask how water will leave the back of the wall.</p><p>The published guide names concrete sleeper, timber sleeper, besser block, rock, gabion, drainage, engineered work and repairs. A related <a href=\"https://sites-e470-1.web.app/retaining-walls-sunshine-coast-001/\">Sunshine Coast retaining wall planning note</a> gives another practical entry point for the same decision.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for owners deciding whether a wall is a landscaping item, a replacement job, structural retaining work or an approval question before they invite quotes. It suits sites where a slope limits usable yard space, an older wall is bulging or cracked, or a boundary level change needs a clearer scope.</p><ul><li><strong>Replacement jobs:</strong> ask whether the old wall failed through drainage, age, movement or load from above.</li><li><strong>Sloping blocks:</strong> ask whether the design needs engineering, batter room or staged excavation access.</li><li><strong>Coastal and hinterland sites:</strong> describe the ground, because the guide distinguishes range clay, volcanic soil, sandstone and dune sand.</li><li><strong>Repair enquiries:</strong> record cracks, leaning, bulging, wet spots and what sits above the wall.</li></ul>"
+    },
+    {
+      "h2": "Material Choice Follows Site Conditions",
+      "html": "<p>Concrete sleeper walls are described as steel reinforced sleepers between galvanised posts, a common replacement form. Timber sleeper walls remain relevant for low garden falls and terraces. Core filled besser block is described for taller, rendered and engineered work. Rock and boulder walls need room to batter back into the slope, while gabion baskets are described for scour and surface runoff on erodible ground.</p><p>Compare access as well as appearance. Can excavation equipment reach the wall line? Is there space behind the face for drainage aggregate? Does the project need a rendered finish, a natural battered form, or a narrow boundary solution? Those answers stop quotes from describing different structures under the same brief.</p><p>For repair work, decide whether the existing structure can be assessed and repaired or whether replacement is more realistic. The published page specifically names assessment, repair and full replacement of failing, bulging or cracked walls.</p>"
+    },
+    {
+      "h2": "Approval And Engineering Questions",
+      "html": "<p>The published guide says Sunshine Coast Council requires a building permit before construction, modification or repair of most retaining walls, and that council concurrence applies for walls over 2 metres. It also says walls over 1 metre or carrying a surcharge sit on an engineered pathway with AS 4678 design and RPEQ Form 15 and Form 16 certification.</p><p>Ask whether the proposed wall is structural, whether anything above it creates surcharge, whether the designer is working to AS 4678, and what certification will be supplied. If approval is said not to apply, ask which exemption or pathway supports that position and keep the answer with the quote documents.</p><p>Licensing is a separate check. The guide says QBCC licensing is triggered by the value of the building work, not by the height of the wall. A short wall can still involve licensed building work if the project value crosses the relevant threshold.</p>"
+    },
+    {
+      "h2": "Drainage Belongs In The Scope",
+      "html": "<p>The published page treats subsoil drainage as structural. It names ag drain, gravel and geofabric as part of the drainage discussion and says poor drainage is the leading cause of wall failure. Drainage should appear early in quote comparison, especially on wet slopes or where surface runoff is visible.</p><p>A stronger quote should describe what goes behind the wall, where the water is directed, and how the drainage detail suits the soil. A weaker quote may focus on visible material while leaving the backfill and discharge path vague.</p><p>Separate the visible face from the buried system. Wall face area helps compare cost bands, while drainage detail helps compare durability and scope.</p>"
+    },
+    {
+      "h2": "Quote Inputs That Clarify Price",
+      "html": "<p>The guide explains that retaining walls are priced by square metre of wall face, calculated as height multiplied by length. It gives the example of a 1.2 metre high and 10 metre long wall as 12 square metres of face.</p><p>Before requesting quotes, prepare a short brief with measured height and length, suburb or postcode, what sits above the wall, access notes, visible drainage issues and preferred materials if known. Include photos taken square to the wall, from each end, and from above where safe.</p><p>Keep exclusions visible. Earthworks, engineering, approval, drainage outlets, removal of the old wall, fencing, landscaping reinstatement and access constraints can change the finished price. Compare the quote that makes those inclusions and exclusions easiest to audit.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Retaining wall decision comparison",
+    "headers": [
+      "Question",
+      "Lower complexity signal",
+      "Higher complexity signal"
+    ],
+    "rows": [
+      [
+        "Height and load",
+        "Low garden fall with no surcharge described",
+        "Wall over 1 metre or carrying surcharge"
+      ],
+      [
+        "Approval path",
+        "Clear exemption or permit position documented",
+        "Permit, concurrence or certification questions remain open"
+      ],
+      [
+        "Ground and drainage",
+        "Drainage detail, backfill and outlet described",
+        "Water path behind the wall is vague"
+      ],
+      [
+        "Material fit",
+        "Material suits access, finish and retained ground",
+        "Finish chosen before ground and load are assessed"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Measure the face",
+      "text": "Record wall height and length so the face area can be calculated before quotes are compared."
+    },
+    {
+      "name": "Describe the load",
+      "text": "Note what sits above the wall, including gardens, driveways, structures, fences or level changes."
+    },
+    {
+      "name": "Check approvals",
+      "text": "Ask whether the wall needs a building permit, concurrence, engineering or certification before work is priced."
+    },
+    {
+      "name": "Compare drainage",
+      "text": "Look for ag drain, aggregate, geofabric and a clear water discharge path in the scope."
+    },
+    {
+      "name": "Read exclusions",
+      "text": "Separate materials, excavation, approvals, removal, reinstatement and access costs before choosing a contractor."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How are retaining wall costs compared?",
+      "a": "The published guide says walls are priced by square metre of wall face, which is height multiplied by length. A 1.2 metre high and 10 metre long wall is therefore 12 square metres of face."
+    },
+    {
+      "q": "When does engineering become part of the discussion?",
+      "a": "The guide says walls over 1 metre or carrying a surcharge are typically treated as engineered retaining wall work, with AS 4678 design and RPEQ Form 15 and Form 16 certification noted."
+    },
+    {
+      "q": "Is drainage optional behind a retaining wall?",
+      "a": "The published page treats subsoil drainage as a requirement and names ag drain, gravel and geofabric as part of the drainage scope. It also says poor drainage is the leading cause of wall failure."
+    },
+    {
+      "q": "Which wall material is best?",
+      "a": "There is no single best material. Material choice should follow height, ground, drainage, available room and finish, with concrete sleeper, timber, besser block, rock and gabion each suited to different circumstances."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Face area is height multiplied by length.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide names 8 wall and drainage service paths: concrete sleeper, timber sleeper, besser block, rock and boulder, gabion, drainage, engineered work and repairs.",
+      "source": "money page"
+    },
+    {
+      "claim": "Walls over 1 metre or carrying a surcharge are described as sitting on an engineered retaining wall pathway with AS 4678 design, Form 15 and Form 16.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sunshine Coast Council approval can matter before construction, modification or repair of most retaining walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sunshine Coast Council concurrence applies for walls over 2 metres.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide distinguishes Blackall Range basalt clay, Buderim volcanic soil, Landsborough sandstone and coastal dune sand.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper walls are described as steel reinforced sleepers between galvanised posts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Timber sleeper walls are described for gardens, terraces and low boundary retaining.",
+      "source": "money page"
+    },
+    {
+      "claim": "Besser block walls are described as core filled and steel reinforced for taller engineered retaining and rendered finishes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Rock and boulder walls are described as battered back for hinterland and range blocks.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabion walls are described as rock filled wire baskets suited to sloping and erosion prone sites.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide names assessment, repair and full replacement of failing, bulging or cracked retaining walls.",
+      "source": "money page"
+    },
+    {
+      "claim": "QBCC licensing is triggered by the value of the building work, not the height of the wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "Subsoil drainage behind the wall is described as a requirement and the page names ag drain, aggregate and geofabric.",
+      "source": "money page"
+    },
+    {
+      "claim": "Poor drainage is described as the leading cause of wall failure.",
+      "source": "money page"
+    },
+    {
+      "claim": "The guide gives an example where a 1.2 metre high and 10 metre long wall is 12 square metres of face.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers retaining wall planning, material comparison, drainage, approvals and quote preparation for Sunshine Coast projects."
+}
