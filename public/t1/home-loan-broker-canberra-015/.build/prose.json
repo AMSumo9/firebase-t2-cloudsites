@@ -1,0 +1,236 @@
+{
+  "kicker": "ACT Loan Prep",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare documents, policy questions and next steps before you apply",
+  "takeaway": "For Canberra borrowers, the useful starting point is not a promised rate. It is a prepared loan file: income, expenses, deposit, property type and timing. The source guide identifies first home buying, refinancing, construction, investment, self-employed and bridging needs, notes common deposit pathways of 5, 10 and 20 percent, and says ACT Home Buyer Concession Scheme guidance removes the income threshold from 1 July 2026. Credit advice still belongs with a licensed broker or authorised representative.",
+  "lead": "For borrowers comparing home loan broker canberra options, the practical question is how to prepare a cleaner file before a lender assesses income, expenses, deposit position and property details.",
+  "lead_tail": "with a focus on documents, policy questions and the next practical step",
+  "stats": [
+    {
+      "value": "6",
+      "label": "loan purposes named"
+    },
+    {
+      "value": "5, 10, 20%",
+      "label": "deposit pathways noted"
+    },
+    {
+      "value": "1 July 2026",
+      "label": "ACT concession guidance date"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The File, Not The Rate",
+      "html": "<p><a href=\"https://www.financebrokercanberra.com.au/\">Finance Broker Canberra</a> frames the early conversation around preparation: income, expenses, savings, deposit, property type and timing. That is a useful order because a broker cannot turn a vague goal into a lender-ready application without the facts that shape serviceability and policy fit.</p><p>A borrower can make the first discussion sharper by separating fixed facts from open questions. Fixed facts include payslips or business income evidence, regular expenses, savings history and the rough purchase or refinance objective. Open questions include whether a concession, guarantee, investment structure or staged building payment may affect the loan pathway.</p><ul><li><strong>For first buyers:</strong> ask what documents a lender may request when deposit source, concessions or a guarantee are part of the plan.</li><li><strong>For refinancers:</strong> compare the current loan position with the documents needed for a new assessment.</li><li><strong>For builders:</strong> prepare questions about contracts, progress payments and staged drawdowns before applying.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to Canberra borrowers who want a broker conversation but do not yet know which questions to bring. The source material names first home buyers, refinancers, investors, construction borrowers, self-employed applicants and people considering bridging finance.</p><p>The same preparation logic applies across those scenarios, but the documents and policy questions change. A salaried first buyer may focus on deposit history and concession paperwork. A self-employed borrower may need to organise variable income evidence. An investor may need to discuss rental income treatment, buffers, loan structure and lender policy without assuming that every lender will view the file the same way.</p><p>Local context is relevant where it changes the file. The source page flags ACT concessions, apartment lending, public-sector income and cross-border Queanbeyan purchases as topics that can belong in an early review. Those points should be framed as questions for the broker, conveyancer or relevant authority, not as assumptions.</p>"
+    },
+    {
+      "h2": "Canberra Questions To Bring To A Broker",
+      "html": "<p>A strong broker meeting does not need a long speech. It needs targeted questions that expose the parts of the application a lender may test. In Canberra, the source guide suggests asking about ACT buyer assistance, apartment lending, public-sector income and Queanbeyan purchases when those facts apply to the borrower.</p><p>Useful questions include: what income evidence should be prepared, how current expenses will be presented, whether the deposit pathway is realistic for the chosen property, and what property documents are needed before assessment. For ACT concession questions, the source page directs borrowers to check eligibility with the ACT Revenue Office or a conveyancer.</p><p>Borrowers comparing broker guides can also use the related <a href=\"https://mortgage-broker-canberra-18098e.gitlab.io/\">Canberra mortgage broker guide</a> for another preparation angle, while keeping the factual file consistent across any enquiry.</p>"
+    },
+    {
+      "h2": "When A Loan Purpose Changes The Conversation",
+      "html": "<p>The loan purpose should be clear before documents are gathered. A refinance review starts with the existing loan and asks whether available options are worth comparing. A construction loan discussion needs the build pathway, such as a knockdown rebuild, house-and-land package or staged payment arrangement. Bridging finance is different again because the borrower may need to settle before an existing property sale completes.</p><p>Investment lending also deserves a separate discussion. The source guide points to rental income, buffers, loan structure and lender policy as issues for Canberra investors. ASIC Moneysmart also treats property investment as a distinct financial decision, which is a reminder to test the loan against broader cash flow, not only borrowing capacity.</p><p>Self-employed applicants should expect the conversation to spend more time on income evidence. The source page names sole traders, company directors and contractors as examples where variable income preparation may matter.</p>"
+    },
+    {
+      "h2": "What A Broker Can And Cannot Settle For You",
+      "html": "<p>The source guide draws a clear line between organising an enquiry and providing credit assistance. It says credit regulated work stays with licensed brokers or authorised representatives. That means an editorial guide can help a borrower prepare questions, but individual borrowing power, approval and settlement timing still depend on the lender assessment and property details.</p><p>ASIC Moneysmart encourages borrowers to compare loans carefully, including costs and features. In a broker conversation, that can become a practical checklist: ask which documents are missing, which assumptions are uncertain, what lender policy issue could slow the file, and what advice needs to come from another professional, such as a conveyancer for concession eligibility.</p><p>The cleanest next step is a short written summary of the borrower goal, property type, timing and unresolved questions. That gives the licensed broker or authorised representative something concrete to test.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Loan purpose and preparation focus",
+    "headers": [
+      "Borrower situation",
+      "Preparation focus",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Deposit evidence, concession paperwork and lender readiness",
+        "What documents are needed before applying?"
+      ],
+      [
+        "Refinancer",
+        "Current loan details and alternative loan options",
+        "Is the existing loan worth comparing against available options?"
+      ],
+      [
+        "Construction borrower",
+        "Build contract, property pathway and staged payments",
+        "How will progress payments be assessed?"
+      ],
+      [
+        "Investor",
+        "Rental income, buffers, loan structure and lender policy",
+        "How will the lender treat the investment income and expenses?"
+      ],
+      [
+        "Self-employed borrower",
+        "Variable income evidence",
+        "Which income documents are needed for the assessment?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the goal",
+      "text": "Write down whether the enquiry is for a purchase, refinance, investment, construction, self-employed or bridging scenario."
+    },
+    {
+      "name": "Collect documents",
+      "text": "Prepare income, expenses, savings and property documents before the lender assessment starts."
+    },
+    {
+      "name": "List local questions",
+      "text": "Note any ACT concession, apartment lending, public-sector income or Queanbeyan purchase issue that may affect the file."
+    },
+    {
+      "name": "Check authority matters",
+      "text": "Confirm concession eligibility with the ACT Revenue Office or a conveyancer rather than relying on informal summaries."
+    },
+    {
+      "name": "Ask for the next step",
+      "text": "Request a clear explanation of what the broker needs before credit assistance can proceed."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can a broker help with ACT stamp duty concessions?",
+      "a": "The source guide says a broker can help with documents a lender may need, but concession eligibility should be checked with the ACT Revenue Office or a conveyancer."
+    },
+    {
+      "q": "Is the ACT Home Buyer Concession Scheme income tested?",
+      "a": "The supplied source says ACT Revenue Office guidance removes the income threshold from 1 July 2026. Borrowers should check the current authority page before signing."
+    },
+    {
+      "q": "How much deposit is needed in Canberra?",
+      "a": "The source guide says deposit needs depend on property price, lender policy, savings history and whether a guarantee or concession applies. It names 5, 10 and 20 percent pathways as common comparison points."
+    },
+    {
+      "q": "Does this replace licensed credit advice?",
+      "a": "No. The source guide says credit assistance must come from a licensed broker or authorised credit representative, and that approval depends on lender assessment and property details."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The early loan conversation should prepare income, expenses, savings, deposit, property type and timing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide covers first home buying, refinancing, construction, investment, self-employed and bridging loan scenarios.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide names common deposit comparison pathways of 5, 10 and 20 percent.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide says ACT Revenue Office guidance removes the Home Buyer Concession Scheme income threshold from 1 July 2026.",
+      "source": "money page"
+    },
+    {
+      "claim": "Credit regulated work stays with licensed brokers or authorised representatives.",
+      "source": "money page"
+    },
+    {
+      "claim": "Borrowing power, approval and settlement timing depend on lender assessment and property details.",
+      "source": "money page"
+    },
+    {
+      "claim": "Canberra review topics may include ACT concessions, apartment lending, public-sector income and cross-border Queanbeyan purchases.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concession eligibility should be checked with the ACT Revenue Office or a conveyancer.",
+      "source": "money page"
+    },
+    {
+      "claim": "Investment loan preparation can involve rental income, buffers, loan structure and lender policy.",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction loan preparation can involve knockdown rebuilds, house-and-land packages and staged building payments.",
+      "source": "money page"
+    },
+    {
+      "claim": "Self-employed loan preparation may involve sole traders, company directors and contractors with variable income evidence.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bridging finance may be relevant where a buyer needs to settle before an existing property sale completes.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart provides consumer guidance on home loans.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "ASIC Moneysmart provides consumer guidance on property investment.",
+      "source": "https://moneysmart.gov.au/property-investment"
+    }
+  ],
+  "scope": "This guide covers Canberra loan preparation, broker questions, borrower scenarios and sourced authority checks before applying."
+}
