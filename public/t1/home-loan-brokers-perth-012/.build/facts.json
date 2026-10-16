@@ -1,0 +1,303 @@
+{
+  "node_id": "perthhomeloanbroker-012",
+  "money_domain": "perthhomeloanbroker.com.au",
+  "money_home_url": "https://www.perthhomeloanbroker.com.au/",
+  "money_host": "netlify",
+  "cloud_host": "surge",
+  "host_type": "root",
+  "file_mode": "index",
+  "filename": "index.html",
+  "discovery": "full",
+  "canonical": "https://sites-e470-1.web.app/home-loan-brokers-perth-012/",
+  "live_url": "https://sites-e470-1.web.app/home-loan-brokers-perth-012/",
+  "subdomain": "home-loan-brokers-perth-guide",
+  "gh_repo": null,
+  "primary_kw": "home loan brokers perth",
+  "kw_slug": "home-loan-brokers-perth",
+  "anchor_kw": "home loan brokers perth",
+  "brand": "Finance Broker Perth",
+  "target_page_url": "https://www.perthhomeloanbroker.com.au/",
+  "tier": "t1",
+  "structure": "direct",
+  "links_up_to": "money",
+  "up_link_url": null,
+  "up_link_label": null,
+  "node_role": null,
+  "ring_next": null,
+  "sibling": {
+    "node_id": "perthhomeloanbroker-001",
+    "url": "https://cloudsites-hub.pages.dev/sites-01/perthhomeloanbroker-001/",
+    "primary_kw": "home loan brokers perth"
+  },
+  "socials_found": [],
+  "niche": "finance",
+  "curated_authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "starter_entities": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "reference_topics": {
+    "source": "/opt/t1/live-sites-cloudsites/_cache/research/perthhomeloanbroker.com.au/_reference",
+    "kw_suggestions": [],
+    "topic_entities": [
+      {
+        "name": "Mortgage Brokers",
+        "type": "SERVICE",
+        "salience": 1.0
+      },
+      {
+        "name": "Base Home Loans",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Orange Mortgage and Finance Brokers",
+        "type": "ORGANIZATION",
+        "salience": 1.0
+      },
+      {
+        "name": "Perth",
+        "type": "LOCATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Daniel Niederberger",
+        "type": "PERSON",
+        "salience": 0.95
+      },
+      {
+        "name": "Perth Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "NAB",
+        "type": "ORGANIZATION",
+        "salience": 0.95
+      },
+      {
+        "name": "Finance & Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.95
+      },
+      {
+        "name": "Home loans",
+        "type": "SERVICE",
+        "salience": 0.925
+      },
+      {
+        "name": "Mortgage Broker",
+        "type": "SERVICE",
+        "salience": 0.9
+      },
+      {
+        "name": "National Australia Bank",
+        "type": "ORGANIZATION",
+        "salience": 0.9
+      },
+      {
+        "name": "Home Loan",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "SMSF loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Liberty Advisers",
+        "type": "ORGANIZATION",
+        "salience": 0.85
+      },
+      {
+        "name": "Basic variable rate",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Tailored variable rate with offset",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Tailored fixed rate",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Fixed rate home loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Variable rate home loans",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "First Home Buyer Finance",
+        "type": "SERVICE",
+        "salience": 0.85
+      },
+      {
+        "name": "Laszlo",
+        "type": "PERSON",
+        "salience": 0.85
+      },
+      {
+        "name": "Refinancing",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Personal loans",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "First home buyer",
+        "type": "CONCEPT",
+        "salience": 0.8
+      },
+      {
+        "name": "Parental Guarantees",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "New Arrival Home Loans",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Temporary Visa Home Loans",
+        "type": "SERVICE",
+        "salience": 0.8
+      },
+      {
+        "name": "Offset Account",
+        "type": "CONCEPT",
+        "salience": 0.8
+      },
+      {
+        "name": "Credit Score",
+        "type": "CONCEPT",
+        "salience": 0.8
+      },
+      {
+        "name": "RBA",
+        "type": "ORGANIZATION",
+        "salience": 0.8
+      }
+    ],
+    "lsi_keywords": [
+      "mortgage broker Perth",
+      "home loan Perth WA",
+      "first home buyer Perth",
+      "refinance home loan Perth",
+      "investment property loan Perth",
+      "construction loan Perth",
+      "commercial loan broker Perth",
+      "North Perth mortgage broker",
+      "Osborne Park home loan broker",
+      "WA stamp duty concessions home loan",
+      "First Home Owner Grant Perth",
+      "Keystart low deposit loan Perth",
+      "mortgage broker fees Perth",
+      "mortgage interest rates Perth WA",
+      "best interests duty mortgage broker Perth"
+    ]
+  },
+  "image": {
+    "file": "home-loan-brokers-perth.jpg",
+    "photographer": "Steve Doig",
+    "source": "Unsplash",
+    "credit": "Photo by Steve Doig on Unsplash"
+  },
+  "build_date": "2026-09-19",
+  "money_home_text": "Finance Broker Perth | Perth Home Loan Broker P Perth Homeline Brokers Connect with Perth&#39;s best home loan brokers - 100+ lenders, one enquiry Home Services Home Loans Refinancing Commercial Finance Car Loans First Home Buyer Investment Loans Construction Loans View All Services → Locations Perth CBD West Perth Subiaco Fremantle Joondalup East Perth North Perth Leederville Nedlands Claremont South Perth Rockingham View All Locations → Blog Resources FAQ About 08 5122 5626 Free Consultation Home Services Home Loans Refinancing Commercial Finance Car Loans First Home Buyer Investment Loans Construction Loans Locations Perth CBD West Perth Subiaco Fremantle Joondalup East Perth North Perth Leederville Nedlands Claremont South Perth Rockingham Blog Resources FAQ About Call 08 5122 5626 Free Consultation Perth&#39;s Broker Connection Service Find Your Perfect Perth Home Loan Broker Connect with qualified Perth brokers and access 100+ lenders all in one place. Home loans, refinancing, commercial finance, and more. One enquiry, multiple options, zero cost to you. Free Consultation View Services 100+ Lenders Free Service Local Understanding Connect with Your Perth Home Loan Broker Tell us what you need and you can speak with a qualified independent broker. Free, no obligation. Your Name Phone Number How can we help? Free Consultation Your details are shared only with licensed brokers. We respect your privacy. Request Received! Thank you for reaching out. One of our finance specialists will contact you within the next 4 business hours to discuss your needs. Send another request Connect with Your Perth Home Loan Broker Tell us what you need and you can speak with a qualified independent broker. Free, no obligation. Your Name Phone Number How can we help? Free Consultation Your details are shared only with licensed brokers. We respect your privacy. Request Received! Thank you for reaching out. One of our finance specialists will contact you within the next 4 business hours to discuss your needs. Send another request Trusted Broker Connections Why Choose independent brokers Licensed Brokers All independent brokers hold appropriate credit licences and qualifications. 100+ Lenders Access to major banks (CBA, Westpac, NAB, ANZ, Bankwest) plus specialist lenders. MFAA &amp; FBAA Brokers committed to industry association codes of conduct and ethics. Free Service No cost to you. Brokers are paid by lenders when your loan settles. Perth Local Brokers who understand the Perth property market and local conditions. How It Works Get Connected in 3 Simple Steps Learn about our process 01 Tell Us Your Needs Share your finance requirements - home loan, refinance, business finance, or vehicle loan. Takes less than 2 minutes. 02 Broker Review you can work with a qualified Perth broker from independent brokers who specialises in your loan type. No obligation. 03 Compare Options Your broker compares products from 100+ lenders to find options suited to your situation. You choose what works best. Our Services Finance Solutions for Every Need Independent Perth brokers cover all major finance types. Whether you&#39;re buying your first home, refinancing, or growing a business, you can speak with a specialist. Home Loans First home buyers, upgraders, and investors. Access 100+ lenders through local brokers. Learn More Refinancing Compare rates and potentially save thousands. Our brokers find better deals for your situation. Learn More Commercial Finance Business loans, equipment finance, and commercial property. Solutions for Perth businesses. Learn More Car Loans New and used vehicle finance. Competitive rates from our lender panel. Learn More First Home Buyer Specialist brokers for first home buyers. FHBG grants, 5% deposits, and guidance. Learn More Investment Loans Property investor specialists. Interest-only options, equity access, portfolio lending. Learn More Construction Loans New builds and knockdown rebuilds. Progress payment lending from specialist brokers. Learn More Example Scenarios How We Can Help Perth Clients These illustrative examples show the types of finance problems local brokers can help solve. Every situation is different - connect with a qualified broker to discuss yours. First Home Buyer | First Home Buyers - Northern Suburbs \"Young couple saving for their first home in Perth&#39;s northern suburbs. Limited deposit and unsure about government schemes.\" Solution: A specialist first home buyer broker can identify FHBG eligibility, potentially enabling purchase with 5% deposit and no LMI - saving thousands in upfront costs. Refinancing | Homeowner - Western Suburbs \"Homeowner on an older variable rate who hasn&#39;t reviewed their loan in years and may be paying above market rates.\" Solution: A refinance specialist can compare 100+ lenders to find better rates, potentially with cashback offers - annual savings can be significant. Commercial Finance | Perth Transport Operator \"Growing business needing equipment finance for fleet expansion. Main bank declined due to business age.\" Solution: A commercial finance broker can access specialist lenders who understand business lending - often with faster approvals and competitive rates. Helping People Across Perth and WA independent brokers Perth&#39;s Trusted Broker Network Home Loan Specialists Residential Finance Experts \"Brokers specialising in first home buyers, upgraders, and property investors across Perth. Expert knowledge of FHBG, LMI, and deposit strategies.\" Commercial Brokers Business Finance Specialists \"Experienced in business loans, equipment finance, commercial property, and cash flow solutions for Perth enterprises from startups to established companies.\" Refinance Experts Rate Comparison Specialists \"Dedicated to reviewing existing loans and finding better options. Skilled negotiators who secure rate reductions, cashbacks, and improved loan features.\" Common Questions Finance Broker FAQs How much does using a finance broker cost? Our s",
+  "target_page_text": "",
+  "nav_candidates": [
+    "https://www.perthhomeloanbroker.com.au/services",
+    "https://www.perthhomeloanbroker.com.au/services/home-loans",
+    "https://www.perthhomeloanbroker.com.au/services/refinancing",
+    "https://www.perthhomeloanbroker.com.au/services/commercial-finance",
+    "https://www.perthhomeloanbroker.com.au/services/car-loans",
+    "https://www.perthhomeloanbroker.com.au/services/first-home-buyer",
+    "https://www.perthhomeloanbroker.com.au/services/investment-loans",
+    "https://www.perthhomeloanbroker.com.au/services/construction-loans",
+    "https://www.perthhomeloanbroker.com.au/locations",
+    "https://www.perthhomeloanbroker.com.au/locations/perth-cbd",
+    "https://www.perthhomeloanbroker.com.au/locations/west-perth",
+    "https://www.perthhomeloanbroker.com.au/locations/subiaco",
+    "https://www.perthhomeloanbroker.com.au/locations/fremantle",
+    "https://www.perthhomeloanbroker.com.au/locations/joondalup",
+    "https://www.perthhomeloanbroker.com.au/locations/east-perth",
+    "https://www.perthhomeloanbroker.com.au/locations/north-perth",
+    "https://www.perthhomeloanbroker.com.au/locations/leederville",
+    "https://www.perthhomeloanbroker.com.au/locations/nedlands",
+    "https://www.perthhomeloanbroker.com.au/locations/claremont",
+    "https://www.perthhomeloanbroker.com.au/locations/south-perth",
+    "https://www.perthhomeloanbroker.com.au/locations/rockingham",
+    "https://www.perthhomeloanbroker.com.au/resources",
+    "https://www.perthhomeloanbroker.com.au/faq",
+    "https://www.perthhomeloanbroker.com.au/resources/keystart-home-loans-perth",
+    "https://www.perthhomeloanbroker.com.au/tools/stamp-duty-calculator-wa"
+  ]
+}
