@@ -1,0 +1,215 @@
+{
+  "kicker": "Gold Coast Finance",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "compare broker fit, loan pathways and questions before applying",
+  "takeaway": "A Gold Coast borrower can use a broker to compare a panel of 30+ lenders, seek pre-approval, refinance, assess investor lending or check low-deposit options. The published service says most residential borrowers pay no direct broker fee because lenders usually pay on settlement. It also cites a $30,000 Queensland First Home Owner Grant for eligible new builds under $750,000, current to 30 June 2026, plus a 5% deposit pathway for eligible buyers.",
+  "lead": "For buyers, refinancers and investors comparing mortgage broker gold coast options, the useful question is not only rate, but whether the broker can explain lender fit, costs and timing clearly.",
+  "lead_tail": "with a focus on borrower scenarios, loan features and comparison questions",
+  "stats": [
+    {
+      "value": "30+",
+      "label": "lenders on the panel"
+    },
+    {
+      "value": "$30,000",
+      "label": "QLD grant cited for eligible new builds"
+    },
+    {
+      "value": "5%",
+      "label": "deposit pathway cited for eligible buyers"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Where a broker can add value",
+      "html": "<p><a href=\"https://www.homeloanbrokergoldcoast.com.au/\">Home Loan Broker Gold Coast</a> publishes guidance on comparing lenders, sorting pre-approval and choosing between home loan structures. The practical work is narrowing lender options before an application is lodged, then explaining the trade-offs between interest rate, comparison rate, repayment type and loan features.</p><p>The source page names first home buyer loans, refinancing, investment property lending, low deposit pathways, self-employed applications, pre-approval and bridging finance. Those categories need different questions. A contractor may need income assessed beyond payslips. A buyer with a smaller deposit may need to ask about Lenders Mortgage Insurance and eligibility pathways. An investor considering interest only repayments should ask how that structure affects lender choice and pricing.</p><p>Use the first conversation to test the process. Ask which lenders are being compared, why any lender has been ruled out, whether the option is fixed, variable, principal and interest or interest only, and how an offset account or redraw feature changes the overall position.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for Gold Coast borrowers choosing between applying directly with a lender and using a broker to compare options. It is relevant to a first home buyer seeking pre-approval, an owner-occupier considering a refinance, an investor comparing loan structures or a self-employed borrower who needs income reviewed through documents such as tax returns or BAS.</p><ul><li><strong>First home buyers:</strong> ask how pre-approval, deposit, Lenders Mortgage Insurance and any eligible Queensland grant or guarantee pathway affect the purchase plan.</li><li><strong>Refinancers:</strong> compare the switch rate against costs, repayment changes, offset access and the comparison rate.</li><li><strong>Investors:</strong> ask whether owner-occupier and investor pricing differ, and whether interest only settings suit the intended holding plan.</li><li><strong>Self-employed borrowers:</strong> confirm which documents each lender will assess before choosing where to apply.</li></ul><p>For wider background on borrower choices, this related guide to <a href=\"https://home-loans-gold-coast-guide.vercel.app/\">home loans on the Gold Coast</a> is a useful companion before a broker call.</p>"
+    },
+    {
+      "h2": "Gold Coast scenarios to prepare for",
+      "html": "<p>The published page names Southport apartment blocks, Burleigh Heads and Coomera house-and-land as local examples. Use those references as prompts for property-specific questions, not as proof that one suburb automatically suits one lender.</p><p>A house-and-land buyer should ask whether the lender needs construction or progress-payment details. An apartment buyer should ask whether the property type or building details affect the security assessment. A borrower selling and buying with different settlement dates should ask whether bridging finance is suitable and what repayments may look like while both properties are involved.</p><p>For Queensland first home buyers, the provider cites the First Home Owner Grant for eligible new builds under the stated price cap and date. Treat that as a checklist item to verify against current government rules before relying on it in a contract budget. A grant can affect cash flow, but lender approval still depends on the borrower, property and loan structure.</p>"
+    },
+    {
+      "h2": "Fees, commissions and duties",
+      "html": "<p>The provider says most residential borrowers pay no direct broker fee because the lender pays on settlement. It also states that upfront commission is typically around 0.65 to 0.70 percent of the loan amount, with ongoing trail commission around 0.15 percent per year. For complex or commercial lending, it says any borrower-paid fee should be disclosed in writing before proceeding.</p><p>Cost disclosure is only one check. The page says a broker must act under ASIC mortgage broker Best Interests Duty when recommending a loan. Make that duty practical by asking why the recommended lender is suitable, which alternatives were considered, and whether a lower repayment involves a feature trade-off.</p><p>The provider also refers to MFAA-accredited brokers and FBAA-accredited specialists on the panel. Membership does not replace reading the credit proposal, but it gives borrowers a standards framework to ask about.</p>"
+    },
+    {
+      "h2": "Questions before applying",
+      "html": "<p>The described process starts with a short enquiry and says no documents are needed up front. Before a full application, a broker still needs enough information to assess income, expenses, deposit, liabilities, property goal and preferred repayment style. Good preparation helps prevent a loan comparison being built on missing details.</p><ol><li>State whether the goal is purchase, refinance, investment, pre-approval, low deposit lending, bridging or a self-employed application.</li><li>List current debts, regular commitments and the deposit or equity available.</li><li>Ask for the difference between the interest rate and comparison rate on shortlisted loans.</li><li>Ask whether offset, redraw, fixed rate or variable rate features change the recommendation.</li><li>Request written disclosure of any broker fee, lender commission and key loan assumptions before applying.</li></ol><p>A useful broker conversation should leave you with a shortlist you can understand, the evidence each lender wants and the factors that could change the result before approval.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Borrower paths compared",
+    "headers": [
+      "Borrower path",
+      "Main question",
+      "Evidence to discuss"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "Can pre-approval, deposit and any eligible grant or guarantee pathway support the purchase?",
+        "Savings history, deposit, income, contract type and property plan"
+      ],
+      [
+        "Refinancer",
+        "Does switching improve the position after costs and features are considered?",
+        "Current loan, rate, repayments, offset balance and equity"
+      ],
+      [
+        "Investor",
+        "Which structure suits the property and holding plan?",
+        "Rental assumptions, deposit or equity, repayment type and tax advice needs"
+      ],
+      [
+        "Self-employed borrower",
+        "Which lenders can assess non-standard income documents?",
+        "Tax returns, BAS, business structure and trading history"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the goal",
+      "text": "State whether you are buying, refinancing, investing, seeking pre-approval, using a low deposit pathway or applying as a self-employed borrower."
+    },
+    {
+      "name": "Compare lender fit",
+      "text": "Ask which lenders are being considered and why those options suit your income, deposit, property type and repayment plan."
+    },
+    {
+      "name": "Check the full cost",
+      "text": "Review the comparison rate, loan features, commissions, any borrower fee and the repayment structure before choosing an option."
+    },
+    {
+      "name": "Confirm next steps",
+      "text": "Before submitting an application, confirm documents required, timing assumptions and what could change the lender decision."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does using a broker mean the loan is free?",
+      "a": "No. The provider says most residential borrowers pay no direct broker fee because the lender pays the broker on settlement. The loan still has interest, repayments and any lender fees that apply."
+    },
+    {
+      "q": "What should a first home buyer ask first?",
+      "a": "Ask about pre-approval, deposit options, Lenders Mortgage Insurance and whether any Queensland grant or Australian Government 5% Deposit Scheme pathway may be relevant. Check eligibility against current rules before relying on it."
+    },
+    {
+      "q": "How should I compare interest rate and comparison rate?",
+      "a": "Ask the broker to explain both figures on each shortlisted loan, then check whether features such as offset, redraw, fixed rate or variable rate settings change the recommendation."
+    },
+    {
+      "q": "Can a broker help a self-employed borrower?",
+      "a": "The provider says experienced brokers know which lenders consider tax returns, BAS or alternative income documentation rather than payslips. The fit depends on the borrower documents and lender criteria."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Mortgage and Finance Association of Australia",
+      "url": "https://www.mfaa.com.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The provider names first home buyer loans, refinancing, investment property loans, low deposit pathways, self-employed home loans, pre-approval and bridging finance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider states access to a panel of 30+ lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider cites the Queensland First Home Owner Grant of $30,000 for eligible new builds under $750,000, current for transactions up to 30 June 2026.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider cites an Australian Government 5% Deposit Scheme pathway for eligible buyers to purchase with as little as 5% down without paying lenders mortgage insurance.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says most residential borrowers pay nothing direct because the lender pays the broker on settlement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says upfront broker commission is typically around 0.65 to 0.70 percent of the loan amount, with ongoing trail around 0.15 percent per year.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says complex or commercial loans may involve a borrower-paid fee disclosed in writing before proceeding.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says brokers must operate under ASIC mortgage broker Best Interests Duty when recommending a loan.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider refers to MFAA-accredited brokers and FBAA-accredited specialists on the panel.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider names Southport apartment blocks, Burleigh Heads and Coomera house-and-land as local property examples.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says no documents are needed up front for the initial enquiry process.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Gold Coast broker selection, borrower scenarios, loan comparison questions and sourced fee points for residential borrowers."
+}
