@@ -1,0 +1,231 @@
+{
+  "kicker": "Sydney Tree Care",
+  "h1_tail": "A Practical Owner Guide",
+  "meta_hook": "compare scope, permits, pruning standards and written quotes before booking",
+  "takeaway": "For Sydney owners, the core checks are scope, council position, access and quote clarity. The source page gives a 2026 residential removal range from about $800 for a small accessible tree to $6,000 or more for a large tree near buildings or power lines. It also points to qualified arborists, AS 4373 pruning, written quotes, stump grinding, arborist reports and council TPO checks as the main decision points before work starts.",
+  "lead": "For homeowners comparing tree services sydney options, the useful starting point is not a suburb list, but the tree, access, council setting and written scope.",
+  "lead_tail": "with the quote shaped around the tree and the site",
+  "stats": [
+    {
+      "value": "15",
+      "label": "Sydney suburbs named on the source page"
+    },
+    {
+      "value": "AS 4373",
+      "label": "pruning standard referenced"
+    },
+    {
+      "value": "$800-$6,000+",
+      "label": "indicative 2026 removal range"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What To Clarify Before A Site Visit",
+      "html": "<p><a href=\"https://www.sydneytrees.net.au/\">Sydney Tree Services</a> presents tree care as a scoped job rather than a quick booking, which is the right way to approach work that may involve access, protected trees, power lines, disposal and stump grinding. A useful enquiry describes the tree, the suburb or postcode, the result wanted and anything that could affect access before anyone prices the work.</p><p>The source page separates removal, selective pruning, stump grinding, palm care, hedge trimming and arborist reports. Those categories matter because the right next step can change. A tree that only needs clearance from a structure is different from a tree being removed for development, and a stump left in place is a different job from one ground out and cleared.</p><ul><li>Describe whether the issue is removal, pruning, reporting, stump grinding or a mix of tasks.</li><li>Say whether the tree is near buildings, fences, driveways or power lines.</li><li>Ask whether council checks are needed before work is approved.</li><li>Ask for disposal, timing and stump work to be stated in the written quote.</li></ul>"
+    },
+    {
+      "h2": "Council, TPO And Report Questions",
+      "html": "<p>The published FAQ says many Sydney councils require a permit or development consent before protected trees are removed or heavily pruned under a Tree Preservation Order or Development Control Plan. It also says rules vary by local government area and may use DBH thresholds or protected species lists. That makes council status a quote question, not an assumption.</p><p>An arborist report is listed for council, risk and development purposes. If a project relates to renovation, development or a neighbour concern, ask whether a report is needed before the cutting scope is finalised. That is especially important where the owner wants a fixed-price written quote, because a council outcome can change what work is allowed.</p><p>For a deeper removal-only view, this <a href=\"https://tree-removal-sydney-guide.netlify.app/\">tree removal guide for Sydney properties</a> sits beside the broader service discussion and is useful when the question has moved from tree care generally to whether a tree can or should be removed.</p>"
+    },
+    {
+      "h2": "Pruning, Lopping And Arborist Standard",
+      "html": "<p>The source page draws a clear line between qualified arborist work and indiscriminate lopping. It says qualified arborists carry out selective pruning to Australian Standard AS 4373 and understand tree biology, risk and safe work practices, while tree lopping is described as indiscriminate cutting discouraged by modern arboriculture standards.</p><p>For owners, the practical question is how the proposed cuts will be chosen. Ask whether the work is selective pruning, palm care, hedge trimming, removal of a hazardous limb or full removal. A quote should make the intended outcome plain enough that the owner can compare like with like, rather than comparing one broad verbal estimate against another.</p><ul><li>For canopy work, ask how the proposed pruning relates to AS 4373.</li><li>For a hazardous limb, ask whether the branch can be managed without removing the whole tree.</li><li>For hedges and palms, ask whether disposal and cleanup are included.</li><li>For complex removals, ask what rigging or access issues affect the scope.</li></ul>"
+    },
+    {
+      "h2": "Cost Signals Without Guesswork",
+      "html": "<p>The only price range stated in the source material is broad: in Sydney in 2026, typical residential tree removal ranges from around $800 for a small, accessible tree to $6,000 or more for a large tree near buildings or power lines. That range should be treated as indicative only, because the same page says exact pricing depends on tree size, species, access and whether stump grinding is included.</p><p>A tight quote starts with inputs, not persuasion. The owner should ask what is included, what is excluded and whether the price changes if council approval, access, power-line proximity or stump grinding changes the job. The source page says every project begins with a clear, itemised written quote, and that is the document to rely on before approving work.</p><p>The strongest comparison is not the lowest number by itself. It is a written scope that names the work, timing, disposal details and any conditions that must be resolved first.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Sydney property owners trying to decide what kind of tree help to request before booking a visit. It applies to single hazardous limbs, pruning, full removals, stump grinding, arborist reports, emergency tree work and site clearances where the owner wants the scope clarified before approval.</p><p>The source page names coverage across the North Shore, Northern Beaches, Eastern Suburbs, Inner West, Hills District, Western Sydney and Sutherland Shire. Those regional references are useful only when they help frame local access and council questions. A narrow street, a protected tree or a tree near power lines is more relevant to the job than the suburb name alone.</p><p>Owners should treat the first enquiry as a fact-gathering step. Provide the suburb or postcode, describe the tree, explain the desired outcome and flag anything near the work area that could affect inspection, quoting or permissions.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Choosing the right tree work pathway",
+    "headers": [
+      "Situation",
+      "Likely pathway",
+      "Quote question"
+    ],
+    "rows": [
+      [
+        "Overgrown branches or shape issue",
+        "Selective pruning",
+        "Will the pruning be carried out to AS 4373?"
+      ],
+      [
+        "Tree removal being considered",
+        "Removal assessment and council check",
+        "Is a permit, development consent or TPO check needed first?"
+      ],
+      [
+        "Tree already cut or stump remaining",
+        "Stump grinding",
+        "Is stump grinding and disposal included in the written scope?"
+      ],
+      [
+        "Council, risk or development question",
+        "Arborist report",
+        "What report purpose should be stated before inspection?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the tree",
+      "text": "State the suburb or postcode, tree position, access limits and the outcome wanted in plain terms."
+    },
+    {
+      "name": "Ask about permissions",
+      "text": "Check whether a Tree Preservation Order, Development Control Plan or council process may affect the work."
+    },
+    {
+      "name": "Separate the services",
+      "text": "Confirm whether the quote covers pruning, removal, stump grinding, reporting, disposal or a combination."
+    },
+    {
+      "name": "Get the quote in writing",
+      "text": "Ask for scope, timing, disposal details and conditions to be itemised before approving the job."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much can tree removal cost in Sydney?",
+      "a": "The source page gives an indicative 2026 residential range of about $800 for a small accessible tree to $6,000 or more for a large tree near buildings or power lines. The exact price depends on tree size, species, access and whether stump grinding is included."
+    },
+    {
+      "q": "Do Sydney owners always need council permission?",
+      "a": "No single rule is stated for every property. The source page says many Sydney councils require a permit or development consent for protected trees under a TPO or Development Control Plan, and that owners should check their specific council."
+    },
+    {
+      "q": "What should be in a written quote?",
+      "a": "A useful quote should set out the scope, timing and disposal details. It should also make clear whether stump grinding, council-related steps or access constraints affect the work."
+    },
+    {
+      "q": "Why ask for an arborist rather than just tree cutting?",
+      "a": "The source page says qualified arborists carry out selective pruning to AS 4373 and understand tree biology, risk and safe work practices. It contrasts that with indiscriminate lopping, which is discouraged by modern arboriculture standards."
+    }
+  ],
+  "about": [
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The source page references tree removal, pruning, stump grinding, palm care, hedge trimming and arborist reports.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says qualified arborists and AS 4373 pruning are used for pruning work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says every project begins with a clear, itemised written quote.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says enquiries are scoped around the tree, access, council requirements and the desired outcome.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says many Sydney councils require a permit or development consent to remove or heavily prune protected trees under a Tree Preservation Order or Development Control Plan.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says council rules vary by local government area and often use DBH thresholds or protected species lists.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists arborist reports for council, risk and development purposes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says qualified arborists carry out selective pruning to Australian Standard AS 4373 and understand tree biology, risk and safe work practices.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says tree lopping generally refers to indiscriminate cutting discouraged by modern arboriculture standards.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page gives a 2026 typical residential tree removal range from around $800 for a small accessible tree to $6,000 or more for a large tree near buildings or power lines.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says exact price depends on tree size, species, access and whether stump grinding is included.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says written quotes include scope, timing and disposal details.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names coverage across the North Shore, Northern Beaches, Eastern Suburbs, Inner West, Hills District, Western Sydney and Sutherland Shire.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says tree work near power lines in NSW must follow SafeWork NSW and relevant electricity network distributor minimum approach distances.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says only trained, authorised operators may work closer than the prescribed distance near power lines.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Sydney tree care scoping, council questions, pruning standards, quote inputs and owner checks before approval."
+}
