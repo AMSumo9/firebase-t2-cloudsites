@@ -1,0 +1,19 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The provider describes its process as a measure-up, layout planning, material and lighting decisions, drawings, then an itemised fixed-price written quote before work begins. | SUPPORTED | Money page process says: “Free measure-up,” then “plan the layout, materials and lighting, show you drawings, and give you an itemised fixed-price written quote.” |
+| The source page says cost changes with scope, cabinetry detail, benchtop material and whether the layout changes. | SUPPORTED | FAQ states cost depends on “scope, cabinetry detail, benchtop material and whether the layout changes.” |
+| The source page names service areas including Footscray, Yarraville, Williamstown, Sunshine, St Albans, Point Cook, Werribee and Tarneit. | SUPPORTED | Money page lists all named suburbs in the service area text. |
+| The published service description says the team plans kitchens for period homes and modern rebuilds alike. | SUPPORTED | Money page says work suits “period homes and modern rebuilds alike.” |
+| The source page says each project starts with an itemised, fixed-scope quote and that drawings are shown before cabinetry is made. | SUPPORTED | Money page says each project starts with an “itemised, fixed-scope quote” and that drawings are shown “before any cabinetry is made.” |
+| The source page says projects use registered plumbing and electrical trades in line with Victorian building requirements. | SUPPORTED | Money page says projects use “registered plumbing and electrical trades, in line with Victorian building requirements.” |
+| The source page gives a standard full renovation range of around 6 to 12 weeks from contract to handover. | SUPPORTED | FAQ states a standard full kitchen renovation “usually runs around 6 to 12 weeks from contract to handover.” |
+| The source page says cabinetry and benchtop fabrication often takes 4 to 6 weeks. | SUPPORTED | FAQ states cabinetry and benchtop fabrication “often takes 4 to 6 weeks.” |
+| The source page says the on-site stage usually takes 2 to 4 weeks for demolition, install, plumbing, electrical and finishing. | SUPPORTED | FAQ states the on-site stage “usually takes 2 to 4 weeks” for those stages. |
+| The source page states that domestic building work over $10,000 requires a written major domestic building contract under the Domestic Building Contracts Act 1995. | SUPPORTED | FAQ says work over $10,000 requires a written major domestic building contract under that Act. |
+| The source page says domestic building insurance applies where the contract value is above the current threshold and notes that public guidance in June 2026 commonly cited more than $16,000, with reforms due from 1 July 2026. | SUPPORTED | FAQ contains the threshold wording, the June 2026 “more than $16,000” note, and the 1 July 2026 reform note. |
+| The published process says handover includes a working kitchen plus warranty and compliance paperwork in writing. | SUPPORTED | Handover step says they hand over “a working kitchen, with your warranty and compliance paperwork in writing.” |
+| The source page states that engineered stone with 1% or more crystalline silica has been banned for manufacture, supply, processing and installation across Australia since 1 July 2024. | SUPPORTED | FAQ states this ban and date directly. |
+| The source page lists porcelain and sintered stone, natural stone, laminate, stainless steel, solid timber and compliant low-silica alternatives as options homeowners may discuss. | SUPPORTED | FAQ lists those materials as alternatives after the engineered stone ban. |
+| The source page describes makeovers as door, benchtop and splashback updates that modernise a kitchen without changing the layout. | SUPPORTED | Services section describes “Door, benchtop and splashback updates” that modernise without changing layout. |
+
+FACT-CHECK: PASS
