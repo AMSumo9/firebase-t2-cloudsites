@@ -1,0 +1,235 @@
+{
+  "kicker": "Brisbane Door Guide",
+  "h1_tail": "A Practical Repair Checklist",
+  "meta_hook": "compare faults, quote questions and next steps before booking a repair",
+  "takeaway": "Start with three facts: the fault, the door type and whether a powered opener is involved. The published Brisbane guide names repairs for springs, openers, roller doors, off-track doors, cables, rollers, panels and sections, with location pages for 15 suburbs. It also says quotes are written and fixed before work begins, online figures are indicative only, and mains-voltage opener wiring in Queensland is handled by licensed electricians under the Electrical Safety Act 2002.",
+  "lead": "For homeowners comparing garage door repairs brisbane options, the useful first step is to separate an obvious obstruction from a door that should stop being used until inspected.",
+  "lead_tail": "with the fault, door type and access notes ready before asking for a quote",
+  "stats": [
+    {
+      "value": "15",
+      "label": "Brisbane suburbs referenced"
+    },
+    {
+      "value": "Fixed",
+      "label": "written quotes before work starts"
+    },
+    {
+      "value": "Every",
+      "label": "door type and major brand noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with what the door is doing",
+      "html": "<p><a href=\"https://www.garagedoorrepairsinbrisbane.com.au/\">Garage Door Repairs in Brisbane</a> groups most calls around broken springs, frayed cables, off-track doors, faulty openers, roller door faults and damaged panels or sections. That gives homeowners a practical way to describe the problem before asking for garage door repairs brisbane: report the symptom, not a guessed cause.</p><p>Useful notes include whether the door opens part way, reverses while closing, sits crooked, will not lock, has visible cable damage, or makes a straining motor noise. If there is an opener, record whether the remote, wall button or motor light responds. Add the suburb or postcode because the published guide asks for location details when arranging the next step.</p><ul><li><strong>Will not close:</strong> check whether the sensor path is blocked, dirty or misaligned.</li><li><strong>Heavy or uneven:</strong> stop repeated attempts if a spring or cable problem is visible.</li><li><strong>Panel damage:</strong> note whether the door still tracks evenly or the damage affects movement.</li></ul>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for Brisbane homeowners, renters seeking owner approval, property managers and small commercial occupants who need a clear repair brief. It fits faults where a door will not open, close or lock, or where the opener, spring, cable, roller, panel or track looks affected.</p><p>The published guide refers to service across the northside, inner-west, south and bayside, with examples including Chermside, Aspley, Wynnum, Carindale and Kenmore. Those locations matter for access and scheduling, not as proof that every fault is different by suburb.</p><p>For curtain-style doors, this related guide to <a href=\"https://garagedoorrepairsinbrisbane-002.s3.ap-southeast-2.amazonaws.com/roller-door-repairs-brisbane.html\">roller door repair questions in Brisbane</a> is useful when the door is noisy, jammed, off its guides or lifting unevenly.</p>"
+    },
+    {
+      "h2": "Stop-use signals before a quote",
+      "html": "<p>The clearest stop-use signal named in the published guide is a broken spring. It says the spring carries most of the door's weight, so a broken one makes the door heavy, unbalanced and unsafe to operate. It also says forcing that door with the opener can bend tracks, strain the motor or drop the door.</p><p>A frayed cable, derailed door, failed lock or repeated reversing fault also calls for caution. Clearing an obvious sensor obstruction is a reasonable check when the door will not close properly, but persistent reversing should be inspected rather than overridden.</p><ul><li>Stop using the opener if the motor strains but the door does not move evenly.</li><li>Do not rely on an indicative online figure as the final repair price.</li><li>Ask whether powered opener work includes any mains-voltage wiring.</li></ul>"
+    },
+    {
+      "h2": "Quote details that reduce surprises",
+      "html": "<p>The published guide says customers receive a written fixed-price quote before work starts, while site figures are indicative only. A useful enquiry gives enough detail to separate an adjustment from part replacement, opener work or panel repair.</p><p>Include the door type if known: sectional, roller or tilt. Add the opener brand if visible, such as B&amp;D, Steel-Line, Merlin or ATA, because those are named as common openers. Mention whether the fault followed impact, storm damage, a power issue, remote failure or gradual deterioration.</p><p>Ask what work is included, whether parts are included, and whether electrical work is required. The published guide says mains-voltage wiring, new power points and hard-wired powered opener connections in Queensland must be carried out by a licensed electrician under the Electrical Safety Act 2002.</p>"
+    },
+    {
+      "h2": "Choosing the repair path",
+      "html": "<p>Different symptoms point to different conversations. A closing fault may begin with sensors and track condition. A heavy door points to spring balance. A jammed or crooked door raises track, cable and roller questions. A dead or straining opener needs notes about remotes, wall controls, limit settings and drive components.</p><p>Panel and section replacement is not the same as balancing a door or repairing an opener. It can involve the damaged section, the way the door travels and whether storm or impact damage changed the door's alignment. Cable and roller replacement is more about smooth travel and keeping the door moving evenly.</p><p>For broader home improvement decisions, the listed sources from ASIC Moneysmart, the Housing Industry Association and Master Builders Australia can help with budgeting and building work at a general level. For this job, rely on the written repair scope before work begins.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common garage door repair scenarios",
+    "headers": [
+      "Situation",
+      "What to record",
+      "Likely next question"
+    ],
+    "rows": [
+      [
+        "Door reverses or will not close",
+        "Sensor path, track condition and anything blocking the photo-eyes",
+        "Has clearing the sensor path changed the behaviour?"
+      ],
+      [
+        "Door is heavy or crooked",
+        "Spring condition, cable condition and whether the opener is straining",
+        "Should use stop until a technician inspects it?"
+      ],
+      [
+        "Powered opener fault",
+        "Remote response, wall button response, motor sound and opener brand",
+        "Is licensed electrical work needed for wiring?"
+      ],
+      [
+        "Panel or section damage",
+        "Impact location, storm damage and whether the door tracks evenly",
+        "Is movement affected or mainly the damaged section?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Describe the symptom",
+      "text": "Record whether the door will not open, will not close, reverses, sits unevenly, strains, will not lock, or has visible cable, spring, track or panel damage."
+    },
+    {
+      "name": "Identify the door and opener",
+      "text": "Note whether it is a sectional, roller or tilt door, then add any visible opener brand or remote issue."
+    },
+    {
+      "name": "Check obvious obstructions",
+      "text": "For a closing fault, look for a blocked or dirty sensor path, then stop if the problem persists."
+    },
+    {
+      "name": "Ask for the written scope",
+      "text": "Confirm what the fixed-price quote includes before work starts, especially parts, labour and any electrical component."
+    },
+    {
+      "name": "Separate mechanical and electrical work",
+      "text": "If mains-voltage wiring, a new power point or a hard-wired opener connection is involved, ask how the licensed electrician requirement is handled."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What details should I give before booking a repair?",
+      "a": "Give the suburb or postcode, door type, visible opener brand, what the door is doing, and whether there is spring, cable, track, panel or opener damage. The published guide asks customers to describe the fault and location so the next step can be arranged."
+    },
+    {
+      "q": "Can I rely on an online garage door price?",
+      "a": "Treat it as indicative only. The published guide says the specialist gives a written fixed-price quote before work starts and that site figures are not the final price."
+    },
+    {
+      "q": "Does a garage door motor need an electrician in Queensland?",
+      "a": "The published guide says mains-voltage wiring, new power points and hard-wired opener connections for powered openers must be carried out by a licensed electrician under Queensland's Electrical Safety Act 2002. Mechanical door, spring and track work is described separately."
+    },
+    {
+      "q": "Which faults are named by the Brisbane guide?",
+      "a": "It names broken torsion and extension springs, frayed cables, off-track doors, faulty openers, roller door repair, cable and roller replacement, panel and section replacement, and emergency repair when a door will not secure."
+    }
+  ],
+  "about": [
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published guide names repairs for springs, openers, roller doors, off-track doors, cables, rollers, panels and sections.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide has location pages for 15 Brisbane suburbs.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says quotes are written and fixed before work begins.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says online figures are indicative only.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says mains-voltage opener wiring in Queensland is handled by licensed electricians under the Electrical Safety Act 2002.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide groups common calls around broken springs, frayed cables, off-track doors, faulty openers, roller door faults and damaged panels or sections.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide asks for location details when arranging the next step.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says a door that will not close or keeps reversing is usually a safety-sensor problem, with worn rollers, a bent track or opener force and travel settings also possible causes.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says a broken spring makes the door heavy, unbalanced and unsafe to operate.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says forcing a door with a broken spring can bend tracks, strain the motor or drop the door.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide refers to service across the northside, inner-west, south and bayside, with examples including Chermside, Aspley, Wynnum, Carindale and Kenmore.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide names sectional, roller and tilt doors.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide names B&D, Steel-Line, Merlin and ATA as common openers.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says mains-voltage wiring, new power points and hard-wired powered opener connections in Queensland must be carried out by a licensed electrician under the Electrical Safety Act 2002.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says mechanical door, spring and track work does not need an electrician.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical fault notes, quote questions and repair decision points for Brisbane garage door issues."
+}
