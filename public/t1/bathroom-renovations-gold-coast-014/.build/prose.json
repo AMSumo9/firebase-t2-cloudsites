@@ -1,0 +1,239 @@
+{
+  "kicker": "Gold Coast Bathrooms",
+  "h1_tail": "A Practical Renovation Guide",
+  "meta_hook": "plan scope, waterproofing, quote inputs and contracts before the site visit",
+  "takeaway": "A practical Gold Coast bathroom enquiry starts with the room problem, then moves to scope. The source page says owners provide suburb or postcode, rough budget and desired changes, then the job is clarified before site review. It states waterproofing is to AS 3740, quotes are written and itemised, costs vary by room size, fittings and trade work, and a Domestic Building Contract is used for work over $3,300.",
+  "lead": "For homeowners comparing bathroom renovations gold coast options, the useful starting point is a written brief that separates leaks, layout limits, waterproofing and finish choices before quoting begins.",
+  "lead_tail": "with the room problems set out before selections take over",
+  "stats": [
+    {
+      "value": "AS 3740",
+      "label": "waterproofing standard named by the provider"
+    },
+    {
+      "value": "$3,300+",
+      "label": "contract threshold stated on the source page"
+    },
+    {
+      "value": "15",
+      "label": "Gold Coast suburbs listed in the provider coverage"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start with the room problem",
+      "html": "<p><a href=\"https://www.bathrenovationgoldcoast.com.au/\">Bath Renovation Gold Coast</a> frames the first enquiry around what is frustrating about the room, where the property is on the Gold Coast and what the owner wants changed. That order is useful because a bathroom quote is shaped by more than tiles. A tired room may involve a leaking shower, dated surfaces, cramped storage, poor access, or an ensuite that no longer suits the main bedroom.</p><p>Name the practical fault before choosing finishes. For a leaking shower, ask how membrane, drainage and screen details are checked before new tiles go in. For a compact room, ask what storage, shower access and fixture placement can improve without relying on extra floor area. For an apartment or holiday-let ensuite, raise access and building rules early, because the source page says local homes, access, humidity and apartment rules are part of the first questions.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide is for Gold Coast homeowners preparing a bathroom renovation enquiry where the room is tired, leaking, dated or awkward to use. It is most relevant before a site visit, when the owner still has time to define the brief rather than react to a quote that bundles too many assumptions together.</p><ul><li><strong>Full strip-out:</strong> ask how layout, waterproofing, tiling and final fit-off will be scoped together.</li><li><strong>Small bathroom:</strong> ask which changes improve access and storage within the existing footprint.</li><li><strong>Ensuite:</strong> ask whether the goal is better daily use, a calmer feel or a more practical main bedroom connection.</li><li><strong>Shower replacement:</strong> ask how leak causes, drainage, membrane and screen details are handled.</li></ul><p>A related <a href=\"https://bathroom-renovation-gold-coast-guide.vercel.app/\">Gold Coast bathroom renovation guide</a> can help compare a single-room upgrade with a wider renovation brief.</p>"
+    },
+    {
+      "h2": "Quote inputs to prepare",
+      "html": "<p>The provider asks for suburb or postcode, rough budget and what the owner wants changed. Those details are not a finished scope, but they help the renovator arrive with context. Prepare a short note that separates must-have outcomes from finish preferences. A must-have might be fixing a leak, improving shower access or replacing a cramped layout. A preference might be tile format, feature area or vanity style.</p><p>The source page says costs and timelines vary with room size, fitting quality and how much plumbing and electrical work is needed. Treat early figures as planning ranges until the room is reviewed. Before the visit, write down what is staying, what may need to move, and which parts of the job remain uncertain.</p><ol><li>Describe the current problem in plain language.</li><li>List fixtures and finishes likely to be replaced.</li><li>Flag access constraints, apartment rules or holiday-let timing needs.</li><li>Ask which quote items depend on site inspection.</li></ol>"
+    },
+    {
+      "h2": "Waterproofing and contract checks",
+      "html": "<p>The source page states that wet-area waterproofing is carried out to Australian Standard AS 3740 by licensed waterproofers, with aspect certification on completion. It also says every project begins with a clear, itemised quote, and that work over $3,300 uses a written Domestic Building Contract.</p><p>Those statements give owners three checks before approval. First, confirm what is included from demolition through tiling and fit-off. Second, ask how waterproofing will be documented. Third, ask what contract form applies if the quoted work is above the stated threshold. These questions define the work being approved and the evidence expected at completion.</p><p>ASIC Moneysmart’s renovation guidance is a useful external prompt to budget carefully and understand renovation costs before committing. Industry bodies such as the Housing Industry Association and Master Builders Australia also publish building and trade information for broader context.</p>"
+    },
+    {
+      "h2": "Local conditions to raise early",
+      "html": "<p>Locality should change the questions asked at the first visit. The source page refers to Southport, Coolangatta, the hinterland edge, Nerang, Surfers Paradise and Labrador, and it names local homes, access, humidity and apartment rules as quote considerations. Do not turn that into a suburb checklist. Use it to describe the property accurately.</p><p>An apartment ensuite in Surfers Paradise may need early discussion about access, body corporate rules and scheduling. A family bathroom in Nerang may centre on layout, waterproofing and fit-off coordination. A leaking shower in Labrador should put membrane, drainage and screen details ahead of cosmetic choices. For other Gold Coast homes, the answer should come from the site review, not from assumptions about the suburb.</p>"
+    },
+    {
+      "h2": "Choosing the right scope",
+      "html": "<p>Many owners are deciding between a targeted upgrade and a full renovation. The source page supports both paths: shower replacements and tiling sit beside full bathroom renovations, small bathroom refits and ensuite upgrades. The right path depends on the problem. A dated shower may suit a focused replacement if the wider room still works. A tired or impractical bathroom may need a broader plan so layout, waterproofing, tiling and fit-off are considered together.</p><p>Compare quotes by inclusion, not just total price. Check what is fixed, what is provisional and what proof is supplied for waterproofing and completion. Photos can make two finished rooms look similar, while the underlying demolition, plumbing, electrical work, waterproofing and tile set-out differ sharply.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Comparing renovation scope options",
+    "headers": [
+      "Option",
+      "Best fit",
+      "Questions to ask"
+    ],
+    "rows": [
+      [
+        "Shower replacement or upgrade",
+        "A leaking or dated shower where the wider room may still work",
+        "How are membrane, drainage and screen details handled before tiling?"
+      ],
+      [
+        "Small bathroom refit",
+        "Compact rooms where access, storage and layout matter most",
+        "Which changes improve use without relying on extra floor area?"
+      ],
+      [
+        "Full bathroom renovation",
+        "Tired, leaking or impractical rooms needing coordinated work",
+        "What is included from strip-out through waterproofing, tiling and fit-off?"
+      ],
+      [
+        "Ensuite upgrade",
+        "Main bedroom bathrooms that feel cramped or dated",
+        "Is the goal better access, double vanity planning or a calmer layout?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Write the room brief",
+      "text": "Record the current problem, desired changes, suburb or postcode and any rough budget before enquiring."
+    },
+    {
+      "name": "Separate must-haves from preferences",
+      "text": "Put leak repairs, access needs and layout issues ahead of tile colours or feature choices."
+    },
+    {
+      "name": "Ask for scope clarity",
+      "text": "Check that the written quote itemises the work and identifies assumptions that depend on the site review."
+    },
+    {
+      "name": "Confirm wet-area documentation",
+      "text": "Ask how waterproofing to AS 3740 and aspect certification will be handled."
+    },
+    {
+      "name": "Review contract needs",
+      "text": "For work over the stated $3,300 threshold, ask how the Domestic Building Contract is prepared before work starts."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I include in the first enquiry?",
+      "a": "Include your suburb or postcode, rough budget and what you want changed about the bathroom. The source page says these details help clarify room issues, access details and must-have outcomes before the site visit."
+    },
+    {
+      "q": "Does every job need a full strip-out?",
+      "a": "No. The provider lists full renovations, small bathroom refits, ensuite upgrades, shower replacements, waterproofing and tiling. The right scope depends on the room problem."
+    },
+    {
+      "q": "What waterproofing standard is named?",
+      "a": "The source page states that wet-area waterproofing is carried out to Australian Standard AS 3740 by licensed waterproofers, with aspect certification on completion."
+    },
+    {
+      "q": "When is a written contract mentioned?",
+      "a": "The provider states that a written Domestic Building Contract is used for work over $3,300, alongside a clear, itemised quote before work starts."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Bath Renovation Gold Coast frames the first enquiry around what is frustrating about the room, where the property is on the Gold Coast and what the owner wants changed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider helps Gold Coast homeowners turn leaks, dated tiles, cramped layouts and finish ideas into a sharper bathroom renovation brief.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider lists full bathroom renovations, small bathroom renovations, ensuite renovations, shower replacements and upgrades, bathroom waterproofing and bathroom tiling.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider asks for suburb or postcode, rough budget and what the owner wants changed.",
+      "source": "money page"
+    },
+    {
+      "claim": "Costs and timelines vary with room size, quality of fittings and how much plumbing and electrical work is needed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The written quote follows the site review.",
+      "source": "money page"
+    },
+    {
+      "claim": "Wet-area waterproofing is stated as being carried out to Australian Standard AS 3740 by licensed waterproofers, with aspect certification on completion.",
+      "source": "money page"
+    },
+    {
+      "claim": "Every project begins with a clear, itemised quote before work starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "A written Domestic Building Contract is stated for work over $3,300.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider says it covers 15 suburbs and beyond across the Gold Coast.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page refers to Southport, Coolangatta, the hinterland edge, Nerang, Surfers Paradise and Labrador in local examples or coverage statements.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says first questions account for local homes, access, humidity and apartment rules.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart publishes renovation guidance relevant to budgeting and understanding renovation costs.",
+      "source": "https://moneysmart.gov.au"
+    },
+    {
+      "claim": "Housing Industry Association publishes information relevant to residential building and renovation context.",
+      "source": "https://hia.com.au"
+    },
+    {
+      "claim": "Master Builders Australia publishes information relevant to building and trade context.",
+      "source": "https://www.masterbuilders.com.au"
+    }
+  ],
+  "scope": "This guide covers planning, quote inputs, waterproofing, contracts and scope choices for Gold Coast bathroom renovation enquiries."
+}
