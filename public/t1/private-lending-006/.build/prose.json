@@ -1,0 +1,247 @@
+{
+  "kicker": "Structured Funding",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "Compare deal fit, security, capital stack and broker questions before you enquire",
+  "takeaway": "Private property funding is for commercial and business-purpose borrowers whose deal may not fit standard bank lending. The source page gives no fixed rates, dollar minimums or approval timeframes, so the useful comparison is structure: security, senior debt, mezzanine or preferred equity, exit plan and cost of capital. Bottom Line Finance says it arranges finance through third-party non-bank and private lenders, not consumer credit or owner-occupied home loans.",
+  "lead": "For asset-backed borrowers comparing private lending options, the practical question is whether the deal, security and timeline justify non-bank capital rather than a standard bank process.",
+  "lead_tail": "with structure, security and exit strategy checked before price",
+  "stats": [
+    {
+      "value": "Third-party",
+      "label": "non-bank and private lenders"
+    },
+    {
+      "value": "Commercial",
+      "label": "and business-purpose funding only"
+    },
+    {
+      "value": "6",
+      "label": "published service categories"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "When Non-Bank Capital May Fit",
+      "html": "<p><a href=\"https://www.bottomlinefinance.com.au/\">Bottom Line Finance</a> describes private lending as commercial, business-purpose capital from non-bank and private lenders, secured against property or other assets. That makes the starting point less about chasing a headline rate and more about whether the borrower has a real asset base, a credible exit and a purpose that sits outside consumer home lending.</p><p>The clearest use cases in the source material are development funding, construction loans, bridging finance, residual stock loans, mezzanine finance, caveat loans, preferred equity and second mortgages. These are not interchangeable labels. Each sits in a different part of the capital stack or timeline, so a borrower should ask which problem is being solved before comparing offers.</p><ul><li><strong>Timing gap:</strong> bridging finance may be relevant when a site, sale or refinance date does not line up.</li><li><strong>Build program:</strong> construction funding is linked to progress draws released as work is completed.</li><li><strong>Completed stock:</strong> residual stock finance can release equity tied up in unsold completed dwellings.</li><li><strong>Subordinated capital:</strong> mezzanine finance sits behind a senior lender and ahead of equity.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for developers and asset-backed borrowers reviewing commercial funding, not owner-occupiers seeking a home loan. The source page explicitly says the provider does not arrange consumer credit or owner-occupied home loans, so a household buyer should use mainstream home loan resources and regulated credit advice channels instead.</p><p>For a developer, investor or business borrower, the useful preparation is a concise deal pack: project type, location, funding amount, security offered, current debt position, timeline and intended repayment source. The source page asks borrowers to send the project, the numbers and the timeline, which signals that structure depends on the transaction rather than a generic rate card.</p><p>Asset type also matters. The published funding scope includes residential, commercial, industrial, specialised assets, childcare, farm and agribusiness. A childcare acquisition, a rural agribusiness property and an industrial development will raise different questions about income, operator quality, tenant demand, security and exit, so the finance conversation should be shaped around the asset rather than a template.</p>"
+    },
+    {
+      "h2": "Capital Stack Questions To Ask",
+      "html": "<p>Before an enquiry, map the current and proposed capital stack. Identify the senior lender, any second mortgage or mezzanine layer, the borrower equity contribution, expected sales or refinance path and the date by which the facility must be repaid or replaced. This is where cost of capital becomes more useful than the cheapest rate alone.</p><p>The source page frames value around equity protection, return on equity, time, risk and future deal capacity. That is a sensible lens for non-bank funding because a faster or more flexible facility can still be poor value if it leaves no clean exit, compresses the borrower’s margin or complicates the next refinance.</p><ul><li>What asset secures the loan, and is any other security required?</li><li>Is the facility senior debt, mezzanine debt, preferred equity or another structure?</li><li>What events trigger drawdowns, repayments or review?</li><li>How does the lender assess cost to completion, unsold stock or settlement timing?</li><li>What is the intended exit, sale, refinance, settlement proceeds or another source?</li></ul>"
+    },
+    {
+      "h2": "Comparing Development And Construction Needs",
+      "html": "<p>Development finance and construction finance often overlap, but they should not be treated as the same question. The source describes property development finance as funding the land, the build and the cost to completion, while construction loans fund a build in progress with draws released against the program as work is completed.</p><p>That distinction affects the documents a borrower should prepare. For a build in progress, the program, draw schedule, completed works and remaining costs are central. For broader development funding, land position, approvals, feasibility, presales or sales strategy and total cost to completion become part of the finance story.</p><p>Borrowers comparing <a href=\"https://sites-e470-1.web.app/construction-loans-brisbane-003/\">construction loans in Brisbane</a> with broader development capital should ask whether the facility funds only the works, or whether it also addresses acquisition, cost overruns, settlement timing or equity release. The answer can change the lender type and the risk profile.</p>"
+    },
+    {
+      "h2": "How To Read The Published Disclaimer",
+      "html": "<p>The provider’s footer says its information is general only, is not financial, credit or investment advice and is not an offer of finance. Read that literally. A published service page can explain available structures, but it does not tell a borrower whether a particular deal is suitable, affordable or commercially wise.</p><p>ASIC Moneysmart separates home loan education from property investment education, which is a useful reminder that consumer borrowing, investment risk and commercial property funding are different conversations. A borrower using non-bank capital should still obtain legal, tax, valuation and financial advice where the transaction warrants it.</p><p>Case studies are also described as illustrative of past transactions, with outcomes varying by deal and not representing current or typical terms. Treat any example as a way to understand structure, not as a promise about pricing, speed or lender appetite.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common non-bank funding structures compared",
+    "headers": [
+      "Funding need",
+      "What the source page says",
+      "Borrower check"
+    ],
+    "rows": [
+      [
+        "Bridging finance",
+        "Short-term capital that closes a timing gap",
+        "Confirm the sale, refinance or settlement event that repays it"
+      ],
+      [
+        "Construction loan",
+        "Funds a build in progress with draws released as work is completed",
+        "Prepare the program, draw schedule and remaining cost position"
+      ],
+      [
+        "Residual stock loan",
+        "Refinances unsold completed dwellings after practical completion",
+        "Show completed stock, sales strategy and equity tied up"
+      ],
+      [
+        "Mezzanine finance",
+        "Subordinated debt behind the senior lender and ahead of equity",
+        "Understand ranking, exit and effect on borrower equity"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the funding purpose",
+      "text": "State whether the deal is acquisition, construction, bridging, residual stock, development funding or another business-purpose need."
+    },
+    {
+      "name": "Prepare the deal pack",
+      "text": "Collect the project type, location, amount, security, debt position, numbers and timeline before requesting options."
+    },
+    {
+      "name": "Map the exit",
+      "text": "Identify whether repayment is expected through sale, refinance, settlement proceeds or another commercial event."
+    },
+    {
+      "name": "Compare structure before price",
+      "text": "Assess ranking, draw conditions, flexibility, risk and return on equity before focusing on the cheapest rate."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is this type of funding for owner-occupied home buyers?",
+      "a": "No. The source page says the provider arranges commercial and business-purpose funding only and does not arrange consumer credit or owner-occupied home loans."
+    },
+    {
+      "q": "Are rates, fees or approval times published?",
+      "a": "The supplied source does not publish fixed rates, fees, dollar minimums or approval timeframes. Borrowers need to present the deal, numbers and timeline for a structure-specific discussion."
+    },
+    {
+      "q": "What assets can be considered?",
+      "a": "The published scope includes residential, commercial, industrial, specialised assets, childcare, farm and agribusiness, subject to the deal and security stack up."
+    },
+    {
+      "q": "Why compare cost of capital instead of only the rate?",
+      "a": "The source page says the cheapest rate is rarely the best outcome and frames value around return on equity, time, risk and the ability to do the next deal."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Private property funding is for commercial and business-purpose borrowers whose deal may not fit standard bank lending.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page gives no fixed rates, dollar minimums or approval timeframes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bottom Line Finance arranges finance through third-party non-bank and private lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bottom Line Finance does not arrange consumer credit or owner-occupied home loans.",
+      "source": "money page"
+    },
+    {
+      "claim": "Private lending is commercial, business-purpose capital from non-bank and private lenders, secured against property or other assets.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source material identifies development funding, construction loans, bridging finance, residual stock loans, mezzanine finance, caveat loans, preferred equity and second mortgages as services.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bridging finance is short-term capital that closes a timing gap.",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction funding is linked to progress draws released as work is completed.",
+      "source": "money page"
+    },
+    {
+      "claim": "Residual stock finance can release equity tied up in unsold completed dwellings.",
+      "source": "money page"
+    },
+    {
+      "claim": "Mezzanine finance sits behind a senior lender and ahead of equity.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published funding scope includes residential, commercial, industrial, specialised assets, childcare, farm and agribusiness.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page asks borrowers to send the project, the numbers and the timeline.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page frames value around equity protection, return on equity, time, risk and future deal capacity.",
+      "source": "money page"
+    },
+    {
+      "claim": "Property development finance funds the land, the build and the cost to completion.",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction loans fund a build in progress with draws released against the program as work is completed.",
+      "source": "money page"
+    },
+    {
+      "claim": "The provider’s information is general only, is not financial, credit or investment advice and is not an offer of finance.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart separates home loan education from property investment education.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "Case studies are illustrative of past transactions, outcomes vary by deal and do not represent current or typical terms.",
+      "source": "money page"
+    },
+    {
+      "claim": "The cheapest rate is rarely the best outcome according to the source page.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers commercial asset-backed funding structures, borrower preparation and comparison questions for non-bank property finance."
+}
