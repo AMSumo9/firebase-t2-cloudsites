@@ -1,0 +1,183 @@
+{
+  "kicker": "Website Planning",
+  "h1_tail": "A Practical Buyer Guide",
+  "meta_hook": "compare fit, conversion intent and build questions before you brief a designer",
+  "takeaway": "Best Website Creation publishes a free, conversion-focused website design offer for Australian businesses. The source page does not publish package tiers, a delivery timeframe, a phone number, opening hours, review score, or fixed inclusions, so a buyer should treat the next step as a scope conversation. Confirm what “free” includes, who owns the finished site, how conversion goals are defined, and what happens after launch.",
+  "lead": "For Australian businesses comparing web design services, the useful question is not only how a site looks, but whether its brief, structure and follow-up support match a real customer journey.",
+  "lead_tail": "with scope, ownership and conversion goals checked before a build starts",
+  "stats": [
+    {
+      "value": "Free",
+      "label": "published design offer"
+    },
+    {
+      "value": "Australia",
+      "label": "business audience named"
+    },
+    {
+      "value": "Conversion-focused",
+      "label": "stated design emphasis"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Published Offer",
+      "html": "<p><a href=\"https://www.bestwebsitecreation.com.au/\">Best Website Creation</a> describes its offer as free, conversion-focused web design for Australian businesses. That is a useful starting point, but it is not a full scope document. Before a buyer treats the offer as a complete build promise, the practical task is to ask what is included, what is optional, and what the business must supply.</p><p>A clear brief should identify the primary action the site is meant to support. For some businesses that may be an enquiry form, for others it may be a call request, appointment request, quote request or service comparison. The source page uses the phrase conversion-focused, so the brief should translate that into concrete page decisions rather than a vague preference for a modern look.</p><ul><li>Ask which pages are included in the free offer.</li><li>Ask whether copy, imagery, forms, hosting setup and revisions are included.</li><li>Ask who owns the site files, domain connection and account access after launch.</li><li>Ask how the design will guide visitors toward the intended enquiry action.</li></ul>"
+    },
+    {
+      "h2": "How To Judge Conversion Fit",
+      "html": "<p>Conversion fit is easier to assess when the buyer separates visual taste from buyer behaviour. A homepage can look polished while still hiding the next step, burying service proof, or asking too much of a visitor before they understand the offer. A better review starts with the likely first question a visitor brings to the page.</p><p>For a service business, useful page elements often include a plain explanation of the offer, reasons to trust the provider, a visible enquiry path, and enough context for a visitor to decide whether to continue. These are judgement checks, not guaranteed features of any provider. They help a buyer brief a designer without turning the project into a collection of decorative preferences.</p><p>Standards-based design also matters because websites are read by browsers, assistive technology and search systems as structured documents, not just as screenshots. The World Wide Web Consortium is the relevant authority for web standards, so buyers can ask whether the build will use valid markup, accessible interaction patterns and responsive layouts that work across common devices.</p>"
+    },
+    {
+      "h2": "What An Australian Business Should Clarify",
+      "html": "<p>The source page names Australian businesses as the audience. That does not by itself prove any specific local pricing, legal, hosting or support arrangement. It does mean Australian buyers can ask practical local questions before committing time to a build conversation.</p><p>Marketing claims should be treated carefully. The Australian Competition and Consumer Commission is the relevant Australian regulator for fair trading and consumer issues, so public claims on a site should be accurate, clear and not misleading. A buyer briefing a new website should be ready to substantiate service statements, guarantees, testimonials and comparative claims before asking a designer to publish them.</p><p>Useful local checks include whether the site will display an Australian service area, whether enquiry forms capture the right location details, and whether the copy avoids promising availability, outcomes or prices that the business cannot support. A clean design cannot fix claims that are unclear or unsupported.</p>"
+    },
+    {
+      "h2": "When To Compare A Broader Design Angle",
+      "html": "<p>Some buyers arrive with a narrow design question, while others are still defining what kind of website they need. A companion guide on <a href=\"https://cloudsites-hub.pages.dev/sites-01/bestwebsitecreation-001/\">web design in Brisbane</a> may be useful where the comparison is location-led rather than offer-led. The distinction matters because a local service page, a national lead generation page and a simple brochure site do not need the same page structure.</p><p>When comparing providers, ask each one to explain how they would order the homepage, which content they need from the business, and what would count as a successful launch. Those answers are more useful than a gallery of attractive pages with no explanation of strategy.</p><ol><li>Define the primary visitor action before discussing colours or page effects.</li><li>List the pages that are required at launch and the pages that can wait.</li><li>Confirm account access, site ownership and post-launch editing responsibilities.</li><li>Keep claims modest unless the business can prove them.</li></ol>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most relevant to small and growing Australian businesses that want a website brief before approaching a provider. It suits owners comparing a free design offer, operators replacing an outdated site, and teams that need a clearer enquiry path from homepage to contact action.</p><p>It is less useful for buyers who already have a technical specification, a procurement document, or a complex application build. In those cases, the key questions move beyond page layout into integrations, security, governance, data handling and long-term maintenance responsibilities.</p><p>For most service businesses, the sensible first document is still short. Write down the audience, the action the visitor should take, the proof the business can legitimately publish, and the access the business expects after launch. That gives any web design discussion a firmer base than taste alone.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Offer-led comparison checklist",
+    "headers": [
+      "Decision area",
+      "What is known from the source page",
+      "What to ask before proceeding"
+    ],
+    "rows": [
+      [
+        "Price position",
+        "The published offer says free",
+        "Ask what is included and whether optional costs apply"
+      ],
+      [
+        "Design aim",
+        "The published offer says conversion-focused",
+        "Ask how conversion goals will be defined and measured"
+      ],
+      [
+        "Audience",
+        "The published offer names Australian businesses",
+        "Ask how location, service area and enquiry handling will be reflected"
+      ],
+      [
+        "Delivery detail",
+        "No package tiers or timeframe are published in the supplied text",
+        "Ask for scope, milestones, revisions and ownership terms"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the action",
+      "text": "Write one sentence describing what a successful visitor should do on the site."
+    },
+    {
+      "name": "Check the offer",
+      "text": "Ask the provider to separate included work from optional or future work."
+    },
+    {
+      "name": "Prepare proof",
+      "text": "Gather only the claims, testimonials and service statements the business can substantiate."
+    },
+    {
+      "name": "Confirm ownership",
+      "text": "Clarify access to domains, hosting, site files, editing tools and accounts before launch."
+    },
+    {
+      "name": "Review the journey",
+      "text": "Read the homepage as a first-time visitor and check whether the next step is obvious."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the published offer enough to compare providers?",
+      "a": "It is enough to begin a conversation, because the source page states a free, conversion-focused offer for Australian businesses. It is not enough to confirm scope, inclusions, timing or ownership without asking follow-up questions."
+    },
+    {
+      "q": "What should a business ask first?",
+      "a": "Ask what the free offer includes. Then ask how the provider defines conversion, what content the business must supply, and who controls the site after launch."
+    },
+    {
+      "q": "Does conversion-focused design guarantee more enquiries?",
+      "a": "No guarantee is stated in the supplied source text. Treat conversion focus as a design aim that should be translated into page structure, calls to action and clearer visitor pathways."
+    },
+    {
+      "q": "Are Australian consumer rules relevant to website copy?",
+      "a": "Yes. The ACCC is the relevant Australian authority for fair trading and consumer issues, so businesses should avoid publishing claims they cannot support."
+    }
+  ],
+  "about": [
+    {
+      "name": "Search engine optimization",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    },
+    {
+      "name": "Web traffic",
+      "sameAs": "https://en.wikipedia.org/wiki/Web_traffic"
+    },
+    {
+      "name": "Digital marketing",
+      "sameAs": "https://en.wikipedia.org/wiki/Digital_marketing"
+    },
+    {
+      "name": "Local search (Internet)",
+      "sameAs": "https://en.wikipedia.org/wiki/Local_search_(Internet)"
+    },
+    {
+      "name": "Keyword research",
+      "sameAs": "https://en.wikipedia.org/wiki/Keyword_research"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Search engine results page",
+      "sameAs": "https://en.wikipedia.org/wiki/Search_engine_results_page"
+    },
+    {
+      "name": "Backlink",
+      "sameAs": "https://en.wikipedia.org/wiki/Backlink"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Australian Competition and Consumer Commission",
+      "url": "https://www.accc.gov.au"
+    },
+    {
+      "name": "World Wide Web Consortium",
+      "url": "https://www.w3.org"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Best Website Creation describes its offer as free, conversion-focused web design for Australian businesses.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page does not publish package tiers, a delivery timeframe, a phone number, opening hours, review score, or fixed inclusions in the supplied text.",
+      "source": "money page"
+    },
+    {
+      "claim": "The World Wide Web Consortium is the relevant authority for web standards.",
+      "source": "https://www.w3.org"
+    },
+    {
+      "claim": "The Australian Competition and Consumer Commission is the relevant Australian regulator for fair trading and consumer issues.",
+      "source": "https://www.accc.gov.au"
+    },
+    {
+      "claim": "The source page names Australian businesses as the audience.",
+      "source": "money page"
+    },
+    {
+      "claim": "No guarantee of increased enquiries is stated in the supplied source text.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers buyer questions for assessing a free, conversion-focused website design offer for Australian businesses."
+}
