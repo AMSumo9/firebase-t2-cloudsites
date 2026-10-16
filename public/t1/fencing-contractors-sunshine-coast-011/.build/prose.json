@@ -1,0 +1,161 @@
+{
+  "kicker": "Coastal Fencing",
+  "h1_tail": "A Practical Local Guide",
+  "meta_hook": "compare materials, quote inputs and boundary checks before you book",
+  "takeaway": "A Sunshine Coast fence choice usually turns on four sourced checks: site exposure, material, boundary position and quote scope. The source page identifies six job types, Colorbond, timber, pool, aluminium slat, rural fencing and gates. It also notes Queensland dividing fence timing: one month to reach agreement after a notice, then a possible QCAT application within two months. Pool barriers and QBCC licensing need separate confirmation where they apply.",
+  "lead": "For homeowners comparing fencing contractors sunshine coast options, the useful starting point is the fence line itself, including exposure, access, boundary questions and the material the site can reasonably support.",
+  "lead_tail": "with the main decision shaped by site conditions, compliance questions and written quote detail",
+  "stats": [
+    {
+      "value": "6",
+      "label": "fencing job types named"
+    },
+    {
+      "value": "1 month",
+      "label": "agreement period noted"
+    },
+    {
+      "value": "2 months",
+      "label": "QCAT window noted"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With The Fence Line",
+      "html": "<p><a href=\"https://www.noosafencing.com.au/\">Noosa Fencing</a> frames the first decision around the site, not the catalogue. That is a useful way to compare fencing contractors sunshine coast enquiries because the same run length can behave differently on a beachfront block, a sheltered residential boundary or a hinterland acreage line.</p><p>The source page points to three early details that make a quote more useful: the fence line, the suburb or postcode and whether an old fence needs to be removed. Those details help separate a simple boundary replacement from a pool barrier, a gate project, a rural run or a job where access and ground conditions need closer inspection.</p><ul><li>Describe the full run, including corners, returns and gates.</li><li>Say whether there is an existing fence, posts or disposal to consider.</li><li>Flag neighbours, pools, slopes or acreage boundaries before measuring.</li><li>Ask what assumptions sit behind the quote, not just the metre rate.</li></ul>"
+    },
+    {
+      "h2": "Material Choices Should Match The Setting",
+      "html": "<p>The published guide links material choice to exposure and purpose. Colorbond and aluminium slat are presented as suited to salt air and wind on the coastal strip, while timber remains relevant on established hinterland streets and shared dividing fences. Rural fencing is treated separately because paddock and acreage boundaries work differently from residential frontage.</p><p>That does not mean one product is automatically better. Privacy, airflow, street presentation and pool safety lead to different specifications. A front screen may need a different balance from a side boundary. A pool barrier is not just a privacy job, because the source page says pool fencing is a compliance led job with its own safety requirements.</p><p>For neighbouring readers comparing a Noosa specific guide, the related page on <a href=\"https://sitesau.github.io/noosafencing-001/\">fencing contractors in Noosa</a> gives another local angle without changing the basic checklist: match the material to the site and get the assumptions in writing.</p>"
+    },
+    {
+      "h2": "Boundary And Pool Questions Come Before Finish",
+      "html": "<p>A boundary fence is partly a building decision and partly a neighbour conversation. The source page refers to Queensland's Neighbourhood Disputes (Dividing Fences and Trees) Act 2011 and says adjoining owners have a process for considering a sufficient dividing fence. It also notes that premium material, extra height or a preferred finish is not automatically shared if one owner wants more than sufficient.</p><p>Before settling on a finish, ask whether the proposed height changes when measured from the ground or near a retaining wall. Corner blocks can raise sight line questions, and pool barriers follow a separate inspection pathway. The source page says a licensed pool safety inspector is the person who confirms pool barrier requirements.</p><p>The practical order is: locate the boundary, agree the purpose, identify any pool or height issue, then choose the material. That order keeps the visible finish from hiding the more important approval and neighbour questions.</p>"
+    },
+    {
+      "h2": "What A Written Quote Should Show",
+      "html": "<p>A metre rate can help with early budgeting, but the source page warns that it does not describe the whole site. Ground conditions, access, removal, disposal, corners, returns and gates can all change the work beyond the straight metres. Treat a rate as a planning prompt, then ask for the scope behind it.</p><p>A dependable quote should identify the material, fence height, gate inclusions, removal work, disposal, footing assumptions and any site limits the contractor has noticed. It should also make clear whether the quote is based on a site measure or an indicative description supplied online.</p><ul><li><strong>Coastal exposure:</strong> ask how posts and materials are specified for wind and salt air where relevant.</li><li><strong>Hinterland ground:</strong> ask how soil and access affect the footing approach.</li><li><strong>Old fences:</strong> ask whether removal, disposal and making good are included.</li><li><strong>Pool jobs:</strong> ask where inspection and compliance steps sit in the process.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most useful for owners planning residential boundary fencing, pool fencing, rural fencing, front screens or gates across the Noosa and Sunshine Coast setting described in the source material. It also suits owners who are not ready to book work yet but want to prepare a clean enquiry.</p><p>It is less useful where a reader needs legal advice about a neighbour dispute or a formal pool safety decision. In those cases, the published page points toward the relevant process: use the dividing fence framework for neighbour contribution questions, and use a licensed pool safety inspector for pool barrier confirmation.</p><p>For a first enquiry, keep the message factual. Give the suburb or postcode, the approximate run, the desired function, the current fence condition and any known pool, slope, access or neighbour issue. That gives a contractor enough context to decide whether the next step is advice, a site measure or a written quote.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common fence decisions before requesting a quote",
+    "headers": [
+      "Decision",
+      "When it matters",
+      "What to ask"
+    ],
+    "rows": [
+      [
+        "Colorbond or aluminium slat",
+        "Coastal exposure, privacy or street presentation",
+        "How will the posts and panels suit wind and salt air?"
+      ],
+      [
+        "Timber boundary fence",
+        "Established residential or shared dividing fence settings",
+        "What height, style and neighbour contribution assumptions are included?"
+      ],
+      [
+        "Pool barrier",
+        "Any fence forming part of a pool enclosure",
+        "Who confirms the pool safety requirements and inspection pathway?"
+      ],
+      [
+        "Rural fencing",
+        "Acreage, paddock or long hinterland boundary",
+        "What QBCC scope, access and strained wire assumptions apply?"
+      ],
+      [
+        "Gate or automation",
+        "Driveways, pool areas or controlled access points",
+        "Are power, solar option, hardware and opening type included?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Map the run",
+      "text": "Measure the approximate line and note corners, returns, gates, slopes and hard access points."
+    },
+    {
+      "name": "Identify the purpose",
+      "text": "Decide whether the fence is mainly for privacy, pool compliance, stock control, street presentation or a shared boundary."
+    },
+    {
+      "name": "Check constraints",
+      "text": "Flag neighbours, pool barriers, retaining walls, corner sight lines and any old fence removal before asking for a price."
+    },
+    {
+      "name": "Request a written scope",
+      "text": "Ask for material, height, removal, disposal, footing assumptions and exclusions to be shown clearly."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What details should I send before asking for a fencing quote?",
+      "a": "Send the suburb or postcode, approximate fence line, preferred material if known, current fence condition and any access, pool, slope or neighbour issue. The source page says a few details about the fence line are enough to get started."
+    },
+    {
+      "q": "Is a metre rate enough to compare fence prices?",
+      "a": "No. The source page says a rate can help sanity check a project, but access, ground conditions, gates, corners, removal and disposal can all change the scope behind the number."
+    },
+    {
+      "q": "When does a pool fence need separate attention?",
+      "a": "Whenever the barrier is part of a pool area. The source page says pool barriers have separate safety requirements and that only a licensed pool safety inspector confirms the inspection pathway."
+    },
+    {
+      "q": "How does a Queensland dividing fence disagreement usually start?",
+      "a": "The source page says owners should start with a written description of the work and at least one quote. It also notes a notice to contribute, one month to reach agreement and a possible QCAT application within two months of the notice."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "The source page identifies six job types: Colorbond, timber, pool, aluminium slat, rural fencing and gates.",
+      "source": "money page"
+    },
+    {
+      "claim": "Queensland dividing fence timing described on the page includes one month to reach agreement after a notice and a possible QCAT application within two months of the notice.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page frames fence decisions around the site, including the fence line, suburb and any old fence in the way.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says Colorbond and aluminium slat suit salt air and wind on the beachfront strip from Noosa Heads to Marcoola.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says timber remains a relevant choice on established hinterland streets and as a shared dividing fence.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says pool fencing is a compliance led job and pool barriers have separate safety requirements.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a licensed pool safety inspector confirms pool barrier requirements.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says rural fencing covers paddock and acreage boundaries around Doonan, Eumundi and Kin Kin, where different QBCC rules apply.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says a metre rate can help sanity check a project but does not describe the whole site.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names ground conditions, access, corners, returns, gates, removal and disposal as factors that can affect fence scope.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical quote, boundary, material and pool barrier questions for Sunshine Coast fencing projects described by the source page."
+}
