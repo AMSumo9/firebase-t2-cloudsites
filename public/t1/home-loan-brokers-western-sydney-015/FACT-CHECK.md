@@ -1,0 +1,17 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Western Sydney Home Loan Broker presents a service comparing home loans, refinancing and investment finance across Parramatta, Blacktown, Penrith and other Western Sydney suburbs. | SUPPORTED | Money page states: “Compare home loans, refinancing and investment finance across Parramatta, Blacktown, Penrith and every Western Sydney suburb.” |
+| The source page says the service helps with first home buyer loans, refinancing, investment property loans, construction and building loans, self-employed loans and bridging loans. | SUPPORTED | Money page lists those six service categories explicitly. |
+| The source material names Parramatta, Blacktown, Penrith, Liverpool, Campbelltown, Bankstown, Auburn, Leppington and Marsden Park. | SUPPORTED | Money page names all listed suburbs/areas across its hero and body text. |
+| Most lenders require at least 5% of the purchase price as genuine savings. | SUPPORTED | Money page FAQ states: “Most lenders require at least 5% of the purchase price as a genuine savings deposit.” |
+| Borrowing more than 80% of the property value usually brings Lenders Mortgage Insurance into the discussion. | SUPPORTED | Money page says lenders usually require LMI if you borrow more than 80% of property value. |
+| The borrowing calculator uses the APRA 3% prudential buffer. | SUPPORTED | Money page says the borrowing calculator has the APRA buffer built in, and FAQ says lenders test repayments at the actual rate plus the APRA 3% prudential buffer. |
+| Lenders may apply the higher of declared expenses or the Household Expenditure Measure. | SUPPORTED | Money page states most lenders apply the higher of declared expenses or HEM. |
+| ASIC Moneysmart frames home loan decisions around understanding costs, features and repayment commitments. | SUPPORTED | Moneysmart says small differences in “interest rates, costs, and repayments” matter, and links to comparing loans, offset accounts, brokers, interest-only loans and calculators. ([moneysmart.gov.au](https://moneysmart.gov.au/home-loans)) |
+| The published service says its brokers compare a wide lender panel, explain offset accounts, fixed versus variable rates, LMI and scheme questions, and arrange a licensed broker review. | SUPPORTED | Money page says it compares options from a wide lender panel, explains offset accounts, fixed vs variable rates, LMI and NSW scheme matters, and arranges a licensed broker review. |
+| Most standard home loans do not involve a direct broker fee because brokers are typically paid by the lender after settlement. | SUPPORTED | Money page states brokers are paid by the lender once the loan settles for most standard loans, not directly by the borrower. |
+| Complex lending scenarios may involve a fee that should be disclosed in writing up front. | SUPPORTED | Money page says complex scenarios may involve a fee and that it should be disclosed in writing up front. |
+| The source page refers to full-doc and alt-doc options for business owners and contractors with variable income. | SUPPORTED | Money page’s “Self-Employed Home Loans” service says “Full-doc and alt-doc options for business owners and contractors with variable income.” |
+| Built page visible title: “Home Loan Brokers Western Sydney: A Practical Borrower Guide.” | SUPPORTED | This is the page’s own title/current guide framing, not an external claim requiring separate support. No retained unsupported material claim is visible in the supplied built-page text. |
+
+FACT-CHECK: PASS
