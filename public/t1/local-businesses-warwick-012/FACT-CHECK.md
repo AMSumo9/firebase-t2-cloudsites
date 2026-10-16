@@ -1,0 +1,14 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Warwick4370 is a free directory for Warwick and surrounds. | SUPPORTED | Money page says “Find trusted local businesses in Warwick & surrounds” and “get quotes - all free.” |
+| The directory has 38 categories of cross-checked listings. | SUPPORTED | Money page says “Browse 38 categories of cross-checked business listings.” |
+| Visitors can search or browse by category, read reviews, compare services and request quotes. | SUPPORTED | Money page says users can “Search,” “Browse categories,” “Read reviews,” “compare services,” and “request a quote through our form.” |
+| Featured listings include marketing, finance-broker, accommodation, electricians and cafes examples. | SUPPORTED | Featured entries include Toowoomba SEO / marketing, Loan Phone / finance-broker, McNevin’s / accommodation, Electrical Worx / electricians, and Belle Vue Cafe / cafes. |
+| Featured listings show visible ratings and review counts. | SUPPORTED | Several featured listings show ratings and counts, e.g. 5.0 with 12 reviews, 4.6 with 128 reviews, 4.7 with 55 reviews, and 4.5 with 454 reviews. |
+| One finance-broker listing describes asset, car, equipment and business finance options from a network of 100+ lenders. | SUPPORTED | Money page says Loan Phone offers “Asset, car, equipment and business finance options from a network of 100+ lenders.” |
+| The listed categories are accommodation, accountants, air conditioning, beauty and wellness, builders, cafes, carpenters, childcare and education, chiropractors, cleaning services, concreters, dentists, disability and NDIS services, doctors and medical, electricians, farm and rural supplies, fencing, finance brokers, financial advisors, funeral services, gyms and fitness, hair salons, landscapers, marketing, mechanics, optometrists, painters, panel beaters, pest control, pharmacies, physiotherapists, plumbers, real estate agents, restaurants, roofers, solicitors and legal, tyres and wheels, and veterinarians. | SUPPORTED | Money page lists those categories. |
+| Users can get in touch directly by call, email or a quote request form. | SUPPORTED | Money page says “Get in touch directly - call, email, or request a quote through our form.” |
+| Warwick businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking. | SUPPORTED | Money page says “Claim your free listing or upgrade to Pro for priority placement, photos, and lead tracking.” |
+| Built page photo credit: “Original illustration. Editorial illustration only.” | SUPPORTED | Image metadata says photographer “Editorial,” source “generated-fallback,” and credit “Original illustration.” “Editorial illustration only” describes use rather than asserting the image depicts Warwick4370. |
+
+FACT-CHECK: PASS
