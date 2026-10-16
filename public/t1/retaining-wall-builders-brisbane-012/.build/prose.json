@@ -1,0 +1,235 @@
+{
+  "kicker": "Brisbane Site Guide",
+  "h1_tail": "A Practical Site Planning Guide",
+  "meta_hook": "Compare site, drainage, load and approval questions before requesting a scope",
+  "takeaway": "For Brisbane retaining wall work, start with site facts rather than material choice. Record retained height, drainage symptoms, access, nearby loads and boundary conditions before requesting a written scope. The published guide names 8 wall and drainage categories, including sleeper, block, stone, gabion, drainage, engineered approval work, and repairs or replacement. Where design or approval applies, keep Form 15, Form 16 and QBCC licence checks in the discussion.",
+  "lead": "For homeowners comparing retaining wall builders brisbane options, the useful first move is to describe the slope, water path, access limits and nearby structures before choosing a wall style.",
+  "lead_tail": "with the site facts clear before materials are compared",
+  "stats": [
+    {
+      "value": "8",
+      "label": "wall and drainage categories named"
+    },
+    {
+      "value": "Form 15",
+      "label": "design certification referenced"
+    },
+    {
+      "value": "Form 16",
+      "label": "inspection compliance referenced"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Site Facts Before Materials",
+      "html": "<p><a href=\"https://www.retainingwallsbrisbane.net.au/\">Retaining Walls Brisbane</a> frames early planning around grade, water, access, loads and approval questions. That order helps owners avoid choosing a wall style before the slope, retained height, drainage path and nearby structures are understood.</p><p>Begin with observations that a builder, engineer or certifier can test. Measure the visible retained height, photograph the slope from both ends, note where water exits after rain, and record anything close to the wall, such as fences, driveways, pools, slabs or sheds. The published guide also asks owners to note cracks, leaning, decayed posts, erosion, wet areas and recent changes above the wall.</p><ul><li>Use wide photos, not only close-up damage shots.</li><li>Describe machine access before assuming a material is practical.</li><li>Ask where collected water will lawfully discharge.</li></ul>"
+    },
+    {
+      "h2": "Drainage Belongs In The Scope",
+      "html": "<p>The published guide is direct about water: saturated backfill weighs more than dry backfill, and unmanaged water can push against a wall. In Brisbane storm conditions, the drainage question should be discussed before finish, block style or surface appearance, especially where a downpipe, surface runoff or low point feeds the retained area.</p><p>A useful drainage scope names the collection layer, filter separation, subsoil line and outlet. The guide describes clean aggregate protected by filter fabric, a graded subsoil line, and an outlet that is visible, lawful and maintainable. If a pipe disappears into the ground without a known outlet, the owner still has an unresolved site question.</p><p>For existing walls, damp soil, washed-out fines, dipping ground above the wall, bulging and leaning are observations to record. They do not prove one cause on their own, but they give the assessor a better starting point for separating drainage repair, partial rebuilding and full replacement.</p>"
+    },
+    {
+      "h2": "Approvals And Licensed Roles",
+      "html": "<p>The Brisbane guide says approval is not decided by height alone. Surcharge loads, proximity to another wall or building, boundary position, easements, overlays and protected vegetation can each affect whether a simple exemption still applies. Early checking is useful before a quote becomes a build plan.</p><p>Where design is required, the guide identifies an engineer registered with the Board of Professional Engineers of Queensland as the design role, with Form 15 for design and Form 16 for inspection and compliance of the built work. It also notes that construction is regulated building work above the statutory value threshold, and that the QBCC licence search is public.</p><p>Owners do not need to solve the approval pathway before making an enquiry. They do need to ask what checks are included, who signs design documents, who inspects the finished work, and what assumptions the quote relies on.</p>"
+    },
+    {
+      "h2": "Choosing A Wall System",
+      "html": "<p>Material choice becomes clearer once the site problem is named. Concrete sleeper systems are presented for replacements, boundaries and cut-and-fill projects where post embedment, access and drainage are assessed together. Treated timber systems are framed for lower garden walls and terraces where member selection, moisture exposure, drainage and maintenance are explicit.</p><p>Core-filled masonry can suit engineered loads, tighter footprints and finished residential walls that need coordinated footing and drainage details. Sandstone and boulder walls rely on gravity and batter where bearing, block geometry, machinery access and runoff management suit the site. Gabion walls are described for landscape terraces and erosion settings where foundation preparation, filter separation and basket specification are part of the decision.</p><p>Ask each option the same questions: can it be built with the available access, can drainage be inspected or maintained, and does the approval or engineering pathway match the retained height and nearby loads?</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Brisbane owners comparing a new wall, a replacement wall, drainage work, or an engineered approval pathway. It is also relevant where the site sits near a boundary, another structure, a driveway, a pool, a fence or a neighbouring level change.</p><p>The source page contrasts steep inner suburbs with wider foothill blocks because access problems can differ. Use that distinction as a site prompt, not as a substitute for measurement. A narrow side passage, a slope above the wall, or no clear water outlet can change the quote conversation more than the suburb name.</p><p>For a concise companion view of the same topic, see this <a href=\"https://s3.ap-southeast-2.amazonaws.com/retainingwallsbrisbane-001/retaining-wall-builders-brisbane.html\">Brisbane retaining wall builder guide</a>. Use both pages as prompts for better site notes, then ask for a written scope that states assumptions instead of leaving them implied.</p>"
+    }
+  ],
+  "table": {
+    "caption": "How common retaining wall options differ by site question",
+    "headers": [
+      "Option",
+      "Best checked first",
+      "Useful quote question"
+    ],
+    "rows": [
+      [
+        "Concrete sleeper",
+        "Retained height, post embedment, access and drainage",
+        "How will post depth and water outlet be documented?"
+      ],
+      [
+        "Timber sleeper",
+        "Lower garden use, moisture exposure and maintenance",
+        "Which timber specification and drainage detail are assumed?"
+      ],
+      [
+        "Reinforced block",
+        "Loads, footing, finished footprint and drainage",
+        "Who coordinates engineering, footing and inspection records?"
+      ],
+      [
+        "Sandstone, boulder or gabion",
+        "Bearing, batter, block or basket specification and runoff",
+        "Can machinery access and filter separation be achieved?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Record the wall",
+      "text": "Measure visible retained height, photograph both ends, and note leaning, cracks, decay, erosion or wet areas."
+    },
+    {
+      "name": "Map the water",
+      "text": "Trace downpipes, surface runoff, low points and the intended outlet for any collected water."
+    },
+    {
+      "name": "List nearby loads",
+      "text": "Write down fences, driveways, pools, sheds, slabs, neighbouring levels and other structures near the retained zone."
+    },
+    {
+      "name": "Ask about approvals",
+      "text": "Confirm whether height, surcharge, boundaries, overlays, easements or nearby structures affect the approval pathway."
+    },
+    {
+      "name": "Request a written scope",
+      "text": "Ask the builder to state material, drainage, access, assumptions, design responsibility and compliance documents."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What should I prepare before asking for a retaining wall quote?",
+      "a": "Prepare retained height, wide photos, access notes, visible defects, water symptoms and nearby structures. The source page says those site facts should come before material selection."
+    },
+    {
+      "q": "Does a Brisbane retaining wall always need approval?",
+      "a": "The supplied guide says Brisbane City Council describes limited circumstances where approval may not be required, but height is only one test. Surcharge loads, nearby structures, boundaries, easements, overlays and protected vegetation can change the pathway."
+    },
+    {
+      "q": "Why is drainage discussed so early?",
+      "a": "The guide explains that saturated backfill weighs more than dry backfill and can add hydrostatic pressure. A useful scope should show collection, filtration, subsoil drainage and a visible, lawful outlet."
+    },
+    {
+      "q": "Which wall material is best?",
+      "a": "There is no single best material in the supplied guide. Sleeper, block, stone, boulder and gabion systems each depend on retained height, loads, access, drainage and the required approval or engineering pathway."
+    }
+  ],
+  "about": [
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "The published guide names 8 wall and drainage categories, including concrete sleeper, timber sleeper, reinforced block, sandstone and boulder, gabion, drainage, engineered approval work, and repairs or replacement.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide frames early retaining wall decisions around grade, water, access, loads and approval questions.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide asks owners to note cracks, leaning, decayed posts, erosion, wet areas and recent changes above the wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "Saturated backfill weighs more than dry backfill and unmanaged water can push against a wall.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide describes drainage as clean aggregate protected by filter fabric, a graded subsoil line, and an outlet that is visible, lawful and maintainable.",
+      "source": "money page"
+    },
+    {
+      "claim": "Approval is not decided by height alone; surcharge loads, proximity to another wall or building, boundary position, easements, overlays and protected vegetation can each affect the approval pathway.",
+      "source": "money page"
+    },
+    {
+      "claim": "Where design is required, the published guide identifies an engineer registered with the Board of Professional Engineers of Queensland as the design role.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide references Form 15 for design and Form 16 for inspection and compliance of the built work.",
+      "source": "money page"
+    },
+    {
+      "claim": "The published guide says construction is regulated building work above the statutory value threshold and that the QBCC licence search is public.",
+      "source": "money page"
+    },
+    {
+      "claim": "Concrete sleeper systems are presented for replacements, boundaries and cut-and-fill projects where post embedment, access and drainage are assessed together.",
+      "source": "money page"
+    },
+    {
+      "claim": "Treated timber systems are framed for lower garden walls and terraces where member selection, moisture exposure, drainage and maintenance are explicit.",
+      "source": "money page"
+    },
+    {
+      "claim": "Core-filled masonry can suit engineered loads, tighter footprints and finished residential walls that need coordinated footing and drainage details.",
+      "source": "money page"
+    },
+    {
+      "claim": "Sandstone and boulder walls rely on gravity and batter where bearing, block geometry, machinery access and runoff management suit the site.",
+      "source": "money page"
+    },
+    {
+      "claim": "Gabion walls are described for landscape terraces and erosion settings where foundation preparation, filter separation and basket specification are part of the decision.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page contrasts Brisbane's steep inner suburbs with wider foothill blocks because access problems can differ.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Brisbane retaining wall planning, drainage, materials, approval questions and written scope preparation."
+}
