@@ -1,0 +1,19 @@
+| Claim | Verdict | Evidence |
+|---|---|---|
+| The source page points readers to 6 service guides. | SUPPORTED | Money page lists six guide links: Custom Pool Design, Concrete Pool Construction, Pool Site Assessment, Pool Cost Planning, Pool Fencing and Compliance, Outdoor Pool Integration. |
+| The source page asks for suburb or postcode, access notes and nearby structures. | SUPPORTED | Form fields include “Suburb / Postcode” and project prompt says to include “access and nearby structures.” |
+| The source page says enquiry submission does not confirm provider availability, timing or acceptance. | SUPPORTED | Money page states: “Submitting this form does not confirm provider availability, timing or acceptance of the work.” |
+| Pool Builder Gold Coast presents custom concrete pools as projects shaped around the property, including compact outdoor areas, coastal homes, sloping acreage and sites with retaining or access constraints. | SUPPORTED | Money page says custom concrete construction is for “coastal homes, compact blocks, sloping acreage and outdoor areas with retaining or access constraints,” and frames pools around property/site conditions. |
+| The source page asks owners to share the pool idea, suburb or postcode, access details, slope and connected outdoor works. | SUPPORTED | Money page asks users to share “the pool idea, suburb and any access, slope or outdoor-work constraints,” and elsewhere asks for outdoor works that need to connect. |
+| The source page says photos can come later if requested by a provider. | SUPPORTED | Form text says: “Photos can be provided later if a provider asks for them.” |
+| The source page names excavation, engineering, equipment, finishes and surrounding works as parts of pool cost planning. | SUPPORTED | FAQ on cost says access, excavation, soil/rock, engineering, equipment, finishes and surrounding works can change a written scope. |
+| The source page specifically calls out coastal homes, compact blocks, sloping acreage, outdoor areas with retaining constraints and sites where access affects the project. | SUPPORTED | Money page explicitly names “coastal homes, compact blocks, sloping acreage and outdoor areas with retaining or access constraints.” |
+| The source page prompts readers to verify the proposed contractor and relevant QBCC licence before engagement. | SUPPORTED | Money page says: “Verify the proposed contractor and relevant QBCC licence before engagement.” |
+| The source page treats pool fencing and compliance as part of the early layout discussion. | SUPPORTED | Money page includes “Pool Fencing and Compliance” as a guide and says barrier access/surrounding works are worth considering before design is fixed. |
+| The source page says barrier access and surrounding works can affect where the pool can sensibly sit. | SUPPORTED | Money page says “Barrier access and surrounding works can affect the practical layout,” which reasonably supports this wording. |
+| The source page says quotes, prices, rates and estimates are indicative only and subject to individual circumstances and revision. | SUPPORTED | Footer says all quotes, prices, rates and estimates are “indicative only and subject to your individual circumstances and revision.” |
+| The source page names access, excavation, soil or rock, engineering, equipment, finishes and surrounding works as factors that can change a written scope. | SUPPORTED | FAQ states exactly those factors “can all change a written scope.” |
+| The source page says a sloping site can need additional investigation for levels, drainage, engineering or retaining. | SUPPORTED | FAQ says a sloping site can need additional investigation for “levels, drainage, engineering or retaining.” |
+| The source page says feasibility on a sloping site depends on the actual property. | SUPPORTED | FAQ says: “Feasibility depends on the actual property.” |
+
+FACT-CHECK: PASS
