@@ -1,0 +1,249 @@
+{
+  "kicker": "ACT Property Finance",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "prepare documents, questions and loan pathways before a broker conversation",
+  "takeaway": "For a Canberra borrower, the useful preparation is concrete: clarify the loan purpose, organise income, expenses, savings and property documents, and compare 5, 10 and 20 percent deposit pathways where relevant. The source guidance says credit advice must come from a licensed broker or authorised representative, borrowing power and approval depend on lender assessment and property details, and ACT Revenue Office guidance says the Home Buyer Concession Scheme has no income threshold from 1 July 2026.",
+  "lead": "For locals comparing mortgage broker canberra options, the practical question is how to prepare a clean lending conversation before an application reaches a lender.",
+  "lead_tail": "with the right documents, questions and loan purpose clear before assessment",
+  "stats": [
+    {
+      "value": "5, 10, 20%",
+      "label": "deposit pathways commonly compared"
+    },
+    {
+      "value": "1 Jul 2026",
+      "label": "ACT concession income threshold change noted"
+    },
+    {
+      "value": "6",
+      "label": "loan purposes named in the source guide"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a Prepared Broker Conversation Should Cover",
+      "html": "<p><a href=\"https://www.financebrokercanberra.com.au/\">Finance Broker Canberra</a> frames the broker conversation around preparation rather than rate hype: income, expenses, deposit, property type and timing should be ready before lender assessment begins. That is a useful lens because a broker can only compare realistic options when the borrower’s facts are clear.</p><p>The source guidance is careful about roles. It says the site helps organise the enquiry, while credit regulated work stays with licensed brokers or authorised representatives. Treat the first conversation as a structured intake, not a guarantee of borrowing power, approval or settlement timing.</p><ul><li>Confirm the loan goal: first purchase, refinance, investment, construction, self-employed borrowing or bridging.</li><li>Bring income evidence, expense details, savings records and any property information already available.</li><li>Ask which lender-policy questions matter for the property type, deposit position and timing.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide applies to Canberra and nearby ACT district borrowers preparing for a home loan conversation, including buyers in the Inner North, Inner South, Belconnen, Gungahlin, Woden, Tuggeranong, Molonglo Valley and Queanbeyan where the source guide names those areas. The useful local angle is not the suburb label itself, but the way the borrower’s situation affects documents and questions.</p><p>A first-home buyer may need to ask about deposit options, duty concessions and lender readiness. A refinancer may need a current-loan comparison and a reason for changing. An investor may need to discuss rental income treatment, buffers, loan structure and lender policy. A construction borrower needs to be ready for staged building payment questions, especially for knockdown rebuilds or house-and-land packages.</p>"
+    },
+    {
+      "h2": "Canberra Questions Worth Asking Early",
+      "html": "<p>The source guide identifies several Canberra-specific discussion points: ACT concessions, apartment lending, public-sector income and cross-border Queanbeyan purchases. None of those should be treated as automatic approval points. They are prompts for the broker conversation and, where eligibility is involved, for the ACT Revenue Office, a conveyancer or the relevant professional adviser.</p><p>For concession questions, ask what documents a lender may need, then separately confirm eligibility with the responsible authority. The source FAQ states that ACT Revenue Office guidance says from 1 July 2026 there is no income threshold for the Home Buyer Concession Scheme, but it also says to check the current page before signing. That caution belongs in any practical loan checklist.</p><ul><li>Ask whether the lender assessment changes for the property type you are considering.</li><li>Ask what evidence is needed if income is variable, public-sector based or self-employed.</li><li>Ask how timing changes if a purchase, sale, refinance or build is involved.</li></ul>"
+    },
+    {
+      "h2": "Choosing the Right Loan Pathway to Discuss",
+      "html": "<p>The source page names six finance service areas, but the borrower should not treat them as menu items to collect. Pick the pathway that matches the next decision. For a first purchase, the conversation turns on deposit, concessions and readiness. For a refinance, it turns on the current loan, the available alternatives and whether changing lenders is worth the effort.</p><p>Investment and construction scenarios need different preparation. Investors should expect questions about rental income, buffers, structure and lender policy, while construction borrowers should prepare for staged payment discussions. Self-employed borrowers should be ready to explain income evidence as sole traders, company directors or contractors. Bridging borrowers should ask how a short-term loan is assessed when settlement may occur before an existing property sale completes.</p>"
+    },
+    {
+      "h2": "A Narrow Checklist Before You Apply",
+      "html": "<p>Before asking for a lender recommendation, assemble the information that lets a broker test options properly. The source guide highlights income, expenses, savings and property documents. That set is deliberately plain, but it reduces guesswork and makes it easier to identify missing evidence before an application is lodged.</p><p>Use the related <a href=\"https://mortgage-broker-canberra-18098e.gitlab.io/\">Canberra mortgage broker preparation guide</a> as a second checklist style reference, then keep the conversation focused on your actual loan goal. Avoid relying on indicative quotes, prices, rates or estimates as binding advice, because the source disclaimer says those figures depend on individual circumstances and revision.</p><ol><li>Write down the loan purpose and preferred timing.</li><li>Gather income, expense, savings and property records.</li><li>List questions about concessions, property type and lender policy.</li><li>Separate credit advice from tax, legal or concession eligibility advice.</li></ol>"
+    }
+  ],
+  "table": {
+    "caption": "Borrower situations and preparation focus",
+    "headers": [
+      "Situation",
+      "Prepare first",
+      "Question to ask"
+    ],
+    "rows": [
+      [
+        "First-home buyer",
+        "Deposit position, savings history and concession questions",
+        "What documents may the lender need before assessment?"
+      ],
+      [
+        "Refinancer",
+        "Current loan details and reason for review",
+        "How is the existing loan compared with available refinance options?"
+      ],
+      [
+        "Investor",
+        "Rental income notes, buffer questions and preferred structure",
+        "How will lender policy treat the investment scenario?"
+      ],
+      [
+        "Construction borrower",
+        "Build type and staged payment information",
+        "What evidence is needed for progress payment assessment?"
+      ],
+      [
+        "Self-employed borrower",
+        "Variable income evidence",
+        "Which documents support sole trader, company director or contractor income?"
+      ],
+      [
+        "Bridging borrower",
+        "Purchase and sale timing",
+        "How is short-term lending assessed before the existing sale completes?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan goal",
+      "text": "State whether the conversation is about buying, refinancing, investing, building, self-employed borrowing or bridging."
+    },
+    {
+      "name": "Prepare the document set",
+      "text": "Collect income, expenses, savings and property information before asking a broker to compare pathways."
+    },
+    {
+      "name": "Separate advice types",
+      "text": "Use licensed credit assistance for lending questions and check concessions with the ACT Revenue Office or a conveyancer."
+    },
+    {
+      "name": "Test the timing",
+      "text": "Ask how purchase, refinance, sale or construction timing affects the lender assessment and next documents."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does a Canberra finance broker help organise?",
+      "a": "The source guide says a broker helps compare lender policies, prepare documents and understand borrowing options. Credit advice should come from a licensed broker or authorised credit representative."
+    },
+    {
+      "q": "Can a broker confirm ACT stamp duty concession eligibility?",
+      "a": "The source guidance says a broker may help identify lender document needs, but concession eligibility should be checked with the ACT Revenue Office or a conveyancer."
+    },
+    {
+      "q": "How much deposit should a Canberra buyer prepare?",
+      "a": "The source FAQ says deposit needs depend on property price, lender policy, savings history and whether a guarantee or concession applies. It notes that many buyers compare 5, 10 and 20 percent pathways."
+    },
+    {
+      "q": "Are approval and settlement timing guaranteed?",
+      "a": "No. The source page says borrowing power, approval and settlement timing depend on lender assessment and property details."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    },
+    {
+      "name": "Australian Securities and Investments Commission",
+      "url": "https://asic.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "A broker conversation works best when income, expenses, deposit, property type and timing are ready.",
+      "source": "money page"
+    },
+    {
+      "claim": "Credit regulated work stays with licensed brokers or authorised representatives.",
+      "source": "money page"
+    },
+    {
+      "claim": "Borrowing power, approval and settlement timing depend on the lender assessment and property details.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide serves Canberra and nearby ACT districts including the Inner North, Inner South, Belconnen, Gungahlin, Woden, Tuggeranong, Molonglo Valley and Queanbeyan.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide names first-home buying, refinancing, construction and investment lending as borrower situations it helps organise.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source guide includes support areas for first-home buyer loans, refinance home loans, investment property loans, construction loans, self-employed home loans and bridging loans.",
+      "source": "money page"
+    },
+    {
+      "claim": "The first review can account for ACT concessions, apartment lending, public-sector income and cross-border Queanbeyan purchases.",
+      "source": "money page"
+    },
+    {
+      "claim": "A broker can help with documents a lender may need for ACT stamp duty concessions, while concession eligibility should be checked with the ACT Revenue Office or a conveyancer.",
+      "source": "money page"
+    },
+    {
+      "claim": "ACT Revenue Office guidance says that from 1 July 2026 there is no income threshold for the Home Buyer Concession Scheme.",
+      "source": "money page"
+    },
+    {
+      "claim": "Deposit needs depend on property price, lender policy, savings history and whether a guarantee or concession applies.",
+      "source": "money page"
+    },
+    {
+      "claim": "Many buyers compare 5, 10 and 20 percent deposit pathways.",
+      "source": "money page"
+    },
+    {
+      "claim": "Investment property loan guidance may involve rental income, buffers, loan structure and lender policy.",
+      "source": "money page"
+    },
+    {
+      "claim": "Construction loan guidance may involve knockdown rebuilds, house-and-land packages and staged building payments.",
+      "source": "money page"
+    },
+    {
+      "claim": "Self-employed home loan preparation can involve sole traders, company directors and contractors with variable income evidence.",
+      "source": "money page"
+    },
+    {
+      "claim": "Bridging loans are short-term lending for buyers who need to settle before an existing property sale completes.",
+      "source": "money page"
+    },
+    {
+      "claim": "Income, expenses, savings and property documents can be prepared before lender assessment starts.",
+      "source": "money page"
+    },
+    {
+      "claim": "Quotes, prices, rates and estimates shown or provided are indicative only, subject to individual circumstances and revision, and are not binding offers or professional advice.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers Canberra borrower preparation for broker conversations, document readiness, local concession questions and loan-purpose triage."
+}
