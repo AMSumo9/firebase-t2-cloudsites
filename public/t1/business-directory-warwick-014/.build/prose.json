@@ -1,0 +1,157 @@
+{
+  "kicker": "Warwick Local Guide",
+  "h1_tail": "For Practical Local Search",
+  "meta_hook": "compare categories, reviews and quote paths before contacting a provider",
+  "takeaway": "Warwick4370 publishes a free local directory for Warwick and surrounds with 38 business categories, cross checked listings, reviews, service comparison and quote options. A useful search starts with the closest category, then checks service wording, photos, reviews and any pricing detail before contact. The source page says businesses can claim a free listing, or upgrade to Pro for priority placement, photos and lead tracking.",
+  "lead": "For residents comparing business directory warwick options, the practical value is finding a local category, checking enough detail to shortlist fairly, and contacting a provider without turning the search into guesswork.",
+  "lead_tail": "with a practical path from category search to contact",
+  "stats": [
+    {
+      "value": "38",
+      "label": "categories listed"
+    },
+    {
+      "value": "Free",
+      "label": "to browse and get quotes"
+    },
+    {
+      "value": "100+",
+      "label": "lenders noted for one finance listing"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What the directory is built to help with",
+      "html": "<p><a href=\"https://www.warwick4370.com.au/\">Warwick4370</a> presents itself as a place to find trusted local businesses in Warwick and surrounds. Its strongest use is for people who already know the type of help they need, but want a cleaner way to compare local options before making contact.</p><p>The directory groups providers into 38 categories, from accommodation, cafes and beauty through to builders, electricians, plumbers, finance brokers, medical services, rural supplies, real estate agents, legal services and vehicle related services. That range suits everyday decisions where the first task is narrowing a broad local search into a short, relevant list.</p><p>For another view of the same discovery process, the related guide to <a href=\"https://local-businesses-warwick-guide.vercel.app/\">local businesses in Warwick</a> gives a wider frame for comparing services before enquiry.</p>"
+    },
+    {
+      "h2": "Building a fair shortlist",
+      "html": "<p>A listing should be treated as a starting record, not a final recommendation. The source page points readers toward reviews, photos, services, pricing comparison and quote requests. Those signals help reduce guesswork, but they still need to be checked against the exact job.</p><ul><li><strong>Start with the task.</strong> Use search or the closest category, especially when a job could sit across more than one service type.</li><li><strong>Read the service wording.</strong> A category label is useful, but the description should match the work, booking, advice or supply being sought.</li><li><strong>Use reviews with context.</strong> Look for comments that describe a similar service, not only broad satisfaction.</li><li><strong>Ask for missing detail.</strong> Confirm pricing, inclusions, availability and quote terms before agreeing to proceed.</li></ul><p>This approach works for a home repair, a professional appointment, a cafe visit or a business service because each enquiry still depends on fit, timing and clear communication.</p>"
+    },
+    {
+      "h2": "Who this applies to",
+      "html": "<p>This guide applies to people using a Warwick directory to make a contact decision. That includes residents looking for trades, visitors comparing accommodation or cafes, families checking health and wellness categories, property owners reviewing builders or agents, and business owners looking at accountants, marketing, finance or legal support.</p><p>It also applies to businesses deciding whether to appear in the directory. The published page says businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking. Before claiming or upgrading, a business should check whether its category is precise, its service description is clear, and its listing gives customers enough information to send a useful enquiry.</p><p>For professional advice, regulated work, health, finance, legal issues or property decisions, a directory listing should begin the check. Confirm suitability, qualifications where relevant, quote details and terms directly with the provider.</p>"
+    },
+    {
+      "h2": "Reading reviews, photos and pricing signals",
+      "html": "<p>The home page invites users to read reviews, view photos, compare services and pricing, and get quotes. Those features are helpful because local searches often contain several unknowns at once, including scope, fit and whether the provider responds clearly.</p><p>Reviews are most useful when they explain what the customer received. A rating can show broad satisfaction, while the written detail may show whether the business has handled a similar request. Photos are useful for visual categories such as accommodation, cafes, beauty, landscaping, building work or repairs, provided they relate to the service being considered.</p><p>Pricing signals should lead to better questions. Ask what is included, what may change the price, whether a written quote is available, and what information the business needs before it can respond accurately. If a quote form is used, describe the job in plain language so replies can be compared fairly.</p>"
+    },
+    {
+      "h2": "For businesses considering a listing",
+      "html": "<p>The business side is presented clearly, claim a free listing or upgrade to Pro for priority placement, photos and lead tracking. A free listing can make the business findable in the relevant category. Pro is positioned around greater visibility and extra listing tools.</p><p>A useful profile answers the questions customers bring to the page. What services are offered, which jobs are a good fit, how should a customer ask for a quote, and what details should they prepare before contact? Clear wording matters more than a long description.</p><p>Category choice also affects enquiry quality. The directory includes areas that can sit close together, such as finance brokers and financial advisors, doctors and medical, beauty and wellness, builders and carpenters, landscapers and fencing. A precise category helps customers decide whether the business belongs on their shortlist.</p>"
+    }
+  ],
+  "table": {
+    "caption": "How to assess directory information before contact",
+    "headers": [
+      "Directory signal",
+      "What it can help with",
+      "Question to ask next"
+    ],
+    "rows": [
+      [
+        "Category",
+        "Shows the broad type of provider",
+        "Does this category match the exact job, or should another category be checked?"
+      ],
+      [
+        "Reviews",
+        "Shows customer feedback where available",
+        "Do the comments describe a similar service or only general satisfaction?"
+      ],
+      [
+        "Photos",
+        "Shows examples or premises where supplied",
+        "Are the images relevant to the service being requested?"
+      ],
+      [
+        "Pricing or quote option",
+        "Helps begin a comparison",
+        "What is included, what is excluded, and is a written quote available?"
+      ],
+      [
+        "Business listing tools",
+        "Help a provider explain services",
+        "Is the listing clear enough for customers to contact with useful detail?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Choose the closest category",
+      "text": "Start with the service category that best matches the job, then use search if the need crosses categories."
+    },
+    {
+      "name": "Compare the listing detail",
+      "text": "Read service wording, reviews, photos and any pricing signals before deciding who belongs on the shortlist."
+    },
+    {
+      "name": "Prepare the enquiry",
+      "text": "Write down the job, local context, preferred timing and questions about inclusions before calling, emailing or requesting a quote."
+    },
+    {
+      "name": "Contact directly",
+      "text": "Use the listed contact path or quote form, then confirm details with the provider before relying on the listing."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is the Warwick directory free to use?",
+      "a": "The published page says users can browse listings, read reviews, compare services and get quotes for free. Businesses are also invited to claim a free listing."
+    },
+    {
+      "q": "How many categories are listed?",
+      "a": "The home page says the directory includes 38 categories. They range from trades and professional services to accommodation, cafes, health related categories, rural supplies and vehicle services."
+    },
+    {
+      "q": "Can reviews alone decide which provider to contact?",
+      "a": "Reviews help, but they should be read with service details, photos, pricing information where shown and direct answers from the business. The listing should start the enquiry."
+    },
+    {
+      "q": "What should a Warwick business check before claiming a listing?",
+      "a": "A business should check that its category is accurate, its service wording is clear, and its profile gives customers enough information to make contact. The published page also notes a Pro option with priority placement, photos and lead tracking."
+    }
+  ],
+  "about": [],
+  "mentions": [],
+  "authorities": [],
+  "claims": [
+    {
+      "claim": "Warwick4370 presents itself as a place to find trusted local businesses in Warwick and surrounds.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory lets users browse categories or search for the trade they need in Warwick.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says users can browse 38 categories of cross checked business listings.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says users can read reviews, compare services and get quotes for free.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says users can view photos and compare services and pricing.",
+      "source": "money page"
+    },
+    {
+      "claim": "The directory says users can contact businesses directly by call, email or quote form.",
+      "source": "money page"
+    },
+    {
+      "claim": "The listed categories include accommodation, accountants, air conditioning, beauty and wellness, builders, cafes, electricians, farm and rural supplies, finance brokers, doctors and medical, plumbers, real estate agents, solicitors and legal, tyres and wheels, and veterinarians.",
+      "source": "money page"
+    },
+    {
+      "claim": "One finance broker listing describes asset, car, equipment and business finance options from 100+ lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "Businesses can claim a free listing or upgrade to Pro for priority placement, photos and lead tracking.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers practical use of Warwick4370 as a local directory for Warwick and surrounds."
+}
