@@ -1,0 +1,227 @@
+{
+  "kicker": "Perth Finance",
+  "h1_tail": "A Practical Borrower Guide",
+  "meta_hook": "Compare broker fit, loan paths and application questions before you commit",
+  "takeaway": "Perth borrowers can use the published Finance Broker Perth page to frame a broker conversation around 100+ lenders, a stated zero cost to the borrower, and a response window of 4 business hours after the form message. The page supports home loans, refinancing, commercial finance, car loans, first home buyer finance, investment loans and construction loans. Its first home buyer example refers to a possible 5% deposit and no LMI outcome where eligibility fits.",
+  "lead": "For borrowers comparing home loan brokers perth options, the useful starting point is whether the broker discussion fits the loan type, deposit position and property plan.",
+  "lead_tail": "with the next step focused on a clear broker discussion",
+  "stats": [
+    {
+      "value": "100+",
+      "label": "lenders compared"
+    },
+    {
+      "value": "4",
+      "label": "business hour contact window"
+    },
+    {
+      "value": "0",
+      "label": "cost to borrower stated"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What The First Broker Discussion Should Settle",
+      "html": "<p><a href=\"https://www.perthhomeloanbroker.com.au/\">Finance Broker Perth</a> presents a Perth broker page where borrowers can speak with a qualified independent broker. Arrive with a borrowing brief, because a first home buyer, refinancing homeowner, investor and construction borrower should not receive the same discussion.</p><p>The published page says a broker compares products from 100+ lenders and that there is zero cost to the borrower, with brokers paid by lenders when a loan settles. ASIC Moneysmart guidance on home loans points borrowers toward repayments, fees, loan features and product comparison, so treat the first call as a structured fact find.</p><ul><li>State the purpose, such as purchase, refinance, investment, construction, commercial finance or vehicle finance.</li><li>Ask why particular lenders are being considered for your circumstances.</li><li>Ask how fees, repayments, offset features and lender conditions are compared.</li><li>Confirm that alternatives are being explained before an application is chosen.</li></ul>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is for Perth and WA borrowers who want a broker discussion before choosing a lender. The published page names first home buyers, upgraders, investors, refinancing homeowners, construction borrowers, commercial finance clients and car loan applicants.</p><p>Use locality only where it changes the question. A first home buyer in Perth may need to ask about FHBG, deposit strategy and LMI. A homeowner refinancing an older variable loan may need the current lender compared with other options. An investor may need to discuss interest-only structures, equity access and portfolio lending. A buyer planning a new build or knockdown rebuild should ask how progress payment lending would work.</p><p>For another overview of the same Perth broker topic, see this <a href=\"https://cloudsites-hub.pages.dev/sites-01/perthhomeloanbroker-001/\">Perth home loan broker guide</a>.</p>"
+    },
+    {
+      "h2": "Questions That Reveal The Shortlist Logic",
+      "html": "<p>A lender panel is useful only when the borrower can see the filter. Ask what has been ruled in, what has been ruled out, and whether the recommendation is driven by rate, lender policy, loan feature, timing, deposit position or borrower profile.</p><ul><li><strong>First home buyers:</strong> ask how FHBG, deposit size, possible 5% deposit pathways and LMI are being checked.</li><li><strong>Refinancers:</strong> ask whether the review includes your existing lender, loan features, discharge costs and any possible cashback.</li><li><strong>Investors:</strong> ask how interest-only options, equity access and portfolio lending may affect flexibility.</li><li><strong>Construction borrowers:</strong> ask what documents are needed before progress payments are released.</li><li><strong>Business borrowers:</strong> ask whether specialist commercial lenders may be considered if a main bank is unsuitable.</li></ul>"
+    },
+    {
+      "h2": "Reading The Zero Cost Statement",
+      "html": "<p>The page states there is zero cost to the borrower and says brokers are paid by lenders when the loan settles. That does not answer every cost question. Ask separately about lender fees, product fees, valuation costs, discharge costs and other loan charges.</p><p>ASIC Moneysmart encourages borrowers to compare the full cost and features of a home loan, not only the advertised rate. A clear recommendation should explain the trade-off between repayments, features, timing and eligibility in plain language.</p>"
+    },
+    {
+      "h2": "Preparing A Cleaner Enquiry",
+      "html": "<p>A broker can compare options only against the information provided. Before enquiring, gather income details, existing debts, estimated deposit, current loan balance if refinancing, property use, and contract or build information if available. Investors should also prepare the expected rental position and the reason for considering interest-only or principal and interest repayments.</p><p>Turn assumptions into checks. Instead of assuming a government scheme applies, ask the broker to verify it. Instead of assuming a specialist lender is required, ask which mainstream and specialist options would be compared. Instead of asking only for the lowest rate, ask which structure is easier to manage if offset use, future refinancing or repayment changes matter.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Perth borrower scenarios and broker questions",
+    "headers": [
+      "Scenario",
+      "Published Support",
+      "Question To Ask"
+    ],
+    "rows": [
+      [
+        "First home buyer",
+        "FHBG, 5% deposit pathways, LMI and deposit strategies",
+        "Which pathway fits my deposit and upfront cost position?"
+      ],
+      [
+        "Refinancer",
+        "Comparison across 100+ lenders, possible rate reductions and cashback",
+        "What changes after fees and features are included?"
+      ],
+      [
+        "Investor",
+        "Interest-only options, equity access and portfolio lending",
+        "How does the structure affect future borrowing flexibility?"
+      ],
+      [
+        "Construction borrower",
+        "New builds, knockdown rebuilds and progress payment lending",
+        "What is needed before each progress payment?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the loan purpose",
+      "text": "Start with whether the enquiry is for purchase, refinance, investment, construction, commercial finance or vehicle finance."
+    },
+    {
+      "name": "Prepare the core facts",
+      "text": "Bring income, debts, deposit or existing loan details, property use and any contract or build information already available."
+    },
+    {
+      "name": "Ask for comparison logic",
+      "text": "Request a plain explanation of which lenders were considered, why options were excluded and what costs or features matter."
+    },
+    {
+      "name": "Check obligations before applying",
+      "text": "Use ASIC Moneysmart guidance to compare repayments, fees and loan features before committing to an application."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does the broker discussion cost the borrower anything?",
+      "a": "The published page says there is zero cost to the borrower and that brokers are paid by lenders when a loan settles. Borrowers should still ask about lender fees, product fees and other loan-related costs."
+    },
+    {
+      "q": "How quickly does the page say someone will respond?",
+      "a": "The form response says a finance specialist will contact the enquirer within the next 4 business hours. That is a contact window, not a loan approval timeframe."
+    },
+    {
+      "q": "Can first home buyers use this type of broker page?",
+      "a": "Yes. The page names first home buyer finance, FHBG guidance, 5% deposit scenarios and deposit strategies as areas a specialist broker may discuss."
+    },
+    {
+      "q": "What should a refinancing borrower ask first?",
+      "a": "Ask whether the review compares the existing loan against other lenders, includes fees and features, and explains any possible rate reduction or cashback in context."
+    }
+  ],
+  "about": [
+    {
+      "name": "Mortgage broker",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_broker"
+    },
+    {
+      "name": "Mortgage loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Mortgage_loan"
+    },
+    {
+      "name": "Refinancing",
+      "sameAs": "https://en.wikipedia.org/wiki/Refinancing"
+    },
+    {
+      "name": "Lenders mortgage insurance",
+      "sameAs": "https://en.wikipedia.org/wiki/Lenders_mortgage_insurance"
+    },
+    {
+      "name": "Loan-to-value ratio",
+      "sameAs": "https://en.wikipedia.org/wiki/Loan-to-value_ratio"
+    },
+    {
+      "name": "First-time buyer",
+      "sameAs": "https://en.wikipedia.org/wiki/First-time_buyer"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Negative gearing",
+      "sameAs": "https://en.wikipedia.org/wiki/Negative_gearing"
+    },
+    {
+      "name": "Interest-only loan",
+      "sameAs": "https://en.wikipedia.org/wiki/Interest-only_loan"
+    },
+    {
+      "name": "Australian Prudential Regulation Authority",
+      "sameAs": "https://en.wikipedia.org/wiki/Australian_Prudential_Regulation_Authority"
+    },
+    {
+      "name": "Reserve Bank of Australia",
+      "sameAs": "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "ASIC Moneysmart: Home loans",
+      "url": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "name": "ASIC Moneysmart: Property investment",
+      "url": "https://moneysmart.gov.au/property-investment"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Finance Broker Perth says borrowers can speak with a qualified independent broker.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says a broker compares products from 100+ lenders.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says there is zero cost to the borrower.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says brokers are paid by lenders when the loan settles.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says a finance specialist will contact enquirers within the next 4 business hours.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth lists home loans, refinancing, commercial finance, car loans, first home buyer, investment loans and construction loans as service areas.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth names first home buyers, upgraders, investors, refinancing homeowners, construction borrowers, commercial finance clients and car loan applicants as borrower paths.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says first home buyer specialists have knowledge of FHBG, LMI and deposit strategies.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth gives an illustrative first home buyer scenario involving FHBG eligibility, a 5% deposit and no LMI as a possible outcome.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says refinance specialists may compare 100+ lenders for better rates and mentions rate reductions, cashbacks and improved loan features.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says investment loan brokers may discuss interest-only options, equity access and portfolio lending.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says construction loan brokers may discuss new builds, knockdown rebuilds and progress payment lending.",
+      "source": "money page"
+    },
+    {
+      "claim": "Finance Broker Perth says commercial finance brokers may help with business loans, equipment finance and commercial property.",
+      "source": "money page"
+    },
+    {
+      "claim": "ASIC Moneysmart provides guidance on comparing home loan repayments, fees and features.",
+      "source": "https://moneysmart.gov.au/home-loans"
+    },
+    {
+      "claim": "ASIC Moneysmart provides guidance relevant to property investment decisions.",
+      "source": "https://moneysmart.gov.au/property-investment"
+    }
+  ],
+  "scope": "This guide covers Perth broker selection for home loan, refinance, first home buyer, investor, construction and commercial finance enquiries."
+}
