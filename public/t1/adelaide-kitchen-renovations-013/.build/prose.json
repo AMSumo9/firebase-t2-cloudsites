@@ -1,0 +1,210 @@
+{
+  "kicker": "Adelaide Kitchen Guide",
+  "h1_tail": "Planning, Costs and Quote Checks",
+  "meta_hook": "compare scope, cost signals and quote questions before choosing a renovator",
+  "takeaway": "For an Adelaide kitchen project, the sourced cost range is $8,000 to $80,000 plus, with a typical end to end renovation taking 8 to 14 weeks depending on scope. The practical choice is usually between a facelift, where the layout stays and visible finishes change, and a fuller remodel involving design, cabinetry, trades, stone, splashbacks, appliances and possible approvals.",
+  "lead": "For homeowners comparing adelaide kitchen renovations, the useful starting point is not style alone, but scope, quote detail, trade coordination and whether the proposed renovator fits the home.",
+  "lead_tail": "with scope, cost and timing made clear before quoting",
+  "stats": [
+    {
+      "value": "$8k-$80k+",
+      "label": "sourced quote range"
+    },
+    {
+      "value": "8-14 weeks",
+      "label": "typical end to end timeframe"
+    },
+    {
+      "value": "6",
+      "label": "core service areas described"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Start With Scope, Not Finishes",
+      "html": "<p>The published guide from <a href=\"https://www.adelaidekitchenreno.com.au/\">Kitchen Renovation Adelaide</a> frames the decision around proper scoping: design, cabinet making, joinery, stone, splashbacks, appliance installation and coordinated trades. That matters because a benchtop swap, a small kitchen renovation, a kitchen facelift and a full layout change are different jobs, even when the inspiration images look similar.</p><p>A useful brief says what is staying, what must move, and what problem the existing kitchen creates. In a heritage stone cottage, the constraint may be room shape, wall openings or services. In an Adelaide Hills character home, the issue may be tying new joinery into an older setting. In an open plan family kitchen, the brief may centre on circulation, lighting and how the kitchen connects to dining and living areas.</p><ul><li><strong>Keep the layout:</strong> ask about doors, handles, benchtops, splashbacks and whether existing cabinet carcasses are suitable.</li><li><strong>Change the layout:</strong> ask how design, services, cabinetry, appliances and trades will be sequenced.</li><li><strong>Add storage:</strong> ask whether custom cabinetry, full-height pantry runs, pull-outs or a butler's pantry are realistic for the space.</li></ul>"
+    },
+    {
+      "h2": "What A Quote Should Make Clear",
+      "html": "<p>The source page gives a broad Adelaide quote range of $8,000 to $80,000 plus, depending on scope. That range is too wide to use as a budget by itself, so the quote needs to reveal what has actually been allowed for. A low number that excludes trades, stone templating, splashback installation or appliance connection is not comparable with a quote that includes coordinated delivery.</p><p>Ask each renovator to separate design, custom cabinetry, benchtops, splashbacks, appliances and trade coordination. If engineered surfaces, glass or tiled splashbacks are part of the job, confirm who measures, fabricates and installs them. If soft-close drawers, bespoke pull-outs or full-height pantry runs are proposed, ask whether they are included as specified or treated as optional upgrades.</p><p>For compact rooms, the related guide on <a href=\"https://sitesau.github.io/small-kitchen-renovations-adelaide/\">small kitchen renovation planning in Adelaide</a> is relevant because space-saving decisions can affect cabinetry depth, storage style and whether a facelift is enough.</p>"
+    },
+    {
+      "h2": "Facelift Or Full Remodel",
+      "html": "<p>A facelift is usually the narrower path when the existing layout works and the goal is to lift tired surfaces. The source page describes this as replacing doors, benchtops, splashbacks and handles while keeping the layout. That can suit owners who want a visible change without rebuilding the whole room.</p><p>A full remodel is the broader path. It may involve a kitchen designer, cabinet maker, electrician, plumber, tiler, stonemason and appliance installer working in sequence. The source page also identifies open plan conversions and butler's pantry builds as larger moves where layout, services and finishes need to line up.</p><p>The right choice depends on the failure point. If storage, appliance positions, traffic flow or the work triangle are wrong, new doors will not fix the daily use problem. If the layout is sound and the carcasses are suitable, a facelift may direct more budget toward visible finishes.</p>"
+    },
+    {
+      "h2": "Who This Applies To",
+      "html": "<p>This guide is most useful for Adelaide homeowners who already know the kitchen needs work but have not decided how deep the renovation should go. It applies to owners comparing a modern kitchen update, custom kitchen cabinetry, stone benchtop installation, kitchen splashback installation, small kitchen renovation work, a kitchen remodel or an open plan kitchen change.</p><p>It also applies where local building context affects the conversation. The source page names heritage cottages in the inner suburbs, Adelaide Hills character homes, modern open plan family layouts, and homes in the north and south as examples where relevant experience can matter. Use those examples as prompts, not as a substitute for checking the actual room.</p><ul><li>Ask whether council approval may be needed for the proposed change.</li><li>Ask how the renovator handles PlanSA approval guidance where approvals apply.</li><li>Ask who is responsible for the schedule when several trades are needed.</li><li>Ask whether the business holds the appropriate South Australian building work contractor licensing and supervisor registration checks described by the source page.</li></ul>"
+    },
+    {
+      "h2": "Timing And Trade Coordination",
+      "html": "<p>The source page gives a typical renovation timeframe of 8 to 14 weeks end to end, depending on scope. That is a planning range, not a promise for every home. A project with custom joinery, stone benchtops, splashbacks, appliance installation and several trades needs a clearer sequence than a surface-level facelift.</p><p>Good sequencing starts before cabinets are ordered. Design and layout should be settled first, then measurements, cabinetry, benchtop templating, splashback decisions and appliance details need to line up. The source page says one renovator runs the schedule so electricians, plumbers, tilers and stonemasons arrive in the right order.</p><p>Before accepting a quote, ask what happens if an approval is required, who confirms site measurements, when appliances must be selected, and whether the quoted timeframe starts from enquiry, design approval, deposit, cabinet manufacture or site work. Those answers make competing quotes easier to compare.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Kitchen project scope comparison",
+    "headers": [
+      "Option",
+      "Best fit",
+      "Key quote questions"
+    ],
+    "rows": [
+      [
+        "Facelift",
+        "Existing layout works and visible finishes are tired",
+        "Are doors, handles, benchtops and splashbacks included, and are existing cabinets suitable?"
+      ],
+      [
+        "Full remodel",
+        "Layout, storage, services or room connection needs to change",
+        "Who coordinates design, cabinet making, trades, stone, appliances and any approvals?"
+      ],
+      [
+        "Open plan or pantry change",
+        "Kitchen needs to connect differently with living, dining or storage",
+        "What structural, service and finish decisions must be settled before cabinetry is ordered?"
+      ]
+    ]
+  },
+  "howto": [
+    {
+      "name": "Define the job",
+      "text": "Write down whether the layout stays, what must move, and which finishes or appliances are part of the project."
+    },
+    {
+      "name": "Compare inclusions",
+      "text": "Ask each renovator to separate design, cabinetry, benchtops, splashbacks, appliances and trade coordination in the quote."
+    },
+    {
+      "name": "Check local fit",
+      "text": "Ask for relevant experience with the same home type, such as heritage, character, compact or open plan kitchens."
+    },
+    {
+      "name": "Confirm timing",
+      "text": "Clarify whether the 8 to 14 week style range applies from design approval, cabinet manufacture or site start."
+    },
+    {
+      "name": "Choose on clarity",
+      "text": "Prefer the quote that explains scope, sequencing, licensing checks and approval responsibilities in plain language."
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much should I allow for a kitchen renovation in Adelaide?",
+      "a": "The supplied source gives a typical quote range of $8,000 to $80,000 plus, depending on scope. Treat that as a broad guide only, then compare itemised inclusions before judging value."
+    },
+    {
+      "q": "How long does a kitchen renovation usually take?",
+      "a": "The source page states that a typical kitchen renovation takes 8 to 14 weeks end to end, depending on scope. Ask when that clock starts, because design approval, manufacture and site work can be counted differently."
+    },
+    {
+      "q": "Do kitchen changes need approval in South Australia?",
+      "a": "The source page says approvals are handled in line with PlanSA approval guidance and the Planning and Design Code where needed. Ask the renovator to identify whether the proposed layout or structural change triggers an approval step."
+    },
+    {
+      "q": "What is the difference between a facelift and a remodel?",
+      "a": "A facelift keeps the existing layout and changes visible elements such as doors, benchtops, splashbacks and handles. A remodel can change layout, cabinetry, services, appliances and trade sequencing."
+    }
+  ],
+  "about": [
+    {
+      "name": "Renovation",
+      "sameAs": "https://en.wikipedia.org/wiki/Renovation"
+    },
+    {
+      "name": "Home improvement",
+      "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"
+    },
+    {
+      "name": "Kitchen",
+      "sameAs": "https://en.wikipedia.org/wiki/Kitchen"
+    },
+    {
+      "name": "Cabinetry",
+      "sameAs": "https://en.wikipedia.org/wiki/Cabinetry"
+    },
+    {
+      "name": "General contractor",
+      "sameAs": "https://en.wikipedia.org/wiki/General_contractor"
+    },
+    {
+      "name": "Building code",
+      "sameAs": "https://en.wikipedia.org/wiki/Building_code"
+    },
+    {
+      "name": "Tradesperson",
+      "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"
+    }
+  ],
+  "mentions": [
+    {
+      "name": "Bathroom",
+      "sameAs": "https://en.wikipedia.org/wiki/Bathroom"
+    },
+    {
+      "name": "Garage door",
+      "sameAs": "https://en.wikipedia.org/wiki/Garage_door"
+    },
+    {
+      "name": "Retaining wall",
+      "sameAs": "https://en.wikipedia.org/wiki/Retaining_wall"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Housing Industry Association",
+      "url": "https://hia.com.au"
+    },
+    {
+      "name": "Master Builders Australia",
+      "url": "https://www.masterbuilders.com.au"
+    },
+    {
+      "name": "ASIC Moneysmart: Renovating",
+      "url": "https://moneysmart.gov.au"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "Adelaide kitchen renovation quotes typically land between $8,000 and $80,000 plus, depending on scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "A typical kitchen renovation takes 8 to 14 weeks end to end, depending on scope.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page identifies six core service areas covering design, joinery and coordinated trades.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page lists kitchen design and layout, custom cabinetry and joinery, stone benchtops and splashbacks, appliance installation and trade coordination, small kitchen renovations and facelifts, and butler's pantries and open plan conversions.",
+      "source": "money page"
+    },
+    {
+      "claim": "Kitchen facelifts can keep the existing layout while replacing doors, benchtops, splashbacks and handles.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says appliance installation can be handled alongside electrician, plumber, tiler and stonemason coordination.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says where approvals are needed, the renovator handles them in line with PlanSA approval guidance and the Planning and Design Code.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says renovators should hold appropriate SA building work contractor licensing and supervisor registration through Consumer and Business Services checks.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page names heritage stone cottages in the inner suburbs, Adelaide Hills character homes, modern open plan family layouts, and homes in the north and south as relevant Adelaide home contexts.",
+      "source": "money page"
+    },
+    {
+      "claim": "The source page says cabinet makers and joiners should work to Housing Industry Association standards for kitchen design, manufacture and install.",
+      "source": "money page"
+    }
+  ],
+  "scope": "This guide covers kitchen renovation scope, quote comparison, timing, approvals and trade coordination for Adelaide homeowners."
+}
