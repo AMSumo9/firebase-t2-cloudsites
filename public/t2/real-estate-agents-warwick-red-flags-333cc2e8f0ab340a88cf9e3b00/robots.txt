@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://sites-e470-2.web.app/real-estate-agents-warwick-red-flags-333cc2e8f0ab340a88cf9e3b00/sitemap.xml
