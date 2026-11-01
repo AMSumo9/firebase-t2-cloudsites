@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://sites-e470-2.web.app/seo-services-brisbane-checklist-b732a4231b55e66dfb686be3c4950fe/sitemap.xml
