@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://sites-e470-2.web.app/fencing-contractors-toowoomba-glossary-6efd119529727a8035178172/sitemap.xml
